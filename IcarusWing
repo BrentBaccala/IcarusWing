@@ -782,6 +782,87 @@ the feasibility of retrofitting their space shuttle fleet to use
 the new fuel.
 
 
+T - 313 days
+
+A round of applause greeted Burns as he stepped to the podium.
+Mercuriou had just finished a glowing introduction for his college
+friend, and an audience of mainly reporters politely applauded the
+chief technical officer of the company that had received a major NASA
+contract award.
+
+"Could you describe, in layman's terms," one reporter asked, "exactly
+what N-1033 is and what makes it different from conventional rocket
+fuels?"
+
+"Sure," Burns answered, warming to the technical subject, and
+launching into a well-rehearsed answer.  "First, let me answer the
+first part of your question.  N-1033 is a very, _very_, large molecule
+with a molecular weight just over 20,000.  To put that in context,
+water has a molecular weight of 18, and table sugar has a molecular
+weight of 342.  This doesn't mean that N-1033 is exceptionally heavy,
+it just means that the molecules themselves are very large, and thus
+very heavy."
+
+Burns paused to select a computer graphic from the tablet in front of
+him and display it on the projector screen behind him.  It showed
+a three-dimensional model of N-1033.
+
+"Geometrically, N-1033 is a large, spherical cage of carbon modules
+than form a shell around a core dominated by nitrogen and oxygen.
+These nitrogren-oxygen triple bonds release a great deal of energy
+when they break, which is, exactly what makes nitroglycerine such a
+powerful explosive.  In fact, we use nitroglycerine in the
+manufacturing process.  It's the carbon shell on the outside that
+protects the core and keeps N-1033 from simply exploding.  However,
+when you raise the temperature several hundred degrees above room
+temperature, the carbon shell _does_ break apart, and releases the
+fuel mixture inside.  Furthermore, due to the spherical shape of the
+molecule, it remains liquid at far lower temperatures than you would
+expect for a molecule of this size.  In fact, it's liquid at room
+temperature, and these are the properties that make it such a good
+fuel - it doesn't require an oxidizer because it's already got oxygen
+in it; it has a high specific impulse, which is the most important
+measure of the efficiency of a rocket fuel; it's liquid at room
+temperature and thus doesn't require elaborate refrigeration
+techniques."
+
+"Now, for the second part of your question, I've really already
+answered part of it - what makes N-1033 different from conventional
+rocket fuels is that the module is so large and complex, while
+something like the space shuttle main engines run on liquid hydrogen
+and liquid oxygen, which are two of the smallest and simplest modules
+that exist.  But more than that, what makes ten-thirty-three, as we've
+gotten use to calling it, so different is how it was designed, and I
+did use the word _designed_.  We started off with a list of
+requirements for this fuel, some basic design ideas that included a
+carbon shell with fuel inside, but then used computer programs to
+simulate the equations of quantum mechanics and thus try literally
+thousands of different combinations to find one that would work.  We
+actually found many possibilities that looked like they would work,
+that's why this one is numbered ten-thirty-three, but all of the
+earlier molecules were rejected for one reason or another."
+
+"What kinds of reasons led to the rejections of those molecules?"
+
+"Well, the single biggest reason was synthesis.  It isn't enough to
+just have a computer telling you a molecule is stable, even if that's
+true, and sometimes it isn't, but then you actually have to be able to
+construct the molecule.  You do that the say way you construct any
+chemical substance, which is by a series of chemical reactions that
+produce a series of intermediaries and finally gives you the thing
+you're after.  Such a series of reactions is called a
+_synthesis_pathway_.  We used the computer programs again to predict
+various possible synthesis pathways, and a lot of them turned out to
+be implausible.  The single biggest thing that sets N-1033 apart from
+N-1, or N-2, or N-1032, is that we were able to develop a twenty-three
+step synthesis pathway starting with graphite and nitroglycerine that
+ultimately produces N-1033."
+
+Mercuriou, seated now in the front row between a NASA program director
+and Burns' empty chair, had tuned out the press conference and was
+deep in his own thoughts.  _Now_the_real_work_begins_.
+
+
 T - 200 days
 
 Burns was quite busy now with a whole host of design problems, few of
@@ -1362,15 +1443,15 @@ inquiries.  They always claim to be having production problems, and
 that they need more time."
 
 "Production problems," Andrea echoed, continuing to look at the
-papers.  "No way.  Not with the quantities of ammonia they're
+papers.  "No way.  Not with the quantities of nitroglycerine they're
 consuming.  They've already been shipped enough to fuel three
 conventional shuttle launches."
 
 Becker nodded in assent and admiration.  He knew this as well, but
-only because he had first computed how much ammonium perchlorate could
-have been produced from the ammonia and compared that to the quantity
-required for a space shuttle SRB.  Yeats had performed the same
-estimate in her head.  Lou had called her in for a reason.
+only because he had first computed the energy released by a kilogram
+of nitroglycerine and compared that to the energy consumed by a
+shuttle launch.  Yeats had performed the same estimate in her head.
+Lou had called her in for a reason.
 
 "Andrea, if you think you can glean anything from those papers, be my
 guest.  If you want to see ten-thirty-three in action, go see Wilcox
