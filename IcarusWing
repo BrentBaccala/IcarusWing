@@ -881,6 +881,81 @@ Saturday morning that the company's partners began to realize the
 gravity of their situation.  They were bankrupt.
 
 
+T - 141 days
+
+Alister Compton puzzled over the messages on the screen in front of
+him.  He wasn't supposed to be in here, but the presence of a
+mysterious computer on the network had first attracted and then
+consumed the attension of the young chemist hired to research and
+improve the simulation programs being used to develop Burns' new
+rocket fuel.  Twenty years old, with matted blond hair, Alister had
+left South Africa to study abroad and decided to stay and find a job
+after graduating with a double degree in chemisty and physics.
+Robotics Research was his first job after college.
+
+He had taken the job because it had challenged him to hone his
+knowledge of numerical simulation of quantum mechanical systems well
+beyond what he had studied as an undergraduate.  Burns had hired him
+not only because his academic background matched what he was looking
+for, not only because he had graduated so quickly with a double
+degree, but also because the young man had a natural aptitude working
+with the computers that were so critical to the project's success.
+
+Yet now that aptitude was begining to land the young South African in
+trouble.  He had noticed that Burns spent at least an hour or two a
+day working on a computer with a competely seperate network feed.  He
+had already said something to Burns, suggesting that the seperate feed
+to be configured as a backup to their primary feed, but his boss had
+dismissed the suggestion, saying something about the second feed being
+'fine the way it is'.
+
+Yet Alister fancied himself a hacker, and had trained himself to
+read keystrokes over people's shoulders.
+
+
+T - 140 days
+
+Unknown to Alister, Burns also had a completely seperate computer
+monitoring the connections to "dumper".  Although the login sessions
+were encrypted, they could at least be tracked and logged.  Each
+morning, one of Burns' first tasks was to run a program that verified
+that the login records matched the packet traces recorded on the
+network.  This morning, there was a problem, and Burns sat quietly
+staring at the screen as Alister walked into his office.
+
+"What are you looking at?" the young chemist inquired.
+
+A wide grin broke out on Burns' face as he swiveled the screen in
+Alister's direction and leaned back in his chair.
+
+"There was an unlogged connection to 'dumper' from your workstation
+last night at 9:43 PM.  It was encrypted of course, but it looks like
+it lasted almost an hour.  Know anything about it?"
+
+Alister's face flushed red.  There seemed little point in trying to
+deny the obvious.  Card key records of entry and exit from the
+building would place him in the office last night at that time, and
+his workstation's own accounting records could probably be mined for
+evidence to support the hack.  Anyway, it was curiosity that had
+driven Alister; he wasn't a natural liar.
+
+"Yeah, I've seen you type that password a few times and I wanted to
+see what was on that machine."
+
+"And what did you see?"
+
+Alister shrugged.
+
+"Looked like a bunch of email from NASA..." he replied, letting his
+voice drift off at the end.
+
+Burns waved a dismissal, and Alister hastily departed his office.
+Later in the day, he noticed that the key he had used to access
+'dumper' had disappeared from the system.  In fact, Burns had changed
+all the keys, then deleted them off the computers after recording them
+on a credit-card sized CD-ROM he began carrying on a chain around his
+neck.
+
 
 T - 113 days
 
@@ -2951,9 +3026,14 @@ Captain!"
 
 "No, Congressman, but a bunch of men determined to outlaw twenty-first
 century public libraries before they're ever created _are_ trash, sir,
-they are!  It's not about making money, it's about how you treat
-people, and these capitalists treat you like dirt if you don't have
-money!"
+they are!  This society isn't going to be remembered for all this
+so-called freedom, let me assure you.  It's going to remembered for
+all the information it kept secret.  All the design information for
+the computers, all the source code, all the circuit diagrmas, all the
+manufacturing processes!  It's all kept secret by these capitalists
+determined to keep the whole world dependent on them and their
+nightmare system.  It's not about making money, it's about how you
+treat people, and these capitalists people like dirt!"
 
 "They don't treat..." the Congressman started, but never finished,
 as he was interrupted by the now incensed space captain.
@@ -5897,9 +5977,96 @@ closed the PMA's hatch, the Captain turned back to his crew.
 
 			   ===== NOTES =====
 
+T - 391 days
+
+Kerningham viruses.  The hack.
+
+T - 380 days
+
+First attack  ???
+
+T - 370 days
+
+Mercuriou visits Vic.  Description of the hydroponic farm - has to
+be a more extensive operation than just marijuana
+
+T - 355 days
+
+Vic's vision quest
+
+T - 350 days
+
+John Pople.  Gaussian.
+
+T - 350 days plus a few months
+
+Burn's new fuel.
+
+T - 200 days
+
+billion dollar hack
+
+T - 141 days
+
+Alister's hack
+
+T - 113 days
+
+phone call inquring into accounts as Alister's watching
+
+T - 57 days
+
+phone call during dinner - Alister fakes an answering machine
+
+T - 54 days
+
+Alister's tour of the production facility
+
+T - 52 days
+
+story breaks on Wall Street that a massive hack has been discovered
+
+President announces the country in under attack by terrorists
+
+T - 38 days
+
+speech to the programers - a 'red alert'
+
+T - 37 days
+
+your services are no longer required
+
+T - 35 days
+
+Alister and the guy tracking him on the Interstate
+
+T - 30 days
+
+description of Burn's reworked 747
+
+T - 2 days
+
+Andrea's passenger rapes her
+
+T - 1 day
+
+Andrea hitchhiking.  picked up by Merceriou and Alister and locked up
+
+Launch Day
+
+Andrea esacpes and warns NASA.  Merceriou decides to launch
+
+T + 1 day
+
+Mercuriou's first press conference
+
+T + 2 days
+
+description of cargo modules and hydroponics
+
 T + 3 days
 
-the leak
+the air leak
 
 T + 4 days
 
@@ -6141,3 +6308,10 @@ cheek' and 'give to all those who beg of you' and 'if a man steals
 your cloak, give him your cloak as well'?  Yes, he talks about faith,
 but he talks about deeds, too, and if deeds aren't important, why does
 he spend so much time discussing them?"
+
+
+------
+
+Burns once told Mercuriou that there are no great men, only great
+ideas, and that genius is that rare ability to venture deep
+into the dim recesses of ideaspace to retrieve the rare gems,
