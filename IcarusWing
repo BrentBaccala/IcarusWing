@@ -74,8 +74,9 @@ to the fourth cubicle, tossed his laptop case on a chair, sat down in
 front of his terminal, logged in and began reading his email.
 
 "System's going down today, Burns," announced a neatly attired
-secretary walking at brisk pace in the other direction
-down the isle that backed the cubicle.
+secretary walking at brisk pace in the other direction down the isle
+that backed the cubicle, who often took it upon herself to remind the
+absent-minded programmers of the obvious.
 
 "Yep," the programmer replied without turning around.  The company's
 main development computer was scheduled for a hardware upgrade today
@@ -135,21 +136,22 @@ contemplated taking a shot of J.D. that morning to steal himself for
 this moment, but designed that he had to be absolutely sober in case
 _anything_ went wrong.
 
-He practicly sprinted across the room as soon as the door closed
-behind the last tech, slapped a cable onto a special PCMCIA card that
-had been siting in his laptop for the last week, plugged the other end
-into the server's hard drive, powered it, and hit a three-key sequence
-on the laptop, which beeped two seconds later.  Then Burns killed the
-power before the server's CPU had gotten out of BIOS, replaced the
-original cable to the drive, and dashed back across the room with his
-laptop.  Since they weren't using a cryptographic file system yet,
-they didn't even have to worry about forging signatures.  It had taken
-less than 15 seconds.  After the technicians returned, Burns preserved
-appearances by consuming another half hour to finish installing the
-optical interface, then left.  Buoyed by an air of near invincibility,
-he practically floated out to the parking lot, tossed the laptop in
-the back seat, fired up a sneak-a-toke cleaverly designed to look like a
-cigarette, and floored the rag-top all the way home.
+Nothing went wrong.  He practicly sprinted across the room as soon as
+the door closed behind the last tech, slapped a cable onto a special
+PCMCIA card that had been siting in his laptop for the last week,
+plugged the other end into the server's hard drive, powered it, and
+hit a three-key sequence on the laptop, which beeped two seconds
+later.  Then Burns killed the power before the server's CPU had gotten
+out of BIOS, replaced the original cable to the drive, and dashed back
+across the room with his laptop.  Since they weren't using a
+cryptographic file system yet, they didn't even have to worry about
+forging signatures.  It had taken less than 15 seconds.  After the
+technicians returned, Burns preserved appearances by consuming another
+half hour to finish installing the optical interface, then left.
+Buoyed by an air of near invincibility, he practically floated out to
+the parking lot, tossed the laptop in the back seat, fired up a
+sneak-a-toke cleaverly designed to look like a cigarette, and floored
+the rag-top all the way home.
 
 #if NOT
 
