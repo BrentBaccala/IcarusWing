@@ -29,8 +29,8 @@ It was a brilliant hack.  It topped the one
 in college, when the net-news server was
 configured to refuse the student lab.
 They'd recompiled the server, altered so
-that after printing ACCESS DENIED the
-program went and accepted it anyway,
+that after printing ACCESS IS DENIED
+the program would accept posts anyway,
 then went in as "root", dropped the binary
 straight to the drive, and used it daily for
 six months until the system staff updated
