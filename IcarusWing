@@ -1,4 +1,75 @@
 
+Each Shuttle SRB
+
+1,300,000 lbs at launch
+1,100,000 lbs propellant
+192,000 lbs inert
+3,300,000 lbs launch thrust
+
+forced CVI (chemical vapor infiltration)
+   3M Nextel fiber
+   start with pressed sheets of ceramic fibers in graphic holder
+   methyl trichlorosilane (MTS) -> silicon carbide + HCl
+   others than SiC = BN, carbon, a-Si3N4
+   SiC sublimes ~ 2700 deg C
+   1100 deg C - depositation
+Handbook of Selected Properties of Air- and Water-reative Materials
+   MTS - p. 172
+
+$5 million for a used 747
+
+Clayton tanker truck - 30,000 L    ~ 40 ft length
+
+90% Hydrogen peroxide / JP-4
+  297 sec Isp (theoretical)
+
+possible 95% efficiency?
+
+one test
+  130 sec Isp (theoretical)
+  52 sec Isp (measured)
+
+
+ammonium perchlorate (NH4ClO4) - oxidizer - 69.6 percent by weight
+aluminium - fuel - 16 percent
+iron oxide - catalyst - 0.4 percent
+polymer - binder - 12.04 percent
+epoxy curing agent - 1.96 percent
+high thrust at ignition and reduced thrust during max dyn pressure via shape
+  11-point star perforation in forward segment
+  double-truncated cone perforation in each aft segment
+nozzle - 7-to-79 expansion ratio
+  hydraulic gimbaled for thrust vector control (8 deg)
+four hold down posts; top nut contains NASA standard detonators (NSDs)
+  NSDs blown during launch sequence; lights booster charge, lights propellant
+redundant 
+
+
+
+Design of Liquid Propellant Rocket Engines; Huzel and Huang
+
+
+orbital speed - Mach 26 - 8 km/s
+
+
+New 747   $200 million
+  6,025 cu ft cargo space
+  216,840 L max fuel
+  operating empty weight = 394,088 lb
+various engines - CF6-80C2B1 59,000 lb thrust (weight = 9,570 lb x 4)
+   "The Engine Handbook"
+
+
+Simple liquid fueled rocket - 275 sec spec impulse
+  for 59,000 lb thrust  59,000/275 = 214 lb/sec (total propellant flow rate)
+  for four engines ~ 1000 lb/sec
+  1000 lbs water ~ 120 gallons ~ 500 liters
+  433 seconds operating time (216,840 L)
+  6,025 cu ft = 45,000 gallons = 180,000 L
+  216,840 + 180,000 L ~= 400,000 L
+  400,000 L = 800 sec operating time = 13 min
+
+
 		Icarus' Wing
 
 T - 391 days
@@ -20,16 +91,17 @@ server binary onto the hard drive.  It ran for six months unnoticed,
 until the staff updated the whole OS installation.  But this hack was
 even better.
 
-Brent had been planing it for months.  Well, years really, but months
-for this part of it.  He had Burns get a job with MiraCom.  MiraCom
-didn't advertise much.  They weren't listed in any web directory.  In
-fact, they had a fulltime Internet P.R. officer, one of whose jobs was
-to get the company un-listed from any web search engines it managed to
-get it's name into.  MiraCom had a handful of clients, but almost all
-were state governments, all paid well, and on time, and the directors
-had no desire to attrack any more attention than they had to.  MiraCom
-was the United States' largest supplier of lottery software.  They
-were always on the lookout for sharp programmers.
+They had been planing it for months.  Well, they'd been talking about
+it for years really, but months to actually do it.  First, Burns got a
+job with MiraCom.  MiraCom didn't advertise much.  They weren't listed
+in any web directory.  In fact, they had a fulltime Internet
+P.R. officer, one of whose jobs was to get the company un-listed from
+any web search engines it managed to get it's name into.  MiraCom had
+a handful of clients, but almost all were state governments, all paid
+well, and on time, and the directors had no desire to attrack any more
+attention than they had to.  MiraCom was the United States' largest
+supplier of lottery software.  They were always on the lookout for
+sharp programmers.
 
 A typical installation featured a computer in a sealed room, running
 exactly and only the MiraCom software, the only output being a video
@@ -46,11 +118,12 @@ impecable.
 
 At first he just watched the place, as he went about coding a new 3-D
 graphics look for the State of Nevada's lottery.  Back at the rented
-apartment, Jasper drilled him for days to read passwords - looking
-over Jasper's shoulder as he typed and telling him what it was.  It
-was a big pain, Burns hated doing it, and turns out they never used
-them, but by the end of the month they had every important password in
-the place.
+apartment, Brent drilled him for days to read passwords - Burns
+looking over Brent's shoulder as he typed and telling him what he just
+entered.  They'd drill for an hour each day, which Brent liked to say
+way the minimum amount of time to put into doing something.  It was a
+big pain, Burns hated it, and turns out they never used them, but by
+the end of the month they had every important password in the place.
 
 They spent the time getting a good look at the development system.
 Brent went right for his favorite program - the gcc compiler.  It was
@@ -65,27 +138,28 @@ few months."  He didn't want to repeat his college experience of an
 upgrade taking away a favorite hack.  The stakes were a lot higher,
 too.
 
-Having settled on the compiler, Jasper set to work on the hack, with
-Brent watching over his shoulder.  It was designed to disappear into
-the binary, recreating itself if the compiler was asked to re-compile
-itself, as well as infecting the target program.  Since they weren't
-too sure about the target program, Skip had Jasper add another feature
-- a third prong of the virus, targeted against the operating system
-kernel, that would give them a back door.  Vic continued to work on
-some simulation software, but used the lull as a mini-vacation when he
-just fixed dinner for everyone and took care of the apartment.  There
-were five of them then, and Skip had insisted on taking most of Burns'
-salery from MiraCom.  This let them live without digging into the nest
-egg Brent and Burns had built up over the last two years.  Burns
-grumbled some, but respected the decision; Vic took care of handling
-most of the money.
+Having settled on the compiler, they set to work on the hack, Brent
+doing most of the coding, Burns reviewing the code each night,
+watching over his shoulder and doing code reviews.  They were
+determined to do it right.  The virus was designed to disappear into
+the compiler's binary, recreating itself if the compiler was asked to
+re-compile itself, as well as infecting the target program.  Since
+they weren't too sure about the target program, they added another
+feature - a third prong of the virus, targeted against the operating
+system kernel, that would give them a back door.  Brent didn't have a
+job, so made sure he fixed dinner every night and generally took care
+of the apartment.  It was just the two of them living there, and on
+weekend nights they'd party with some of the waitresses from a seafood
+joint Burns liked to hit for a quick drink on the way home from work.
+They'd stay up 'till two or three in the morning, smoking dope,
+snorting coke, cranking the tunes.  Just like their college days.
 
 The problem remained of getting the hack into the compiler; probably
 the hardest step.  They knew the root passwords, but Burns wasn't
 supposed to have them, and the question remained of when could he
 successfully use them to hack the main development system.  Brent
-again resolved the question - they wouldn't use the passwords at all,
-but rather waited until the system was down for a routine maintenance.
+resolved the question - they wouldn't use the passwords at all, but
+rather waited until the system was down for a routine maintenance.
 Burns made sure he was in the server room that day, working on a
 tricky install of a 3-D accelerator on one of the test machines.
 Somehow, he just couldn't get the drivers installed right, until
@@ -93,29 +167,34 @@ everyone was out of the room for a few minutes.  He slapped a cable
 onto a special PCMCIA card that had been siting in the laptop for the
 last week, plugged the other end into the server's hard drive, powered
 it, hit a three-key sequence on the laptop, which beeped two seconds
-later.  Burns killed the power before the CPU had gotten out of BIOS,
-replaced the original cable to the drive, and walked away with his
-laptop.  Since they weren't using a cryptographic file system yet,
-they didn't even have to worry about forging signatures.  He finished
-the tricky install in less than five minutes and left, just as the
-server workers came back with the new power supply.  He had been
-practicing at home.  The whole operation took less than 10 seconds.
+later.  Burns killed the power before the server's CPU had gotten out
+of BIOS, replaced the original cable to the drive, and walked away
+with his laptop.  Since they weren't using a cryptographic file system
+yet, they didn't even have to worry about forging signatures.  He
+finished the tricky install in less than five minutes and left, just
+as the server workers came back with the new power supply.  He had
+been practicing at home.  The whole operation took less than 10
+seconds.
 
-Now they leaned back and waited.  Brent found a job for Vic, sending
-him off to find some land in the midwest.  Jasper tinkered with the
-virus a few more times, but they were already in, so it was just a
-matter of copying a file up to the server and running a bizarre little
-system call that should just have returned an error but instead jumped
-into the file's code at full kernel privledge.  Brent was really
-careful every time he used it, because a slipup would crash the system
-and that might begin to attract attention.  Jasper tested each
-prospective hack very carefully before Brent gave Burns the O.K to
-install it.  Three weeks later Burns watched a production system
-getting ready to head for Kansas make a Keno drawing.  The night
-before, Brent had declared the hack done and handed him a list of Keno
-numbers.  They had replaced the random number generator with one of
-their own, and Burns couldn't surpress a smile under his face as the
-numbers came up on the screen the next day.
+Now they leaned back and waited.  Brent starting spending his days at
+the library, as well as starting to make some discrete inquires about
+land in the midwest.  Burns tinkered with the virus a few more times,
+but they were already in, so it was just a matter of copying a file up
+to the server and running a bizarre little system call that should
+just have returned an error but instead jumped into the file's code at
+full kernel privledge.  Burns was really careful every time he used
+it, because a slipup would crash the system and that might begin to
+attract attention.  Brent insisted that each change was carefully
+tested before Burns installed it.  They practiced better software
+design on the hack than anybody in the company did on their software.
+They had to - they couldn't afford a bug.
+
+Three weeks later Burns watched a production system getting ready to
+head for Kansas make a Keno drawing.  The night before, he had
+declared the hack done and written down a list of Keno numbers.  They
+had replaced the random number generator with one of their own, and
+Burns couldn't surpress a smile under his face as the numbers came up
+on the screen the next day.
 
 With the hack done, the team started to clean up shop.  Burns quit.
 Everyone else was heading for the Southwest, and he had never taken
@@ -144,7 +223,7 @@ Vic had picked the winning ticket, and the doctor revealed in the
 limelight.  For the first time in his life, he was in front of
 T.V. cameras.  He told his story, his bills from medical school, his
 work for the doctors, his work for the clinics, his general
-disillusionment with medince.  "Everyone grips about H.M.O.s and
+disillusionment with medicine.  "Everyone grips about H.M.O.s and
 professional assocations and the cost of medical insurance," he told
 one press conference.  "If the doctors would just forget about the
 money and heal the people who came to them, we wouldn't have all these
@@ -190,6 +269,229 @@ Brent had leveraged the roughly $20 million from the lotterys into
 about $100 million using fraduent financial statements to get various
 loans for land and equipment.
 
+T - 57 days
+
+Burns dug into his pocket, pulled out the buzzing cell phone, and
+squinted at its display.
+
+"Oh shit."
+
+Baccala stopped eating and looked at him quizically.  So did Alister.
+
+"It's one of _those_ numbers."
+
+"Which one?"
+
+"I'm not sure - 555-5713."
+
+"Shit, which one's that?  The list on my laptop; I've got to boot it."
+
+"No, this thing's gonna cover to my voicemail."
+
+"Oh, fuck."
+
+Alister grabbed the phone out of Burns' hand and hit the talk button.
+
+"Hello, our office hours are nine to five, Pacific Standard Time..."
+
+"Get something that beeps," Burns whispered furtively, and Brent pulled
+out his pager and held it across the table.
+
+"...and we'll get back to you right away."  Brent hit a button on the
+pager, it emitted a quick beep-beep-beep, and Alister hit the mute
+button on the cell phone.  All three leaned towards the center of the
+table to listen.
+
+"...I've got some questions concerning the credit worthiness of
+one of your business customers, Robotics Research.  They've
+past due in their payments to us; we may go to court and get a
+lien.  I spoke with you about three months ago, and I'd appreciate
+it if you'd give me a call back..."
+
+The three sat in silence until the call ended.  Alister spoke first.
+
+"Do you have the money?"
+
+"Yeah, we've got the money," Brent answered.
+
+"Then why don't you just pay them?"
+
+"Because we've got other things we need the money for."
+
+"Like what?"
+
+"Like your tenderloin, so eat it," Burns cut in, reaching across the
+table with his knife and tapping the South African's plate for emphasis.
+
+
+T - 54 days
+
+Two stories high, the warehouse was full of large tanks and kilns,
+interconnected by a complex system of plumbing.  Various blueprints,
+rulers and small engine components were spread across a series of
+tables arranged haphazardly throughout the room.  A discarded rocket
+engine, with a large crack down one side, lay propped against the far
+wall.  About five latinos were busy working on one piece of aparatus
+or another, ignoring two Caucasians as they entered.
+
+"This is where we're building the rocket engines," Burns explained.
+"The entire nozzle and combustion chamber is fabricated as one
+monolithic piece, and a lot of the plumbing, too.  First, we cut
+cross-sectional patterns out of ceramic fiber and stack them up to
+form the engine shape."
+
+He lead the South African to one of the large tables as he spoke.  On
+it were bits and pieces of a black fabric that looked like course wool.
+Next to the table was an automated cutting machine controlled from a
+computer on the table.  A large roll of the fabric lay on the other
+side of the machine, and one the workers was supervising it as it ran.
+
+The cutting was done by an industrial laser in a moving mount about
+two feet above the table, its beam pointed straight down at the sheet
+of fabric laid flat on the table beneath.  The laser moved left and
+right on a thin horizontal beam that moved forward and backwards, all
+under computer control.  The net result was that by positioning the
+horizontal beam with one servo motor, and positioning the laser along
+the beam with another, the computer could aim the laser at any point
+on the table below.
+
+"Don't stick your hand in there!"  Burns joked.
+
+The laser was cutting a piece of fabric as they approached, and the
+smell of burning fabric wafted up into the air as a thin but steady
+stream of smoke rose up from where the pencil-thin red light touched
+the black fabric.  The laser moved slowly around the pattern, cutting
+a thin line through the fabric as it went, its position indicated by a
+red dot on the computer screen on the table to its left, which showed
+a graphic animation of the pattern being cut.  The cuts were a
+concentric series of near-circular gray lines, and the areas between
+the lines were colored yellow and green on the display.  As they
+watched, the computer completed cutting one of the lines.  The laser
+shut off briefly as it repositioned to the next line, then turned on
+and began cutting again.
+
+"The yellow areas are discards," Burns explained, kicking at a pile of
+scrap fabric underneath the table for emphasis.  "Each of the green
+areas is a thin cross-section of the rocket engine.  There's 231 of
+them in total.  They get stacked up in order in this mold."
+
+He walked past the laser cutter and showed Alister a large, heavy
+black frame covered with black soot.  Rectangular on the outside,
+it opened in two halfs with the outline of a rocket engine cut
+out within.
+
+"After a complete set of fabric cross-sections are in the mold, we
+close it and put it in the kiln."
+
+The kiln was a shiny steel tank that reached nearly to the roof
+of the building.  Much of the facility's plumbing came into it.
+An entire side of the tank swiveled open to reveal electric
+heating coils, as well as various valves and gauges.
+
+"We turn on the kiln and start pumping hydrogen and MTS gas into its
+bottom."
+
+"MTS?" Alister asked, unfamiliar with the acronym.
+
+"Methyl trichlorosilane.  It's stable at room temperature, but starts
+reacting with hydrogen at about a thousand degrees Celsius.  Decomposes
+into silicon carbide and hydrogen chloride.  The silicon carbide is
+deposited as a solid into the gaps between the carbon fibers; that's
+why we use such a course fabric.  It's the silicon carbide we're
+really interested in; it's stable until almost 3000 degrees Celsius,
+and that makes it ideal for rocket construction.  Once the entire
+fabric has been filled in with silicon carbide, we shut down the
+kiln, crack open the mold, and take out our new rocket engine!"
+
+They walked towards the rear entrance of the building, where a pile of
+black ceramic pieces lay against one wall.  Burns picked up one of
+them and handed it to his student.
+
+"That's what it looks like when it's done.  If you look closely,
+you can just barely see where the fabric was layered, but it's
+really hard to tell."
+
+Alister took the piece in his hand.  It was heavy and dense, smooth
+and curved on its front and back surfaces, with ragged, sharp edges
+around the sides.  Several larger pieces in the pile were clearly
+broken parts of a rocket engine, and Alister concluded that the entire
+pile had once been an engine as he tossed the piece back.
+
+"What happened to that one?" he asked.
+
+"It blew up when we test-fired it," Burns replied.  He continued his
+explaination as Alister looked at him sharply.  "The Mexicans didn't
+do a good enough job of aligning the fabric pieces.  They learned the
+hard way."
+
+They walked out the back of the building onto the flat dirt mesa.
+Burns continued straight ahead, towards a black rocket engine mounted
+horizontally and aimed away from the complex, across the empty expanse
+of scrub brush.
+
+"This is the firing stand.  We test each rocket after it's finished.
+We just fired this one this morning."
+
+They walked around the rocket.  Laid on its side, it was about equal
+in height to the two men.  Alister peered into its business end and
+was surprised to see what appeared to be fan blades mounted on a shaft
+that extended out into the nozzle from the combustion chamber.  The
+blades, along with the shaft, were made from the same black ceramic
+material.
+
+"I've seen these fan blades on jets, but I didn't know rocket engines
+had them," he noted.
+
+"As far as I know, this is the only rocket design that has them.  See,
+one of the problems with liquid-fueled rocket engines is that you need
+to inject the fuel under pressure.  That implies a pump of some kind,
+and the rocket exhaust is the obvious thing to power it with.  Most
+liquid-fuel designs syphon off some of the exhaust into turbo pumps on
+the side of the rocket.  I played around with that, but it was a huge
+pain.  So I decided to just stick a simple turbine in the nozzle and
+drive the pumps with that shaft."
+
+"So you, like, designed a whole new engine yourself?"
+
+"Pretty much."
+
+"Why didn't you just use an existing design; wouldn't that have been
+simpler?"
+
+"Well, yes and no.  A lot of this stuff is new, like the ceramics, for
+example.  When they designed the space shuttle engines back in the
+70s, they didn't have silicon carbide, at least not like this.  That's
+one of the reasons they didn't put turbine blades right in the exhaust
+stream - the materials couldn't handle the heat."
+
+"So what did they use for materials?"
+
+"A lot of the early engine designed used copper, beleive it or not."
+
+"Copper?  Wouldn't it just melt?"
+
+"It does if you don't cool it.  They used copper because it conducts
+heat so well.  So then you have to surround your engine with cooling
+pipes and pump either water or liquid oxygen or something through 'em
+fast enough to keep the metal walls cool enough so they don't melt."
+
+"No shit?"
+
+"No shit.  And then there was the turbo pump design - they used metal
+blades, and _they_ had to be cooled, so you ended up putting little
+holes through middle of the blades so you could run cooling fluid
+through the turbine fan...  It gets to be a real pain."
+
+They were now walking back towards the building complex.  Alister was
+feeling a bit overwealmed, but Burns kept talking about rocket engine
+design, continuing on about how he had used an array of 256 computers
+to simulate the heat transfer properties of the engine in order to
+design its mounting arrangement.  The young South African had
+basically tuned out, but realized at that moment that the pot-smoking
+American was absolutely the most brilliant engineer he had ever met.
+
+
+
 T - 52 days
 
 The story broke on Wall Street that morning.  Brent quickly decided on
@@ -219,7 +521,7 @@ to tell you everything, that is, those of you who want in on it."
 
 "Pretty much all of it.  All the money is stolen, we ripped off the
 venture capitalists for everything we could get out of them.  Those
-of you who want to here more stick around; the rest of you..." Brent's
+of you who want to hear more stick around; the rest of you..." Brent's
 voice trailed off and his motioned to the door.
 
 Most of the people in the room got up and left.  One guy asked about
@@ -295,9 +597,10 @@ streambed at twenty miles an hour and rounded the bend.  The van was
 stopped about fifty yards ahead of him.  Almost at the same instant,
 Alister ran up to his open driver's side window and landed a left jab
 that broke XX's nose and sent him spawling across the Chrystler's
-front seat.  Alister yanked up the door lock and pulled the door open,
-as XX drew the snub-nosed semi-automatic he kept in a holster strapped
-to the small of his back.  Alister jumped him and brief but unequal
+front seat.  The car swerved across the road and crashed into the
+brush.  Alister yanked up the door lock and pulled the door open, as XX
+drew the snub-nosed semi-automatic he kept in a holster strapped to
+the small of his back.  Alister jumped him and brief but unequal
 struggle insued.  Twenty years younger, having spent the summers of
 his youth playing water polo in the pools of South Africa, and having
 the element of surprise, Alister overpowered the detective and
@@ -321,13 +624,14 @@ and turned back towards the Interstate.
 		CHAPTER CHAPTER CHAPTER
 
 
-Frozen with fear, Dr. Andrea Yeats stared at the young man in his early twenties
-sitting in the passenger seat near to her.
-His jeans were ripped, his hair unkempt, and his body excuded a faint odor that
-betrayed the three days that had passed since his last shower.  His heavy blond
-hair and muscular upper body betrayed months of surfing on the Southern
-California beaches.  His eyes had narrowed to slits, and his lewd smile
-told that the money in her purse wasn't the only thing he'd be taking.
+Frozen with fear, Dr. Andrea Yeats stared at the young man in his
+early twenties sitting in the passenger seat near to her.  His jeans
+were ripped, his hair unkempt, and his body excuded a faint odor that
+betrayed the three days that had passed since his last shower.  His
+heavy blond hair and muscular upper body betrayed months of surfing on
+the Southern California beaches.  His eyes had narrowed to slits, and
+his lewd smile told that the money in her purse wasn't the only thing
+he'd be taking.
 
 
 T - 15 days
@@ -409,6 +713,43 @@ they hide him from the police?  "I think so."
 "OK, just do that.  Lay low for a couple of weeks until I can
 get this launch off, then split for South America once all the
 attention has shifted to me."
+
+
+T - 4 days
+
+"Ahora, todos necistas regresar a Mexico."
+
+...
+
+"Penso que lanzare estes proyectiles conta cuidades norteamericanos
+tal como Nuevo York y Los Angeles."
+
+"He says he thinks you're going to launch these missiles against
+American cities like New York and Los Angeles."
+
+"No.  No.  Estes missiles voy a espacio.  Espacio!  Espacio!"  Brent
+pointed to the sky for emphasis.
+
+"A las noticas dicen que usted es un terroristo."
+
+"He says they're saying on the news that you're a terrorist."
+
+"No.  No!  Amigos!  Tu sabes yo!  Yo no terroristo!"
+
+"Has sido explotando las puertas en Virginia."
+
+"He says you've been blowing up bridges in Virginia."
+
+"Como se dice es posible yo... BOOM... in Virginia?  Yo estoy agui!"
+
+"Alguien ha sido explotando las puertas en Virginia."
+
+"He says somebody's been blowing up bridges in Virginia."
+
+Brent shrugged his shoulders and paused for a moment, his mouth agap.
+
+"Al Queda?"
+
 
 
 Launch Day
@@ -686,15 +1027,17 @@ People were already cutting him off.  "For starters, Andrew Jackson
 wasn't a mass murder who unleased chemical weapons on his civilian
 population."
 
-"But from a standpoint of international law?  From a standpoint of
-international law, how was it different?  And then democracy gets
-all high-and-mighty 'We're fighting for a small country being
-pushed around by a big one' - What about Panama?  When we walked
-in and just took over the country, threw its president in a
-Flordia jail, and installed our own government.  Who was there
-to fight for a small country being pushed around by a big one then?"
+"But from a standpoint of international law?"  Again, others started
+cutting in, but the space captain wouldn't let them change the subject.
 
-"Manuel Noreiga was an internation drug dealer..."
+"From a standpoint of international law, how was it different?  And
+then democracy gets all high-and-mighty 'We're fighting for a small
+country being pushed around by a big one' - What about Panama?  When
+we walked in and just took over the country, threw its president in a
+Flordia jail, and installed our own government.  Who was there to
+fight for a small country being pushed around by a big one then?"
+
+"Manuel Noreiga was an international drug dealer..."
 
 "An international drug dealer who just happened to be the president
 of a soverign nation..."
@@ -738,13 +1081,18 @@ one morning."
 
 "And next will be Saudi Arabia, and then Israel..."
 
-"Israel can take care of themselves, and so can the Saudis, if they really
-want their government, they can fight to keep it."
+"Israel can take care of themselves, and the Saudis, if they really
+want their government, they can fight to keep it.  I mean, basically,
+democracy is the _greatest-system-of-government-on-earth_, so it does
+pretty much whatever it pleases, right?"
 
-"And what about Israel?"
+  -- And what about Israel?"
+
+"Well, captain, how would you suggest we deal with the Palestinian
+issue, and the Midest Peace Process?"
 
 "Well we were real generous back in '52 with someone else's land,
-weren't we?  Why don't we just give them Manhattan Island - that's
+weren't we?  Why don't we just give the Jews Manhattan Island - that's
 their Promissed Land, isn't it?"
 
 "That is absurd, and border-line racist, I might add."
@@ -752,7 +1100,7 @@ their Promissed Land, isn't it?"
 "Why?  Because the Mossad would end up headquarted in the Empire State
 Building and the blacks would start an intafadda after being
 'resettled' in the Upper East Side?  You're right, it's totally
-absurb.  The U.S.  would never stand for it."
+absurb.  The U.S. would never stand for it."
 
 
 
@@ -761,7 +1109,13 @@ was nearing it's end.  There would be plenty more opportunities for
 debate.  "Captain, what are your plans?  How long can you stay in
 orbit?"
 
-Baccala's reply was succinct.  "We're going to Mars."
+Baccala rumaged in a storage bin and sent clothes flying all over
+the compartment.  Finally, he pulled out the T-shirt he was looking
+for, brushed a pair of jeans away from the TV camera and spread
+the black T-shirt out so it dominated the view field of the camera.
+It read: FUCK YOU, YOU FUCKING FUCKS.
+
+"We're going to Mars!"
 
 
 T + 7 days
@@ -801,7 +1155,7 @@ stand up to him.  I want to keep my job.  Meeting adjourned."
 
 T + 10 days
 
-"Does the media have a conservative bias?" McLaughlin asked the
+"Does the media have a conservative bias?" McLauchlin asked the
 TV camera.
 
 "On a scale of one to ten, how conservatively biased is the news media?"
@@ -860,35 +1214,37 @@ on television, despite his own contempt for the world they now circled
 above, the captain quietly demonstrated what, time and again, would
 carry him and his crew through the loney and difficult years ahead.
 He put his personal feelings aside to do what made sense for his
-mission and his crew.  Over the last few weeks, he had accumulated
-a small database of unlisted phone numbers.
-He picked up the phone and made one call.
+mission and his crew.  Over the last few weeks, he had accumulated a
+small database of unlisted phone numbers.  He picked up the phone and
+made one call.
 
 The next day, Andrea Yeats pulled into the parking lot at Johnson
 Spaceflight Center and started walked towards her office.  "Becker
 wants to see you right away," Vou told her before she made it there.
 She set her briefcase down next to her desk and headed across the way
-to the director's office.  Lou was already there.
+to the director's office.  Lou was already there.  They were talking
+as she came in.
 
 "He doesn't want our help."
 
 "True, but he wants us to do him a favor, and he's willing to do
 a favor for us in return."
 
-"Looks like one of his crewman has gotten cold feet.  The kid
-from California."  "Really?" Andrea replied, her heart racing.
-Becker hadn't called her here just to tell her something
-that would probably be on the news within days.  "Endevor is going up
-next month, and we've agreed to extend the flight three days to
-redevous with them and retrieve this guy."  "Whose idea was
-that?"  the engineer asked.  The reply can from Lou.  "Baccala's.  He
-called us himself."  "Really?" she answered, with an interested pout.
-"That leaves him one down," she noted, her mind starting to race
-ahead, but Becker continued before she could think that far.  "He's
-offered us the possibility of putting a NASA observer on the flight."
-He paused to let the impact of the statement sink in.  Andrea's heart
-jumped, her mouth opened slightly and her gaze panned to Lou, who was
-looking her right in the eye.  "It's yours if you want it."
+Lou looked up at Andrea.  "Looks like one of his crewman has gotten
+cold feet.  The kid from California."  "Really?" Andrea replied as she
+sat down, her heart racing.  Becker hadn't called her here just to
+tell her something that would probably be on the news within days.
+"Endevor is going up next month, and we've agreed to extend the flight
+three days to redevous with them and retrieve this guy."  "Whose idea
+was that?"  the engineer asked.  The reply can from Lou.  "Baccala's.
+He called us himself."  "Really?" she answered, with an interested
+pout.  "That leaves him one down," she noted, her mind starting to
+race ahead, but Becker continued before she could think that far.
+"He's offered us the possibility of putting a NASA observer on the
+flight."  He paused to let the impact of the statement sink in.
+Andrea's heart jumped, her mouth opened slightly and her gaze panned
+to Lou, who was looking her right in the eye.  "It's yours if you want
+it."
 
 
 T + 24 days
@@ -930,6 +1286,8 @@ worked on critical software while intoxicated, but the quality of all
 his work was superb, and the captain didn't seem to care.  "He cranks
 out his best code while he's highed up."
 
+MUTE.
+
 Burns looked up from the screen as the engineer drifted up and grabbed
 a handhold.  "You've known him a long time, the captain?" she asked.
 
@@ -943,10 +1301,10 @@ of great parties that semester."
 
 "What was he like?"
 
-"He's a lot different now than he was in college.  Back then, all he
-wanted was a joint and a whiteboard and he was happy.  Now, he's a lot
-more driven."  His shrug indicated that he wasn't as happy with his
-new, driven friend.
+Burns was quiet for a minute.  "He's a lot different now than he was
+in college.  Back then, all he wanted was a joint and a whiteboard and
+he was happy.  Now, he's a lot more driven."  His shrug indicated that
+he wasn't as happy with his new, driven friend.
 
 "How did he get... driven?"
 
@@ -975,7 +1333,7 @@ let me think about it for a few days?"
 leading question, "I haven't."  She was in Germany for a technical
 conference, and been pulled over in her rental car after turning the
 wrong way down a one-way street.  If the sign had been in German, she
-probably would have understood it, but it was one of these idiotic
+probably would have understood it, but it was one of those idiotic
 "international" pictograms with just a red circle and line.  So now
 she was pulled over the side, parked behind a ludicrously small police
 car with its funny sounding siren, being questioned by a German
@@ -1020,6 +1378,12 @@ frame of the door as he walked into the dark room.  Her heart leaped
 with fear and her feet were frozen to the ground.  She couldn't
 move; couldn't scream... but yelled as she woke up.
 
+T + 650 days
+
+Disaster on Mars.  Burns attempts to land the 747, but they hadn't
+gotten everything figured quite right.  The wings snap off during
+reentry and the whole thing goes up in a fireball.
+
 
 T + 690 days
 
@@ -1044,16 +1408,16 @@ shoved the rest back into the container.  Then he floated still and
 was silent for a while before answering.
 
 "I knew this thing was dangerous.  I guess I just always figured if
-somebody was going to die, it was going to be me, so so what, right?
-I didn't think it would be my best friend."
+somebody was going to die, it was going to be me, so... so what,
+right?  I didn't think it would be my best friend."
 
 "We all knew it was dangerous..." she started to answer.
 
-"No.  I've cut so many corners on this thing, this mission, I might
-as well have reached out and killed them myself.  I... I just don't...
-I just should never have come."
+"No.  You were right.  I've cut so many corners on this thing, this
+mission, I might as well have reached out and killed them myself.
+I... I just don't...  I just should never have come."
 
-Andrea lowered her voice and took Brent by the arm.
+Andrea lowered her voice, moved closer, and took Brent by the arm.
 
 "Look, let me tell you something I've never really told anyone.  I've
 been on three space shuttle launches, and watched a dozen more from
@@ -1114,6 +1478,19 @@ focused than he'd done in weeks.  "Alister?"
 "Plot a trajectory for Earth.  We break orbit in three days."
 
 
+T + 700 days
+
+"You give to others because that's how we were taught to live by Jesus."
+
+Vic spoke first.  "What if you don't necessarily beleive in Jesus?"
+
+"Well, I guess people used to believe the Earth is flat.  You can
+beleive whatever you want; the fact is that the Earth is round.  And
+I'm absolutely convinced that Jesus of Nazarath was the most
+spiritually advanced being to ever live on Earth.  So we should take
+his teachings seriously."
+
+
 T + 729 days
 
 With cork puller still attached, the cork went flying unheaded across
@@ -1153,6 +1530,76 @@ to wipe off his face.
 "Israel just nuked Saudi Arabia."
 
 
+T + 729 days
+
+Lou thumbed some papers on his desk and beat around the bush for
+a minute.  He didn't quite know how to ask what he wanted to ask,
+so finally he just blurt it out.
+
+"I'm looking for a volunteer flight crew to pick up the Icarus crew
+and land the shuttle in Europe or somewhere."
+
+"Is this approved by the director, sir?"
+
+"No."  Lou paused before continuing.
+
+"You can say I gave you the order to do..."
+
+"You can't give us that kind of order, sir.  We'd be court-martialed and
+thrown out of the space program, probably the entire military."
+
+The pilot broke to awkward silence.
+
+"Is this a favor for Andrea?"
+
+Lou nodded in response.
+
+"I'm in," he said, looking over at the shuttle commander.  To Lou's
+surprise, he suddenly found himself outnumbering the Air Force
+cournal, who looked back and forth between the administrator and pilot
+before replying.
+
+"Ah, what the hell.  I'm sick of this gig, anyway.  Mission
+specialists have all the fun; all I do is command the thing!"
+
+
+T + 739 days
+
+"What's the chance of them hijacking the shuttle, or something?"
+
+The NASA chief looked at his two subordinates, who both answered
+simultaneously.
+
+"No, I don't think..."  "I think that's a definite..."
+
+Becker continued first.
+
+"It's a definite concern.  These guys aren't some bunch of space
+tourists.  They know how to operate a spaceship, and their track
+record shows the kind of things they're willing to do to get what they
+want."
+
+Vic spoke up next.
+
+"I've known Andrea Yeats for almost 15 years, and there's no way she
+would be involved with any kind of hijacking or anything of the kind.
+No way."
+
+"What if she isn't involved?  What if Baccala and his crew just hijack
+the thing without telling her anything?"
+
+Vic shook his head.
+
+"I don't think so.  She's part of that crew now.  After three years,
+I don't think they'd make any major decision without involving her."
+
+The director looked back at the two men standing across the desk from
+him.  He took off his glasses and tossed them down on the desk.
+
+"Well, the president said to bring them back, so bring them back.  I
+just hope we get the damn shuttle down in one piece."
+
+
 T + 754 days
 
 "So, what's the plan?" Baccala asked the shuttle commander and pilot.
@@ -1165,6 +1612,87 @@ Dakar approach on the radio, declare an emergency, and land."
 "Dakar?  Senegal?"
 
 "Yep.  Supposed to have nice beaches.  We're gonna find out."
+
+"And what happens to you guys?"
+
+The two officers looked at each other before the pilot answered.
+
+"We'll probably be court-martialed and run out of the space program;
+I doubt we'll get any jail time, probably just dishonorable discharges."
+
+The commander spoke up as he pulled the checklist back down in front
+of him.
+
+"I'm sick of flying these buckets anyway.  The mission specialists
+have all the fun; all I do is command the thing!"
+
+A few hours later, Baccala gathered his crew in the shuttle's
+main compartment.  He filled them in on the shuttle crew's
+plan.
+
+"They'll probably be court-martialed for it.  It'll end their careers,"
+he concluded.  "I just can't ask them to do it."
+
+Vic broke the silence that followed.
+
+"So, it's Kennedy after all, then?"  Baccala nodded in the affirmative.
+
+"Look, if anyone doesn't want to do this, we'll go to Dakar.  I'll
+say I hijacked the shuttle; hell, let's actually do it, then maybe
+these guys'll have a chance of getting off."
+
+The captain looked around the faces that surrounded him; the only
+faces he'd seen in person for the last three years.  They were
+his crew, his family, and he pretty much knew the answer each
+would give in turn as they looked around the circle.
+
+The doctor who started as a medical outcast and was now the world's
+unquestioned expert on space medicine.
+
+"Kennedy."
+
+The young South African who'd grown up more in three years than most
+men did in a lifetime.
+
+"OK, Kennedy.  I hope that cop I punched out kinda forgot about me,"
+he speculated wistfully.
+
+Finally, the once unheralded NASA engineer who'd become a flashpoint
+in her own right for her strongly held unorthodox opinions.
+
+"Kennedy."
+
+The captain concluded the unanimous decision as the shuttle crew
+floated down from the PMA.
+
+"Colonel, we've been talking, and we just can't ask you to go
+to Senegal.  We want you to take us to Kennedy."
+
+The two NASA men looked at each other, and the pilot spoke first.
+
+"Sir, we volunteered for this mission."
+
+"I know, and I thank you.  But you're not throwing your careers away
+for us.  Take us to Kennedy."
+
+Colonel X replied.
+
+"Well, we'll take you where ever you want to go."
+
+"Kennedy."
+
+The shuttle commander looked around the cramped compartment.  Each
+Icarus crewman nodded assent.
+
+"Ok, Kennedy it is then.  Are we ready to close the hatches?"
+
+He received another collection of brief affirmative replies.  As the
+space station crew closed the PMA's hatch, the captain turned
+back to his crew.
+
+"Let's go home."
+
+
 
 
 
