@@ -2761,6 +2761,8 @@ I'm one of them."
 agree with all the rules, we obey them anyway and work to change them
 democratically."
 
+Mercuriou chuckled.
+
 "Sure, that's why everyone drives the speed limit, because they're so
 committed to obeying the rules.  Look, I don't buy any of that.
 People obey the rules because they're forced to, because they're
@@ -2771,7 +2773,11 @@ afraid of what will happen to them if don't follow the rules."
 "How's it different?  It's just that the majority makes up the rules
 and forces the minorities to obey.  They only thing that's different
 about democracy is that it's a different group of people making the
-rules.  In Russia it was the proletariat, here it's the majority."
+rules.  In Russia it was the proletariat, here it's the majority.
+It's always the same.  Some big group of people that think that
+because they're more advanced, or because they've been oppressed, or
+because there's more of them than anybody else, that they have the
+right to rule everybody else's lives."
 
 "So do you see America as similar to the Soviet Union?"
 
@@ -2853,9 +2859,9 @@ that capitalism works.  It certainly works for all the decent,
 hard-working people who have the opportunity to better themselves
 instead of being stuck in a rice paddy somewhere!"
 
-"You mean it works for all the selfish people who are willing to claw
+"You mean it works for all the selfish creeps who are willing to claw
 over everyone else to 'better themselves', or more precisely to have a
-nice house, a couple nice cars, take their vacation on Maui..."
+nice house, a couple nice cars, and take their vacation on Maui..."
 
 "There's nothing wrong with having a nice house, Captain, so
 long as you're honest in how you pay for it."
@@ -2883,8 +2889,7 @@ available Spanish-English dictionary.]
 "We put a lot of work into it, Congressman; we made sure that it could
 handle all the irregular verb forms; we developed several different
 user interfaces, for Machintosh and Windows and UNIX.  We put a copy
-up on the Internet; it was called the ARPANET back then, but the
-concept was the same.  We started telling a lot of people in the
+up on the Internet.  We started telling a lot of people in the
 classics community about it and started getting some really good
 feedback.  We had plans to develop a Latin version, too.  Then came
 along the publishers of the dictionary - the capitalists."
@@ -2904,9 +2909,8 @@ could use their dictionary!  But we couldn't use it just to let people
 download the program for free.  I decided to fight.  I still believed
 in the great free democracy back them.  After a year-long legal battle
 that I lost, I ended up with a court injunction against me for four
-hundred thousand dollars in damages."
-
-"I'm still waiting for that house, by that way."
+hundred thousand dollars in damages.  I'm still waiting for that
+house, by that way."
 
 "Well, Captain, it sounds to me like you were guilty!  That sounds
 like a real noble cause, but the bottom line is that you stole someone
@@ -2965,7 +2969,7 @@ networks?"
 "Who the hell are you to tell someone else what they can and can't do
 with their property?!?!" Ecks fired back, now furious himself.  "How
 dare you, how dare you, you socialist crook, you shameless thief, how
-dare you tell someone who'se sweated tears and blood that they have to
+dare you tell someone who's sweated tears and blood that they have to
 give everything away for free?!  How dare you?!!?"
 
 A moment of silence fell on the program before Mercuriou answered
@@ -2979,11 +2983,28 @@ network, but that's not what our leaders want.  They want an
 bought and sold, and the only way people will pay for it is if it's
 kept secret."
 
+#if 1
+
+"And who's going to pay for it, Captain, who's going to pay for it?"
+
+#elsif 2
+
+"Well, that sounds very noble, Captain, but in the real world, if you
+just give everything away, you'll be put out of business."
+
+"That's right!  That's the 'freedom' of capitalism right there - you be
+a capitalist or you'll be put out of business.  And then if you won't
+work for these bums, you'll be put homeless and starving on the street
+and all these great, decent people will spit on you as they walk past
+and call you a bum who doesn't want to work... And they're right,
+'cause I don't want to work - not for them and not for their brutal
+system!"
+
+#elsif 3
+
 "And who's going to pay for it, Captain, who's going to pay for this
 library of Alexandria once we just give all these books away for
 free?"
-
-#if MAYBE
 
 "Maybe the capitalists could pay for it, Congressman, they've
 certainly got the money."
@@ -3000,24 +3021,6 @@ system."
 
 #endif
 
-"Well what do you suggest, Captain?" the congressman asked, dripping
-sarcasm off the last work.
-
-"People should just be nice to each other.  People should be generous.
-Good grief, if you're running a restaurant or a food market, and
-someone comes in hungry, give them something to eat!  Forget about how
-much cash they've got in their pockets!"
-
-"Well, that sounds very noble, Captain, but in the real world, if you
-just give everything away, you'll be put out of business."
-
-"That's right!  That's the 'freedom' of democracy right there - you be
-a capitalist or you'll be put out of business.  And then if you won't
-work for these bums, you'll be put homeless and starving on the street
-and all these great, decent people will spit on you as they walk past
-and call you a bum who doesn't want to work... And they're right,
-'cause I don't want to work - not for them and not for their brutal
-system!"
 
 
 
@@ -3053,15 +3056,15 @@ society as in those others."
 "I do.  The basic premise is the same.  The solution to our problems
 is to have a war against our own people, to send armed men busting
 into the homes of people who have done absolutely nothing to harm
-anyone, to make people so terrified of what will be done to them
-that they will too afraid not to just fall in line and do what
-they're told when the great majority barks out its orders."
+anyone, to make people so terrified of what will be done to them that
+they'll be too afraid not to just fall in line and do what they're
+told when the great majority barks out its orders."
 
 "OK, sir, we have a Constitution..."
 
-"So did they; so did they," Mercurio noted nonchalantly.
+"So did they; so did they," Mercurio glibbly noted.
 
-"Our Constitution is enforced.  Our Constitution restrains the power
+"Our Constitution is enforced!  Our Constitution restrains the power
 of our government..."
 
 "Really?  Let's take a look."
@@ -3070,19 +3073,14 @@ of our government..."
 
 "No, let's take a look!  You've made this absurd claim that our government
 is restrained by its Constitution; let's get the thing out and take a look
-at it.  Mr. Koppel, I think we can a copy of the Constitution faxed
-around to the members of this panel."
+at it!"
 
-"OK, but I'm not sure that's really the point of the discussion..."
+"OK, fine!" Wye interjected, determined not to be shown up.  "Let's
+get a copy of the Constitution and look at it!"
 
-"I do!  I think that's exactly the point!"
-
-"OK, fine!"  Black interjected, determined not to be shown up.  "Let's
-get a copy of the Constitution."
-
-Mercurio was already ahead of him.  He grabbed his laptop, ran an
-Internet search, pulled up the U.S. Constitution, and prepared to
-start reading from it.
+Mercurio was already ahead of him.  He had grabbed his laptop,
+pulled up a copy of the American Constitution, and prepared to start
+reading from it.
 
 "Let's start with the powers of Congress.  Article one, section eight.
 Now, congressman, stop me if at any point you hear anything about
@@ -3124,18 +3122,20 @@ opponent better prepared than he.
 but this notion that half the federal government is unconstitutional
 is simply absurd!"
 
-"What good's a law when you pick and choose what parts of it you want
-to obey?  Fine, so you obey parts of the Constitution, but what about
-the other parts?  This is like me blowing down the highway at ninety
-miles an hour, and when the cop pulls me over saying, oh, but officer,
-I came to a full and complete stop at all the red lights!"
+"It says it right here that the government _does_not_ have these
+powers!  What good's a law when you pick and choose what parts of it
+you want to obey?  Fine, so you obey parts of the Constitution, but
+what about the other parts?  This is like me blowing down the highway
+at ninety miles an hour, and when the cop pulls me over saying, oh,
+but officer, I came to a full and complete stop at all the red
+lights!"
 
-"OK," Koppel interjected, trying to bring the discussion under
-control.  "Congressman, Captain Mercurio certainly isn't the first
-person to accuse the Federal Government of circuventing the
-Constitution.  Is there nothing to any of these claims?"
+"OK," the moderator interjected, trying to bring the discussion under
+control.  "Senator, Captain Mercurio certainly isn't the first person
+to accuse the Federal Government of circuventing the Constitution.  Is
+there nothing to any of these claims?"
 
-"No, and I'll tell you why," Black replied.  "All these things the
+"No, and I'll tell you why," Wye replied.  "All these things the
 anti-government people gripe about - gun control, the drug war, the
 environmental laws, the FCC - all of them are supported by the
 overwealming majority of the people of this country."
@@ -3145,8 +3145,8 @@ to see these additional powers codified in Constitutional Ammendments,
 and I'll tell you why.  One of the big accusations people made against
 Soviet Russia was that their government didn't obey their
 Constitution.  I don't want anybody being able to come around a
-hundred years from now and try to say that it wasn't really a
-democracy, that people didn't really want these things, that some
+hundred years from now and try to say that this wasn't really a
+democracy, that the people didn't really want these things, that some
 bunch of politicians took over the government.  This government, this
 majority, talks so much about law and order, is so determined to make
 all these rules for everyone else to obey, I'd just like to see them
@@ -3154,19 +3154,22 @@ have to obey the rules that were laid down for them.  It's a bit of a
 side issue, but I'd really like a precedent established that the
 powers of the government are limited by the Constitution."
 
+[Maybe more in here about the FCC and the problems of radio networking.]
+
 "The government is limited by its Constitution.  That's one of the
 fundamental principles of American government."
 
 "How can you sit there and say that!  How can you read the Bill of
 Rights, and in particular the Ninth and Tenth Ammendments, then sit
-there and say that!  It just flys in the face of reason!"
+there and say that!  I can't even call it a lie!  It just flys in the
+face of reason!"
 
 "Again, Captain, it comes back to self-government.  The bottom line is
 that this is what the majority of the people want!  And what they want
 is freedom!"
 
-"Freedom!"  Mercuriou fired back in disgust.  "Senator, turn on the
-T.V!  Don't you see the police slamming people to the ground and
+"Freedom!"  Mercuriou spit the word out in disgust.  "Senator, turn on
+the T.V!  Don't you see the police slamming people to the ground and
 dragging them off in handcuffs!"
 
 "Criminals!  Criminals!  People who break our laws!"
@@ -3177,13 +3180,13 @@ so had to be content with a bizarre gestation of his arms
 before firing back his retort.
 
 "Senator, _I'm_one_of_those_criminals_!  Because I smoke marijuana!
-Because I don't concede to this God-damned, cursed, cursed democracy
+Because I don't concede to this God-damned, filthy, cursed democracy
 that it can control every aspect of my life, no matter how private,
 that it can literally tell me what I can and can't put into my own
-body!  And then you sit there are talk about freedom, you filthy son
+body!  And then you sit there are talk about 'freedom', you dirty son
 of a bitch!"
 
-"We have freedom in this country!" Black practically screamed back at
+"We have freedom in this country!" Wye practically screamed back at
 the camera in retort.  "We have freedom of speech, freedom of the
 press, free elections!"
 
@@ -3201,21 +3204,31 @@ their throats at gunpoint!"
 
 T + 7 days
 
-"The majority don't want good leaders," Marc cut in.  He was once
-again back in a televised debate.  His advesary stuttered and
-faltered.
+"The majority don't want good leaders."
 
 Perhaps because of his attitude, perhaps because of the media
 attention heaped on him, perhaps because of his position in orbit,
 completely beyond the reach of any terrestrial authority, or perhaps
-simply because what he said, Mercuriou seemed to incite the ire of
+simply because of what he said, Mercuriou seemed to incite the ire of
 nearly all the American political leaders, regardless of party
-affiliation or personal temperment.  In another televised debate, he
-faced off against one of the most country's most prominent
-politicians, a state governor widely expected to run for president in
-an upcoming election.
+affiliation or personal temperment.  At any rate, he was back on
+television.  In another debate, he faced off against one of the most
+country's most prominent politicians, a state governor widely expected
+to run for president in an upcoming election.
 
-"So you actually do think the majority of people support the government?"
+"The majority don't want good leaders," the astronaut repeated,
+floating weightless on the screens of 10 million people watching the
+live program.  "They want garbage leaders.  They want the most selfish
+bastards you'd ever want to meet, with this nightmare capitalist
+system based on the most vicious traits of mankind to be jammed down
+everyone's throats.  And this time, nobody can say it isn't really a
+democracy, that one man took over the government, that the dissidents
+were 'disappeared', that we don't have freedom of speech or freedom of
+the press.  Nobody can claim that this isn't really what the majority
+of people want."
+
+"So you actually do think the majority of the American people support
+their government?" the moderator asked.
 
 "Yes.  The problem is populist government - this stupid idea that you
 can put the masses in charge of society.  It was talked about by
@@ -3231,8 +3244,8 @@ these things have in common... other than the fact that millions upon
 millions upon millions of people went chasing off after every one of
 them?"
 
-"Communism wasn't a democracy, or a populist goverment..." Black
-began to retort, but Mercurio cut him off.
+"Communism wasn't a democracy, or a populist goverment..." Zee began
+to retort, but Mercurio cut him off.
 
 "Then how did they win their Civil War in Russia?  The Whites had all
 the old czarist military officers, they had foreign aid from the
@@ -3240,242 +3253,136 @@ United States and Great Britian, the Reds were isolated and on their
 own, yet still they managed to win that war!  How did they did that if
 nobody supported them?"
 
-The question was rhetorical, and the astronaut went on without
-waiting for an answer.
-
-"This is absurd!  Communism was one of the biggest populist movements
-of the twentieth century!  Practically every country in existance had
-some kind of communist insurgancy!  They took over half this planet!
-Millions upon millions of people _believed_ in communism!  To claim
-that the communists were some tiny bunch of dictators flies in the
-face of history!  Take Vietnam - why were all those 15-year-olds
-hauling AK-47s around the Mekong Delta if the communists were just
-some tiny cliche holed up in the Kremlin?!"
-
-"The communists installed brutal dictatorships in every country
-they took power in!"  Black shot back.  "Look at the people in
-Russia!  If communism is so populist, why did they need another
-revolution to take back their government!"
-
-"It was populist at first!" the Captain answered.  "Sure, after
-the communists really got entrenched it was almost impossible
-to remove them, but it'd be almost impossible to remove the
-capitalists from the west - they control everything!  At first,
-at first, sir, the people did support the communists - that's
-how they won that war, that's why so many people chased after
-communism - because at first, it was a populist movement!"
-
-"The communists lied to their people..." Black began.
+"The communists lied to their people..." Zee began.
 
 "Oh no they didn't!  You want to understand communism, read the last
 page of the Communist Manifesto, where Marx and Engles talk about
 letting the world tremble in fear of a communist revolution.  _That_'s
 communism - stick AK-47s in the hands of the peasants and let the
 world tremble in fear!  That's what all those people wanted -
-expropriate the expropriators and let everyone else tremble in fear of
-communism at gunpoint!"
+expropriate the expropriators and let everyone tremble in fear!"
 
-The Captain paused briefly before continuing in a calmer voice.
+The astronaut went on without waiting for a response.
+
+"Communism was one of the biggest populist movements of the twentieth
+century!  Practically every country in existance had some kind of
+communist insurgancy!  They took over half this planet!  Millions upon
+millions of people _believed_ in communism!  To claim that the
+communists were some tiny bunch of dictators flies in the face of
+history!  Take Vietnam - why were all those 15-year-olds hauling
+AK-47s around the Mekong Delta if the communists were just some tiny
+cliche holed up in the Kremlin?!"
+
+"The communists installed brutal dictatorships in every country they
+took power in!"  Zee shot back.  "Look at the people in Russia!  If
+communism is so populist, why did they need another revolution to take
+back their government!"
+
+"It was populist at first!" the Captain answered.  "Sure, after the
+communists really got entrenched it was almost impossible to remove
+them, but it'd be almost impossible to remove the capitalists from the
+west - they control everything!  Look at what's happening right now in
+Russia - the Communist Party is the single largest political party in
+that country, they control a quarter of the seats in the Duma; what
+possible explanation is there for this except that millions upon
+millions of Russians _to_this_day_ support communism!"
+
+Mercuriou paused briefly before continuing in a calmer voice.
 
 "The problem with communism wasn't their economic system, it wasn't
 the structure of their elections, it wasn't their lack of
 constituional guarentees.  The problem with communism was that their
 leaders were a bunch of trash with some nightmare system to be jammed
-down everyone's throughts, and _the_people_supported_them!  They were
-a lot like the people who run democracy today."
+down everyone's throats, and _millions_of_people_supported_them_!
+They were a lot like the people who run democracy today!"
 
 "The problem isn't Bill Gates.  The problem is John Doe.  Walk into
 one of these stores anywhere in the Western world without a credit
 card or a twenty dollar bill in hand.  Ask for a plate of food.  See
-how much you walk out with.  The fact is that the majority of people
-are crude, selfish, and violent.  That's why communism came to power
-in these backwards countries - if the people have nothing, tell them
-to expropriate the exproriators at gunpoint - it sounds great!  Now in
+what you walk out with.  The fact is that the majority of people are
+crude, selfish, and violent.  That's why communism came to power in
+these backwards countries - if the people have nothing, tell them to
+expropriate the exproriators at gunpoint - it sounds great!  Now in
 the more developed nations, the majority have a lot more material
 possessions, expropriating the expropriators doesn't sound nearly as
 good, better to just build some brutal society where those who have
-can keep it and don't lift a finger for anyone else.  The bottom line is
-that the majority of people are selfish - both capitalism and
+can keep it and don't lift a finger for anyone else.  The bottom line
+is that the majority of people are selfish - both capitalism and
 communism play to that, just on different sides of the coin."
 
 "Next I guess you'll be telling us that the German people elected
-Hitler," Black dryly observed.
+Hitler in 1932," Zee dryly observed.
 
-"But they did elect Hitler!  At least they elected the Nazis!"
+"Well, the next thing I'll tell you is that the German people elected
+the Nazis in 1932."
 
 "Oh, please, Hitler's Germany was one of the most brutal dictatorships..."
 
 "That the people elected!  That the people elected!  In 1932, the Nazis
-won 40% of the vote in the last free election..."
+won a third of the vote in the last free election..."
 
-"Forty percent!"  Black fired back.  "Not a majority!"
+"A third!"  Zee fired back.  "Not a majority!"
 
-"Hey, if you can get forty percent of the people to support you, you
-can get fifty percent.  Anyway, they got more votes than any other
-political party; they won a plurality.  George Bush didn't win that -
-Al Gore took the popular vote.  You gonna tell me now that George Bush
-is a dictator because he didn't win a majority of the vote?"
+"Hey, if you can get a third of the people to support you, you can get
+half.  Anyway, they got more votes than any other political party;
+they won a plurality.  They got enough votes to make Hermann Goering
+president of the Reischtag, enough votes to defeat Von Papen's
+government on a vote of no-confidence, enough votes to create a
+situtation where Adolf Hitler was basically the only viable choice for
+German chancellor.  Generally speaking, that means they won the
+election!"
 
-The congressman and moderator were both silent, perhaps in a stunned
-sort of way, and the _Icarus_ commander stormed on.
+Zee and the moderator were both silent, perhaps in a stunned sort of
+way, and the _Icarus_ commander stormed on.
 
-"The Nazis won the same number of votes in 1932 as George Bush did in
-2000 - enough!  Enough to give them control of the Richstag.  Enough
-to get Herman Goering elected president of that body.  Enough to
-create a situation where Adolf Hitler was basically the only viable
-choice for German chancellor.  And people supported the Nazis for
-basically the same reason people supported the communists and the
-same reason people today support the capitalists - because they
-were brutal as hell, and that's what works in the _real_world_ and
-that's all these millions and millions of people _know_!"
+"Over thirteen million people voted Nazi in 1932!  Thirteen million!
+And this in a nation of only about eighty million total!  Yes, Hitler
+proceeded to build a dictatorship, but a dictatorship with the support
+of thirteen million people!  And don't say that the German people
+didn't knew what they were getting.  Read the first chapter, the first
+page, of _Mein_Kampf_!  The part where Hitler talks about 'the moral
+right of armed conquest'!  That book was a best-seller in Germany!
+That's what those people voted for - 'the moral right of armed
+conquest'!  People supported the Nazis for basically the same reason
+people supported the communists and the same reason people today
+support the capitalists - because they were brutal as hell, and that's
+what works in the "real world" and that's all these millions and
+millions of people "know"!  I'm telling you... democracy is another
+communism!"
 
+"Another communism?" the moderator cut it, stunned.
 
+"That's right.  It's another big pile of books and theories that sound
+real good on paper, and in practice has produced some of the most
+depraved societies that's every been seen on the face of this planet.
+People will look back on this a hundred years from..."
 
-
-
-"The majority don't want good leaders," the astronaut repeated,
-floating weightless on the screens of 10 million people watching the
-live interview on Nightline.  "They want garbage leaders.  They want
-the most selfish bastards you'd ever want to meet, with this nightmare
-capitalist system based on the most vicious traits of mankind to be
-jammed down everyone's throughts.  And this time, nobody can say it
-isn't really a democracy, that one man took over the government, that
-the discedents were 'disappeared', that we don't have freedom of
-speech or freedom of the press.  Nobody can claim that this isn't
-really what the majority of people want.  Democracy is another
-communism."
-
-"Another communism?" Koppel cut it, stunned.  "That's right," Marc
-replied, before backpedeling... slightly.  "I don't mean that it's
-murdered millions of people, or enslaved half the planet, but it's
-another big pile of books and theories that sound real good on paper,
-and in practice has produced one of the most depraved societies that's
-every been seen on the face of this planet.  People will look back on
-this a hundred years from..."  It was more than the congressman could
-take.  Visibly redening, now it was his turn to cut off the space
-captain.
+It was more than Zee could take.  Visibly redening, now it was
+the governor's turn to cut off the space captain.
 
 "Look here, democracy may not be perfect, but it's a damn sight better
 than just about anything else out there.  In the last 200 years, we've
 abolished slavery, and that alone has to count as one of the biggest
-achieve..."  Mercurio cut right back in.  The debate had turned into an
+achieve..."
+
+Mercurio cut right back in.  The debate had turned into an
 intellectual free-for-all.
 
-"The communists abolished slavery, too.  That isn't the point.  The point..."
+"Abolished slavery!  In the bloodiest war this country has ever had!
+Is that what it will take to abolish capitalism?  To end the Drug War?
+I don't know how many more 'successes' like the Civil War this country
+can afford.  But the communists abolished slavery, too.  That isn't
+the point.  The point..."
 
 "Yes it is the point!  Yes it is! Don't go brushing off everything
 this country's accompished just 'cause you can't see anything but it's
 faults!  We're not perfect, but the majority of this country's people
 are decent, hardworking folk who want a better life not just for
-themselves, but for decent people everywhere!"
+themselves, but for decent people everywhere!  And unlike these
+dictatorships, and I do mean _dictatorships_, we have a legitamtite
+system of government."
 
-The congressman paused for breath, and Koppel chose this moment to
-jump in and try to bring the debate back under control.  He decided to
-do it by challenging one of the astronaut's more dramatic
-claims. "Gentelmen, please.  Captain Mercurio, many people critize the
-United States, but another communism?  You can't be serious."
-
-"Look here, it's the same with all these populist governments,"
-Mercurio replied.
-
-"Populist?" the congressmen retorted.
-
-"Yes, populist," the spaceman replied.  "Communism was one of the
-biggest populist movements of the twentieth centry.  Millions upon
-millions upon millions of people 'believed' in communism.  And they
-beleived in it for the same reasons that millions of people in Germany
-beleived in fascism, and that millions of people today believe in
-capitalism..."  The spaceman paused before letting his bombshell drop.
-"...because it's brutal as hell, and that's what 'works' in the 'real
-world', and that's what all these millions and millions of people
-'know'!"
-
-Congressman Black looked like he was ready to reach through the TV
-monitor and rip the spaceman's head off.  He replied in clipped,
-measured tones that betrayed the rage he felt at his floating nemisis.
-
-"Communism was a brutual, murderous dictatorship.  And I want to be
-very clear on that word - dictatorship.  There was nothing populist
-about it in the least."
-
-"Nothing populist about communism?  Then how did it manage to take
-over half this planet?  It was the same with the Nazis, elected in
-1932, and yes, despite every attempt to claim the contrary, the were
-_elected_; France, the French Revolution, whose leaders talked about
-liberty, fraternity, and equality, then built guilateons in the public
-squares of Paris and chopped off the heads of the nobelmen.  Europe's
-first democracy - and every one of those men was elected - Coulton,
-Saint Just, Robspierre, and of course, finally, Napoleon."
-
-"Napoleon was elected?" Black sneered.
-
-"He could have been.  He could have won any election in that country.
-Bonaparte was one of France's most popular leaders."
-
-"This has been the broken record of democracy for the last two hundred
-years.  All these people talk about these grandeose ideas of liberty
-and freedom, and then choose absolute garbage for their leaders, and
-build societies based on the basest and most vicious traits of
-mankind.  This time around it's the capitalists - the most selfish
-sons of bitches you'd ever want to meet, and the majority support
-these bums every step of the way.  The majority of people are
-completely incapable of choosing anything but the worst possible
-leaders."
-
-"I see what kinds of leaders you choose.  The most selfish men you'd
-ever want to meet."
-
-"The capitalists, who are just in it for themselves, and the democrats,
-who are going to get tough with anybody who won't follow all their
-laws.  Real good leaders."
-
-Mercurio stopped, and Black didn't retort immediately.  A tense silence
-fell over the teleconference.  Across the country, millions of people
-in their homes murmorred amongst themselves.  "I don't want to hear
-any more of this."  "You tell 'em, Marc!"  "That bastard deserves to
-die up there!"  "I hope the whole bunch die!"  "Is this what people
-think about us?"
-
-
-T + 9 days
-
-"How is it different?  How is what Saddam Huissen tried in Kuwait all
-that much different from Andy Jackson's stunt in Flordia?"
-
-"Oh please... it's not even close."
-
-"What?  He just walked in and took Flordia.  It was Spanish territory
-and he just walked in and took it."
-
-People were already cutting him off.  "For starters, Andrew Jackson
-wasn't a mass murder who unleased chemical weapons on his civilian
-population."
-
-"No, he only executed one or two people, but from a standpoint of
-international law?"  Again, others started cutting in, but the space
-captain wouldn't let them change the subject.
-
-"From a standpoint of international law, how was it different?  And
-then democracy gets all high-and-mighty 'We're fighting for a small
-country being pushed around by a big one' - What about Panama?  When
-we walked in and just took over the country, threw its president in a
-Flordia jail, and installed our own government.  Who was there to
-fight for a small country being pushed around by a big one then?"
-
-"Manuel Noreiga was an international drug dealer..."
-
-"An international drug dealer who just happened to be the president
-of a soverign nation..."
-
-"It was not a legitamite government.  It was not a legitamite government.
-It was a military junta, and the people of Panama packed the streets
-and cheered when our troops liberated their nation."
-
-"Of course they cheered.  They cheered in Cuba - haven't you seen the
-pictures of Castro's tanks rolling down the streets of Havana?  They
-cheered in Moscow, they cheered in Beijin - the 'people' always cheer
-when their 'heros' show up with their tanks and guns.  And just what
-is a legitamite government, anyway?"
+"And just what is a legitamite government, anyway?"
 
 A pause fell over the broadcast, and Mercurio repeated his question.
 "What is a legitimate government?"
@@ -3493,46 +3400,79 @@ not people, huh?"
 majority of people support democracy, even if they don't win a particular
 election..."
 
-"Of course they support it - they're the majority!  Basically, the only
-legimitate form of government is democracy, right?  Everything else is
-illegimiate, and if your government is illegimiate, you basically have
-no rights, there is no international law for you, so better buddy up
-with the U.S. or you might find the SEALs airdropping on your airport
-one morning."
+"Of course they support it - they're the majority!  Basically, the
+only legimitate form of government is democracy, right?  Everything
+else is illegimiate, and if your government is illegimiate, you
+basically have no rights, there is no international law for you, so
+better buddy up with the U.S. or you might find the SEALs airdropping
+on your international airport one morning."
 
-"So we should have just let Saddam Hussien take over Kuwait?"
+Mercuriou paused for breath, and the newsman chose this moment to
+jump in and try to bring the debate back under control.  He decided to
+do it by challenging one of the astronaut's more dramatic claims.
 
-"Basically, yes, just stay out of it."
+"Gentlemen, please.  Captain Mercurio, many people critize the United
+States, but another communism?  You can't be serious."
 
-"And next will be Saudi Arabia, and then Israel..."
+"Look here, it's the same with all these populist governments,"
+Mercurio replied.
 
-"Israel can take care of themselves, and the Saudis, if they really
-want their government, they can fight to keep it.  I mean, basically,
-democracy is the _greatest-system-of-government-on-earth_, so it does
-pretty much whatever it pleases, right?"
+"Populist?" the congressmen retorted.
 
-  -- And what about Israel?"
+"Yes, _populist_," the spaceman replied.  "Communism was one of the
+biggest mass populist movements of the twentieth centry.  Millions of
+people in Germany voted Nazi.  This is the truth about populist
+government.  The masses of people are selfish and violent.  That's why
+they chose people like the communists and the fascists and the
+capitalists to be their leaders!"
 
-"Well, captain, how would you suggest we deal with the Palestinian
-issue, and the Midest Peace Process?"
+Governor Zee looked like he was ready to reach through the TV
+monitor and rip the spaceman's head off.  He replied in clipped,
+measured tones that betrayed the rage he felt at his floating nemisis.
 
-"Well we were real generous back in '52 with someone else's land,
-weren't we?  Why don't we just give the Jews Manhattan Island - that's
-their Promissed Land, isn't it?"
+"Capitalism is totally different from communism.  Communism was a
+brutual, murderous dictatorship.  And I want to be very clear on that
+word - dictatorship.  There was nothing populist about it in the
+least."
 
-"That is absurd, and border-line racist, I might add."
+"Nothing populist about communism?  Then how did it manage to take
+over half this planet?  It was the same with the Nazis, elected in
+1932, and yes, despite every attempt to claim the contrary, they were
+_elected_; France, the French Revolution, whose leaders talked about
+liberty, fraternity, and equality, then built guilateons in the public
+squares of Paris and chopped off the heads of the nobelmen.  Europe's
+first democracy - and every one of those men was elected - Coulton,
+Saint Just, Robspierre, and of course, finally, Napoleon."
 
-"Why?  Because the Mossad would end up headquarted in the Empire State
-Building and the blacks would start an intafadda after being
-'resettled' in the Upper East Side?  You're right, it's totally
-absurb.  The U.S. would never stand for it."
+"Napoleon was elected?" Black sneered.
 
+"He could have been.  He could have won any election in that country.
+Bonaparte was one of France's most popular leaders."
 
+"This has been the broken record of democracy for the last two hundred
+years.  All these people talk about these grandeose ideas of liberty
+and freedom, and then choose absolute garbage for their leaders, and
+build societies based on the basest and most vicious traits of
+mankind.  This time around it's the capitalists - the most selfish
+sons of bitches you'd ever want to meet, and the majority support
+these bums every step of the way.  And of course they can't spend
+enough money to build the most lethal killing machines this planet has
+ever seen.  This is what the majority of people want - the
+capitalists, the most selfish men you'd ever want to meet, and the
+democrats, who are going to get tough with anybody who won't follow
+all these laws.  Real good leaders."
 
-In New York, Koppel decided to change the subject, since the broadcast
-was nearing it's end.  There would be plenty more opportunities for
-debate.  "Captain, what are your plans?  How long can you stay in
-orbit?"
+Mercurio stopped, and Zee didn't retort immediately.  A tense silence
+fell over the television program.  Across the country, millions of
+people in their homes murmorred amongst themselves.  "I don't want to
+hear any more of this."  "You tell 'em, Marc!"  "That bastard deserves
+to die up there!"  "I hope the whole bunch die!"  "Is this what people
+think about us?"
+
+In New York, the broadcast was nearing it's end.  There would be
+plenty more opportunities for debate.
+
+"Captain, what are your plans?  How long can you stay in orbit?"
 
 Mercurio rumaged in a storage bin and sent clothes flying all over the
 compartment.  Finally, he pulled out the T-shirt he was looking for,
@@ -6188,3 +6128,16 @@ starving on the streets, because most people will just take whatever
 they can get for free, but you better believe that the shopkeepers and
 the restaurants and the landlords aren't going to just 'give to all'.
 That's what happens to Christians in this world."
+
+
+------
+
+"This isn't Christianity!  Christianity is about redemption through
+faith.  You're redeemed through faith, not through your deeds!"
+
+"If that's so, then why does Jesus spend so much time talking about
+how we live in this world?  Why did he bother to say 'turn the other
+cheek' and 'give to all those who beg of you' and 'if a man steals
+your cloak, give him your cloak as well'?  Yes, he talks about faith,
+but he talks about deeds, too, and if deeds aren't important, why does
+he spend so much time discussing them?"
