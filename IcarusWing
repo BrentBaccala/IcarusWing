@@ -398,7 +398,7 @@ friend, then clasped him in a bear hug and invited him inside.  They
 had met in college, when Marc was an eighteen-year-old freshman and
 Vic was finishing medical school.  Marc had briefly dated the future
 doctor's cousin. The courtship had foundered; the friendship had
-lasted over a decade.
+lasted for almost twenty years.
 
 Inside, the twenty-year-old trailer exhibited the domestic disarray of
 a single man.  A small siting room to the right of the door was
@@ -1029,8 +1029,12 @@ see what was on that machine."
 
 Alister shrugged.
 
-"Looked like a bunch of email from NASA..." he replied, letting his
+"Looked like a bunch of packet traces..." he replied, letting his
 voice drift off at the end.
+
+"Did you make any sense out of them?"
+
+"No," the youngster lied.
 
 Burns waved a dismissal, and Alister hastily departed his office.
 Later in the day, he noticed that the key he had used to access
@@ -1048,16 +1052,28 @@ DESCRIPTION OF MERCURIOU'S OFFICE HERE
 Mercuriou concluded.  Burns nodded.  He had just finished filling
 in his boss on Alister's unauthorized computer access.
 
-"If he tells NASA, it could be big problems..."
+"What did he see?"  /  "Do you know what he saw?"
 
-Mercuriou interrupted himself with first a chuckle, then broke out
-in an awkward guffaw.
+"Bank Duestch.  The packet trace we had running during the hack."
+
+"How much of it?"
+
+"Probably the whole thing."
+
+"Did he make any sense out of it?"
+
+Burns thought for a moment.
+
+"Yeah, probably.  This could be serious."
+
+Mercuriou answered first a chuckle, then broke out in an awkward
+guffaw.
 
 "You think this is funny?" Burns asked.
 
 "I think it's hilarious.  This whole thing is made possible by your
-super-hack of Chesapeake, and now along comes this twenty-year-old who
-hacks _your_ network!"
+super-hack of Chesapeake, and now along comes this twenty-year-old kid
+who hacks _your_ network!"
 
 Burns grinned at the thought.
 
@@ -1069,22 +1085,46 @@ that the Securities and Exchange Commision had begun an investigation
 into the bankruptcy of one Keystone Securities.  Burns read the story
 while Mercuriou thought over the problem with Alister.
 
-"This could be serious," the engineer concluded as his returned
+"This could be serious, too," the engineer concluded as his returned
 the newspaper.
 
-"Oh, it is serious.  They'll eventually catch up with us.  We better
-make sure we're in orbit by the time that happens."
+"Oh, it is serious.  They'll eventually catch up with us.  We just
+better make sure we're in orbit by the time that happens."
 
-"OK," he continued, "you keep telling me you need more help, and one
-of the big things I _haven't_ be able to provide you is help with all
-these computer hacks you want done.  Now can Alister do that for you?"
+"Oh, it _is_ serious," he replied, leaning back in his chair.
+"There's a countdown clock running on this launch, just like with
+NASA's, T minus whatever, only we don't know what time it is.  At some
+point, that clock goes to zero, and we better be ready to launch when
+it does."
+
+"It's not going to be today," Burns replied.  "We don't even have all
+the engines finished yet, and as you very well know, we don't have
+enough ten-thirty-three."
+
+"Well, we better get them finished, we better get all the payload we
+need down to Site Y, we better make sure that as soon as we've got
+enough ten-thirty-three then we've got a launch capability."
+
+Burns shifted uncomfortably in his chair.  Mercuriou was preaching
+the choir, and the engineer didn't like being told what he
+very well knew.
+
+"That's all fine," he answered, "but despite offloading the
+ten-thirty-three production, we've still got way more work than hands
+to do it."
+
+"OK," Mercuriou continued, more thoughfully, "you keep telling me you
+need more help, and one of the big things I _haven't_ be able to
+provide you is help with all these computer hacks you want done.  Now
+can Alister do that for you?"
 
 Burns thought for a moment, begining to follow Mercuriou's line of
 thought.  He had known Alister for almost six months (check
 chronology) now.
 
 "He's sharp, real sharp.  One of the best technicians I've got, and
-yeah, it looks like he can hack, too."
+yeah, it looks like he can hack, too.  The real question is,
+will he hack for us?"
 
 Alister is called into the office.
 
@@ -1103,6 +1143,10 @@ the coach was a chief engineer.
 "This is no joke," Burns informed him as he was halfway across the room.
 
 ...
+
+"We need someone who can hack.  I've got a whole list of things I need
+lifted from one computer or another, and there's no way I can do it
+all myself."
 
 "So what now?" Alister asked.
 
@@ -1639,7 +1683,7 @@ so it can't be opened from the inside without a card key?"
 
 The engineer leaned back in his chair and nodded slowly.
 
-"Yeah, the locking mechanism is in the wall, so I could solder the
+"Yeah, the locking mechanism is in the wall, so I could weld the
 door handle in place, along with the bolt.  You couldn't open it
 at all from the inside..."
 
@@ -1972,6 +2016,15 @@ front gate was being opened, and Alister pulled up a video feed on his
 computer terminal that showed three police cars at the gate and
 several policemen who had just cut the chain off the gate.
 
+"Blow the bridge," Mercuriou said calmly.  Alister keyed a radio
+controlled detonator and in the distance they could hear the sound of
+explosives destroying a bridge over a ravine between them and the
+police.
+
+"That won't stop them for long," Vic mused.
+
+"No," Mercuriou agreed, then turned to Burns.  "OK, it's launch day."
+
 
 
 ----
@@ -2266,6 +2319,8 @@ course in blue, from both side and top perspectives, along with the
 plane's actual course in red.  The aircraft was slightly below the
 profile, so Burns eased back on the joystick to raise the plane's
 attitude slightly and guided the red line back towards the blue one.
+He didn't believe in autopilots, and hadn't had the time to program
+one, anyway.
 
 At fifty miles in altitude, they were now above most of the
 atmosphere, and the blue line flattened out.  Burns guided the
@@ -2614,8 +2669,8 @@ It was extensive, numbering well over ten thousand books, completely
 electronic, and totally illegal.  Every major publisher of technical
 books in the English language had been targeted by Burns' super-hack,
 and the few books of which Alister couldn't spirit off electronic
-copies from the publishers' computers were purchased and shipped to a
-site in Guatemala, where their bindings were sawed off, the pages were
+copies from the publishers' computers were purchased and shipped to
+Site Y, where their bindings were sawed off, the pages were
 systematically scanned, and the resulting digital images transmitted
 back electronically.  Without lauching more than a few pounds of
 books, most of these for nostalgic value, such as Burns' 1956 first
@@ -7784,3 +7839,131 @@ binaries."
 
 "In short, Dr. Yeats," the agent now concluded, "the most likely
 way XXX got the source code to _Gaussian_ was a hack."
+
+----
+
+"The difference between capitalism and those other system is
+_individual_freedom_.  You can be a capitalist if you choose, you can
+be social worker if you choose, you can be an author, you can be a
+doctor; it's nothing imposed by the government."
+
+"Well, that's great to hear, Congressman, because I want to be a
+librarian!  I got a couple thousand books here in my ship's library,
+all electronic, and I've been thinking about putting them up on the
+Internet!"
+
+"Stolen books," the congressman dryly noted.  "We've all heard about
+your library, captain."
+
+"Stolen books!" the astronaut practically spit the words back.  "You
+mean stolen 'intellectual property', don't you?"
+
+"It's the same thing.  Theft is theft."
+
+"No, congressman, it's not the same thing.  Theft is physically taking
+something that belongs to someone else.  A book, a physical book _can_
+be stolen and we stole plenty, you better believe it, but the
+information it contains can not."
+
+"Well, we've pretty decisively rejected that idea in this society.
+Information _does_ have value, captain, as you very well know,
+and it _can_ be stolen, as so much of your entire 'mission' shows."
+
+"That's right, and it just gauls the hell out of you that someone
+could steal everything they need to fly into space!  Not just the
+information, but the billions and billions of little dollar signs in
+your computers that tell your robot workers, 'ok, you can give this
+guy anything he asks for', right?"
+
+"'Captain', the fact remains that you are a thief, OK?  A glorified,
+glamorized, attension-grabbing thief.  The people who have written
+those books have the right to decide what happens to their work, and I
+keep telling you, because we have _free_dom!"
+
+"You know, I am so sick of hearing about people's 'rights'!  Whenever
+I hear that word 'rights', the next thing I start figuring is 'who's
+getting screwed'."  Ecks started to cut in, but Mercuriou wouldn't let
+him.  "People always talk about their 'rights' when they want to jam
+somebody else's face in the mud.  Your bum leaders want to build an
+'information economy', where knowledge is just one more commodity to
+bought and sold, and the only way people will pay for it is if it's
+kept secret."  Now the space captain morphed sarcastic.  "They talk
+about their 'rights'!  They've got the 'right' to keep that
+information secret, just the great people's government in Russia did!
+And copying books online is illegal for the same reason that
+photocopiers and fax machines were illegal in the Soviet Union, or at
+least heavily controlled - " Now he slowed dramatically to make this
+point.  "The potential of the technology represents too great a threat
+to the system's ability to control people's lives."
+
+Ecks waited a bit longer, then returned to a common theme.
+
+"Captain, again, those people have the right to decide what happens to
+_their_ work, simply because it is _their_ work.  The authors, they
+could decide to put it online like you suggest, they have that
+_freedom_."
+
+"Just because you have freedom doesn't turn wrong into right..."
+
+Now it was Ecks' turn to bust in laughing.
+
+"Yes, Captain, it doesn't turn wrong into right, you are still a
+_thief_!"
+
+Mercuriou reddened and angered.
+
+"That's right, that what you've got to be to make it in capitalism.
+One way or another.  You've got to learn to be a ruthless,
+self-serving, money-grubbing bum.  And whether you steal to do it, or
+just ride roughshod over the rest of humanity with some nightmare
+system."
+
+
+
+----
+
+"Communism made a lot of sense - 'class warfare', I mean, look around.
+A bunch of people trying to make money off publishing books pushing
+the government for all these legal restrictions, the high-school kid
+who can't afford the music he wants copying it anyway.  The 'haves'
+verses the 'have nots'.  How could it not make sense?  It's the story
+of human nature - the rich man and the thief.  Communism tells the
+thieves that their theft was justified, that they had been oppressed,
+that they could have a people's revolution and expropriate the
+expropriators.  Capitalism tells the rich man that his wealth is
+justified, that it's his 'right' to decide how it gets spent, that all
+these people gripping about it could just go get a job and make the
+money they keep begging for.
+
+"Christianity, of course, refuses to justify either man.  God tells
+the thief, 'thou shall not steal', and Christ tells the rich man 'if a
+thief steals your coat, give him your cloak as well'.  So to put that
+in a modern context, if a man breaks into your house, holds you and
+your family up at gunpoint, takes everything of value that he sees,
+you give him the keys to the car and offer to help carry the stereo
+out, because it's pretty heavy."
+
+Laughter.
+
+"Well, you laugh because people just don't want to hear it, but that
+_is_ what Jesus said.  He also told the thief some things he doesn't
+want to hear, either.  In fact, even your majority don't want to hear
+it.  Despite all your condemnation of Communism, you still keep trying
+to glorify your own revolution.  You keep trying to tell us George
+Washington and Thomas Jefferson were justified in an armed revolution
+against the British crown.  Yet Christ tells us in the garden to
+sheath our swords.  The oppressed are not justified in theft, and they
+are not justified in revolution.  If people would live both sides of
+that equation, if the 'haves' would give to anyone who begged of them,
+and the 'have-nots' would accept whoever was in power, things would
+tend to work out.  But the 'haves' always abuse their power, and the
+'have-nots' always scream for revolution.  For a democratic
+revolution, if they are sufficiently localized geographically to be
+able to control one, because democracy really 'legimitizes' it.  If
+all the drugs users in the United States were completely localized in
+one state, that they could easily control the state government through
+democratic elections, you'd see a much different drug policy in the
+United States.  I can't tell you exactly what it'd be, but I can tell
+you that the dissident groups that get oppressed most in democracy are
+the ones that are so broadly spread geographically that they can't
+influence even local elections."
