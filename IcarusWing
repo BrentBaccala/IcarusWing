@@ -1,4 +1,35 @@
 
+LINGURING ISSUES
+----------------
+Burns' and Alister's drug use
+rape scene
+Andrea's response to September 11
+
+
+
+"That's the problem with being smart.  The smarter you get, the more
+you can do, and the fewer other people there are who can help you do
+it.  Eventually, you get so smart that you can do almost anything, and
+none of it actually gets done."
+
+Eventually, you get so smart that you can do anything, and nothing gets done.
+Eventually, you get so smart that you know how to do anything, and nothing gets done.
+
+"If you learn to live with disappointment, she'll never leave you
+for another man."
+
+"You've got the freedom to be selfish, but not to be generous.  You've
+got the freedom to work, but not to live.  You've got the freedom to
+speak, but not to act."
+
+"Propaganda is not a substitute for leadership."
+"Good propaganda is not a substitute for good leadership."
+
+
+"Capitalism or communism?  It's like asking someone to choose
+between the Hydra and the Medussa!"
+
+
 		Icarus' Wing
 
 This is a historical novel.  Many of the events and characters are
@@ -360,6 +391,108 @@ heavy blond hair and muscular upper body betrayed months of surfing on
 the Southern California beaches.  His eyes had narrowed to slits, and
 his lewd smile told that the money in her purse wasn't the only thing
 he'd be taking.
+
+
+T - 200 days
+
+Burns was quite busy now with a whole host of design problems, few of
+which he could task off to the subordinates they'd hired, and all
+requiring detailed attention.  The mass production of N-133, as part
+of a legitimate contract with NASA, was one of the few things he could
+task off, and Mercurio had in fact taken the entire N-133 operation
+off Burns' hands, hiring a team of chemical engineers to design the
+tanks, piping, reaction chambers, and control equipment of a small
+refinery required to mass produce a chemical product.  Since the
+Captain dealt with NASA also exclusively himself, made sure he was
+present everytime NASA representives were around, and carefully
+segregated the designer from the operators of the chemical plant, he
+was able to effectively lie about how much N-133 NASA was actually
+buying.  In fact, the company was massively over-producing the rocket
+fuel, a detail known to less than half a dozen men despite the fact
+that well over a hundred people were involved in the operation in one
+way or another.  Mercurio had mastered the military concept of
+"need-to-know", and in fact was as brilliant a manager as Burns was an
+engineer.
+
+Money was still a problem.  Financial statements could be fabricated,
+and loans could cover short-term discrepancies, but the simple fact
+remained that, even after a hefty markup, NASA wasn't paying for
+anything close to the quantities of chemicals actually being consumed.
+Somehow the costs had to be covered.  Burns had wanted to go back to
+hacking, but Mercurio had flat out refused this proposal.  Burns'
+talents were required elsewhere.  Instead, the Captain assigned Vic,
+who had basically nothing to do at the moment, to scout the Internet
+for likely targets.  Under conditions laid down by Burns and approved
+by Mercurio, his assignment was basically to look but not touch.
+
+For almost a month, Vic spent several hours each day looking but not
+touching.  It wasn't boring work.  It's easy to spend hours surfing
+the Internet, and Vic was surfing into company's internal networks,
+monitoring their web usage, reading private emails, grabbing
+passwords, watching supposedly secure logins.  Finally he settled in
+to a Delaware-based banking firm called Keystone Securities.  With a
+seat on the New York Stock Exchange, Keystone was a mid-sized
+financial services broker that specialized in portfolio management for
+corporate retirement funds, but was diversified into other banking
+operations as well.  Vic's survey of their private financial
+statements showed them with well over a billion dollars in assets,
+mostly in the form of securities.  Furthermore, they were insured by
+FDIC, the U.S. Federal Deposit Insurance Corporation, which meant that
+stealing from them would effectively be stealing from the
+U.S. Government.  Mercurio wouldn't have OK'ed theft from retirees.
+On the other hand, he had no problem with the Federal Government
+unwittingly underwriting his operation.
+
+The hack was made possible by Keystone's dependance on a IBM mainframe
+computer for the majority of their electronic banking operations.
+The brokers controlled the mainframe from PCs interconnected
+on a private corporate network.  A firewall allowed the PC users
+to access the Internet without allowing Internet access to
+the private network.  Of course, this design depending on
+correct operation of the firewall, manufactured by... Cisco.
+
+The software on the PCs was designed to emulate type 3270 mainframe
+terminals, and used unencrypted connections for communication with the
+mainframe.  Since the connections were completely within the corporate
+network, this wasn't regarded as a security risk by the designers.
+Their concern was focused on preventing a breakin from the outside.
+Nobody considered the possibility that a deliberate trapdoor might
+have been placed among the millions of machine instructions that ran
+the routers interconnecting the network.  Worse than the data
+connections being unencrypted, they were also unsigned, lacking any
+cryptographic signature that the mainframe might have used to ensure
+that the terminal sessions originated from trusted computers.
+Instead, Keystone's internal network depended entirely on password
+protection, which Vic easily circuvented simply by asking the routers
+to record the passwords as they went by.
+
+Mercurio knew that a billion dollar hack, unlike their lottery
+rip-off, wouldn't go unnoticed.  He delayed until the last minute,
+spent every penny of every line of credit he could get his hands on,
+made a master list of everything that still needed to be purchased,
+and lined up the purchase orders in advance.  He had front
+corporations set up in Europe and the Caribbean, with bank
+accounts in Lichtenstein and the Bahamas.  He leased
+a half-dozen plots of empty land in western U.S. states, selecting
+them for both isolation from towns and easy highway access.
+
+Finally, on a Friday afternoon, they went in.  First, they had their
+hacked routers cut all legitimate connections to the Keystone
+mainframe.  Their network administrators knew something was amiss, but
+focused at first at the apparent inability of users to login over a
+network that appeared to otherwise be functioning normally.  Meanwhile,
+the hackers instructed the mainframe to dump nearly every one of
+Keystone's NASDAQ securities onto the market, then immediately began a
+series of wire transfers to numbered bank accounts as the money from
+the sales rolled in.  By midnight, when they returned the routers to
+normal, Keystone Securities was effectively bankrupt.  The traders,
+being told only that there were network problems, had mostly taken off
+early.  The network administrators, puzzled at why the network had
+malfunctioned, then equally puzzled as it mysteriously returned to
+normal, shrugged their shoulders and went home.  It wasn't until
+Saturday morning that the company's partners began to realize the
+gravity of their situation.  They were bankrupt.
+
 
 
 T - 113 days
@@ -1276,14 +1409,171 @@ one end to the docking port on the other.  All of these tanks were
 equiped with thermostats and heaters, driven by fuel cells, to keep
 their contents liquid in the cold of outer space.
 
+----
 
-Finally, they all climbed onto the 747 from an accessway built from
-the ground to the rear of its left wing, then up a ladder to its roof,
-which Mercurio, the last one on, threw down to the ground behind him.
-Then they went up another disposable ladder to the airlock hatch on
-top of the bubble and entered the spaceplane via the airlock.  Captain
-Mercurio closed the airlock behind him.  Burns was already in the
-cockpit, running through a final pre-launch checklist with Alister.
+"What should we do with the NASA engineer?" Bryan asked.
+
+Mercurio thought for a moment.  The supply rockets were launching
+every five minutes and the 747 was completely fueled.  Burns
+was getting ready to switch the supply rockets' launch sequences
+to automatic, from which point there would be no way to stop
+them from the ground.
+
+"We can let her go now, I think," the Captain concluded.  He walked
+with Bryan to the locked supply closet where Andrea Yeats had been
+held for the last three days, and opened the door.  She had heard
+them coming and was standing by the wall, waiting for them.
+
+"Well, Doctor, you can go now," Mercurio announced.  "Sorry for
+your detention, but it was necessary at the time."
+
+He walked back to the room where Burns was monitoring the
+supply rockets.  Yeats followed him at a short distance.
+
+"The launch sequence is on automatic," Burns announced as they entered
+the room.
+
+There was very little to pack up.  Everything needed in orbit had already
+been loaded into either the supply rockets or the 747.  The control
+equipment on Earth, mostly ordinary computers, was all duplicate,
+courtesy of the mega-bucks from their mega-hack.
+
+
+"Look, if you're heading into space, you need an experienced astronaut."
+
+"Doctor, let me assure you, we don't need your help.  NASA aren't the
+only people capable of launching a manned mission.  We're more than
+capable ourselves."
+
+Andrea paused for a moment and adjusted her approach.  "Fine, you don't
+_need_ me.  You can _use_ my help.  You can _use_ an experienced
+astronaut, or do you think that someone with two shuttle missions
+under her belt would be useless to you?"
+
+Mercurio stopped walking and waved Burns to keep going.
+
+"Look, you don't even know what our mission is."
+
+"OK, so, why don't you tell me."
+
+Mercurio started laughing, and put his hand against the wall to brace
+himself.  The NASA engineer was dead serious.  Finally, he stopped
+laughing and looked back at her.
+
+"We're going to Mars."
+
+Now it was Yeats' turn to grin.
+
+"That's great; I've always wanted to go to Mars!"
+
+The two looked at each other and laughed together.  The situation was
+absolutely absurd.
+
+"Look, I don't even have a spacesuit for you."
+
+"I don't need one," she shot back.
+
+"Doctor, my policy is that everyone on this mission has a spacesuit."
+
+"So?  I thought NASA's biggest problem was that we're locked in to our
+policies and procedures."
+
+Mercurio turned back down the hallway and began walking again.  Yeats
+continued to follow as the Captain continued to voice objections.
+
+"We're not coming back here for a long time.  This isn't a decision
+to make on the spur of the moment."
+
+Yeats was silent for only moment.  If they made it to Mars, she wanted
+to be there, and if they didn't, they'd _really_ need her help.
+
+"Let me make my own decisions, Captain.  I want to be part of your
+mission."  /  "I can make my own decisions, in my own way, Captain."
+
+Mercurio looked back at her, grimaced and shook his head, but said
+nothing.  He walked out the back door and climbed into the driver's
+seat of one of the Jeeps parked there, setting his suit's power unit
+behind.  Yeats sat in the passenger seat without being invited and
+they drove in silence towards the runway and the spaceplane, Mercurio
+wondering how to get rid of her, Yeats composing herself by saying a
+silent prayer: "Lord, let me put my life here in your hands.  Let this
+man make the decision to do your will, and I will accept it.  Let me
+put my faith in you to provide for my life and its needs."
+
+Finally, they reached the 747 and climbed onto it from an accessway
+built from the ground to the rear of its left wing, then up a ladder
+to its roof.  Then they went up another ladder to the airlock hatch on
+top of the bubble and entered the spaceplane via the airlock.
+
+"Dr. Yeats wants to come with us," Mercurio announced to the surprised
+crew.  They looked at her and each other with an air of bewilderment,
+then finally back to the Captain.  Mercurio addressed himself to Burns,
+who had turned around in the pilot's seat and was looking back
+into the cabin.
+
+"Any technical reasons she can't go?"
+
+The engineer though for several minutes.  Their year's supply of food
+would be cut down to about eight months with her addition, but the
+rations wouldn't be enough to sustain them in any event.  It would
+just give them less of a margin for error for getting the greenhouses
+working.  The weight wasn't an issue on the 747, since almost
+everything was loaded into the cargo modules, another one of which
+launched as the Captain waited for an answer.  The roar of the rocket
+(launching) less than five miles away briefly drown out any
+conversation.  Alister, who had turned back to the engineer's station
+in the rear of the cockpit, broke the silence by announcing that
+the launch sequence was going as planned.
+
+"Well?" Mercurio prompted Burns.
+
+"I guess not; I can't think of any reason why not; not any technical
+reasons, that is."
+
+Mercurio turned back to the NASA engineer, standing behind him.  He
+opened his mouth, trying to tell her to get lost, but just closed it
+again after no words came out.  On the one hand, he was reluctant to
+make such a momentous decision so suddenly.  On the other hand, he
+knew / his gut told him that if they could work together, an
+experienced astronaut would be an invaluable addition to the crew.
+Perhaps his gut also told him something about this remarkable woman.
+Finally, in a completely uncharacteristic moment of aquiesance, he
+just waved his hand nonchalantly.
+
+"Fine, you can go."
+
+Vic got out of his chair and began taking off his spacesuit as
+Mercurio climbed back out of the airlock to throw the ladders
+down to the ground.  Andrea was arguing with Vic as he returned
+and closed the airlock behind him.
+
+"Look, you're putting on this spacesuit."
+
+"No, you wear your spacesuit, I'm fine without one."
+
+"I'm the ship's doctor, and I'm giving you a medical order.  You
+put on this spacesuit, now."
+
+As Mercurio looked on, Andrea gave up.
+
+"Fine," she said, and began suiting up as Mercurio walked forward
+and sat in the 747 captain's chair next to Burns.
+
+"Is this a good idea?" the engineer asked.
+
+"I don't know," the Captain answered.
+
+"Isn't it dangerous for Vic to not be wearing a spacesuit during
+launch?" Alister asked.
+
+"Yeah, but if he needs it during launch, we're all in trouble," Burns
+replied.
+
+Mercurio shook his head again, as he finished attaching his spacesuit
+supply lines to air hoses running to his seat along the floor, put his
+helmet on and sealed it.  For some reason, he just couldn't turn down
+the assertive but pleasant woman (from NASA).  He turned his attention
+to the final pre-launch checklist with Burns and Alister.
 
 "GPS?"
 
@@ -1297,15 +1587,8 @@ cockpit, running through a final pre-launch checklist with Alister.
 
 "Closed."
 
-The Captain came forward and strapped himself into the left-hand
-pilot's seat.  He was impatient to get airborne because of the
-vulnerability of the spaceplane to the police while on the ground,
-but he held his tongue until the engineers had finished, and settled
-for attaching his spacesuit supply lines to air hoses running to his
-seat along the floor, putting on his helmet and sealing it.
-
-"OK, everyone ready to go?" he asked, using the question in lue
-of a com check.
+"OK, everyone ready to go?" the Captain asked, using the question in
+lue of a com check.
 
 "We're ready," Burns confirmed, "Alister?"
 
@@ -1318,9 +1601,9 @@ his seat in the passenger section behind the cockpit.
 
 "Ready," the veteran astronaut proclaimed.  She hadn't answered at
 once because she had been double-checking the connections on the
-somewhat unfamiliar spacesuit.
+(somewhat) unfamiliar Russian spacesuit.
 
-"Let's go!!" the Captain proclaimed, and Burns hit the engine start
+"Let's go!" the Captain proclaimed, and Burns hit the engine start
 button on his touchscreen panel.  Far to their rear, electronically
 controlled values opened to let N-133 fuel and hydrogen peroxide
 oxidizer flow into the rocket engines, where they mixed and shot out
@@ -1379,7 +1662,7 @@ and placed it on a joystick to his right.
 "Release engine gimbles," he instructed.
 
 "Engine gimbles released," Alister acknowledged, after pressing a
-button and watching several indicators turn green.
+button and watching several indicators turn green / change color.
 
 The rocket engines, mounted in hydraulically mobile mountings, now
 swiveled at Burns' command.  He nudged forward on the joystick, the
@@ -1402,7 +1685,8 @@ push blood upwards in their bodies and ensure they remained conscious,
 now with more than five gees of thrust pressing against them.  Andrea
 had never experienced a launch quite like this.  Space shuttle
 launches were carefully profiled never to expose the crew to more than
-three gees of acceleration.
+three gees of acceleration.  Vic blacked out, the first unexpected
+consequence of Andrea's presence.
 
 Burns switched his primary display from the almost useless airplane
 indicators to an precomputed orbital injection profile based on
@@ -1474,7 +1758,7 @@ room and sending top secret papers flying everywhere.
 "What the hell do I have a CIA for if I've got to find out from CNN
 when 170 missiles get fired off in Utah?"
 
-That evening, the President addressed a nervous but unshaken nation,
+That evening, the President addressed a nervous / rapt but unshaken nation,
 informing them of basically what their news networks had been
 reporting for hours.  Aside from reassuring them that the U.S.
 government was carefully tracking the situation, the only new
@@ -2121,13 +2405,75 @@ was nearing it's end.  There would be plenty more opportunities for
 debate.  "Captain, what are your plans?  How long can you stay in
 orbit?"
 
-Mercurio rumaged in a storage bin and sent clothes flying all over
-the compartment.  Finally, he pulled out the T-shirt he was looking
-for, brushed a pair of jeans away from the TV camera and spread
-the black T-shirt out so it dominated the view field of the camera.
-It read: FUCK YOU, YOU FUCKING FUCKS.
+Mercurio rumaged in a storage bin and sent clothes flying all over the
+compartment.  Finally, he pulled out the T-shirt he was looking for,
+brushed away a pair of jeans that had drifted in front of the TV
+camera and spread the black T-shirt out so it dominated the view field
+of the camera.  It read: FUCK YOU, YOU FUCKING FUCKS.
 
 "We're going to Mars!"
+
+
+T + 6 days
+
+"Well, most human societies have been like this, but not all.  I think
+the American Indians were the best example of an alternative.  They
+raised their children to recognize wild edibles, to make fire by
+rubbing sticks together, to build a bow and arrows from natural
+materials that you'd find lying around a forest.  By the time they
+were fifteen years old, they could literally walk out into the woods
+and take care of themselves.  So you couldn't have a government, at
+least not in form you know it.  Government is based on coersion.  How
+can you coerce people who can just walk out into the woods if they get
+ticked off?  This is why murder and other violent crimes were almost
+unknown in these 'primitive' societies.  This is why the U.S.
+couldn't have had a War on Drugs, or anything like it, two hundred
+years ago.  Anyone who didn't like it could just pack up and move
+west."
+
+"So we should give up our technology and go back to living like
+Indians?"  X asked sarcastically.
+
+"It might not be a bad idea.  The human race is too primitive for
+all this technology.  You'd probably be better off living in the
+woods; happier, too."
+
+"Industrialization is what's changed.  In the last hundred years,
+well, two hundred years in Europe, but a hundred years in the U.S.
+and the rest of the civilized world, we've gone from a primarily
+agraian society to a primarily industrial one, and we've gone from
+most people living on farms to most people living in cities.  That
+means people are dependent on each other to an extent never seen
+before, and that exasperates the problems of society.  The fact is,
+most human societies are based on coersion, on greed, on the
+domination of man over man / of the strong over the weak.  The more
+industrialized society becomes, the more dependent people are on
+society / each other, the more oppressive society becomes.  There's no
+way around this, unless a hundred million people are going to wake up
+one day and just decide to change their human nature, to abandon greed
+for generosity, force for persuasion, and that's just not going to
+happen."
+
+"Well, I hate to break the news to you, but it has happened.  It's
+called democracy.  The entire operation of our government is based on
+persuasion.  That's why every four years men contest to become
+president, and the way they do that is through giving speechs, running
+advertisements, talking to voters, and the whole point is to persuade,
+not force, people to vote for them."
+
+"Well, if your government is so based on persuation, then why do you
+have one of the highest per capita incarceration rates on the planet?
+Why every time you turn on C.O.P.S, you see the police chasing after
+'criminals', gang-tackling them, and dragging them off to prison?  Why
+are you screaming for war on your own people and zero tolerance for
+your children?  The only people that the democrats persuade are the
+majority.  Everyone else is ruled through threat and fear.  The
+majority act real nice and polite to each other, then scream for the
+criminal's blood and elect all these men who talk about cracking down
+and getting tough, and how wonderful a world it is where anybody can
+start a business and ruthlessly try to compete in this brutual
+capitalist system.  The majority are perfectly willing to resort to
+force; they do it every day."
 
 
 T + 7 days
@@ -2458,8 +2804,88 @@ college wouldn't have got us to Mars."
 "So why did you come along?"
 
 Burns curled up and started laughing.  "Because I wanted to go to
-Mars!"  he finally burst out.  "What did you say when they asked you -
+Mars!"  he finally burst out.  "What did you say when he asked you -
 let me think about it for a few days?"
+
+Andrea smiled.  At the time of the launch, events had happened so
+quickly that she hadn't really thought through what Mercurio was
+proposing or what she had accepted / gotten into.  All she had seen
+was an opportunity to fly into space and some people who seeming
+needed her help.  In fact, she had almost assumed that they would
+quickly need her help to get back home.  In truth / fact, she
+was amazed by how little real help they had needed, and over
+time had developed a deep respect for the ship's chief engineer.
+Its captain she was still trying to figure out / Its captain
+was still a mystery to her.
+
+"Why is Mercurio captain and not you?" she now bluntly asked.
+
+Burns thought for a minute.
+
+"Well, it was his idea to fly to Mars, not mine.  And I don't want
+to be captain, not really.  But there's more to it than that."
+
+Andrea (patiently) waited until Burns went on.
+
+"Marc and I always got along well in college.  I could explain pretty
+much all the stuff we were studying and he (for his part) could
+understand it.  On the other hand, I was consumed with the books, and
+he had a lot more balanced perspective on life.  He liked to have fun,
+but he also knew when (he had) to study.  And he's wise, not just
+smart.  (Of all the people I know well) He's probably the deepest
+person I really know well.  He has balance.  And I found out something
+later on - he can lead, he can manage, whatever you want to call it."
+
+"Every job I had after college, I was either overwealmed with work, or
+bored out my mind.  Usually both at the same time.  That's the problem
+with being smart.  The smarter you get, the more you can do, and the
+fewer other people there are who can (help) do it.  Eventually, you get
+so smart that you can do almost anything, and nothing gets done."
+
+"When Marc proposed this thing, it just seemed like one more good
+idea.  But he knows how to get things done.  He asked me what I needed
+from him, and he told me what he needed from me.  And he's done a
+really good job of making sure I don't get overwealmed.  Even though
+this thing is so big, it's almost the easiest thing I've ever done.  A
+lot easier than some really simplier projects where I just didn't get
+the things I needed to get them done.  I've just planned it out,
+showed/explained all the plans to Marc, and he's figured out how to
+get someone else to do 90% of it.  I just do about 10% of the work,
+and usually the most interesting part anyway."
+
+"What do you mean, can you give me an example?" Andrea asked.
+
+"Well, consider when we developed that fuel for NASA.  I told Marc we
+could really use a new fuel, and that programs like _Gaussian_ might
+let us design one, but you know I didn't (have to) write a single line
+of code?  Oh, I had to do the router hack so we get some money to get
+started, but then he just hired a bunch of programmers, bought the
+software, sat me down with them to explain what we needed, and they
+went and did all the mundane stuff.  And then he hired a bunch of
+chemists to test it out, and got them to equip a chem lab.  I could do
+as much or as little as the testing as I wanted.  And then he hired a
+bunch of chemical engineers to design the manufacturing plant.  After
+I designed the rocket engines, he hired a bunch of Mexicans to
+actually run the factory to build them, and made sure they were smart
+Mexicans, not just a bunch of guys who would slap something together
+half-ass.  When it was time to equip the mission, I just came up with
+a list of things we needed, and he went and got almost all of them.
+And still understood everything enough to come back and ask me, well,
+shouldn't we take pure strains of these crops in case the hybrids
+don't grow well in space?  That's Marc.  He's the best boss I've ever
+worked for, and a good friend, too."
+
+"What do think of his politics?"
+
+Burns shrugged.  "Who knows?  If you ask him straight up, he'll admit
+that it's just his opinion and he might be wrong.  Anyway, I learned
+after college that most of the work we do is bullshit.  Whether he's
+right or wrong, I'd rather be flying to Mars than writing one more
+idiot routing protocol.  It's just boring, and I always had managers
+pushing me to do more and more and more.  If anything, Marc pushes me
+to do less and less.  He'll offload anything he can.  And Alister was
+a great find.  He's a lot of fun to work with, and a lot of stuff I'm
+sick of fooling with, he'll jump into.  Marc hired him, of course."
 
 
 
@@ -2719,6 +3145,32 @@ way.  At a crew meeting two days later, held around Alister's sick bed
 with his arm in a cast, Andrea was unanimously selected first officer.
 
 
+T + 519 days
+
+Back on Earth, the dramatic rescue of the young astronaut drew popular
+attention once again to the space mission.  The _Icarus_ was almost
+completely on the other side of the solar system, and radio communications
+with Earth were being relayed through a communications satellite
+Burns had launched into solar orbit just before leaving Earth.
+The end result was a half-hour time lag in communications that left
+both NASA and the rest of the planet as passive observers of the
+dramatic video footage relayed to them.
+
+Andrea Yeats' role in the rescue and subsequent elevation to first
+officer afforded her celebrity status.  A weekly American TV
+newsmagazine decided to interview her.  The hour-long round trip radio
+lag between Earth and the _Icarus_ dictated an unusual format for the
+interview.  Conducted in several sessions spread over two days, it
+consisted of a series of videotaped questions transmitted to the space
+craft.  After viewing each question, Andrea then dictated a response,
+which might later trigger followup questions.  The TV producers then
+edited the material into a coherent interview, with relatively few
+questions and relatively long responses.  An entire broadcast episode
+was deveoted to the interview.
+
+
+
+
 T + 520 days
 
 Due to the considerable radio time lag at this point, the media
@@ -2917,6 +3369,49 @@ he said, because it actually had a person operating it.  Good works
 are like that, it's not the outward appearance that's important, it's
 what's going on behind the scenes."
 
+"What do you think of the Christian right?"
+
+"Well, the Christian right seems to be much more a political movement
+than a spiritual one.  We here constantly from them about sex.  Sex,
+sex, sex, sex, sex.  Yet they're almost completely silent on something
+like Capitalism.  Chirst say 'give to all those who beg of you'.  He
+told one of his followers to sell all his worldly possesions and give
+the money to the poor.  Go ahead - try it.  Sell all your worldly
+possessions, give the money to the poor, and see how people treat you
+then.  The Christian right has almost nothing to say about this.  They
+rail about sex, but are strangely silent about the neighborhood
+merchant who puts a price tag on everything in his store and is
+standing there behind the cash register to take your money before you
+walk out the door.  And then you look at what they really propose.  So
+much of it involves more and more government regulation.  They want
+the government to ban abortions.  Look, I don't support abortion, but
+having the government 'get tough' with abortion clinics isn't the
+answer.  They're tough on crime.  Fine.  Christ said love your
+enemies.  Why don't you see them agitating for decent treatment of
+prisoners in jails?"
+
+"You mentioned the treatment of prisoners.  The United States,
+in particular, has all manner of regulations designed to ensure
+humane treatment of prisoners.  How are they inadequate?"
+
+"Well, I've never spent more than a night in jail, but if you look at
+the videotapes of how prisons are run, they look to me like military
+boot camps.  The prisoners are told when to get up, marched through
+dining halls, assigned to work projects, ordered here and there.
+Maybe more significantly, the prisons are seen as something between a
+threat and a punishment.  They're there to create fear in people; you
+obey the laws or else you go to jail.  In my mind, just about the only
+reason to imprison someone is because they're dangerous to other
+people and need to be isolated.  And once they've been isolated,
+there's no reason to go beyond that.  Just give them an apartment in a
+guarded complex, the level of security being dependent on how
+dangerous they are.  What rational reason is there for anything else?
+So much of how our prisons are run is based on anger and hatred.
+People don't love their enemies; they hate them, and they want to make
+them suffer, so that's why they want their prisons to be 'tough'."
+
+
+
 "OK, we've only got a few minutes left, let me change the subject, at
 least slightly.  You're a scientist, or at least an engineer, so what
 do you say to people who claim that there's no scientific proof from
@@ -2930,6 +3425,11 @@ Most of us don't want to perform that experiment just to satisfy our
 curiosity about God, but the fact remains that we will all die some
 day, and then you'll know.  So my answer to those people is just to
 wait - you're going to find out all about God."
+
+
+
+
+
 
 "Well, thank you for joining us this evening.  My guest had been
 Dr. Andrea Yeats, astronaut and Christian.  We'll be back in a minute
@@ -3016,6 +3516,9 @@ something done in life."
 "Don't you?  Haven't you?" she challenged him.  "How many millions did
 _you_ steal, captain?  How many toes did you step on?  Don't tell me
 you haven't become ruthless!"
+
+"If you learn to live with disappointment, she'll never leave you
+for another man."
 
 "We are landing this plane on Mars," Mercurio stated slowly and
 firmly, in a no-nonsense command tone of voice.  "That has been
@@ -3496,6 +3999,106 @@ agreed to the shuttle proposal, primarily because he had no other way
 to return to Earth from orbit.
 
 
+T + 740 days
+
+Andrea: "Well, one thing this attack suggests to me is that we're
+not sufficiently advanced as a species to possess jet aircraft.
+I wouldn't have said that a month ago; I certainly would have said
+that we're not advanced enough to possess nuclear technology,
+but now I have to say that it doesn't even look like we're
+advanced enough to possess jet aircraft.  Spiritually, we're not
+that far pass the bow and arrow stage, it seems."
+
+"Do you support the War on Terror?"
+
+"I don't support any war.  Christ taught us to forgive our enemies,
+and that's exactly what we should do.  In one sense, it shouldn't
+be that hard since the men who actually carried out the attacks
+died along with everyone else.  It's time to bury the dead,
+mourn over the victims, clean up the rubble, and really ask
+ourselves why our country is so hated that people would do
+this to us.  And that answer is pretty clear, I think."
+
+"Dr. Yeats, what is the answer?  What do you think the U.S. should do
+next?"
+
+"I think we decide to really help the people of the world instead of
+just talking constantly about (money and) politics.  Let's take all
+this technology, publish everything we know about how it works, make
+all that information freely available on the Internet, help third
+world countries develop their own microchip manufacuring facilities,
+their own chemical plants, their own robotic factories, etc.  Of
+course, that means giving up our 'competitive advantage' that we hear
+so much about.  It means helping people feed themselves, helping them
+educate themselves, helping them build their own infrastructure,
+instead of constantly talking about freedom while we pursue our own
+selfish ends."
+
+"What about the heroism of the hijackers?  What about the heroism of
+the young men who were willing to give their lives because they
+beleived that they were acting in their people's best interest?
+There were probably the only people who got on those planes that
+morning because they were trying to do the will of God."
+
+"Why aren't they heros?  We hear constantly about the heros who are
+bombing Afghanistan; why are they heros and these men aren't?  I mean,
+they were willing to sacrifice their lives for some greater good;
+isn't that heroism?  What difference does it make whether the evil
+they were trying to fight was capitalism or terrorism, or whether it
+really is evil, or if they just beleive it in their minds, or if
+terrorism is really heroic, or if war on terrorism is really heoric?
+Isn't heroism about giving of yourself for someone else, and even
+if it's misguided, isn't it still worthy of our respect?"
+
+Mercurio: "I don't think we need all these security restrictions.
+First of all, most of them wouldn't have stopped the terrorists
+on 9-11.  They didn't have guns, or bombs, or chemicals of any kind.
+And, frankly, a knife is so easy to conceal; I mean, you can take
+a sharpened stone that won't trigger a single metal detector,
+jam it into the sole of your shoe or something; it'd be so easy to
+get knifes on board the airplanes.  I doubt you even need weapons
+of any kind.  A half dozen men well trained in martial arts is
+probably good enough."
+
+"So how can we stop future attacks?"
+
+"There aren't going to be any future attacks, not like this.  We saw
+that in Pennsylanvia.  It took about an hour for the rules to change.
+It used to be, if someone hijacked an airplane, you just put up your
+hands and said, 'OK, where you want to go?  Claim your responsibility.
+Make your demands.'  Now, that's all changed.  The passengers and crew
+won't let hijackers take over a plane again.  They'll crash it first.
+So there just aren't going to be any more attacks like this one.
+That's why they used four planes; they knew it was a one-shot deal."
+
+"So we should just do nothing and let the terrorists win?"
+
+"First of all, a lot of what can be done has been done.  Like I said,
+there aren't going to be any more 9-11 style attacks with airplanes.
+Next, there isn't a whole lot you can do.  Especially if these anthrax
+letters are the next in a series of attacks.  If each attack is
+radically different from the last, if each one exploits a different
+avenue of attack, really, what can you do?  Maybe hope your intelligence
+people can penetrate the organization or at least figure out how
+they coordinate and communiate, that's about it.  Everything else
+is just reacting to the last attack."
+
+"This notion that they exploited the freedom of our society is absurd.
+They exploited capitalism, and they were able to exploit it because
+they were backed by a multi-millionaire.  If they didn't have
+thousands of dollars in funding, would the great 'free' society have
+trained them on how to fly these jets?  Would the airlines have just
+let them fly for nothing while they were scouting them out?  Would
+they have even been let on the planes that morning if they hadn't
+swipped through a credit card first?  Money is how capitalism controls
+people, and if the terrorists hadn't had money, the 'free' society
+would have slammed every door shut in their faces."
+
+Mercurio cut him off.  "They would never have been let on those planes
+without money.  They would never have been let on those planes.  They
+didn't exploit freedom... they exploited capitalism!"
+
+
 T + 750 days
 
 After the first burn to put them back onto a course for Earth,
@@ -3691,7 +4294,80 @@ and get the ship running again.  By now they are so close
 to Earth orbit that they decide to go for a slingshot by
 the planet, followed by orbital interface.
 
+-----------
 
+Alister had been seriously reading the Bible for the first time.
+Along with the rest of the crew, he had been receiving plenty of email
+from fundamentalists.  Most of the _Icarus_ crew deleted it along with
+the rest of their junk mail.  Apparently Alister did not.
+
+"Do you think we're living in the End Times?" he asked Andrea.  "What
+do you have to do to be saved?"
+
+Andrea pushed away the laptop she was working on.
+
+"Well, first of all, I don't pretend to understand the book of
+Revelation.  Beasts with seven heads, strange numerology...  People
+attach all kinds of meanings to it.  But I'll tell you this.  Even a
+cursory reading of Revelation shows that it's not about the end of the
+world.  What happens at the end?"
+
+"There's like a thousand years of peace, right?"
+
+Andrea nodded an affirmative response.
+
+"So at the very least, we can say that it's about a period in human
+history torn by war, oppression, deceit and natural disasters, than
+ends with the triumph of good.  So I don't even think about the End
+Times; I know people call it that, but I think about Revelation as
+more like the Transition Times."
+
+"What do you have to do to make it through?"
+
+"Well, that's the nice part.  Revelation doesn't tell us how to live;
+the Gospels do that, and in fairly plain language, at least compared
+to Revelation.  That's why I don't pay too much attention to
+Revelation.  Maybe I should pay attention to it, but when I read the
+Bible, it's usually the Gospels, because that's where Jesus tells us
+how to live.  And the basic rules are pretty simple: Love God -
+unconditionally, and love your fellow man - unconditionally.  And even
+though that sounds easy, it can be really tough to figure it out in
+practice.  I'm dealing with that right now."
+
+"What do you mean?"
+
+Andrea paused, then decided to go on.  Perhaps it was important
+for the young man to know that she didn't always have all the answers,
+and that just because you believed in Christ, you didn't always
+know what was the right to do.
+
+"Do you remember the day you met me, I arrived by cab?"
+
+Alister nodded.
+
+"The reason I arrived by cab was... was because I had picked
+up a hitchhiker in the rental car I had gotten at the airport,
+and...  he raped me and stole the car."
+
+"What?" Alister asked, incredulous.  Andrea nodded.
+
+"And that's not all.  After I came along on the mission, and started
+getting my picture on TV, he started sending me emails.  Said he'd
+hunt me down, that he'd come and get me."
+
+Behind her, the captain had entered the compartment without being
+seen.  He listened as the engineer continued her story.
+
+"He thought he'd covered his tracks, that I couldn't figure out where
+the emails had come from, but he didn't recon with Burns.  Before he
+died, I asked him to track this guy down and he did.  I've got a file
+full of a half-dozen emails, all tracked back to their source.  And I
+don't know what to do with it.  Does forgiving your enemy mean just
+dropping it and hitting the delete key?  What about other women he
+might victimize?  Don't I have an obligation to them, too?"
+
+
+-----------
 
 
 T + 800 days
@@ -3765,6 +4441,39 @@ him.  He took off his glasses and tossed them down on the desk.
 
 "Well, the president said to bring them back, so bring them back.  I
 just hope we get the damn shuttle down in one piece."
+
+
+
+--------
+
+Vic: "What's going to happen to U.S, Marc?  I mean, really?"
+
+Mercurio was silent for a minute.  Only the hum of the air conditioner
+could be heard.  The doctor has blurt out the question that millions
+of people had wondered at times, and much more recently since
+September 11.
+
+"Well, I don't for sure; I don't have a crystal ball or anything.  I
+don't think it's going to change; the country seems absolutely
+committed to capitalism, and it _is_ absolutely committed to
+democracy."  He threw up his arms in an air of desperation, like a man
+watching a ship full of drowning people helplessly from the shore.
+"Hell, I hope I'm wrong.  I hope they can work out their problems."
+
+"But you don't think they will."  It was more a statement than a
+question, but the captain shook his head in response.
+
+"No," he answered softly, then took a deep breath and exhaled.  "My
+best guess is that its people'll just rip it apart from within.  It
+keeps getting more and more violent, and the only solution the
+democrats have is to keep cracking down harder and getting tougher.
+Eventually the violence of its own people will destroy it.  That's my
+best guess."
+
+
+--------
+
+
 
 
 T + 807 days
