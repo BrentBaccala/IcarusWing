@@ -1,5 +1,4 @@
 
-
 		Icarus' Wing
 
 This is a historical novel.  Many of the events and characters are
@@ -27,127 +26,167 @@ until the staff updated the whole OS installation.  But this hack was
 even better.
 
 They had been planing it for months.  Well, they'd been talking about
-it for years really, but months to actually do it.  First, Burns got a
-job with MiraCom.  MiraCom didn't advertise much.  They weren't listed
-in any web directory.  In fact, they had a fulltime Internet
-P.R. officer, one of whose jobs was to get the company un-listed from
-any web search engines it managed to get it's name into.  MiraCom had
-a handful of clients, but almost all were state governments, all paid
-well, and on time, and the directors had no desire to attrack any more
-attention than they had to.  MiraCom was the United States' largest
-supplier of lottery software.  They were always on the lookout for
-sharp programmers.
+it for years really, but months to actually do it.  They targeted a
+major router manufactuer.  Routers, for the uninformed, are the
+telephone switches of computer networks, that handle almost all the
+data packets and make decisions about how to get data packet X to
+destination Y. First, Burns got a job with the company.  It wasn't
+hard.  An economic boom was in progress, every bunch of
+twenty-somethings with a neat program had a startup corporation
+running, and skilled programmers were in short supply.  Various ideas
+were proposed to hack them, ranging from tapping into the router line
+and hopeing somebody will come in and type the password in the clear,
+to Burns' pet scheme for an Ethernet wiretap built from a
+thousand-plus element phased array to built in the woods across from
+the company's office park.  Unfortunately they neither the money nor
+the manpower to construct such a device.  Finally, Marcelius Mercurio
+stepped in and showed why he was the Captain.  Somebody just had to go
+in and get a job with them.  Burns' qualifications were impecable.
 
-A typical installation featured a computer in a sealed room, running
-exactly and only the MiraCom software, the only output being a video
-cable and an RS-232 line over which another computer (several,
-usually) were informed of the winning numbers.  Some states performed
-a lottery drawing every five minutes.  Various people had ideas to
-hack them, ranging from tapping into the router line and hopeing
-somebody will come in and type the password in the clear, to Vic's
-scheme for an Ethernet wiretap built from a thousand-plus element
-phased array to built in the woods across from MiraCom's office park.
-Finally, Marc Mercurio stepped in and showed why he was in charge.
-Somebody just had to go in and get a job with them.  Burns'
-qualifications were impecable.
-
-At first he just watched the place, as he went about coding a new 3-D
-graphics look for the State of Nevada's lottery.  Back at the rented
-apartment, Marc drilled him for days to read passwords - Burns
-looking over Marc's shoulder as he typed and telling him what he just
-entered.  They'd drill for an hour each day, which Marc liked to say
-way the minimum amount of time to put into doing something.  It was a
-big pain, Burns hated it, and turns out they never used them, but by
-the end of the month they had every important password in the place.
+At first he just watched the place, as he went about his assigned
+coding project - a boring extension to a ten-year-old routing
+protocol.  Back at the rented apartment, Marc drilled him for days to
+read passwords - Burns looking over Marc's shoulder as he typed and
+telling him what he just entered.  They'd drill for an hour each day,
+which Marc liked to say way the minimum amount of time to put into
+doing something.  It was a big pain, Burns hated it, and turns out
+they never used them, but by the end of the month they had every
+important password in the place.
 
 They spent the time getting a good look at the development system.
-Marc went right for his favorite program - the gcc compiler.  It was
-several years old, and Marc asked Burns to float a question with
-management about updating it.  "Skipper" yelped with glee when Burns
-returned with the answer.  MiraCom wasn't just turning down the idea;
-they were dead set against upgrading the compiler for fear of hackers
-putting something "funny" in it.  "This means," Marc spurted after
-his bout of laughter and clapping, "that we can change the compiler
-with near absolute certainty that they won't just upgrade it away in a
-few months."  He didn't want to repeat his college experience of an
-upgrade taking away a favorite hack.  The stakes were a lot higher,
-too.
+Burns went right for his favorite program - the gcc compiler.  It was
+several years old, and he floated a question with
+management about updating it, and practically yelped with glee when
+he heard the answer.  They wasn't just turning down the idea;
+they were dead set against upgrading the compiler.  Since their
+routers used several different hardware platforms, custom compiler
+configurations were required for each platform.  This meant a lot
+of work to upgrade the compiler, which could only be justified
+by a significant improvement.  Also, they expressed fear of hackers
+putting something "funny" in a newer compiler.
 
-Having settled on the compiler, they set to work on the hack, Marc
-doing most of the coding, Burns reviewing the code each night,
-watching over his shoulder and doing code reviews.  They were
-determined to do it right.  The virus was designed to disappear into
-the compiler's binary, recreating itself if the compiler was asked to
-re-compile itself, as well as infecting the target program.  Since
-they weren't too sure about the target program, they added another
-feature - a third prong of the virus, targeted against the operating
-system kernel, that would give them a back door.  Marc didn't have a
-job, so made sure he fixed dinner every night and generally took care
-of the apartment.  It was just the two of them living there, and on
-weekend nights they'd party with some of the waitresses from a seafood
-joint Burns liked to hit for a quick drink on the way home from work.
-They'd stay up 'till two or three in the morning, smoking dope,
-snorting coke, cranking the tunes.  Just like their college days.
+"This means," Burns spurted through a exhaled mouthful of marijuana
+smoke, "that we can change the compiler with near absolute certainty
+that they won't just upgrade it away in a few months."  He didn't want
+to repeat his college experience of an upgrade taking away a favorite
+hack.  The stakes were a lot higher, too.
+
+Having settled on the compiler, they set to work on the hack, Burns
+doing most of the coding, Marc watching over his shoulder and doing
+code reviews.  They had to get it right.  The virus was designed to
+disappear into the compiler's binary, recreating itself if the
+compiler was asked to re-compile itself, as well as infecting the
+target program.  Since they weren't too sure about how they would
+alter the router software, they added another feature - a third prong
+of the virus, targeted against the operating system kernel, that would
+give them a back door.  Marc didn't have a job, so he fixed dinner
+every night and generally took care of the apartment.  It was just the
+two of them living there, and on weekend nights they'd party with some
+of the waitresses from a seafood joint Burns liked to hit for a quick
+drink on the way home from work.  On weekends, and some weeknights,
+they'd stay up 'till two or three in the morning, smoking dope,
+snorting coke, cranking the tunes.  Just like college.
 
 The problem remained of getting the hack into the compiler; probably
-the hardest step.  They knew the root passwords, but Burns wasn't
-supposed to have them, and the question remained of when could he
-successfully use them to hack the main development system.  Marc
-resolved the question - they wouldn't use the passwords at all, but
-rather waited until the system was down for a routine maintenance.
-Burns made sure he was in the server room that day, working on a
-tricky install of a 3-D accelerator on one of the test machines.
-Somehow, he just couldn't get the drivers installed right, until
-everyone was out of the room for a few minutes.  He slapped a cable
-onto a special PCMCIA card that had been siting in the laptop for the
-last week, plugged the other end into the server's hard drive, powered
-it, hit a three-key sequence on the laptop, which beeped two seconds
-later.  Burns killed the power before the server's CPU had gotten out
-of BIOS, replaced the original cable to the drive, and walked away
-with his laptop.  Since they weren't using a cryptographic file system
-yet, they didn't even have to worry about forging signatures.  He
-finished the tricky install in less than five minutes and left, just
-as the server workers came back with the new power supply.  He had
-been practicing at home.  The whole operation took less than 10
+the hardest step.  They thought they knew the root passwords, but
+Burns wasn't supposed to have them, and the question remained of when
+could he successfully use them to hack the main development system.
+Log entries are generated when root passwords are used, and while they
+could be fudged, it was an extra level of complexity that Marc, a firm
+beleiver in K.I.S.S, didn't want to deal with.  Marc resolved the
+question - they wouldn't use the passwords at all, but rather waited
+until the system was down for a routine maintenance.  Burns made sure
+he was in the server room that day, working on a tricky install of a
+new high-speed optical interface in one of the test machines.
+Somehow, he just couldn't get the settings right, until everyone was
+out of the room for a few minutes.  He slapped a cable onto a special
+PCMCIA card that had been siting in the laptop for the last week,
+plugged the other end into the server's hard drive, powered it, hit a
+three-key sequence on the laptop, which beeped two seconds later.
+Burns killed the power before the server's CPU had gotten out of BIOS,
+replaced the original cable to the drive, and walked away with his
+laptop.  Since they weren't using a cryptographic file system yet,
+they didn't even have to worry about forging signatures.  He finished
+the tricky install in less than five minutes and left, just as the
+server workers came back with the new power supply.  He had been
+practicing at home for a week.  The actual hack took less than 10
 seconds.
 
 Now they leaned back and waited.  Marc starting spending his days at
-the library, as well as starting to make some discrete inquires about
-land in the midwest.  Burns tinkered with the virus a few more times,
-but they were already in, so it was just a matter of copying a file up
-to the server and running a bizarre little system call that should
-just have returned an error but instead jumped into the file's code at
-full kernel privledge.  Burns was really careful every time he used
-it, because a slipup would crash the system and that might begin to
-attract attention.  Marc insisted that each change was carefully
-tested before Burns installed it.  They practiced better software
-design on the hack than anybody in the company did on their software.
-They had to - they couldn't afford a bug.
+the library, researching various computer companies as well as
+starting to make some discrete inquires about land in the midwest.
+Burns tinkered with the virus a few more times, but they were already
+in, so it was just a matter of copying a file up to the server and
+running a bizarre little system call that should just have returned an
+error but instead jumped into the file's code at full kernel
+privledge.  Burns was really careful every time he used it, because a
+slipup would crash the system and that might begin to attract
+attention.  Marc insisted that each change was carefully tested before
+Burns installed it.  They took a test suite for the compiler, added
+several tests to check and verify the correct operation of the virus,
+and ran it against every proposed update to make sure everything was
+working flawlessly.  If they found a problem, or added a new feature,
+they added a test case to make sure it didn't crop up again.  They
+practiced better software design on the hack than anybody in the
+company did on their software.  They had to - they couldn't afford a
+bug.
 
-Three weeks later Burns watched a production system getting ready to
-head for Kansas make a Keno drawing.  The night before, he had
-declared the hack done and written down a list of Keno numbers.  They
-had replaced the random number generator with one of their own, and
-Burns couldn't surpress a smile under his face as the numbers came up
-on the screen the next day.
+Burns got sick of the job and quit.  He had never taken the job
+because he liked it.  Told his boss he'd had a better offer elsewhere,
+which wasn't unusual in the prevalent economic environment.  Declined
+to discuss it.  Was offered a raise.  Politely refused.  He offered
+two weeks more work.  Politely declined.  They handed him his last
+paycheck and he walked out the door for the last time.
 
-With the hack done, the team started to clean up shop.  Burns quit.
-Everyone else was heading for the Southwest, and he had never taken
-the job because he liked it.  Told his boss he'd had a better offer
-elsewhere.  Declined to discuss it.  Was offered a raise.  Politely
-refused.  He offered two weeks more work.  Politely declined.  They
-handed him his last paycheck and he walked out the door for the last
-time.
+They'd come to regret that later, but Burns was never very good at
+working on a boring job.  He'd either find other people to pass it off
+to, or drop it entirely.  Mercurio didn't like this tendancy, but had
+learned to deal with it over the years, and knew he had to keep Burns
+supplied with a steady stream of new challenges, so he let it pass.
 
-Vic had located a ranch site in New Mexico; pretty high up, flat, and
-twenty miles down a back road.  A good road, though - dirt, but a good
-road that trucks could come down.  Marc started to spend money, now -
-used trailers for the construction site; a front corporation; phony
+Three months later, the manufacuer released the first production
+version of their router software unwittingly compiled with the hacked
+compiler.  That meant that the software was hacked, as was any
+customer who downloaded and used it.  Many did, both because software
+had a deserved reputation for poor quality, necessitating frequent
+updates, and because the company was constantly adding new features.
+This release had an additional feature they didn't count on.  It
+allowed a carefully formed packet to run arbitrary code on the router.
+Burns kept improving the hack.  Since almost all the routers were
+somehow connected to the net, he could get away with this even though
+he no longer worked for the company.  Soon, he could wiretap the
+routers, retreieve their passwords, add new passwords without them
+appearing in any configuration files, generate connections that
+seemed to appear out of thin air, and generally infiltrate any
+network using the company's routers.
+
+Their first major target was a manufactuer of Keno software.  They had
+toyed with the idea of hacking a bank, but both men reasoned that bank
+security would be very tight, neither had any inside experience
+working at a bank, and a hack that made money appear out of nowhere
+would be very suspicious to auditors.  Instead, they settled on the
+Keno maker.  They went for a very subtle hack, that replaced the
+random number generator with one of their own, and Burns couldn't
+surpress a smile under his face a month later as he sat in a bar and
+watched the numbers came up on the screen.  They matched the list he
+had drawn up the night before.
+
+Mercurio called a old friend his, a doctor named Victor Antonov, who
+knew a real estate broker who knew a a ranch site in New Mexico;
+pretty high up, flat, and twenty miles down a back road.  A good road,
+though - dirt, but a good road that trucks could come down.  Marc
+brought Vic in on the hack, since he knew he would need a doctor, and
+his old friend topped the list, and now started to spend money - used
+trailers for the construction site; a front corporation; phony
 building permits for a large dairy.  Vic asked about the money; the
-leader just shrugged.  "If the hack works, we've got some cash," he
-said, "if not, we've got problems no matter what."  "Do you think we
-should stake everything on this hack?"  "No," Marc answered after a
-short pause, "but I am."
+Captain just shrugged.
+
+"If the hack works, we've got some cash," he said, "if not, we've got
+problems no matter what."
+
+"Do you think we should stake everything on this hack?"
+
+"No," Marc answered after a short pause, "but I am."
 
 The break can within six months.  The Kansas state jackpot in the
 Pick-Five-Plus had risen to over $11 million.  Marc knew the numbers
@@ -283,7 +322,9 @@ liquid at room temperature, that could be synthacized from nitrogen
 gas after a string of six reactions.  The kicker was that it reacted
 with hydrogen peroxide, without a catalyst, to produce a specific
 impulse close to 1000, which was higher by far than any conventional
-rocket fuel.
+rocket fuel.  Since it was the hundred and thirty third nitrogen
+compound suggested by the computer as a possible fuel, it
+retained its original designation and became known as N-133.
 
 They sold it to NASA in a heartbeat, and were briefly the next glamour
 company looking forward to a mega-IPO.  Mercurio patented the formula
@@ -776,8 +817,27 @@ the jail."
 "I'll go," Brian said.  Marc started to object.  "No, I told you you
 needed someone for security, and this is exactly what I meant."
 
-They went down in CH-47 Chinooks, sat the choppers down on an empty mesa twenty
-miles away, and waited for the TV to show the police driving out.
+Mercurio led the raid.
+
+Vic went along, but said he was a doctor and wasn't going to use a
+weapon.
+
+They went down in CH-47 Chinooks, sat the choppers down on an empty
+mesa twenty miles away.
+
+"Take this!" Marcelius yelled at Vic and shoved an M-16 at him.
+
+"No!" the doctor answered and backed off.  "I'm not using one of those
+things!"
+
+"Just take it and aim it at the cops!"
+
+"No!"
+
+"Look!  I need a show of force.  I've got to look like I'm in control!
+Now, take a gun and hold it at the police!"
+
+, and waited for the TV to show the police driving out.
 As soon as they hit the road, the choppers were in the air.
 
 Brian shot out the lead cop car's engine and jumped onto the ground,
@@ -1128,6 +1188,21 @@ sent top secret papers flying everywhere.
 
 "What the hell do I have a Department of Homeland Security for if
 I've got to find out from CNN when 170 missiles get fired off in Utah?"
+
+
+T + 1 day
+
+Once in orbit, the crew got right to work.  They had to.  Most of
+their fuel and supplies were in the cargo modules, which were built
+around a three-part design.  The first stage boosted the module to
+orbital height and speed, though with a perigee still in the
+atmosphere.  After detaching the first stage, the second stage fired
+briefly at apogee to raise the module to a circular orbit, while the
+first stage dropped back into the atmosphere and burned up.  Atop the
+second stage was the cargo module itself, equiped with a laptop
+computer using a radio communications link and a fuel cell fed
+from supply lines of N-133 and peroxide.
+
 
 
 T + 2 days
@@ -2170,497 +2245,6 @@ thing was for sure.  The woman who had saved Alister's life
 and been promoted to first officer had started to generate
 a lot of media interest.
 
-... Andrea goes here ...
-
-Meanwhile, Burns had devised a scheme to spray a insulation
-compound derived from carbon that stuck to all the asteroids
-they tested it on, and left a layer of insulation that withstood
-high temperatures.  He devised a way to spray and insulate
-the bottom of the 747.
-
----- They make it first to the astroid belt, where they outfit the
-ship with everything missing.  They build a giant carbon sprayer
-and in this way fix the two modules that still have meteor strikes
-that can't be sealed.  They sprayed the bottom of an old 747
-NASA had given them and began to wonder it to would work as a
-landing craft.
-
-	     CHAPTER CHAPTER CHAPTER
-
-They had made it back to Earth without incident.  Crouds, cheering,
-parties, Andrea vaquely remembered them.  She had settled back into
-life as a NASA engineer, and after the initial round of publicity
-wore off, back into some kind of routine.  The chance to go to Tokyo
-for a conference came up, and she jumped at it.  She was the keynote
-speaker, all the media wanted to interview her, and best of all a lot
-of people just didn't recognize her as she walked around downtown.
-Those who did were invariably polite.  She came back to her hotel
-after a wonderful sushi dinner, and was gazing out from her window
-at the city below.  Then the door was thrown open, she turned around,
-and gasped in fear.
-
-"Think I'd forgotten about you?"  He stood silohited in the lighted
-frame of the door as he walked into the dark room.  Her heart leaped
-with fear and her feet were frozen to the ground.  She couldn't
-move; couldn't scream... but yelled as she woke up.
-
-T + 624 days
-
-"Look we've made it this far without any serious problems."
-
-"Yeah, but all the really critical stuff's been well tested up until
-now.  Think about it.  We test-fired all the rocket engines before
-using any of them.  We burned extra fuel to keep the aerodynamic
-stresses on the 747 within its normal flight tolerances.  We
-brought spare fuel canisters in case the supply tanks didn't
-work."
-
-"And we didn't really need any of those things.  Look, the
-bottom line is that we said we were going to Mars, and now
-we're here and we have to land."
-
-"Why do you have to land?"  Andrea interjected.  The NASA engineer
-had floated into the room unnoticed during their debate.  "Why can't
-you just go back to Earth?  You've already accomplished more than
-almost any other space mission.  This will go down along with
-with Gagarin's flight and Armstrong's moon landing..."
-
-"We have to land!" the captain shouted.  Alister and Vic stopped work
-two modules away and moved closer to try to overhear more of the
-conversation.
-
-"If we don't land," he continued, "they'll say we failed, and then the
-capitalists will just come back two years from now and make the first
-landing on Mars; heck, they'll probably use our technology to do it."
-
-"So let them!" Andrea shot back, drawing only a snort in reply.  "Why
-do you have to risk everything just to win your private little war?"
-
-"Well, maybe you find this hard to understand from your cushy NASA
-perch," Marcellus continued, his voice dripping with sarcasm, "but
-there's a lot of people back home rooting for us to show the world
-that you don't have to become one of these ruthless bums to get
-something done in life."
-
-"Don't you?  Haven't you?" she challenged him.  "How many millions did
-_you_ steal, captain?  How many toes did you step on?  Don't tell me
-you haven't become ruthless!"
-
-"We are landing this plane on Mars," Mercurio stated slowly and
-firmly, in a no-nonsense command tone of voice.  "That has been
-the goal of this mission from day one.  We take the risks as they
-come, but we have a mission plan and we're going to carry it out."
-
-"OK, if we're going to do that..." Burns started, then stopped as
-Andrea flung herself through the hatchway, muttering something
-about "just like NASA" as she zoomed away through the spacecraft.
-
-"If we're going to do that," Burns continued, "I want to make at least
-one test pass where we just reenter through the atmosphere, fly down
-there without landing and come back up.  That way, we can take some
-low-level photographs of the landing area to make sure there aren't
-any nasty surprises waiting for us.  We might even want to survey
-several landing areas before we pick one.  We've got plenty of fuel
-now."
-
-"Sounds good.  Let's start getting ready."
-
-
-T + 650 days
-
-The bottom line was that any reentry attempt, even without a landing,
-required flying the 747 in atmospheric flight.  Only Burns had ever
-flown a 747.  Furthermore, the thin Martian air required a much higher
-airspeed and possibly presented handling challenges to the pilot.
-Only Burns, it seemed, could make a reentry attempt, and after the
-incident in the asteroid belt, the Captain decided against sending
-Alister with him.  Finally, it was decided that he would pilot the
-aircraft alone.
-
-Disaster on Mars.  Burns attempts to land the 747, but they hadn't
-gotten everything figured quite right.  The wings snap off during
-reentry and the whole thing goes up in a fireball.  Burns dies.
-
-The wings of the aircraft had been designed to flex, yet the carbon
-coating was rigid.  Burns and Alister had correctly calculated the
-aerodynamic forces from the reentry, and the dense layer of carbon
-was strong enough to withstand those forces, yet hairline cracks
-began to creep into the carbon during reentry.
-
-Burns' first warning was a loud crack that sounded like a firecracker
-or gunshot.
-
-"What was that?" he wondered aloud.
-
-The answer came less than a second later, as the left wing tore away
-from the fuselage and slammed into the tail before falling away
-towards the red planet below.  Liquid hydrogen gushed from the jagged
-hole in the plane's left side as it swerved into an uncontrollable
-spin.  The right wing crumbled under the new stresses, but before much
-more could happen one of the remaining engines ignited the leaking
-hydrogen and the entire aircraft disappeared into a ball of flame.
-
-In orbit, the Icarus crew were first stunned by the sudden loss of
-telemetry, then watched speechless as the aircraft flamed red on black
-against the planet surface below, then disintegrated into hundreds of
-tiny meteors that streaked silently into the Martian dawn.
-
-T + 651 days
-
-"Disaster on Mars" scream the newspapers.
-
-Most world goverments issue a Statement of Condolence.  The United
-States is critized in Europe for the lukewarm nature of its official
-comment.
-
-A tense but unharmed crew holds a staff meeting.  The Captain is silent.
-
-"OK, we should assemble the cargo modules into a chain, and get ready
-to go home," Vic began.
-
-"We can't assemble the cargo modules without the 747," Alister interjected.
-"At least, we can't yet.  I need to run some simulations.  We've got
-the cargo modules from the asteroid belt that we rigged to push things
-around, but I've got to figure how to get them... lined up in a row."
-
-"Well, how do we do that."
-
-"I don't know."
-
-"What do you mean, what's the first thing to do?"
-
-"I don't know.  I guess, I guess I've got to think about it for a while."
-
-The room fell silent.
-
-"Can you do it?" Brian asked quietly.
-
-"Do what?  Put the things in a row?  I think so."
-
-"Can you get us home?"
-
-Again the room was quiet.  Everyone except the Captain and Dr. Yeats
-were looking at Alister.  Finally Alister blurted out.
-
-"I don't know."
-
-The NASA engineer looked up.  She had been thinking carefully about
-what she wanted to say.  "Alister's not alone.  I've got more hours of
-spaceflight logged than anyone else here."
-
-Vic furrowed his eyebrows.  It was the first time he had thought about
-it, but Dr. Andrea Yeats would for many years hold the record for most
-lifetime hours of spaceflight.  She was going on.
-
-"And we've got this whole crew.  Alister's the chief engineer now, so
-if says he needs time to think about it and simulate it, fine.  He'll
-need help.  I can make myself do equations again.  I volunteer as
-assistant engineer."
-
-Bryan said, "We need you as first officer."
-
-Vic volunteers as assistant engineer, is accepted in lue of Dr. Yeats,
-and the meeting adjours.
-
-
-T + 652 days
-
-The Captain stops coming to staff meetings.
-
-Alister's face is plastered on the Earth tabloids.  "Can the kid get
-them home?" one asks.  Another focused on lurid details, supplied
-by a panel of experts, on what Burns' last moments must have been
-like.  U.S. rags like to publish how Edgar Cayce's prophesies had
-fortold the disaster.
-
-Dr. Yeats took to organizing Burns' library, made sure Alister had
-everything he asked for, suggested some books he hadn't thought about,
-and reading a bit herself.
-
-
-T + 658 days
-
-Alister begins maneuvering the cargo modules.  He can get them home,
-but the trip's going to take a lot longer than anyone had planned on.
-
-
-T + 690 days
-
-The captain drifted into the compartment and the conversation stopped.
-
-"Need anything, sir?" Bryan asked.
-
-"No, I'm just going to the infirmatory for an ibuprofin."  He drifted
-across and out through the hatch.  Andrea pulled out of the footholds
-and followed him.  He was going through the tablets as she entered
-the infirmatory, and hardly looked up to see who it was.
-
-"So what are you thinking?" she said after a moment.
-
-He answered with a snort.  "You don't want to know what I'm thinking."
-
-"Yes, I do."  He looked up at her.  "I really want to know what you're
-thinking."
-
-He looked back down at the capsules in his hand, dry swallowed two and
-shoved the rest back into the container.  Then he floated still and
-was silent for a while before answering.
-
-"I knew this thing was dangerous.  I guess I just always figured if
-somebody was going to die, it was going to be me, so... so what,
-right?  I didn't think it would be my best friend."
-
-"We all knew it was dangerous..." she started to answer.
-
-"No.  You were right.  I've cut so many corners on this thing, this
-mission, I might as well have reached out and killed them myself.
-I... I just don't...  I just should never have come."
-
-Andrea lowered her voice, moved closer, and took Marcelius Mercurio by
-the arm.
-
-"Look, let me tell you something I've never really told anyone.  I've
-been on three space shuttle launches, and watched a dozen more from
-Mission Control.  And every time, I mean _every_time_ they say those
-words 'Go at throttle up'..."  Her voice drifted off and she choked
-back tears.
-
-"You know why Challenger blew up?  The engineers knew it was too cold
-to launch.  But Ronald Reagan was giving a speech, and he wanted his
-teacher in space, and the mission managers thought, well, maybe we
-can let it slid a bit this time, no big deal."
-
-"Everyone cuts corners," she continued.  "People cut corners driving
-their cars - 'oh, I didn't have that much to drink, I'll be OK to drive' -
-people cut corners at work - 'it'll be OK, we need to get it out
-by the deadline' - people cut corners at home - 'Johny'll have another
-ball game next week, I'll make that one'.  People cut corners all the
-time - it's a fact of life," she emphasized as he shook his head and
-pulled away.
-
-"Not when people's lives are at stake," he answered.
-
-"You're a perfectionist," she stated in a matter-of-fact tone.
-
-"You're damn right I'm a perfectionist," he shot back.
-
-"And they died because you weren't perfect.  Your plan wasn't perfect,
-your software wasn't perfect, and you weren't perfect."  He looked her
-right in the eye.  "But I knew your plan wasn't perfect, and I came
-anyway.  And they knew it wasn't perfect, and they still followed
-you."  Now he looked down and away.  "And I know _you_'re not
-perfect... but I still love you."
-
-Mercurio didn't say anything in response, nor did he look up.  Andrea
-waited a moment longer, then returned to the smokers in the com shack.
-
-"I can't beleive I just said that," she mumbled to herself.
-
-"Said what?" Alister asked.
-
-
-T + 692 days
-
-"Look, I guess you can forgive me... I just don't know if I can forgive
-myself.  I mean..." his voice drifted off.
-
-"It's over.  It may take you a long time to forgive yourself; heck,
-you may _never_ forgive yourself, but it's over.  You made a mistake,
-now it's time to go on, because there's no other place to go."
-
-He nodded and said "OK", but wasn't really sure himself if he could do it.
-
-Mercurio pulled himself into the com shack a bit faster and bit more
-focused than he'd done in weeks.  "Alister?"
-
-"Sir?" the younger looked up from his computer game.
-
-"Plot a trajectory for Earth.  We break orbit in three days."
-
-
-T + 700 days
-
-"You give to others because that's how we were taught to live by Jesus."
-
-Vic spoke first.  "What if you don't necessarily beleive in Jesus?"
-
-"Well, I guess people used to believe the Earth is flat.  You can
-beleive whatever you want; the fact is that the Earth is round.  And
-I'm absolutely convinced that Jesus of Nazarath was the most
-spiritually advanced being to ever live on Earth.  So we should take
-his teachings seriously."
-
-
-T + 729 days
-
-With cork puller still attached, the cork went flying unheaded across
-the cabin as the Captain grabed for the plastic cover and slapped it over
-the top of the wine bottle.  Even so, several gobs of the red alcohol
-went floating into the air, the liquid's surface tension forming them
-into perfectly round spheres.  Andrea shook her head.
-
-"You'd think that after two and a half years in space, you'd have learned
-how to open a wine bottle without spilling it everywhere."
-
-"What I've learned," the Captain answered, as he spun across the
-compartment and swallowed one of the larger floating drops, "is that
-if you spill red wine in space, it's a lot easier to clean up than on
-Earth!"
-
-Mercurio spilt only a few more drops as he "poured" the wine into two
-wine glasses, each one quickly covered with a flat plastic square.
-Drinking from straws was much easier, but Marc had dug into the ship's
-stores an hour earlier, produced the glasses alongside the bottle, and
-Andrea had stood on tradition.
-
-"Cheers."
-
-They clinked glasses and laughed together as the Captain spilled wine
-all over his face as he tried to drink it.  Andrea grabbed a towel and
-started to wipe off his face.
-
-"You guys better come in here!" Alister yelled, then got up and
-propelled himself through the hatchway.
-
-"Well, m-maybe you want to come in here," he stammered as he realized
-that he was interrupting a "private" dinner.
-
-"What's up?" the Captain asked.
-
-"Somebody just smashed a plane into the World Trade Center!"
-
-At 1431 GMT, September 11, 2001, after first the event on Earth and
-then a radio transmission lag of exactly 3 minutes 17 seconds, the
-silent crew watched the second tower collapse.  In the days ahead, it
-would be revealed that Islamic terrorists had hijacked four American
-airlines.  Coincidently, or perhaps not, all were Boings.  Two had
-slammed, full throttle, into the twin towers of World Trade Center, at
-one time the tallest building in the world, and headquarters to dozens
-of major companies.  Burns would have suggested imagining the pictures
-you've seen of jet crash scenes, then trying to project it 100 stories
-above you onto a skyscraper in lower Manhattan.  Within hours, the
-buildings fell.  Bankers, mail men, fire fighters, bus boys - all lost
-their lives that terrible morning.
-
-Within days, the nation mobilized.  Medical teams sprung into action,
-fire fighters dove into the wreckage alongside men who walked up on
-the street and volunteered, desperate to find anything still alive in
-the tons of rubble.  At Andrea's suggestion, The Captain issued a
-statement of condolence, expressing his "deapest reget", and stating
-that it grieved him as nearly as much the death of his "dear friend
-Burns".  The entire crew followed suit.  Asked via videomail by the
-press about his comparison with Burns, he replied that though he
-deeply felt the loss in New York, he was sure the family's victims
-would concer that no one feels a loss more acutely than that of a
-loved one.  The media largely accepted this.
-
-Within weeks, President Bush attacked Afghanistan after correctly
-finguring Osama bin Ladin as the culprit.  The Captain began objecting
-to Bush's behavior, stating publically than an orderly extradition
-procedure should be followed rather than an invasion.  Andrea Yeats
-said that all parties should try to resolve their problems peacefully,
-though she ruefully noted that the Muslems would do good to accept
-Christ, and ruffled feathers by suggesting that the terrorists,
-misguided though they may have been, were probably the only people
-that morning who got on the airplanes because they were trying to do
-God's will.
-
-Within months, most of the old animosities had resurfaced.  The
-Captain was still openly critical of the western democratic
-establishment in general, and the Bush Administration in particular.
-Dr. Yeats became far more prominent, and far more controversial, by
-her repeated advice to end the war, moarn over the dead, then ask
-ourselves why so many people hated the country and decide to give our
-lives over to God to do something about it.
-
-Within a year, it had become obvious to many people that the September
-11th attack was not simply an outrageous act of terrorism, but in fact
-a devastatingly effective act of unconventional warfare.  While the
-political prong of the twin assult had failed, the economic prong had
-succeeded beyond belief.  Economies are complex systems, where events
-trigger other events, coast for a time, reflect from boundaries, then
-interact again, much like ripples on a pond, or perhaps a pile of
-leaves in the wind.  The intricate network of buyers, sellers,
-consumers, suppliers, distributors, bankers, salesman, real estate
-agents, and thousands of other occupations that form The Economy, that
-much-worshiped god of business plans, spreadsheets, balance sheets and
-profit-and-loss statements that the Captain would have called the
-Global Capitalist Economic System, had been dealt a crippling blow.
-The stock market was down.  And it stayed down.  As the analysts
-puzzled over corporate earnings ratios, and how many bargins were
-popping up on the market these days, and how a bottoming out had to
-occur soon, amid patriotic demonstrations of pride and determination,
-an almost insane euphoria that the terrorists would only "win" if we
-let them, and coming on the heels of a burst speculative bubble the
-year before, day after day, week and week, month after month, the
-market kept going down, down, and down.  Slowly, the men and women of
-the U.S, and the world began to realize the gravity of their
-situation.
-
-By the time the _Icarus_ was close enough to Earth orbit that the
-videomail was no longer needed, the U.S. was looking for heros, and
-for the men and women of the disastrously successful space mission,
-their hour had come.  Practically the entire anti-government movement
-finally dropped all their quibbles and lined up behind Marceleus
-Mercurio, ready to declare peace or war at his whim.  Some ministers
-and many religious people believed Andrea Yeats was a genuine
-spiritual leader.  Others added up the letters of her name in Chinese
-to obtain 666.  Alister Compton was declared the world's sexiest
-astronaut by a popular poll.  Vic spent hours on end holed up, working
-on a proposal to reform medical care that the AMA had invited him to
-make, and Bryan and his men were informally told that all charges
-against them would be dropped if they'd sign up as the U.S's first
-squad of Space Rangers.  Several proposals were floated for a memorial
-to Burns.
-
-President Bush told Mercurio that his was willing to send the space
-shuttle to retrieve them, but that he and his men would be arrested
-upon return to Earth and charged with crimes against them.  He hinted
-that they would probably be released on their own recognizance, but
-the Captain would hear none of it.  As the media began to speculate
-about what kind of legal reception awaited the crew, the Captain
-agreed to the shuttle proposal, primarily because he had no other way
-to return to Earth from orbit.
-
-
-T + 729 days
-
-Lou thumbed some papers on his desk and beat around the bush for
-a minute.  He didn't quite know how to ask what he wanted to ask,
-so finally he just blurt it out.
-
-"I'm looking for a volunteer flight crew to pick up the Icarus crew
-and land the shuttle in Europe or somewhere."
-
-The shuttle pilot and commander looked at each other, then back at the
-STS program coordinator.  "This isn't approved by the director, is it
-sir?"
-
-"No."  Lou paused before continuing.  "You can say I gave you the
-order to do..."
-
-The commander interjected.  "You can't give us that kind of order,
-sir.  We'd be court-martialed and thrown out of the space program,
-probably the entire military."
-
-An awkward silence fell over the room.  Breaking it, the pilot asked,
-"Is this a favor for Andrea?"
-
-Lou rubbed his hand over his balding scalp, noting the sweatiness of
-both his head and his hands, and nodded in response, "Yeah".
-
-"I'm in," he said, looking over at the shuttle commander.  Lou looked
-up with surprise.  He had imagined this interview going much
-differently.  Suddenly, he suddenly found himself outnumbering the Air
-Force colonel, who looked back and forth between the administrator and
-pilot before finally collapsing.
-
-"Ah, what the hell.  I'm sick of this gig, anyway.  Mission
-specialists have all the fun; all I do is command the thing!"
-
-
-T + 731 days
-
 "Captain Mercurio says the problem is democracy, that it's another
 communism.  Do you agree?"
 
@@ -2876,7 +2460,717 @@ fairly quite for a while, the captain in particular.
 
 
 
-T + 739 days
+Meanwhile, Burns had devised a scheme to spray a insulation
+compound derived from carbon that stuck to all the asteroids
+they tested it on, and left a layer of insulation that withstood
+high temperatures.  He devised a way to spray and insulate
+the bottom of the 747.
+
+---- They make it first to the astroid belt, where they outfit the
+ship with everything missing.  They build a giant carbon sprayer
+and in this way fix the two modules that still have meteor strikes
+that can't be sealed.  They sprayed the bottom of an old 747
+NASA had given them and began to wonder it to would work as a
+landing craft.
+
+	     CHAPTER CHAPTER CHAPTER
+
+They had made it back to Earth without incident.  Crouds, cheering,
+parties, Andrea vaquely remembered them.  She had settled back into
+life as a NASA engineer, and after the initial round of publicity
+wore off, back into some kind of routine.  The chance to go to Tokyo
+for a conference came up, and she jumped at it.  She was the keynote
+speaker, all the media wanted to interview her, and best of all a lot
+of people just didn't recognize her as she walked around downtown.
+Those who did were invariably polite.  She came back to her hotel
+after a wonderful sushi dinner, and was gazing out from her window
+at the city below.  Then the door was thrown open, she turned around,
+and gasped in fear.
+
+"Think I'd forgotten about you?"  He stood silohited in the lighted
+frame of the door as he walked into the dark room.  Her heart leaped
+with fear and her feet were frozen to the ground.  She couldn't
+move; couldn't scream... but yelled as she woke up.
+
+T + 624 days
+
+"Look we've made it this far without any serious problems."
+
+"Yeah, but all the really critical stuff's been well tested up until
+now.  Think about it.  We test-fired all the rocket engines before
+using any of them.  We burned extra fuel to keep the aerodynamic
+stresses on the 747 within its normal flight tolerances.  We
+brought spare fuel canisters in case the supply tanks didn't
+work."
+
+"And we didn't really need any of those things.  Look, the
+bottom line is that we said we were going to Mars, and now
+we're here and we have to land."
+
+"Why do you have to land?"  Andrea interjected.  The NASA engineer
+had floated into the room unnoticed during their debate.  "Why can't
+you just go back to Earth?  You've already accomplished more than
+almost any other space mission.  This will go down along with
+with Gagarin's flight and Armstrong's moon landing..."
+
+"We have to land!" the captain shouted.  Alister and Vic stopped work
+two modules away and moved closer to try to overhear more of the
+conversation.
+
+"If we don't land," he continued, "they'll say we failed, and then the
+capitalists will just come back two years from now and make the first
+landing on Mars; heck, they'll probably use our technology to do it."
+
+"So let them!" Andrea shot back, drawing only a snort in reply.  "Why
+do you have to risk everything just to win your private little war?"
+
+"Well, maybe you find this hard to understand from your cushy NASA
+perch," Marcellus continued, his voice dripping with sarcasm, "but
+there's a lot of people back home rooting for us to show the world
+that you don't have to become one of these ruthless bums to get
+something done in life."
+
+"Don't you?  Haven't you?" she challenged him.  "How many millions did
+_you_ steal, captain?  How many toes did you step on?  Don't tell me
+you haven't become ruthless!"
+
+"We are landing this plane on Mars," Mercurio stated slowly and
+firmly, in a no-nonsense command tone of voice.  "That has been
+the goal of this mission from day one.  We take the risks as they
+come, but we have a mission plan and we're going to carry it out."
+
+"OK, if we're going to do that..." Burns started, then stopped as
+Andrea flung herself through the hatchway, muttering something
+about "just like NASA" as she zoomed away through the spacecraft.
+
+"If we're going to do that," Burns continued, "I want to make at least
+one test pass where we just reenter through the atmosphere, fly down
+there without landing and come back up.  That way, we can take some
+low-level photographs of the landing area to make sure there aren't
+any nasty surprises waiting for us.  We might even want to survey
+several landing areas before we pick one.  We've got plenty of fuel
+now."
+
+"Sounds good.  Let's start getting ready."
+
+
+T + 650 days
+
+The bottom line was that any reentry attempt, even without a landing,
+required flying the 747 in atmospheric flight.  Only Burns had ever
+flown a 747.  Furthermore, the thin Martian air required a much higher
+airspeed and possibly presented handling challenges to the pilot.
+Only Burns, it seemed, could make a reentry attempt, and after the
+incident in the asteroid belt, the Captain decided against sending
+Alister with him.  Finally, it was decided that he would pilot the
+aircraft alone.
+
+Disaster on Mars.  Burns attempts to land the 747, but they hadn't
+gotten everything figured quite right.  The wings snap off during
+reentry and the whole thing goes up in a fireball.  Burns dies.
+
+The wings of the aircraft had been designed to flex, yet the carbon
+coating was rigid.  Burns and Alister had correctly calculated the
+aerodynamic forces from the reentry, and the dense layer of carbon
+was strong enough to withstand those forces, yet hairline cracks
+began to creep into the carbon during reentry.
+
+Burns' first warning was a loud crack that sounded like a firecracker
+or gunshot.
+
+"What was that?" he wondered aloud.
+
+The answer came less than a second later, as the left wing tore away
+from the fuselage and slammed into the tail before falling away
+towards the red planet below.  Liquid hydrogen gushed from the jagged
+hole in the plane's left side as it swerved into an uncontrollable
+spin.  The right wing crumbled under the new stresses, but before much
+more could happen one of the remaining engines ignited the leaking
+hydrogen and the entire aircraft disappeared into a ball of flame.
+
+In orbit, the Icarus crew were first stunned by the sudden loss of
+telemetry, then watched speechless as the aircraft flamed red on black
+against the planet surface below, then disintegrated into hundreds of
+tiny meteors that streaked silently into the Martian dawn.
+
+T + 651 days
+
+"Disaster on Mars" scream the newspapers.
+
+Most world goverments issue a Statement of Condolence.  The United
+States is critized in Europe for the lukewarm nature of its official
+comment.
+
+A tense but unharmed crew holds a staff meeting.  The Captain is silent.
+
+"OK, we should assemble the cargo modules into a chain, and get ready
+to go home," Vic began.
+
+"We can't assemble the cargo modules without the 747," Alister interjected.
+"At least, we can't yet.  I need to run some simulations.  We've got
+the cargo modules from the asteroid belt that we rigged to push things
+around, but I've got to figure how to get them... lined up in a row."
+
+"Well, how do we do that."
+
+"I don't know."
+
+"What do you mean, what's the first thing to do?"
+
+"I don't know.  I guess, I guess I've got to think about it for a while."
+
+The room fell silent.
+
+"Can you do it?" Brian asked quietly.
+
+"Do what?  Put the things in a row?  I think so."
+
+"Can you get us home?"
+
+Again the room was quiet.  Everyone except the Captain and Dr. Yeats
+were looking at Alister.  Finally Alister blurted out.
+
+"I don't know."
+
+The NASA engineer looked up.  She had been thinking carefully about
+what she wanted to say.  "Alister's not alone.  I've got more hours of
+spaceflight logged than anyone else here."
+
+Vic furrowed his eyebrows.  It was the first time he had thought about
+it, but Dr. Andrea Yeats would for many years hold the record for most
+lifetime hours of spaceflight.  She was going on.
+
+"And we've got this whole crew.  Alister's the chief engineer now, so
+if says he needs time to think about it and simulate it, fine.  He'll
+need help.  I can make myself do equations again.  I volunteer as
+assistant engineer."
+
+Bryan said, "We need you as first officer."
+
+Vic volunteers as assistant engineer, is accepted in lue of Dr. Yeats,
+and the meeting adjours.
+
+
+T + 652 days
+
+The Captain stops coming to staff meetings.
+
+Alister's face is plastered on the Earth tabloids.  "Can the kid get
+them home?" one asks.  Another focused on lurid details, supplied
+by a panel of experts, on what Burns' last moments must have been
+like.  U.S. rags like to publish how Edgar Cayce's prophesies had
+fortold the disaster.
+
+Dr. Yeats took to organizing Burns' library, made sure Alister had
+everything he asked for, suggested some books he hadn't thought about,
+and reading a bit herself.
+
+
+T + 658 days
+
+Alister begins maneuvering the cargo modules.  He can get them home,
+but the trip's going to take a lot longer than anyone had planned on.
+
+Without the 747,  all they could do was line up all the modules
+in more or a less a row, with one rocket engine in the very rear,
+and spend days under light thrust to make a burn.
+
+
+T + 690 days
+
+The captain drifted into the compartment and the conversation stopped.
+
+"Need anything, sir?" Bryan asked.
+
+"No, I'm just going to the infirmatory for an ibuprofin."  He drifted
+across and out through the hatch.  Andrea pulled out of the footholds
+and followed him.  He was going through the tablets as she entered
+the infirmatory, and hardly looked up to see who it was.
+
+"So what are you thinking?" she said after a moment.
+
+He answered with a snort.  "You don't want to know what I'm thinking."
+
+"Yes, I do."  He looked up at her.  "I really want to know what you're
+thinking."
+
+He looked back down at the capsules in his hand, dry swallowed two and
+shoved the rest back into the container.  Then he floated still and
+was silent for a while before answering.
+
+"I knew this thing was dangerous.  I guess I just always figured if
+somebody was going to die, it was going to be me, so... so what,
+right?  I didn't think it would be my best friend."
+
+"We all knew it was dangerous..." she started to answer.
+
+"No.  You were right.  I've cut so many corners on this thing, this
+mission, I might as well have reached out and killed them myself.
+I... I just don't...  I just should never have come."
+
+Andrea lowered her voice, moved closer, and took Marcelius Mercurio by
+the arm.
+
+"Look, let me tell you something I've never really told anyone.  I've
+been on three space shuttle launches, and watched a dozen more from
+Mission Control.  And every time, I mean _every_time_ they say those
+words 'Go at throttle up'..."  Her voice drifted off and she choked
+back tears.
+
+"You know why Challenger blew up?  The engineers knew it was too cold
+to launch.  But Ronald Reagan was giving a speech, and he wanted his
+teacher in space, and the mission managers thought, well, maybe we
+can let it slid a bit this time, no big deal."
+
+"Everyone cuts corners," she continued.  "People cut corners driving
+their cars - 'oh, I didn't have that much to drink, I'll be OK to drive' -
+people cut corners at work - 'it'll be OK, we need to get it out
+by the deadline' - people cut corners at home - 'Johny'll have another
+ball game next week, I'll make that one'.  People cut corners all the
+time - it's a fact of life," she emphasized as he shook his head and
+pulled away.
+
+"Not when people's lives are at stake," he answered.
+
+"You're a perfectionist," she stated in a matter-of-fact tone.
+
+"You're damn right I'm a perfectionist," he shot back.
+
+"And they died because you weren't perfect.  Your plan wasn't perfect,
+your software wasn't perfect, and you weren't perfect."  He looked her
+right in the eye.  "But I knew your plan wasn't perfect, and I came
+anyway.  And they knew it wasn't perfect, and they still followed
+you."  Now he looked down and away.  "And I know _you_'re not
+perfect... but I still love you."
+
+Mercurio didn't say anything in response, nor did he look up.  Andrea
+waited a moment longer, then returned to the smokers in the com shack.
+
+"I can't beleive I just said that," she mumbled to herself.
+
+"Said what?" Alister asked.
+
+
+T + 692 days
+
+"Look, I guess you can forgive me... I just don't know if I can forgive
+myself.  I mean..." his voice drifted off.
+
+"It's over.  It may take you a long time to forgive yourself; heck,
+you may _never_ forgive yourself, but it's over.  You made a mistake,
+now it's time to go on, because there's no other place to go."
+
+He nodded and said "OK", but wasn't really sure himself if he could do it.
+
+Mercurio pulled himself into the com shack a bit faster and bit more
+focused than he'd done in weeks.  "Alister?"
+
+"Sir?" the younger looked up from his computer game.
+
+"Plot a trajectory for Earth.  We break orbit in three days."
+
+
+T + 700 days
+
+"You give to others because that's how we were taught to live by Jesus."
+
+Vic spoke first.  "What if you don't necessarily beleive in Jesus?"
+
+"Well, I guess people used to believe the Earth is flat.  You can
+beleive whatever you want; the fact is that the Earth is round.  And
+I'm absolutely convinced that Jesus of Nazarath was the most
+spiritually advanced being to ever live on Earth.  So we should take
+his teachings seriously."
+
+
+T + 729 days
+
+With cork puller still attached, the cork went flying unheaded across
+the cabin as the Captain grabed for the plastic cover and slapped it over
+the top of the wine bottle.  Even so, several gobs of the red alcohol
+went floating into the air, the liquid's surface tension forming them
+into perfectly round spheres.  Andrea shook her head.
+
+"You'd think that after two and a half years in space, you'd have learned
+how to open a wine bottle without spilling it everywhere."
+
+"What I've learned," the Captain answered, as he spun across the
+compartment and swallowed one of the larger floating drops, "is that
+if you spill red wine in space, it's a lot easier to clean up than on
+Earth!"
+
+Mercurio spilt only a few more drops as he "poured" the wine into two
+wine glasses, each one quickly covered with a flat plastic square.
+Drinking from straws was much easier, but Marc had dug into the ship's
+stores an hour earlier, produced the glasses alongside the bottle, and
+Andrea had stood on tradition.
+
+"Cheers."
+
+They clinked glasses and laughed together as the Captain spilled wine
+all over his face as he tried to drink it.  Andrea grabbed a towel and
+started to wipe off his face.
+
+"You guys better come in here!" Alister yelled, then got up and
+propelled himself through the hatchway.
+
+"Well, m-maybe you want to come in here," he stammered as he realized
+that he was interrupting a "private" dinner.
+
+"What's up?" the Captain asked.
+
+"Somebody just smashed a plane into the World Trade Center!"
+
+At 1431 GMT, September 11, 2001, after first the event on Earth and
+then a radio transmission lag of exactly 3 minutes 17 seconds, the
+silent crew watched the second tower collapse.  In the days ahead, it
+would be revealed that Islamic terrorists had hijacked four American
+airlines.  Coincidently, or perhaps not, all were Boings.  Two had
+slammed, full throttle, into the twin towers of World Trade Center, at
+one time the tallest building in the world, and headquarters to dozens
+of major companies.  Burns would have suggested imagining the pictures
+you've seen of jet crash scenes, then trying to project it 100 stories
+above you onto a skyscraper in lower Manhattan.  Within hours, the
+buildings fell.  Bankers, mail men, fire fighters, bus boys - all lost
+their lives that terrible morning.
+
+Within days, the nation mobilized.  Medical teams sprung into action,
+fire fighters dove into the wreckage alongside men who walked up on
+the street and volunteered, desperate to find anything still alive in
+the tons of rubble.  At Andrea's suggestion, The Captain issued a
+statement of condolence, expressing his "deapest reget", and stating
+that it grieved him as nearly as much the death of his "dear friend
+Burns".  The entire crew followed suit.  Asked via videomail by the
+press about his comparison with Burns, he replied that though he
+deeply felt the loss in New York, he was sure the family's victims
+would concer that no one feels a loss more acutely than that of a
+loved one.  The media largely accepted this.
+
+Within weeks, President Bush attacked Afghanistan after correctly
+finguring Osama bin Ladin as the culprit.  The Captain began objecting
+to Bush's behavior, stating publically than an orderly extradition
+procedure should be followed rather than an invasion.  Andrea Yeats
+said that all parties should try to resolve their problems peacefully,
+though she ruefully noted that the Muslems would do good to accept
+Christ, and ruffled feathers by suggesting that the terrorists,
+misguided though they may have been, were probably the only people
+that morning who got on the airplanes because they were trying to do
+God's will.
+
+Within months, most of the old animosities had resurfaced.  The
+Captain was still openly critical of the western democratic
+establishment in general, and the Bush Administration in particular.
+Dr. Yeats became far more prominent, and far more controversial, by
+her repeated advice to end the war, moarn over the dead, then ask
+ourselves why so many people hated the country and decide to give our
+lives over to God to do something about it.
+
+Within a year, it had become obvious to many people that the September
+11th attack was not simply an outrageous act of terrorism, but in fact
+a devastatingly effective act of unconventional warfare.
+Osama bin Ladin wasn't a mad terrorist out to kill as many
+people as he could.  He was a genius stratagition, who knew
+he'd get one shot at his brillent plan, and was determined
+to make it work by striking the hardest blow he could muster
+at his arch-enemy's political and financial infrastructure.
+While the
+political prong of the twin assult had failed, the economic prong had
+succeeded beyond belief.
+Considering not only the twin towers
+of the World Trade Center, but the smaller buildings destroyed,
+or ravaged with all their windows blown out, plus the entire
+multi-block area that had been shut down for months, the center
+of New York's city's financial district had been devastated.
+
+Economies are complex systems, where events
+trigger other events, coast for a time, reflect from boundaries, then
+interact again, much like ripples on a pond, or perhaps a pile of
+leaves in the wind.  Mathemticins, economists, and mathematically
+inclined economists study the statistical response of economies, but
+the impulse functions of such entities are not completely understood.
+The intricate network of buyers, sellers, consumers, suppliers,
+distributors, bankers, salesman, real estate agents, and thousands of
+other occupations that form The Economy, that much-worshiped god of
+business plans, spreadsheets, balance sheets and profit-and-loss
+statements that the Captain would have called the Global Capitalist
+Economic System, had been dealt a crippling blow.  The stock market
+was down.  And it stayed down.  As the analysts puzzled over corporate
+earnings ratios, and how many bargins were popping up on the market
+these days, and how a bottoming out had to occur soon, amid patriotic
+demonstrations of pride and determination, an almost insane euphoria
+that the terrorists would only "win" if we let them, and coming on the
+heels of a burst speculative bubble the year before, day after day,
+week and week, month after month, the market kept going down, down,
+and down.  As the Dow Jones Industrial Average, that bellweather of
+American business performance, once pegged spectacuarly above 10,000,
+now dipped below 1000, and as the men and women of the U.S began to
+realize, in the inmortal words of John Kenneth Galbriegth describing a
+similar collapse many years ago, "there was no limit to how far down
+the market could go", the _Icarus_ came home.  the gravity of their
+situation.
+Into this environment, the _Icarus_ came home.
+
+By the time the _Icarus_ was close enough to Earth orbit that the
+videomail was no longer needed, the U.S. was looking for heros, and
+for the men and women of the disastrously successful space mission,
+their hour had come.  Practically the entire anti-government movement
+finally dropped all their quibbles and lined up behind Marceleus
+Mercurio, ready to declare peace or war at his whim.  Some ministers
+and many religious people believed Andrea Yeats was a genuine
+spiritual leader.  Others added up the letters of her name in Chinese
+to obtain 666.  Alister Compton was declared the world's sexiest
+astronaut by a popular poll.  Vic spent hours on end holed up, working
+on a proposal to reform medical care that the AMA had invited him to
+make, and Bryan and his men were informally told that all charges
+against them would be dropped if they'd sign up as the U.S's first
+squad of Space Rangers.  Several proposals were floated for a memorial
+to Burns.
+
+President Bush told Mercurio that his was willing to send the space
+shuttle to retrieve them, but that he and his men would be arrested
+upon return to Earth and charged with crimes against them.  He hinted
+that they would probably be released on their own recognizance, but
+the Captain would hear none of it.  As the media began to speculate
+about what kind of legal reception awaited the crew, the Captain
+agreed to the shuttle proposal, primarily because he had no other way
+to return to Earth from orbit.
+
+
+T + 750 days
+
+After the first burn to put them back onto a course for Earth,
+a very late burn, just short of Earth orbit, was required to correct
+their final approach vector and insert them into a high parking
+orbit from where their could kill their momemtum and drop down
+into a circular orbit from where the OTVs could take them down
+to a newly built space station (the International Space Station).
+Alister had carefully calculated this correctional burn.  It would
+take several hours, and be a retrograd burn - they should have turned
+the ship around to make the burn.  But the Captain, realizing that
+this would be great trouble, elected to move one of the OTVs to
+the other side of the long cargo chain and push from there,
+applying thrust to the craft in the opposite direction from
+that of either the 747 or the engine configuration they had
+used to leave Martian orbit.
+
+Twenty five minutes into the burn, the engines died out, and
+fuel alarms began going off all over the ship.  In retrospect
+the problem was obvious, since the ship's design had used the force
+of the thrust to push the fuel to the back of the ship where
+large tanks kept the fuel supply pressurized and distributed
+it throughout the ship, including to the engine of the OTV
+on the far side of the chain, since its onboard supply of fuel
+wasn't sufficient to maintain the long burn for a sufficient
+duration.  Burns would have anticipated it.  Alister did not.
+
+In fact, all the fuel had passed to the front of the ship's tanks
+within minutes of beginning the burn, and only the fuel supply in the
+OTV had kept the burn going almost half an hour, as well as keeping
+the entire fuel system pressurized.  Alister had in fact noticed the
+pressure drop right when the burn started, and told the Captain about
+it, but it stabilized at an acceptable level and they continued
+the burn.  Now all the fuel had been exhausted from the OTV's tank,
+all the fuel in the main tanks was all the way forward, away from
+the pressure cylinders and other apparatus in the rear of the craft.
+The only remaining fuel immediately at the disposal of the crew
+was in small presurized cylinders that acted as pressure equalizers
+between each module's fuel cell and the main fuel lines.  They had
+stop values that kept their pressurized contents from escaping
+back into the purged main line system.  It took the crew about ten
+minutes to determine that all their fuel and power would be gone
+in about two hours.
+
+"So we'd better shut everything off that we don't absolutely need,"
+the Captain concluded.
+
+Alister could close all the values from his computer, so they quickly
+tried to decide what they needed and what they didn't.  The
+greenhouses came up immediately.  They were the single biggest power
+consumer on the ship.  Some of their lights were off, but for the
+others an important decision had to be made.
+
+"It might not affect them that much if they were only off for one
+light cycle," Vic noted.
+
+"And we've got plenty of food stored up - enough to get us back to
+Earth," Andrea noted.
+
+"OK, turn them off," Mercurio ordered.  "Then let's figure out what
+we're going to do next."
+
+Figuring that out became quite problamatic.
+
+The ship was considerably less than a light-minute from Earth, so the
+latest development was flashed quickly all over the world.
+Comparisons began with Apollo 13, the flawed NASA lunar mission that
+lost its power halfway to the Moon after an oxygen tank explosion
+crippled part of the ship.  Experts said the situation was both less
+serious, since there was no explosion or damage to the ship, and more
+serious, since the ship was in interplanetary orbit and couldn't just
+coast back to Earth without its engines.  The National Enquirer
+published a cover story suggesting that some of Nostradomes's
+quatrains refered to the _Icarus_, that the death of their brilliant
+chief engineer was only the first of many woes to befall the crew, and
+that none of them would make it back to Earth alive.
+
+
+
+T + 751 days
+
+With the exception of Vic and Bryan, the entire crew had been awake
+now for twenty four hours.  Every scheme they came up with had flaws.
+The reserve fuel had been pumped out of the other OTVs as standard
+procedure while they were docked.  The plan was to fuel them before
+using them, as Andrea had done prior to launch into the asteroid belt
+to save Alister, so their engines were useless.  Using all their fuel
+canisters from the various modules, they could pressurize the fuel
+system briefly, but at no where near the pressure needed to ignite any
+of the thrusters.  Reconnecting the OTV on the far end of the array
+directly to the fuel lines, instead of running the fuel down the ship
+and pumping it back up, would have worked while the OTV had reserve
+fuel, but again, there was no way to apply sufficient fuel pressure to
+ignite the engine and begin the burn.  Even siphoning fuel off from
+the tanks was nearly imposible, since their main fuel lines were mated
+with the rest of the module they were attached to, and thus there was
+no way to open the fuel line without undocking the modules, which they
+had no fuel to do.  Shunting the fuel from one line to another
+permited some to be drawn off into hand held pressure cylinders, but
+again at nowhere near the pressure needed to ignite any of the
+engines.  It now was becoming apparent that while they could stretch
+their available fuel about two weeks, they were going to have serious
+problems restarting any of the rocket engines, and therefore couldn't
+move the fuel to the rear of the ship where it could easily be drawn
+off.
+
+
+T + 752 days
+
+Alister and Andrea come up with a scheme to divert the gaseous
+atmosphere into the fuel lines and shoot spurts of air out of the
+various manuefering thrusters.  It would allow them to undock
+at least the rear OTV and move around the ship.  Undocking
+any significant number of cargo modules was problamatic.  NASA,
+by now eager to advise, had almost immediately set its team of
+engineers to pour over the problem.  They devised a radical solution.
+
+By expending a lot of their available atmosophere in the OTV,
+they could give the entire ship a slight forward nudge.  NASA
+had simulated the motion of the fuel in the tanking system
+and concluded that a sufficient quantity of fuel to fire the
+engines could be reliably be moved through a single tank -
+not the 28 it would take to move any of the fuel all the way
+back to the pressure tanks in the rear of the craft.  This
+idea proved the basis for a desperate gamble.
+
+They would move the entire ship to undock the farthest fuel module,
+docked to the OTV, and expend all of the OTV's atmosphere to propel
+the fuel back into the OTV's tanks.  If it didn't work, whoever were
+the astronauts on the OTV would be effectively gone, floating away
+from the ship in a powerless, airless OTV with only their spacesuit
+power.  Some thought was given to running the OTV remotely.  While
+possible, it would also require the complex return manuefuer to be
+done remotely, because the ship would still be dead in space and the
+OTV would need to put it underway again.  Doing this remotely was
+undesirable.
+
+The Captain was now faced with a crucial decision.  Should he send a
+competent OTV party, and risk seperating the crew?  Should he have
+everyone go on the OTV, and risk seperation from the cargo modules and
+any hope of return to Earth without them?  Should he pilot the OTV
+remotely, and risk that some simple malfunction could kill them?
+
+Alister hadn't slept in almost three days.  The Captain ordered him to
+take eight hours off, spend it smoking dope, or listening to CDs, or
+whatever.  The young engineer started to object, but Vic seconded the
+order as a medical directive.  The power was turned back on in his
+module, and he smoked the last joint Burns had given him, that they
+were going to smoke when he got back from Mars.  Ten minutes later, he
+was fast asleep.
+
+T + 753 days
+
+Andrea was already going over the burn calculations again when
+Alister awoke.  He groaned when he saw the printouts taped
+to the walls, the floating physics texts, and the complex
+computer systems, running on mimimum power.
+
+"Don't look," Andrea said.  "If you don't want to look, don't
+look.  I want you to be fresh and go over this top to bottom
+before we try it, but you can take another day off if you
+don't want to look at it now."
+
+That was exactly what they did.  Andrea looked over the plan that day,
+as did teams of NASA, ESA, and RSA engineers and amateur enthusiasts
+everywhere.
+
+T + 754 days
+
+The Captain decided to send both Andrea and Alister,
+told them that if it didn't work he was depending on them to find
+someway to get the fuel into the OTV.  They would detach from the rear
+of the ship in the main OTV, use its atmosphere to manuefuer away from
+the ship.  Then the Captain would blow about half the air in the
+greenhouses to undock the ship from the last fuel module.  Then Andrea
+and Alister would have to move their OTV to the fuel module, while the
+rest of the ship moved away from them, dock to it, and use the rest of
+their atmosphere to push forward on the fuel module.  Three hours
+later, a quanity of fuel should have passed into the OTV's fuel tank,
+at which point they would close the values and presurize the fuel
+tank.  Pressurize with what?  They would need the atmosphere both to
+move the ship and to pressurize the fuel.  In fact, they would need
+about half their available atmosphere to pressure the fuel tank up to
+operating pressure.  They would also need a working fuel cell to run
+the pump, so they need some of the near-empty fuel and oxyidizer
+canisters.
+
+T + 755 days
+
+They try it and it works.  Alister refuels  the OTV from the tank
+and returns to Icarus, where they repressurize their fuel system
+and get the ship running again.  By now they are so close
+to Earth orbit that they decide to go for a slingshot by
+the planet, followed by orbital interface.
+
+
+
+
+T + 800 days
+
+Lou thumbed some papers on his desk and beat around the bush for
+a minute.  He didn't quite know how to ask what he wanted to ask,
+so finally he just blurt it out.
+
+"I'm looking for a volunteer flight crew to pick up the Icarus crew
+and land the shuttle in Europe or somewhere."
+
+The shuttle pilot and commander looked at each other, then back at the
+STS program coordinator.  "This isn't approved by the director, is it
+sir?"
+
+"No."  Lou paused before continuing.  "You can say I gave you the
+order to do..."
+
+The commander interjected.  "You can't give us that kind of order,
+sir.  We'd be court-martialed and thrown out of the space program,
+probably the entire military."
+
+An awkward silence fell over the room.  Breaking it, the pilot asked,
+"Is this a favor for Andrea?"
+
+Lou rubbed his hand over his balding scalp, noting the sweatiness of
+both his head and his hands, and nodded in response, "Yeah".
+
+"I'm in," he said, looking over at the shuttle commander.  Lou looked
+up with surprise.  He had imagined this interview going much
+differently.  Suddenly, he suddenly found himself outnumbering the Air
+Force colonel, who looked back and forth between the administrator and
+pilot before finally collapsing.
+
+"Ah, what the hell.  I'm sick of this gig, anyway.  Mission
+specialists have all the fun; all I do is command the thing!"
+
+
+T + 803 days
 
 "What's the chance of them hijacking the shuttle, or something?"
 
@@ -2913,7 +3207,57 @@ him.  He took off his glasses and tossed them down on the desk.
 just hope we get the damn shuttle down in one piece."
 
 
-T + 754 days
+T + 807 days
+
+"Five."
+
+"Four."
+
+"Three."
+
+"Two."
+
+"One."
+
+Alister's voice clipped off the final seconds, then the computer
+began the insertion burn.  The slight force from the engine
+pushed the crew gently backwards into their seats.  The
+computer screen next to the engineer showed their current
+tragectory, in blue, an open hyperbola that skittered out
+off the screen, and their target tragectory, a neat red
+circle centered on a green disk that represented Earth.
+As the engines fired, the blue line began curving more
+strongly back towards the direction they were coming from,
+as another clock ticked down more seconds.
+
+"Orbital interface in five, four, three, two, one, Earth orbit."
+
+The blue line flicked neatly into a broad ellipse.  Alister breathed a
+sigh of relief.  Almost nothing, short of something absurdly
+catostraphic, like crashing into the atmosphere, could stop them from
+getting back to Earth now.  Even the engine failed now, they would be
+in some crazy orbit that the OTV's could get them down from no matter
+what.
+
+"ECO in five; four; three; two; one; Engine Cutout"
+
+The thrust stopped, just as the blue and red lines had merged into a
+single yellow circle.  They were siting in a circular, six-hour
+parking orbit.
+
+"Perfect burn," Alister declared, as he broke out into a wide
+grin and let out a whoop.
+
+In the next few days, the crew moved all their personal
+belongings, along with anything they wanted to return with,
+including gold from the asteroid belt, into OTV 2, secured everything
+else they were leaving on the ship, and finally all piled into
+the OTV and slipped away from the ship.  Firing the OTV's one
+rocket, they dropped towards a rendevous with the partially
+completed International Space Station.
+
+
+T + 811 days
 
 "So, what's the plan?" Mercurio asked the shuttle commander and pilot.
 
@@ -3003,3 +3347,5 @@ The space station crew above gave an affirmative reply.  As they
 closed the PMA's hatch, the Captain turned back to his crew.
 
 "Let's go home."
+
+
