@@ -205,6 +205,8 @@ problems."  One reporter asked him if he was going to start a medical
 philanthropy with the money.  A little grin washed over his mouth and
 his mustashe bristled.  "Actually, I'm starting a dot-com".
 
+#if NOT
+
 They called it Robotics Research.  Which wasn't far from the truth.
 Marc certainly planed to do a lot of work robotically.  He was also
 careful to keep the company's cash burn under a half-million a month,
@@ -242,6 +244,8 @@ is the year of living dangerously."
 Marc had leveraged the roughly $20 million from the lotterys into
 about $100 million using fraduent financial statements to get various
 loans for land and equipment.
+
+#endif
 
 
 T - 350 days
@@ -326,21 +330,24 @@ rocket fuel.  Since it was the hundred and thirty third nitrogen
 compound suggested by the computer as a possible fuel, it
 retained its original designation and became known as N-133.
 
-They sold it to NASA in a heartbeat, and were briefly the next glamour
-company looking forward to a mega-IPO.  Mercurio patented the formula
-and manufactuering process and as much of the design process as he
-could, then released the patents to the public domain, stating that he
-had adquired the patents to establish beyond doubt that they had
-invented the technology, that anyone could now use it, and that nobody
-else could patent it.  His action was praised by many as an exemplar
-of corporate responsibility, and to a stunned financial community now
-wondering how he would pay for his startup, he announced that he had
-ample funding from private sources.
+NASA grabbed up N-133 NASA in a heartbeat, and they were briefly the
+next glamour company looking forward to a mega-IPO.  Mercurio patented
+the formula and manufactuering process and as much of the design
+process as he could, then released the patents to the public domain,
+stating that he had adquired the patents to establish beyond doubt
+that they had invented the technology, that anyone could now use it,
+and that nobody else could patent it.  His action was praised by many
+as an exemplar of corporate responsibility, and to a stunned financial
+community now wondering how he would pay for his startup, he announced
+that he had ample funding from private sources.
 
 In any event, no IPO was needed for legatimancy.  Burns had leased a
 chemical manufauering plant, rapidly refitted it to produce the fuel,
 and quickly had the first and only commercial source for the dream
-fuel.  Boing asked for samples.  NASA placed a huge order.
+fuel.  Boing, the ESA, and the Russian government asked for samples.
+NASA placed a huge, multi-million dollar order, and began studying
+the feasibility of retrofitting their space shuttle fleet to use
+the new fuel.
 
 
 T - 341 days
@@ -438,6 +445,18 @@ The three sat in silence until the call ended.  Alister spoke first.
 
 "Like your tenderloin, so eat it," Burns cut in, reaching across the
 table with his knife and tapping the South African's plate for emphasis.
+
+"No!" the man stated emphatically, pushing the plate away from him.
+"You guys are up to something, and it's not legal..."
+
+"Keep your voice down," Mercurio growled.
+
+"OK," Alister began again in a near whisper.  "Whatever you blokes
+are up to, there's no way it's above board."
+
+The two principals looked at each other.
+
+"Should we clue him in?" Mercurio asked quietly.  Burns shrugged.
 
 
 T - 54 days
@@ -615,7 +634,18 @@ The story broke on Wall Street that morning.  Marc quickly decided on
 damage control and agreed to appear on CNNfn.  He lied through his
 teeth.
 
-"If they control Cisco, they control the network."
+
+A systems administrator notices a hickup in his network, and doggedly
+tracks it down.  The trail leads to the router, and he reports it to
+the manufacurer.  At first they deny any possibility of their system
+causing the malfunction, but he persists and demands they send
+engineers to investigate.  After leading the engineers through the
+problem, they scratch their heads and begin digging into the problem.
+Eventually, they begin to suspect a serious problem with the router
+and report it to their management.  After some hesitation, they call
+in the FBI, which launches a major investigation.
+
+"If they control the routers, they control the network."
 
 ----
 
@@ -806,8 +836,8 @@ they're small fish."  "With all this Homeland Security crap?  They had
 'em locked up tigher than a drum."
 
 Mercurio slapped him hand on the table.  "Fuck it.  I said I wouldn't
-let 'em hang out there, and I'm not letting 'em hang.  We'll go get
-'em with the choppers."
+let 'em hang out there, and I'm not letting 'em hang.  Anyway, I need
+Burns. We'll go get 'em with the choppers."
 
 "How, they're already arrested?"
 
@@ -835,21 +865,32 @@ things!"
 "No!"
 
 "Look!  I need a show of force.  I've got to look like I'm in control!
-Now, take a gun and hold it at the police!"
+Now, take this gun and point it at the police!"
 
-, and waited for the TV to show the police driving out.
-As soon as they hit the road, the choppers were in the air.
+Reluctantly, the doctor took the gun.  They waited until the TV showed
+the police driving out.  As soon the police cars hit the road, the
+choppers were in the air.
 
 Brian shot out the lead cop car's engine and jumped onto the ground,
 pointing an M-16 at the driver's head.
 
 "Hands on the wheel, now!"
 
-...
+After a brief confrontation, they got Burns and Alister out of the
+police car and into the helicopter.  A police chopper zoomed in and
+hovered nearby as they took off.  Bryan put a fresh magazine in his
+rifle, took careful aim lest his damage the police chopper's rotors,
+and shot a dozen bullets into its engine.  It immediately starting
+belching black smoke, and the police pilot rapidly landed the stricken
+craft as the three Hueys flew away over the horizon.
 
-"We need another week or two at least."
+Back at their base, the team held a meeting.
 
-"We're out of options.  This place is all we've got left."
+"We need another week or two at least," Burns concluded, after
+summarizing the work remaining to be done.
+
+"We're out of options.  This place is all we've got left," Mercurio
+noted wryly.
 
 "So you need a diversion," Brian summerized.  "I'll take care of it."
 
@@ -1181,16 +1222,207 @@ across the mesa, the ground shook as the solid fuel ignited in the
 rocket behind them.
 
 
+----
+
+Burns suggested a 747 for a manned launch vehicle, and Mercurio had
+adquired one on lease from a company that specialized in mothballing
+jumbo jets that the air carriers didn't want anymore, and that would
+eventually be driven into bankruptcy.  The leasing company let the
+airplane go for a fraction of its value, partly because it was insured
+against air disasters and partially because of expected ease of
+recoving the airplane in case of a default.  They would eventually go
+bankrupt, partially because of their unexpected inability to recover
+the aircraft once it had been launched into orbit.
+
+Burns started by dropping the aircraft's engines out of its nacelles
+and replacing them with rockets.  He had carefully designed the rocket
+engines so that four of them could lift a 747 into orbit, while a solo
+engine could lift a significant mass in an unmanned cargo module.
+Next, he converted the entire main body of the aircraft to hold fuel
+and oxydizer, leaving just the bubble on top the plane pressurized for
+the crew.  At the rear of the bubble he fashioned a fairly spacious
+airlock, opening directly upward.  On top the airlock hatch he placed
+a hydraulic mating adapter, and another one right on the nose of the
+aircraft, both patterned after a NASA design for the space shuttle and
+International Space Station.
+
+He reworked the plane's plumbing system, too, adding a dozen piping
+connectors to the docking ports, along with electrical connectors.
+Each of the cargo modules was similarly equiped with pipes that
+connected all of the connectors on one side with the connectors on the
+other.  Two of the pipes were used for hydraulic control, one being
+pressurized with hydraulic fluid that was shunted to various hydraulic
+controls by a collection of control values, another used as a vacuum
+line used to draw back used hydraulic fluid.  Another pipe was for
+water, and two more were assigned for N-133 fuel and the hydrogen
+peroxide oxidizer.  The remaining half dozen pipes were there as
+backups, and more control values allowed any of the backup pipes to be
+shunted over to any of the primary pipes, as well as allowing any or
+all of the pipes to be closed off.  In the cargo modules, the control
+values were all clustered at the forward end of the module, where the
+control computer was, allowing for short interconnects.
+
+Burns had also prepared a number of docking nexuses to which up to
+six cargo modules could be mated, one in each of the six spatial
+directions.  Since the mating adaptors were sexed, requiring a
+hydraulicly powered male to attach to a passive female, Burns
+designed each docking nexus with three of each sex.
+
+Some of the cargo modules were simply tanks designed to hold either
+fuel, or oxidizer, or water.  They were designed so that the plumbing
+line for whatever they were carrying went through the tank; all the
+other plumbing lines passed straight through from the docking port on
+one end to the docking port on the other.  All of these tanks were
+equiped with thermostats and heaters, driven by fuel cells, to keep
+their contents liquid in the cold of outer space.
 
 
-President Bush through the briefing folder across the room and
-sent top secret papers flying everywhere.
+Finally, they all climbed onto the 747 from an accessway built from
+the ground to the rear of its left wing, then up a ladder to its roof,
+which Mercurio, the last one on, threw down to the ground behind him.
+Then they went up another disposable ladder to the airlock hatch on
+top of the bubble and entered the spaceplane via the airlock.  Captain
+Mercurio closed the airlock behind him.  Burns was already in the
+cockpit, running through a final pre-launch checklist with Alister.
 
-"What the hell do I have a Department of Homeland Security for if
-I've got to find out from CNN when 170 missiles get fired off in Utah?"
+"GPS?"
 
+"On... position locked."
 
-T + 1 day
+"Fuel values?"
+
+"Open."
+
+"Atmospheric seals?"
+
+"Closed."
+
+The Captain came forward and strapped himself into the left-hand
+pilot's seat.  He was impatient to get airborne because of the
+vulnerability of the spaceplane to the police while on the ground,
+but he held his tongue until the engineers had finished, and settled
+for attaching his spacesuit supply lines to air hoses running to his
+seat along the floor, putting on his helmet and sealing it.
+
+"OK, everyone ready to go?" he asked, using the question in lue
+of a com check.
+
+"We're ready," Burns confirmed, "Alister?"
+
+"I'm ready."
+
+"Ship's doctor ready for takeoff!" Vic jauntily proclaimed from
+his seat in the passenger section behind the cockpit.
+
+"Dr. Yeats?" the Captain dramatically inquired, after a moment of silence.
+
+"Ready," the veteran astronaut proclaimed.  She hadn't answered at
+once because she had been double-checking the connections on the
+somewhat unfamiliar spacesuit.
+
+"Let's go!!" the Captain proclaimed, and Burns hit the engine start
+button on his touchscreen panel.  Far to their rear, electronically
+controlled values opened to let N-133 fuel and hydrogen peroxide
+oxidizer flow into the rocket engines, where they mixed and shot out
+the rear.  100 milliseconds after opening the values, the engine
+control computer fired pyrotechnic charges that ignited the
+volatile mixture.  The engines belched fire with a roar.
+
+"Start one, two, four... three start... all engines good start!"
+Alister declared from the engineer's position behind Burns.  The 747
+lurched forward, straining against its brakes, as the police officers
+gathered outside backed away from the heat.
+
+Burns released the brakes and the plane shot forward, down the runway
+and away from the stunned policemen standing near the abandoned
+gentryway.  Quickly it gathered speed.
+
+"100 knots," Alister proclamed.
+
+Mercurio surveyed the brightly colored computer displays in front
+of him.  With Burns piloting the plane, he had little to do, but
+had made sure he was familiar with all the craft's systems.  The
+engines were firing at their minimum force, about half power,
+but it was still more thrust than generated by conventional
+747 engines, and the crew was pushed back into their seats
+by nearly three gees of acceleration.
+
+"150 knots... V-1!" Alister declared.
+
+The plane was now hurtling down the otherwise unused runway on top the
+mesa.  They had reached and passed the speed where any takeoff abort
+would be possible.  They were commited at least to a liftoff.
+
+"200 knots... V-R!" came Alister's cry.
+
+Burns eased back on the control yoke, one of the few parts of the
+original 747 left unmodified, and the giant plane soared upwards
+into the sky.  Some of the observers on the ground watched with
+their months agap, deafened by the roaring rocket engines and
+stunned by the sight of a jumbo jet belching rocket exhaust.
+
+"Gear up," Burns ordered calmly.
+
+"Gear up," the Captain acknowledged, as he pushed the button to raise
+the landing gear.  Burns retracted the wing flaps and guided the plane
+spaceward.  Unlike any conventional takeoff, he didn't level off at
+10,000 feet, or 20,000 feet, or 30,000 feet, nor did the force of
+acceleration notably decline until he put the plane into a near
+vertical climb.  It wasn't the most optimal launch profile, but the
+aircraft wasn't designed for supersonic flight, so Burns made sure he
+climbed above most of the atmosphere before beginning a true orbital
+insertion.  After about a minute of flight, they passed 100,000 feet.
+The conventional control surfaces were becoming unusable due to the
+rarified atmosphere.  Burns took his right hand off the control yoke
+and placed it on a joystick to his right.
+
+"Release engine gimbles," he instructed.
+
+"Engine gimbles released," Alister acknowledged, after pressing a
+button and watching several indicators turn green.
+
+The rocket engines, mounted in hydraulically mobile mountings, now
+swiveled at Burns' command.  He nudged forward on the joystick, the
+engines pivoted downwards and the aircraft turned towards the
+horizontal.  Two minutes into launch, they now passed 200,000 feet.
+The sky was completely black.  As the aircraft turned down to about a
+thirty percent angle with the horizon, the Earth rose into the view of
+the pilots.  It's curvature was obvious.  An entire range of the Rocky
+Mountains lay streched out beneath them, abutting the salt flats from
+where they had launched.
+
+"Increase to full power," Burns instructed.
+
+"Full power," Alister acknowledged.
+
+The engines, like neglected children throwing an attention tantrum,
+doubled their thrust and pushed the crew further back into their
+seats.  Bladders in the legs of their spacesuits inflated with air to
+push blood upwards in their bodies and ensure they remained conscious,
+now with more than five gees of thrust pressing against them.  Andrea
+had never experienced a launch quite like this.  Space shuttle
+launches were carefully profiled never to expose the crew to more than
+three gees of acceleration.
+
+Burns switched his primary display from the almost useless airplane
+indicators to an precomputed orbital injection profile based on
+continually updated GPS coordinates.  The display showed the projected
+course in blue, from both side and top perspectives, along with the
+plane's actual course in red.  The aircraft was slightly below the
+profile, so Burns eased back on the joystick to raise the plane's
+attitude slightly and guided the red line back towards the blue one.
+
+At fifty miles in altitude, they were now above most of the
+atmosphere, and the blue line flattened out.  Burns guided the
+spacecraft along it.  Almost all of the engine force was now directed
+towards increasing the craft's speed to orbital velocity.  Ten minutes
+into launch, the 747 was eighty miles high and the GPS indicator
+showed their speed at 10 km/s.  Burns continued firing the engines
+until nearly two thirds of the ship's fuel had been exhausted and they
+were moving at a speed that would carry them to a six-hour orbit, that
+is, an orbit that would require six hours to completely circle the
+Earth.  Once they reached the six-hour altitude, Burns fired the
+engines one more time, to circularize their orbit.
 
 Once in orbit, the crew got right to work.  They had to.  Most of
 their fuel and supplies were in the cargo modules, which were built
@@ -1203,6 +1435,55 @@ second stage was the cargo module itself, equiped with a laptop
 computer using a radio communications link and a fuel cell fed
 from supply lines of N-133 and peroxide.
 
+The cargo modules, launched five minutes apart over the course of
+several hours, were now spread out all over Low Earth Orbit, while the
+747 with the crew onboard was in a six-hour orbit hundreds of miles
+above.  This was deliberate.  Since the cargo modules were themselves
+hundreds of miles apart, rendezvousing with each of them in LEO would
+have required many complex engine burns.  Instead, and considering
+that their ultimate goal was Mars, Burns had elected to put the 747
+into a higher orbit, then wait for each cargo module to come into a
+favorable alignment, fire its rocket engine remotely, and put it in a
+transfer orbit that would bring it to them.  This enabled the crew to
+bring each cargo module to them, roughly one per hour, over the course
+of the next several days.
+
+On Earth, confusion reigned.  CNN, the American 24-hour news network,
+had reported the last several launches live, and speculation was
+rampant that the missiles contained some kind of chemical or
+biological agent.  Around the world, TV networks began interrupting
+their regular programming to cover the event, showing graphical ground
+tracks of the orbiting cargo modules and warning people as they
+drifted above.  Somehow, amid all the ballyho, the 747 had been lost
+completely and effectively disappeared into high Earth orbit.
+
+Five hours after the 747's launch, Burns fired the rocket engine of
+the first cargo module and put it into its transfer orbit.  NORAD
+detected the course change and reported it to the Pentagon within
+minutes.  By the time the third cargo module had been put into
+transfer orbit, it was clear to NORAD that the engine burns were
+lifting the modules into higher orbits, not deorbiting them as some
+kind of attack.  They computed the rendezvous point and readquired the
+747 there, just as it was docking with the first cargo module.
+
+In Washington, President Bush held a hurried meeting of his national
+security team, finally blowing up in frustration at their inability to
+provide any concrete answers, throwing a briefing folder across the
+room and sending top secret papers flying everywhere.
+
+"What the hell do I have a CIA for if I've got to find out from CNN
+when 170 missiles get fired off in Utah?"
+
+That evening, the President addressed a nervous but unshaken nation,
+informing them of basically what their news networks had been
+reporting for hours.  Aside from reassuring them that the U.S.
+government was carefully tracking the situation, the only new
+information he provided was NORAD's assessment that the cargo
+modules were being moved to higher orbits and therefore probably
+weren't part of an attack.
+
+
+T + 1 day
 
 
 T + 2 days
@@ -1213,7 +1494,8 @@ factor had caused him to forego this in favor of solid, uncut cargo
 modules and more than two hundred grow lights that he had simply
 packed away, surrounded by almost a solid foot of styrofoam packing
 peanuts to protect them against the bumpy ride up.  Due in large part
-to their inefficient launch profile, all the lights made it.
+to their inefficient launch profile and consequent low accelerations,
+all the lights made it.
 
 Supplying them with power was a different story.  Burns had brought
 four fuel cells capable of reacting the kerosene and the oxygen
@@ -1264,8 +1546,8 @@ not just sit around and enjoy a big pile of cash."
 honest with people about what you were attempting, have say,
 hey, we're flying to space, finance us?"
 
-"No, I don't think so.  Look at the X Prize.  They were trying to
-raise 10 million dollars to reward a private manned spaceflight and
+"No, I don't think so.  Look at the X Prize.  They're trying to raise
+10 million dollars to reward a private manned spaceflight and have
 struggled every step of the way.  Ten million is nothing; you'd be
 lucky to get one man into orbit for ten million, heck, you'd be lucky
 to put an unmanned satellite into orbit for ten million.  The only
@@ -1291,12 +1573,12 @@ anybody unless they're getting something out of it for themselves."
 "So you don't have a problem stealing from capitalists?"
 
 "Why should I?  They're some of the most selfish people in the world,
-heck, their whole philosophy is based on greed.  I'm mean, let's just
+heck, their whole philosophy is based on greed.  I mean, let's just
 apply their own rational.  I'm helping them compete.  If some of them
-go out of business, so what?  I'm developing technology to fly to
-Mars, so the whole society benefits.  We rip and claw at each other
-throats, and that drives civilization forward.  This is the capitalist
-philosophy, isn't it?"
+go out of business, so what?  Businesses fail every day.  I'm
+developing technology to fly to Mars, so the whole society benefits.
+We rip and claw at each other throats, and that drives civilization
+forward.  This is the capitalist philosophy, isn't it?"
 
 "Well, just to play the devil's advocate, I think a lot of people would
 say that we play according to rules, and that you've broken those
@@ -1309,10 +1591,10 @@ rules."
 The captain paused a moment before answering.
 
 "You make it sound like everyone agrees on these rules.  If that's the
-case, then why do people blow up federal buildings, why do people
-smash airplanes into skyscrapers, who do people burn this country's
-flag?  Obviously, there's a lot of people who don't agree with these
-rules, and frankly, I'm one of them."
+case, then why do people blow up federal buildings, why do people bomb
+our embassies, who do people burn this country's flag?  Obviously,
+there's a lot of people who don't agree with these rules, and frankly,
+I'm one of them."
 
 "I think many people would say that even though we don't necessarily
 agree with all the rules, we obey them anyway and work to change them
@@ -1340,8 +1622,8 @@ rules.  In Russia it was the proletariat, here it's the majority."
 competition; the fascist philosophy was based on brutal, cut-throat
 racial competition; the capitalist philosophy is based on brutal,
 cut-throat individual competition.  It's basically the same thing,
-slightly editted for a new generation, but the same kind of garbage in
-charge of society.  And I feel as bad about ripping off the
+slightly editted for a new generation, but with the same kind of
+garbage in charge of society.  And I feel as bad about ripping off the
 capitalists as I would about ripping off communists or fascists,
 because to me they're all basically the same.  Just another bunch of
 men with some nightmare system to be jammed down everyone's throats.
@@ -1409,10 +1691,11 @@ just that they had elections?"
 gulags."
 
 "Oh, but you do.  Haven't you heard about 'zero tolerance'?  Haven't
-you heard about the War on Drugs?  You do ship your citizens off to
-jail, and while you may not torture them, and your prisons may not be
-as cold as the ones in Siberia, the fact remains that fear of the
-police is just as readily used in this society as in those others."
+you heard about the War on Drugs?  Don't you watch C.O.P.S?  You do
+ship your citizens off to jail, and while you may not torture them,
+and your prisons may not be as cold as the ones in Siberia, the fact
+remains that fear of the police is just as readily used in this
+society as in those others."
 
 "I don't think you can compare the DEA with the KGB."
 
@@ -1425,7 +1708,7 @@ they're told when the great majority barks out its orders."
 
 "OK, sir, we have a Constitution..."
 
-"So did they; so did they."
+"So did they; so did they," Mercurio noted nonchalantly.
 
 "Our Constitution is enforced.  Our Constitution restrains the power
 of our government..."
@@ -1514,17 +1797,120 @@ these things have in common... other than the fact that millions upon
 millions upon millions of people went chasing off after every one of
 them?"
 
+"Communism wasn't a democracy, or a populist goverment..." Black
+began to retort, but Mercurio cut him off.
+
+"Then how did they win their Civil War in Russia?  The Whites had all
+the old czarist military officers, they had foreign aid from the
+United States and Great Britian, the Reds were isolated and on their
+own, yet still they managed to win that war!  How did they did that if
+nobody supported them?"
+
+The question was rhetorical, and the astronaut went on without
+waiting for an answer.
+
+"This is absurd!  Communism was one of the biggest populist movements
+of the twentieth century!  Practically every country in existance had
+some kind of communist insurgancy!  They took over half this planet!
+Millions upon millions of people _believed_ in communism!  To claim
+that the communists were some tiny bunch of dictators flies in the
+face of history!  Take Vietnam - why were all those 15-year-olds
+hauling AK-47s around the Mekong Delta if the communists were just
+some tiny cliche holed up in the Kremlin?!"
+
+"The communists installed brutal dictatorships in every country
+they took power in!"  Black shot back.  "Look at the people in
+Russia!  If communism is so populist, why did they need another
+revolution to take back their government!"
+
+"It was populist at first!" the Captain answered.  "Sure, after
+the communists really got entrenched it was almost impossible
+to remove them, but it'd be almost impossible to remove the
+capitalists from the west - they control everything!  At first,
+at first, sir, the people did support the communists - that's
+how they won that war, that's why so many people chased after
+communism - because at first, it was a populist movement!"
+
+"The communists lied to their people..." Black began.
+
+"Oh no they didn't!  You want to understand communism, read the last
+page of the Communist Manifesto, where Marx and Engles talk about
+letting the world tremble in fear of a communist revolution.  _That_'s
+communism - stick AK-47s in the hands of the peasants and let the
+world tremble in fear!  That's what all those people wanted -
+expropriate the expropriators and let everyone else tremble in fear of
+communism at gunpoint!"
+
+The Captain paused briefly before continuing in a calmer voice.
+
 "The problem with communism wasn't their economic system, it wasn't
 the structure of their elections, it wasn't their lack of
 constituional guarentees.  The problem with communism was that their
 leaders were a bunch of trash with some nightmare system to be jammed
-down everyone's throughts.  They were a lot like the people who run
-democracy today."
+down everyone's throughts, and _the_people_supported_them!  They were
+a lot like the people who run democracy today."
 
 "The problem isn't Bill Gates.  The problem is John Doe.  Walk into
 one of these stores anywhere in the Western world without a credit
 card or a twenty dollar bill in hand.  Ask for a plate of food.  See
-how much you walk out with."
+how much you walk out with.  The fact is that the majority of people
+are crude, selfish, and violent.  That's why communism came to power
+in these backwards countries - if the people have nothing, tell them
+to expropriate the exproriators at gunpoint - it sounds great!  Now in
+the more developed nations, the majority have a lot more material
+possessions, expropriating the expropriators doesn't sound nearly as
+good, better to just build some brutal society where those who have
+can keep it and don't lift a finger for anyone else.  The bottom line is
+that the majority of people are selfish - both capitalism and
+communism play to that, just on different sides of the coin."
+
+"Next I guess you'll be telling us that the German people elected
+Hitler," Black dryly observed.
+
+"But they did elect Hitler!  At least they elected the Nazis!"
+
+"Oh, please, Hitler's Germany was one of the most brutal dictatorships..."
+
+"That the people elected!  That the people elected!  In 1932, the Nazis
+won 40% of the vote in the last free election..."
+
+"Forty percent!"  Black fired back.  "Not a majority!"
+
+"Hey, if you can get forty percent of the people to support you, you
+can get fifty percent.  Anyway, they got more votes than any other
+political party; they won a plurality.  George Bush didn't win that -
+Al Gore took the popular vote.  You gonna tell me now that George Bush
+is a dictator because he didn't win a majority of the vote?"
+
+The congressman and moderator were both silent, perhaps in a stunned
+sort of way, and the _Icarus_ commander stormed on.
+
+"The Nazis won the same number of votes in 1932 as George Bush did in
+2000 - enough!  Enough to give them control of the Richstag.  Enough
+to get Herman Goering elected president of that body.  Enough to
+create a situation where Adolf Hitler was basically the only viable
+choice for German chancellor.  And people supported the Nazis for
+basically the same reason people supported the communists and the
+same reason people today support the capitalists - because they
+were brutal as hell, and that's what works in the _real_world_ and
+that's all these millions and millions of people _know_!"
+
+"We have freedom in this country," Black retorted.  "We have freedom
+of speech, freedom of the press, free elections!"
+
+"The issue isn't how much freedom these people have got.  It's what
+they've chosen to do with it!  They've chosen to build a society based
+on some of the most vicious traits of mankind; they've chosen the
+most selfish bastards as their leaders; they've chosen to build
+some nightmare system and just jam it down everyone's throats."
+
+"Well what do you suggest, Captain?" the congressman asked, dripping
+sarcasm off the last work.
+
+"People should just be nice to each other.  People should be generous.
+Good grief, if you're running a restaurant or a food market, and
+someone comes in hungry, give them something to eat!  Forget about how
+much cash they've got in their pockets!"
 
 "Well, that's perfectly understandable.  If you just give away to
 everyone, you'll be put out of business."
@@ -1534,18 +1920,21 @@ a capitalist or you'll be put out of business.  And then if you won't
 work for these bums, you'll be put homeless and starving on the street
 and all these great, decent people will spit on you as they walk past
 and call you a bum who doesn't want to work... And they're right,
-'cause I don't want to work - for them and their brutal system!"
+'cause I don't want to work - not for them and not for their brutal
+system!"
 
 
+T + 5 days
 
-"The majority don't want good leaders," Marc cut in.  His advesary
-stuttered and faltered.  "The majority don't want good leaders," the
-astronaut repeated, floating weightless on the screens of 10 million
-people watching the live interview on Nightline.  "They want garbage
-leaders.  They want the most selfish bastards you'd ever want to meet,
-with this nightmare capitalist system based on the most vicious traits
-of mankind to be jammed down everyone's throughts.  And this time,
-nobody can say it isn't really a democracy, that one man took over the
+"The majority don't want good leaders," Marc cut in.  He was once
+again back in a televised debate.  His advesary stuttered and
+faltered.  "The majority don't want good leaders," the astronaut
+repeated, floating weightless on the screens of 10 million people
+watching the live interview on Nightline.  "They want garbage leaders.
+They want the most selfish bastards you'd ever want to meet, with this
+nightmare capitalist system based on the most vicious traits of
+mankind to be jammed down everyone's throughts.  And this time, nobody
+can say it isn't really a democracy, that one man took over the
 government, that the discedents were 'disappeared', that we don't have
 freedom of speech or freedom of the press.  Nobody can claim that this
 isn't really what the majority of people want.  Democracy is another
@@ -1632,7 +2021,7 @@ Mercurio stopped, and Black didn't retort immediately.  A tense silence
 fell over the teleconference.  Across the country, millions of people
 in their homes murmorred amongst themselves.  "I don't want to hear
 any more of this."  "You tell 'em, Marc!"  "That bastard deserves to
-die up there!  I hope the whole bunch die!"  "Is this what people
+die up there!"  "I hope the whole bunch die!"  "Is this what people
 think about us?"
 
 
@@ -1685,7 +2074,7 @@ A pause fell over the broadcast, and Mercurio repeated his question.
 "Well, the people are..."
 
 "The people are the majority?  And what about the minority?  I guess they're
-not people, hugh?"
+not people, huh?"
 
 "The rights of the minorities have to be protected, but the overwheling
 majority of people support democracy, even if they don't win a particular
@@ -1746,6 +2135,8 @@ T + 7 days
 All of NASA's top project managers were at the meeting.  The shuttle
 was scheduled to go up in two weeks, and they had to figure if
 Mercurio's unexpected launch would affect anything they were doing.
+In fact, Mercurio had slyly planed his launch to occur just before
+the shuttle's, in case there was some kind of catostraphic failure.
 
 "They'll never make it.  We better have the shuttle ready for a
 rescue."
@@ -1778,16 +2169,44 @@ stand up to him.  I want to keep my job.  Meeting adjourned."
 
 T + 10 days
 
-"Does the media have a conservative bias?" McLauchlin asked the
-TV camera.
+"Does the media have a conservative bias?" McLauchlin asked the TV
+camera.  Marcellius Mercurio had suggested that the day before, going
+on to add that whatever it's conservative capitalist bias, the media
+was totally biased in favor of democracy.  Now the topic was being
+debated on McLauchlin's popular weekly TV show, which featured a panel
+of regular participants who debated various issues.  A recuring theme
+was for the host to ask his panelists to rate a question on a scale of
+one to ten.
 
 "On a scale of one to ten, how conservatively biased is the news media?"
 
-"Zero.  OK, maybe one.  The media just reflects the opinions of the people."
+"Zero.  OK, maybe one.  The media just reflects the opinions of the
+people," his well-known conservative panelist noted.  "The people have
+finally gotten sick of all this liberal crap, of which Mercurio
+represents merely the most violently anti-democractic fringe."
 
-"I'll go with a three."
+"I'll go with five," responded another panelist, a respected, somewhat
+liberal newspaper writer.  "The media tends to reflect the prevaling
+mood of the country.  Thirty years ago, the media had a liberal
+bias..."
 
-"The answer is - three."
+"No!" his conservative colleage interrupted, in mock shock.  "The
+media had a liberal bias back in the seventies?!?"
+
+"Well, they did, it's true.  Only because they reflected the mood
+of the country at the time!"  He leaned forward on the table to
+make his point in earnest.  "The country was more liberal, so the
+media was liberal.  Now the country has become more conservative,
+so the media is more conservative."
+
+"The answer is - three," McLauchlin ended the discussion.  "Next
+question - what are this crew's chances of making it to Mars?  Scale
+of one to ten - John."
+
+In orbit, Mercurio clicked off the TV screen on his laptop and pushed
+it away.
+
+"I already know the answer to that question!"
 
 
 T + 12 days
@@ -1925,13 +2344,71 @@ electronically, but as the time-fuel trade-off had shifted
 towards burning fuel to save time, the scanning had been
 postponed and the books stored into cargo modules.
 
-Meanwhile, the South African had began removing the cover from
-the bulky dishwasher.  Having examined its construction, he had
-already concluded that it would just fill up with water and
-spill over into the cabin when opened, so his first thought was
-to install a vacuum suction to remove the water when the
-machine was finished.
+Meanwhile, the South African had begun removing the cover from the
+bulky dishwasher.  Having examined its construction, he had already
+concluded that it would just fill up with water and spill over into
+the cabin when opened, so his first thought was to install a vacuum
+suction to remove the water when the machine was finished.  Having
+done so, he found that the device depended on gravity to pull the
+water down into a catch basin from where it was recycled.  Try
+as he might, he couldn't figure a way to draw the water back
+down for recycling.  It would just form into drops and float
+around in the machine until he opened the door and vacuumed it out.
+After an hour or so of fiddling, Burns came over and they spent
+another half hour working on it together before finally giving up.
+Since they didn't use plates or utensils in space, it wasn't that
+important a device, so Alister put it back into storage and went
+on to the next item on the list - a small refrigerator, of which
+Burns had packed a dozen.  It worked flawlessly, and Alister
+spent the remainder of the day installing the refrigerators
+all over the ship.
 
+
+T + 100 days
+
+By now, the ship had assumed a stable configuration.  The 747's
+crowded crew compartment was the hub of activity, with the remainder
+of the ship docked to its upward-facing airlock.  The first module,
+docked directly to the 747, had become basically an extension of the
+aircraft, where the crew tended to take their meals and gather for
+all-hands briefings.  Past the first module was a docking nexus, with
+four modules extending out from its sides, and other module mated
+above.  These four modules had become the crew quarters.  Bryan and
+Burns shared one, Vic and Alister another.  Andrea, as the only woman
+aboard, had an entire module all to herself, as did the Captain.
+Next came Module 2, primarilly used for storage of immediately
+needed items, such as a supply of food rations, with enough
+open space in the middle to allow easy passage to the next docking
+nexus, with four more modules faning out from it.  Two were basically
+engineering workshops, packed with a variety of tools Burns had
+brought up from Earth, a third Vic had converted into the ship's
+sick bay, and the fourth was a library, loaded mainly with
+Burns' various technical books.
+
+Beyond the second module, the side modules were taken up with a mix of
+greenhouse modules, of which there were twelve, and storage modules,
+containing both supplies carried from Earth and the crew's refuse and
+waste, which the Captain and Burns had forbid throwing overboard.
+Though it would be some time before they figured how to convert their
+waste into fertilizer for the plants, they knew that everything had to
+be recycled if they were to make it to the red planet and back.
+
+Past the greenhouse modules were the tank modules of fuel, oxidizer,
+and water, attached to the sides of more docking nexuses,
+interconnected by storage modules so packed with supplies that it was
+almost impossible to move through them.  The crew hardly ever ventured
+that far into the spaceship, having organized all of their valuable
+supplies close to the 747 and relegated things like the dishwasher to
+the more distant modules.  In all, there were 14 modules arranged in a
+line, with 13 docking nexuses interconnecting them and with another 52
+modules attached to the various docking ports.
+
+They still had about a dozen of the rocket engines from the cargo
+modules' second stages, attached, with their fuel tanks, to the ends
+of the side modules jutting out from the docking nexuses.  Under
+Burns' direction, three of the cargo modules were converted to act as
+Orbital Transfer Vehicles, which could hold two or three people,
+maneuver, and fire their single rocket engines.
 
 
 T + 113 days
@@ -1944,9 +2421,10 @@ Burns hadn't noticed yet, engrossed as he was in the Java code on the
 screen.  Andrea shook her head.  At first, it disturbed her that Burns
 worked on critical software while intoxicated, but the quality of all
 his work was superb, and the captain didn't seem to care.  "He cranks
-out his best code while he's highed up."
-
-MUTE.
+out his best code while he's highed up."  Today, he was wearing one
+of his favorite T-shirts, solid black except for a single word
+across the front, in green letters like you might find generated
+by a VCR on a TV screen: MUTE.
 
 Burns looked up from the screen as the engineer drifted up and grabbed
 a handhold.  "You've known him a long time, the captain?" she asked.
@@ -2015,20 +2493,21 @@ as he moved to touch her... and woke up.
 
 T + 388 days
 
-The asteroid belt turned out to be a gold mine.  Burns had devised a
-scheme to survey the asteroid belt using four cargo modules loaded
-with fuel and piloted under radio control.  In addition to digital
-cameras, each module was equiped a spectrographic imager he had bought
-the pieces for on Earth and assembled and tested on the way out.  When
-focused on part of an asteroid, it would use a rotating prism to break
-apart the various wavelengths of light and sweep them across a light
-sensitive phototransistor.  The output from the transitor would be
-digitized and transmitted back to the ship, producing something like a
-strip chart showing the relative intensity of light at each
-wavelength.  The light intensity would dip sharply at frequencies
-absorbed by the asteroid's material, and by comparing the charts
-with the absorption spectrum of known materials, the crew could
-estimate the probably mineral content of each asteroid.
+The asteroid belt turned out to be a gold mine.  Burns used several
+more of the space rocket engines to devise scheme to survey the
+asteroid belt using four cargo modules loaded with fuel and piloted
+under radio control.  In addition to digital cameras, each module was
+equiped a spectrographic imager he had bought the pieces for on Earth
+and assembled and tested on the way out.  When focused on part of an
+asteroid, it would use a rotating prism to break apart the various
+wavelengths of light and sweep them across a light sensitive
+phototransistor.  The output from the transitor would be digitized and
+transmitted back to the ship, producing something like a strip chart
+showing the relative intensity of light at each wavelength.  The light
+intensity would dip sharply at frequencies absorbed by the asteroid's
+material, and by comparing the charts with the absorption spectrum of
+known materials, the crew could estimate the probably mineral content
+of each asteroid.
 
 The cargo modules were launched under radio control, while the Icarus
 drifted in solar orbit a thousand kilometers from the nearest
@@ -2039,31 +2518,34 @@ asteroids, they struck paydirt - a deposit of what turned out to be
 nearly pure silicon.
 
 Mercurio split the crew into two teams.  Burns and Alister loaded a
-week's worth of supplies into a cargo module and headed for the
-asteroid with the silicon deposit.  The captain, NASA engineer and
-doctor remained on the ship and continued the survey.  Burns stopped
-at another asteroid en route to their target and tested various
-schemes for retrieving the silicon.  He finally settled on explosives,
-and proceeded to the surveyed asteroid, blew half of it apart with
-shaped charges he and the South African planted during a series of
-spacewalks, collected several dozen of the larger pieces of silicon
-left floating in space, and headed back to Icarus.  It was a
-groundbreaking accomplishment, and the video images relayed back to
-Earth were broadcast on news programs throughout the world.
+week's worth of supplies into one of the OTVs and headed for the
+asteroid with the silicon deposit.  It took the engineers almost an
+entire day to maneuver through the asteroids and approach their
+silicon-rich target.  The captain, NASA engineer and doctor remained
+on the ship and continued the survey.
 
-After returning to Icarus, Burns loaded the silicon into the same
-cargo module he had outfitted in Earth orbit to build solar cells.
-While the sizes and shapes of silicon crystal were more irregular than
-the original ingots from Earth, and the purity wasn't quite as good,
-the silicon turned out to be fine for solar cells, and the robot
-manipulators they had started using in Earth orbit were now put to
-work producing solar cells from the ample supply of Asteroid Belt
-silicon.  After a few tweaks, the manufacturing software began to run
-unattended and started turning out a new solar power array every day.
-Within a week, the ship was running completely from solar power, the
-fuel cells were shut down, and Mercurio began to wonder what they
-could do with the solar arrays the robots continued to crank out at
-what seemly a nearly fantastic pace.  Burns had already planned ahead.
+Burns had been testing various schemes for mining the asteroids, and
+finally settled on explosives.  Reaching the surveyed asteroid, he
+blew half of it apart with shaped charges he and the South African
+planted during a series of spacewalks, collected several dozen of the
+larger pieces of silicon left floating in space, and headed back to
+Icarus.  It was a groundbreaking accomplishment, and the video images
+relayed back to Earth were broadcast on news programs throughout the
+world.
+
+Back on _Icarus_, Burns loaded the silicon into the same cargo module
+he had outfitted in Earth orbit to build solar cells.  While the sizes
+and shapes of silicon crystal were more irregular than the original
+ingots from Earth, and the purity wasn't quite as good, the silicon
+turned out to be fine for solar cells, and the robot manipulators they
+had started using in Earth orbit were now put to work producing solar
+cells from the ample supply of Asteroid Belt silicon.  After a few
+tweaks, the manufacturing software began to run unattended and started
+turning out a new solar power array every day.  Within a week, the
+ship was running completely from solar power, the fuel cells were shut
+down, and Mercurio began to wonder what they could do with the solar
+arrays the robots continued to crank out at what seemly a nearly
+fantastic pace.  Burns had already planned ahead.
 
 After returning from another trip into the asteroid belt, this time
 with a cargo module loaded with water ice, Burns piloted the ship
@@ -2093,8 +2575,8 @@ tofu he had habitually passed by in the supermarket.
 "I rather like them steamed," Vic replied.
 
 "I don't know about this, mate," the programmer quibbled as he
-inspected some of the freshly picked raw beans.  "I'll eat it though,"
-he quickly added.
+inspected some of the freshly picked raw beans.  "I'll eat them,
+though," he quickly added.
 
 "Ever been to a sushi restaurant?" Vic asked, with a raised eyebrow
 that indicated he thought he knew something his friend didn't.
@@ -2106,16 +2588,16 @@ that indicated he thought he knew something his friend didn't.
 "Yeah," Alister replied, glancing back down at the soy pods in his
 hand.  "That's what these are?"
 
-The doctor nodded in assent as he opened the steamer and let some of
-the cooked soy beans, along with an ample quantity of steam, float out
-into the air.  The aroma of freshly steamed vegatables permeated the
-air and quickly brought work to a standstill on a spaceship where
+The doctor nodded affirmatively as he opened the steamer and let some
+of the cooked soy beans, along with an ample quantity of steam, float
+out into the air.  The aroma of freshly steamed vegatables permeated
+the air and quickly brought work to a standstill on a spaceship where
 plastic-wrapped spaghetti pouches and freeze dried peaches had been
 the norm for months.
 
 "What have we got here?" the captain asked as he floated in with Burns
-from one direction, almost simultaneously as Andrea entered from the
-other side, where she had been calibrating instrumentation for an
+from one direction, almost simultaneously as Andrea entered from a
+side module, where she had been calibrating instrumentation for an
 upcoming survey run.
 
 "Are these from the garden?" she asked.  "Great!"
@@ -2142,12 +2624,13 @@ strength he had intended, in a bizarre direction that sent the module
 crashing sideways into the one it was being docked with, with Alister
 in the middle.  He pushed away from the asteroid, but couldn't keep
 his arm from being pinned by the errant module against the other.
+The bone snapped in two and Alister hollered in pain.
 
 "Shit," the Captain said, hitting the control in the opposite
 direction, and awkwardly easied the cargo module away.  Alister began
 screaming and floated free, except for his teather.  Burns cut his own
 teather, fire his suit thrusters, and zipped over to his friend, whose
-was in agony.  He spacesuit was leaking air, as well.
+was in agony.  His spacesuit was leaking air, as well.
 
 "Get him into the airlock!" the Captain ordered, but Burns yelled
 back,
@@ -2165,7 +2648,7 @@ He now had firm grasp of the young man and made a quick decision.
 Without saying another word, he shoved the bone back into the suit,
 pulled apart the two sections of bone, and tried to snap them back
 together somehow.  Alister freaked, screaming in pain, but the bone
-was back in the spacesuit and Burns clamped his hand over the hole.
+went back in the spacesuit and Burns clamped his hand over the hole.
 
 "Hold still!" Burns yelled again.
 
