@@ -2543,13 +2543,13 @@ the ship's layout.
 Mercuriou flushed red, clenched his teeth, and smacked his fist
 into his palm before finally verbalizing his frustration.
 
-"And Dr. Yeats, as usual, _exactly_ where we don't want her to be!"
+"Dr. Yeats, as usual, _exactly_ where we don't want her to be!"
 
 "That node appears to be damaged, it's loosing pressure, Doctor!"
 Burns told the NASA engineer.
 
 In C-4, Andrea could hear a quiet whoshing of air.  The node was
-definately loosing pressure.
+definately loosing pressure, but not very fast.
 
 "First of all," she informed Burns as she passed into the center of
 the node, "no matter how much reserve oxygen you've got now, this is
@@ -2559,7 +2559,7 @@ a lot easier to find the problem with air in here then with a vacuum."
 Carefully, she squeezed the water bottle and released a drop of nearly
 stationary fluid into the air, then watched to see where it went.
 
-"She's got a good point, there," Burns mussed aloud on the bridge.
+"She's got some good points, there," Burns mussed aloud on the bridge.
 Behind him, Mercuriou was hardly paying attention as he connected
 together the pants and body of his spacesuit, which he rapidly put on.
 
@@ -2983,6 +2983,8 @@ kept secret."
 library of Alexandria once we just give all these books away for
 free?"
 
+#if MAYBE
+
 "Maybe the capitalists could pay for it, Congressman, they've
 certainly got the money."
 
@@ -2996,10 +2998,36 @@ information will be controlled, just like everything else in a
 capitalist society.  Everything is controlled by the capitalist
 system."
 
+#endif
+
+"Well what do you suggest, Captain?" the congressman asked, dripping
+sarcasm off the last work.
+
+"People should just be nice to each other.  People should be generous.
+Good grief, if you're running a restaurant or a food market, and
+someone comes in hungry, give them something to eat!  Forget about how
+much cash they've got in their pockets!"
+
+"Well, that sounds very noble, Captain, but in the real world, if you
+just give everything away, you'll be put out of business."
+
+"That's right!  That's the 'freedom' of democracy right there - you be
+a capitalist or you'll be put out of business.  And then if you won't
+work for these bums, you'll be put homeless and starving on the street
+and all these great, decent people will spit on you as they walk past
+and call you a bum who doesn't want to work... And they're right,
+'cause I don't want to work - not for them and not for their brutal
+system!"
 
 
 
-"Well, congressman, I'll agree with you that this is a democracy, but
+T + 6 days
+
+"Simply put, in this country we have freedom.  If we have capitalism,
+it's because the people choose it."  The speaker was David Wye, a
+U.S. senator.  Mercuriou was once again in a televised debate.
+
+"Well, senator, I'll agree with you that this is a democracy, but
 I don't think that changes things more than a little.  Let's say
 Russia had had freedom of speech, and freedom of the press, and free
 and open elections every two or four years, and they had still elected
@@ -3011,7 +3039,10 @@ just that they had elections?"
 don't ship our citizens off to gulags!"
 
 "Oh, but you do.  Haven't you heard about 'zero tolerance'?  Haven't
-you heard about the War on Drugs?  Don't you watch C.O.P.S?  You do
+you heard about the War on Drugs?  Don't you watch C.O.P.S?  Remember
+who you're talking to, senator - a drug user!  Don't expect me to
+sit here and crow on about freedom while this whole society is
+hell-bent on a war against me and everyone else like me.  You do
 ship your citizens off to jail, and while you may not torture them,
 and your prisons may not be as cold as the ones in Siberia, the fact
 remains that fear of the police is just as readily used in this
@@ -3070,11 +3101,34 @@ about Ammendment One, Freedom of Speech; Ammendment Two, the Right to
 Bear Arms; the guarantees of due process, the election procedures,
 this is absurd!"
 
+"Fine!  Fine!  Let's keep going, too!  Don't forget the ninth
+Ammendment, how's it read?"
+
+Mercuriou quoted the document word-for-word from his laptop.
+
+[Insert ninth ammendment here]
+
+"OK!  So here it is clearly stated that the federal government
+_does_not_ have any of these additional powers!  No right to regulate
+communications, of radio or any other form!  No right to regulate drug
+use!  No right to regulate firearms!"
+
+Wye laughed, the forced laugh of a man caught somewhat off-guard by an
+opponent better prepared than he.
+
+"Look, there are sound legal arguments behind all of these laws..."
+
+"So what, only a lawyer can understand the Constitution?"
+
+"No, you don't need to be a lawyer to understand the Constitution,
+but this notion that half the federal government is unconstitutional
+is simply absurd!"
+
 "What good's a law when you pick and choose what parts of it you want
-to obey?  Fine, you obey parts of the Constitution, what about the
-other parts?  This is like me blowing down the highway at ninety miles
-an hour, and when the cop pulls me over saying, oh, but officer, I
-came to a full and complete stop at all the red lights!"
+to obey?  Fine, so you obey parts of the Constitution, but what about
+the other parts?  This is like me blowing down the highway at ninety
+miles an hour, and when the cop pulls me over saying, oh, but officer,
+I came to a full and complete stop at all the red lights!"
 
 "OK," Koppel interjected, trying to bring the discussion under
 control.  "Congressman, Captain Mercurio certainly isn't the first
@@ -3083,9 +3137,8 @@ Constitution.  Is there nothing to any of these claims?"
 
 "No, and I'll tell you why," Black replied.  "All these things the
 anti-government people gripe about - gun control, the drug war, the
-environmental laws, the Department of Homeland Security - all of them
-are supported by the overwealming majority of the people of this
-country."
+environmental laws, the FCC - all of them are supported by the
+overwealming majority of the people of this country."
 
 "I'll agree with that," the space captain replied, "but I'd still like
 to see these additional powers codified in Constitutional Ammendments,
@@ -3100,6 +3153,67 @@ all these rules for everyone else to obey, I'd just like to see them
 have to obey the rules that were laid down for them.  It's a bit of a
 side issue, but I'd really like a precedent established that the
 powers of the government are limited by the Constitution."
+
+"The government is limited by its Constitution.  That's one of the
+fundamental principles of American government."
+
+"How can you sit there and say that!  How can you read the Bill of
+Rights, and in particular the Ninth and Tenth Ammendments, then sit
+there and say that!  It just flys in the face of reason!"
+
+"Again, Captain, it comes back to self-government.  The bottom line is
+that this is what the majority of the people want!  And what they want
+is freedom!"
+
+"Freedom!"  Mercuriou fired back in disgust.  "Senator, turn on the
+T.V!  Don't you see the police slamming people to the ground and
+dragging them off in handcuffs!"
+
+"Criminals!  Criminals!  People who break our laws!"
+
+Mercuriou would have lept out of his chair, but of course, he
+had no chair.  He was floating free in the cabin of the 747,
+so had to be content with a bizarre gestation of his arms
+before firing back his retort.
+
+"Senator, _I'm_one_of_those_criminals_!  Because I smoke marijuana!
+Because I don't concede to this God-damned, cursed, cursed democracy
+that it can control every aspect of my life, no matter how private,
+that it can literally tell me what I can and can't put into my own
+body!  And then you sit there are talk about freedom, you filthy son
+of a bitch!"
+
+"We have freedom in this country!" Black practically screamed back at
+the camera in retort.  "We have freedom of speech, freedom of the
+press, free elections!"
+
+"The issue isn't how much freedom this 'majority' has got.  It's what
+they've chosen to do with it!  They've chosen to build a society based
+on some of the most vicious traits of mankind; they've chosen the most
+selfish bastards as their leaders; they've chosen to arm themselves to
+the teeth, build some nightmare society, declare war against millions
+of their own people because they won't just do what their told when
+the great free democracy barks out its orders, and then jam it down
+their throats at gunpoint!"
+
+
+
+
+T + 7 days
+
+"The majority don't want good leaders," Marc cut in.  He was once
+again back in a televised debate.  His advesary stuttered and
+faltered.
+
+Perhaps because of his attitude, perhaps because of the media
+attention heaped on him, perhaps because of his position in orbit,
+completely beyond the reach of any terrestrial authority, or perhaps
+simply because what he said, Mercuriou seemed to incite the ire of
+nearly all the American political leaders, regardless of party
+affiliation or personal temperment.  In another televised debate, he
+faced off against one of the most country's most prominent
+politicians, a state governor widely expected to run for president in
+an upcoming election.
 
 "So you actually do think the majority of people support the government?"
 
@@ -3215,40 +3329,9 @@ same reason people today support the capitalists - because they
 were brutal as hell, and that's what works in the _real_world_ and
 that's all these millions and millions of people _know_!"
 
-"We have freedom in this country," Black retorted.  "We have freedom
-of speech, freedom of the press, free elections!"
-
-"The issue isn't how much freedom these people have got.  It's what
-they've chosen to do with it!  They've chosen to build a society based
-on some of the most vicious traits of mankind; they've chosen the
-most selfish bastards as their leaders; they've chosen to build
-some nightmare system and just jam it down everyone's throats."
-
-"Well what do you suggest, Captain?" the congressman asked, dripping
-sarcasm off the last work.
-
-"People should just be nice to each other.  People should be generous.
-Good grief, if you're running a restaurant or a food market, and
-someone comes in hungry, give them something to eat!  Forget about how
-much cash they've got in their pockets!"
-
-"Well, that sounds very noble, Captain, but in the real world, if you
-just give everything away, you'll be put out of business."
-
-"That's right!  That's the 'freedom' of democracy right there - you be
-a capitalist or you'll be put out of business.  And then if you won't
-work for these bums, you'll be put homeless and starving on the street
-and all these great, decent people will spit on you as they walk past
-and call you a bum who doesn't want to work... And they're right,
-'cause I don't want to work - not for them and not for their brutal
-system!"
 
 
-T + 7 days
 
-"The majority don't want good leaders," Marc cut in.  He was once
-again back in a televised debate.  His advesary stuttered and
-faltered.
 
 "The majority don't want good leaders," the astronaut repeated,
 floating weightless on the screens of 10 million people watching the
@@ -5874,6 +5957,9 @@ closed the PMA's hatch, the Captain turned back to his crew.
 
 			   ===== NOTES =====
 
+T + 3 days
+
+the leak
 
 T + 4 days
 
