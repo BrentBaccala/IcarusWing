@@ -993,21 +993,32 @@ degree, but also because the young man had a natural aptitude working
 with the computers that were so critical to the project's success.
 
 Yet now that aptitude was begining to land the young South African in
-trouble.  He had noticed that Burns spent at least an hour or two a
-day working on a computer with a competely seperate network feed.  He
-had already said something to Burns, suggesting that the seperate feed
-to be configured as a backup to their primary feed, but his boss had
-dismissed the suggestion, saying something about the second feed being
-'fine the way it is'.
+trouble.  He had noticed that Burns or Mercuriou periodically used a
+computer that was kept completely isolated from the rest of the
+machines on their network.  His inquires about the machine had been
+vaguely dismissed.
 
 Yet Alister fancied himself a hacker, and had trained himself to read
 keystrokes over people's shoulders.  Burns had carelessly allowed the
 young chemist to watch him login to the 'dumper', as the computer was
 called, and now Alister had used to password to enter the system
-himself.  In addition to dozens of custom software programs, it also
-contained large files that were essentially tape recordings of the
-digital network traffic during various hacking attacks.  Alister now
-skimmed through one of these.
+himself and began looking around it.  It contained dozens of files
+written in assembly language, which was about as close as you could
+get to the machine's underlying architecture without dealing directly
+with the bits and bytes.  Alister rarely used assembly, and didn't
+bother trying to understand the arcane instructions contained therein.
+Instead, he looking at the machine's accounting records, which showed
+one program used more than another other on the system.  Alister
+ran the program.
+
+A new window appeared on his screen.  On it, brightly colored graphics
+portrayed a cue stick deflecting billard balls into a neat square.
+Each ball contained a number - sixteen, then thirty-five, then four.
+Alister recognized it almost immediately.  It was a Keno game of the
+type you might find in a casino.
+_What's_all_this_secrecy_about_a_game_, the young man wondered.  Then
+the bottom of the screen caught his eye, where the machine displayed
+the current date and time.  _What_the_hell!?!_
 
 
 T - 140 days
@@ -1024,25 +1035,6 @@ staring at the screen as Alister walked into his office.
 
 A wide grin broke out on Burns' face as he swiveled the screen in
 Alister's direction and leaned back in his chair.
-
-"There was an unlogged connection to 'dumper' from your workstation
-last night at 9:43 PM.  It was encrypted of course, but it looks like
-it lasted almost an hour.  Know anything about it?"
-
-Alister's face flushed red, while Burns continued to grin broadly.
-There seemed little point in trying to deny the obvious.  Card key
-records of entry and exit from the building would place him in the
-office last night at that time, and his workstation's own accounting
-records could probably be mined for evidence to support the hack.
-Anyway, it was curiosity that had driven Alister; he wasn't a natural
-liar.
-
-"Yeah, I've seen you type that password a few times and I wanted to
-see what was on that machine."
-
-"And what did you see?"
-
-Alister shrugged.
 
 "Looked like a bunch of packet traces..." he replied, letting his
 voice drift off at the end.
@@ -1061,7 +1053,28 @@ neck.
 
 T - 137 days
 
-DESCRIPTION OF MERCURIOU'S OFFICE HERE
+"What did he see?"
+
+Mercuriou asked the question without turning around to face Burns.
+Instead, he leaned back in his chair with his back to the engineer
+and watched a rain storm pelt the office's plate glass windows.
+
+"He ran the program," Burns replied.
+
+Unbeknownst to Alister, Burns also had a completely seperate computer
+monitoring the connections to "dumper".  Although the login sessions
+were encrypted, they could at least be tracked and logged.  Each
+morning, Burns ran a program that verified that the login records
+matched the packet traces recorded on the network.  In addition, the
+accounting records were duplicated on the other computer.
+
+"Did he understand what he saw?"
+
+Burns thought for a moment.  The pelting rain was the only sound in
+the office.  Mercuriou watched the streaks of water sliding down the
+glass.
+
+"Probably.  He's pretty sharp."
 
 "So Alister knows we're up to something; he just doesn't know what,"
 Mercuriou concluded, leaning back in his chair and watching a rain
@@ -1070,26 +1083,12 @@ Mercuriou had returned from a visit to "Site Y", and his chief
 engineer had just finished filling in his boss on Alister's
 unauthorized computer access.
 
-"What did he see?"  /  "Do you know what he saw?"
-
-"Bank Duestch.  The packet trace we had running during the hack."
-
-"How much of it?"
-
-"Probably the whole thing."
-
-"Did he make any sense out of it?"
-
-Burns thought for a moment.
-
-"Yeah, probably.  This could be serious."
-
 Mercuriou answered first a chuckle, then broke out in an awkward
 guffaw.
 
 "You think this is funny?" Burns asked.
 
-"I think it's hilarious.  This whole thing is made possible by your
+"I think it's hilarious.  Our whole operation is made possible by your
 super-hack of Chesapeake, and now along comes this twenty-year-old kid
 who hacks _your_ network!"
 
@@ -1103,17 +1102,13 @@ that the Securities and Exchange Commision had begun an investigation
 into the bankruptcy of one Keystone Securities.  Burns read the story
 while Mercuriou thought over the problem with Alister.
 
-"This could be serious, too," the engineer concluded as his returned
-the newspaper.
+"This could be serious," the engineer concluded as his returned the
+newspaper.
 
-"Oh, it is serious.  They'll eventually catch up with us.  We just
-better make sure we're in orbit by the time that happens."
-
-"Oh, it _is_ serious," he replied, leaning back in his chair.
-"There's a countdown clock running on this launch, just like with
-NASA's, T minus whatever, only we don't know what time it is.  At some
-point, that clock goes to zero, and we better be ready to launch when
-it does."
+"Oh, it _is_ serious.  They'll eventually catch up with us.  There's a
+countdown clock running on this launch, just like with NASA's, T minus
+whatever, only we don't know what time it is.  At some point, that
+clock goes to zero, and we better be ready to launch when it does."
 
 "It's not going to be today," Burns replied.  "We don't even have all
 the engines finished yet, and as you very well know, we don't have
@@ -1123,7 +1118,7 @@ enough ten-thirty-three."
 need down to Site Y, we better make sure that as soon as we've got
 enough ten-thirty-three then we've got a launch capability."
 
-Burns shifted uncomfortably in his chair.  Mercuriou was preaching
+Burns shifted uncomfortably on the couch.  Mercuriou was preaching
 the choir, and the engineer didn't like being told what he
 very well knew.
 
@@ -1146,9 +1141,43 @@ will he hack for us?"
 
 Alister is called into the office.
 
-"OK, so you know there's some kind of hack going on.  You may suspect
-that this is a front operation of some kind.  What you haven't figured
-out is the truth.  This is a manned mission to Mars.  I'm the
+"Close the door," Mercuriou directed and the young man complied.
+Burns began speaking as soon as the door closed.
+
+"There was an unlogged connection to 'dumper' from your workstation
+last night at 9:43 PM.  It was encrypted of course, but it looks like
+it lasted almost an hour.  Know anything about it?"
+
+Alister's face flushed red.  He had been avoiding Burns all day,
+feeling uncomfortable ever since his un-authorized excursion of the
+night before.  There seemed little point in trying to deny the
+obvious.  Card key records of entry and exit from the building would
+place him in the office last night at that time, and his workstation's
+own accounting records could probably be mined for evidence to support
+the hack.  Anyway, it was curiosity that had driven Alister; he wasn't
+a natural liar.
+
+"Yeah, I've seen you type that password a few times and I wanted to
+see what was on that machine."
+
+"And what did you see?"
+
+Alister shrugged.  An awkward silence followed.
+
+"OK," Mercuriou cut it, "so you know there's some kind of hack going
+on.  You may suspect that this is a front operation of some kind.
+What you haven't figured out is the truth, let me assure you.  Sit
+down."
+
+Alister planted himself in one of the two vacant chairs in the office.
+Mercuriou got up out of his and walked to one of the windows.
+He was conscious that the success or failure of his entire plan
+hung on his next words and actions.  His mind flashed back
+to college, to one of his most energetic professors, writing
+"RHETORIC" on the blackbord in bold capital letters.  Turning
+around from the window, he faced the young chemist.
+
+"This is a manned mission to Mars," he stated calmly.  "I'm the
 commander; Burns is chief engineer."
 
 Alister looked from one man to the other.  Sitting comfortably in the
@@ -1156,21 +1185,68 @@ Mercuriou's office, he couldn't imagine that the man in the swivel
 chair was a space captain, or that the pot-smoking hacker reclining on
 the coach was a chief engineer.
 
-"Yeah, right," he replied as he got up to leave.
+"Yeah, right," he replied as he got up out of his chair and started
+for the door.  "And I'm Mother Theresa."
 
-"This is no joke," Burns informed him as he was halfway across the room.
+"This is no joke," Burns informed him.  Alister stopped halfway across
+the room.  Both of the other men appeared absolutely serious.
 
-...
+"What I saw on that computer last night wasn't the space shuttle."
 
-"We need someone who can hack.  I've got a whole list of things I need
-lifted from one computer or another, and there's no way I can do it
-all myself."
+"You saw the Kansas state daily lottery drawing," Mercuriou stated in
+a tone of voice Burns might have used to declare that gravity
+manifested itself as curvature in a four-dimensional space
+invarient under Lorentz transformations.
 
-"So what now?" Alister asked.
+"Of course, you could have turned on the TV and saw the Kansas state
+daily lottery drawing," Mercuriou continued, walking forward and
+consciously dominating the space of the room, without approaching
+close enough to impede on Alister's space.  "Except that you saw
+_today's_ Kansas state daily lottery drawing."
 
-Mercuriou leaned back in his chair and grinned.
+Alister looked from one man to the other.
 
-"I think it's time for you to take a little vacation."
+"So, what, you've hacked a state lottery to pay for a Mars mission?"
+
+"Not even close," Mercuriou answered.  "We could hack every state
+lottery out there and might barely have the money to put a
+communications satellite in orbit."
+
+"What we need," Burns continued, "is this new fuel to work.  Flying to
+Mars is a non-starter if we can't do that."
+
+"So what do you need to hack the lottery for?"
+
+Mercuriou waved his arm in a sweeping gesture that including the
+desk, the chairs, the office, the computers.  The truth slowly
+started to dawn on Alister.
+
+"So all this is stolen? I mean hacked?"
+
+"Stolen," Mercuriou answered.  "That's the right word.  All of it.
+Every penny."
+
+Again only the rain could be heard.  Alister turned slowly back
+towards his chair.
+
+"We could have moved to Arruba and spent the next ten years sipping
+piña coladas on the beach," Mercuriou continued.  "We could have
+bought a restaurant, used it to launder the money, and then sat back
+and let someone else run it.  We could have checked out this great
+society here and done whatever the hell we pleased."
+
+Alister had made it back to his chair and sat down.
+
+"Instead, we decided to do something I've always wanted to do, and
+something that this man is uniquely qualified for," Mercuriou waved to
+indicate Burns, then continued.  "We decided to see if we can't really
+move this space technology forward, come up with a spacecraft fuel
+that really works, that will really let people do what Robert Heinlein
+just dreamed about, quit piddling around in Low Earth Orbit, and
+_fly_to_Mars_.  That's what's we're about.  And that lottery you saw
+last night is just the tip of the iceberg, trust me, you have
+_no_idea_ how big this hack is.  So the question now is, are you in or
+are you out?"
 
 
 T - 131 days
