@@ -4417,74 +4417,27 @@ broke it.
 "Take us out of LEO."
 
 
-T + 91 days
+T + 54 days
 
-After three months in orbit, the constant TV interviews had died down
-and the _Icarus_ crew had settled into a kind of routine.  This day was
-typical.  Burns led Alister into the branching tree of docked cargo
-modules, rummaged in one for a moment or two, then pulled out the
-box he was looking for, a brand-new Whirlpool automatic dishwasher.
-
-"Will this work in orbit?" he asked.  Alister shrugged non-commitally.
-
-"Find out," Burns said as he pushed the box towards the open hatch,
-letting Alister slow its momentum and guide it into the docking nexus
-before propelling it down towards the main body of the spacecraft.
-While Alister starting pulling apart the styrofoam packing pieces,
-Burns returned to organizing the various equipment that now filled the
-cramped crew compartment.  The captain quickly joined in.
-
-"Where do you want it?" he asked his chief engineer, taking a box of
-reference books that Burns had pulled out for his last big project,
-modifying the forward radar array to give better azimuth coverage.
-
-"Put them back in L-9; you should find some space there," Burns
-replied, refering to the cargo module into which he had moved
-most of the books he had brought.  He had wanted to scan them
-electronically, but as the time-fuel trade-off had shifted
-towards burning fuel to save time, the scanning had been
-postponed and the books stored into cargo modules.
-
-Meanwhile, the South African had begun removing the cover from the
-bulky dishwasher.  Having examined its construction, he had already
-concluded that it would just fill up with water and spill over into
-the cabin when opened, so his first thought was to install a vacuum
-suction to remove the water when the machine was finished.  Having
-done so, he found that the device depended on gravity to pull the
-water down into a catch basin from where it was recycled.  Try
-as he might, he couldn't figure a way to draw the water back
-down for recycling.  It would just form into drops and float
-around in the machine until he opened the door and vacuumed it out.
-After an hour or so of fiddling, Burns came over and they spent
-another half hour working on it together before finally giving up.
-Since they didn't use plates or utensils in space, it wasn't that
-important a device, so Alister put it back into storage and went
-on to the next item on the list - a small refrigerator, of which
-Burns had packed a dozen.  It worked flawlessly, and Alister
-spent the remainder of the day installing the refrigerators
-all over the ship.
-
-
-T + 100 days
-
-By now, the ship had assumed a stable configuration.  The 747's
-crowded crew compartment was the hub of activity, with the remainder
-of the ship docked to its upward-facing airlock.  The first module,
-docked directly to the 747, had become basically an extension of the
+After almost two months in orbit, the constant TV interviews had died
+down, the ship had assumed a stable configuration, and the _Icarus_
+crew had settled into a kind of routine.  The 747's crowded crew
+compartment was the hub of activity, with the remainder of the ship
+docked to its upward-facing airlock.  The first module, docked
+directly to the 747, had become basically an extension of the
 aircraft, where the crew tended to take their meals and gather for
 all-hands briefings.  Past the first module was a docking nexus, with
 four modules extending out from its sides, and other module mated
 above.  These four modules had become the crew quarters.  Bryan and
 Burns shared one, Vic and Alister another.  Andrea, as the only woman
-aboard, had an entire module all to herself, as did the Captain.
-Next came Module 2, primarilly used for storage of immediately
-needed items, such as a supply of food rations, with enough
-open space in the middle to allow easy passage to the next docking
-nexus, with four more modules faning out from it.  Two were basically
-engineering workshops, packed with a variety of tools Burns had
-brought up from Earth, a third Vic had converted into the ship's
-sick bay, and the fourth was a library, loaded mainly with
-Burns' various technical books.
+aboard, had an entire module all to herself, as did the Captain.  Next
+came Module 2, primarilly used for storage of immediately needed
+items, such as a supply of food rations, with enough open space in the
+middle to allow easy passage to the next docking nexus, with four more
+modules faning out from it.  Two were basically engineering workshops,
+packed with a variety of tools Burns had brought up from Earth, a
+third Vic had converted into the ship's sick bay, and the fourth was a
+library, loaded mainly with Burns' various technical books.
 
 Beyond the second module, the side modules were taken up with a mix of
 greenhouse modules, of which there were twelve, and storage modules,
@@ -4510,9 +4463,6 @@ of the side modules jutting out from the docking nexuses.  Under
 Burns' direction, three of the cargo modules were converted to act as
 Orbital Transfer Vehicles, which could hold two or three people,
 maneuver, and fire their single rocket engines.
-
-
-T + 113 days
 
 Mercuriou had banned smoking in A-core, which had by now been
 designated _Icarus_' bridge, so Burns now spent several hours a day in
@@ -4703,7 +4653,7 @@ another stupid routing protocol?  Hell, if we're going to do
 something, fuck it, let's fly to Mars!"
 
 
-T + 143 days
+T + 60 days
 
 "What are you, some kind of reporter now?  You gonna go around this
 ship trying to draw everybody's life history out of them?"
@@ -4767,8 +4717,19 @@ the pie, too."
 happens to be something I'm really good at, it beats sitting in some
 stuffy office building, and looks like it just might get us to Mars!"
 
+#if MAYBE
+Vic threw his hands up in exasperation and pushed away from
+the computer.
 
-T + 388 days
+"I don't know how this damn thing works!  What the hell do I know
+about neural nets?!"
+
+"Let me take a look," Andrea said, and started learning how the
+robotics system worked.
+#endif
+
+
+T + 188 days
 
 Meanwhile, the first crops from the ship's vegetable garden ripened,
 just as the supply of military rations was growing noticably short.
@@ -4815,27 +4776,24 @@ upcoming survey run.
 "Are these from the garden?" she asked.  "Great!"
 
 
-T + 431 days
+T + 231 days
 
-Dr. Antonov decided that confinement to bed was largely pointless in
-zero-gee, so he allowed Alister to move around the ship in his brace,
-to which Burns attached plastic guards that Alister called his
-"bumpers".  The ship was running smoothly, and with the stress of the
+In retrospect, the first crops harvested from the garden had marked a
+turning point in the flight of the _Icarus_.  With the stress of the
 initial months behind them, the crew of the _Icarus_ had settled into
 a leisurely routine.  Captain Mercuriou was slowly rereading
 Plutarch's _Lives_of_the_Nobel_Gretians_and_Romans_, this time in the
 original Latin; Vic undertook a careful breeding program to develop
 strains of important food crops (and marijuana) specifically adapted
 for growth in zero-gee; Burns and Andrea were working on their mission
-plan for a Mars landing; and Alister was learning to play the guitar
-during his convelecance.
+plan for a Mars landing; and his spare time Alister was learning to
+play the guitar.
 
 "Hmmph!" Marc verbalized this particular evening while everyone was
-gathered in the 747's main compartment.  He was reading from a
-detached LCD panel while Alister practiced his scales, Burns and
-Andrea worked on some computer program, and Vic was listening to a
-rock album on headphones in the light haze of a marijuana joint he had
-recently passed around.
+gathered in the B-core.  He was reading from a detached LCD panel
+while Alister practiced his scales, Burns and Andrea worked on some
+computer program, and Vic was listening to a rock album on headphones
+in the light haze of a marijuana joint he had recently passed around.
 
 "Sparta must have been an amazing place to live," the Captain
 speculated, as Vic removed his headphones.  "You have to wonder if
@@ -4956,7 +4914,7 @@ here because we were willing to take it from them."
 God got _me_ here."
 
 
-T + 624 days
+T + 424 days
 
 "Look we've made it this far without any serious problems."
 
@@ -5341,10 +5299,9 @@ begun to form in her mind a third checklist even.  None of them were
 packed except one - a pair of spacesuits.  _Icarus_ would then be left
 with only two.
 
-Alister made her command decision, not to send the spacesuits, but
-said nothing as yet and instead excused herself from the
-rec-room-turned-bridge and entered the captain's quarters, closing
-the hatch behind her.
+Alister made her first command decision, but said nothing and instead
+excused herself from the bridge and entered the captain's quarters,
+closing the hatch behind her.
 
 Less than sixty seconds later she was back.
 
@@ -5354,7 +5311,8 @@ Less than sixty seconds later she was back.
 
 "OK."
 
-"Remove the spacesuits from the resupply module and launch it."
+"Remove the spacesuits from the resupply module and launch it.  I want
+a bulls-eye on the 747's crash site."
 
 The resupply module was launched the same way all the others had been.
 Nearly a hundred of the silicon carbide engines Burns had
@@ -5364,7 +5322,6 @@ on the fuel modules had been performed.  One of them had
 been manuefered and attached to an empty, cleaned fuel module
 docked to bay one.
 
-"I want a bulls-eye on the center of the 747's crash site."
 
 
 T + 652 days
@@ -6485,7 +6442,7 @@ Mercuriou answered now, slowly.
 
 "No, that was just my sales pitch.  My real reason was... it was a
 stunt.  It was biggest stage I could think of to get heard.  And
-Andrea kept telling me I had already done that, that the most important
+Andrea kept telling me I had already done that, that my most important
 mission goal had been achieved, but I wouldn't listen."
 
 Alister fell quiet.
@@ -6499,7 +6456,7 @@ stuff Plato and Aristotle wrote about, St. Matthew and Thomas Aquinas,
 Karl Marx, Victor Hugo, and Tolstoy, and none of them had all the
 answers.  I mean..."
 
-The captain's voice drifted off.  Behind him, _Columbia_ gleamed in
+The captain's voice trailed off.  Behind him, _Columbia_ gleamed in
 the razor-sharp sun.
 
 "There is no beginning.  There is no end.  This is the Great
@@ -6758,15 +6715,9 @@ T + 16 days <***>
 
 decision to move out of LEO to higher orbit
 
-T + 91 days <**>
-
-Day in the life.
-
-T + 100 days <**>
+T + 54 days <****>
 
 Description of the stable module configuration now achieved.
-
-T + 113 days <*****>
 
 Andrea asks Burns about Merciruou.  MUTE.
 
@@ -6774,29 +6725,25 @@ We find out why Burns answers to Mecuriou - Merciriou does the
 management.
 
 
-T + 143 days <****>
+T + 60 days <****>
 
 Andrea and Vic.  why he went to medical school.
 
 
-T + 388 days <***>
+T + 188 days <***>
 
 Soy beans and sushi.
 
 
-T + 431 days <*****>
+T + 231 days <****>
 
-Reaction to Andrea Yeats.  Alister's convelence.  Mercuriou reading
-Plutarch in Latin.  Vic's breading program for zero-gee.  Alister
-learning the guitar.
-
-Sparta.  Vic challenges Andrea to prescribe rules to be Christians.
-'Primitive' societies.  Modern societies based on dependancy and
-forced labor.  The bastardization of Christianity.
+Plutarch. Sparta.  Vic challenges Andrea to prescribe rules to be
+Christians.  'Primitive' societies.  Modern societies based on
+dependancy and forced labor.  The bastardization of Christianity.
 
 Andrea: faith in God got _her_ there.
 
-T + 624 days <***>
+T + 424 days <***>
 
 discussion of landing "If you learn to live with disappointment,
 she'll never leave you for another man."
@@ -6941,7 +6888,7 @@ an interesting new character, then the grande finale
 
 Borzov was the mission commander in Rama II.  I've always imagined
 him something like this, and _who_knows_ what people will think
-of Col. Ramon - he doesn't say anything too unreasonable
+of Col. Ramon - he doesn't say anything too unreasonable I hope
 
 OK, so _Columbia_ couldn't even dock with the ISS.  Sue me for giving
 you a lossy ending.
@@ -6950,7 +6897,7 @@ T + 1265 days <*****>
 
 March 1, 2003
 
-9/11 was Julian date 254 in 2001, March 1 was day 60 of 2003
+9/11 was Julian day 254 of 2001, March 1 was day 60 of 2003
 all these years had 365 days, so (365 - 254) + 365 + 60
 536 days from 9/11 to Columbia
 
