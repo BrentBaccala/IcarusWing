@@ -30,15 +30,15 @@ in college, when the net-news server was
 configured to refuse the student lab.
 They'd recompiled the server, altered so
 that after printing ACCESS 5 DENIED
-the program would accept posts anyway.
-They went in as "root", dropped the binary
+the program would accept posts anyway,
+then went in as "root", dropped the binary
 straight to the drive, and used it daily for
 six months until the system staff updated
 the whole install.  But they were then just kids.
 
 Burns parked in the employee lot, walked past
-the fountain in front of the meter high
-blue corporate logo "Chesapeake," the k's
+the fountain in front of the three foot blue
+white corporate logo "Chesapeake," the k's
 back cast a sailboat's mast, and the whole thing
 a visage of waves breaking on the bay.
 
