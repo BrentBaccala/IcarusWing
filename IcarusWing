@@ -5,6 +5,24 @@ Each Shuttle SRB
 1,100,000 lbs propellant
 192,000 lbs inert
 3,300,000 lbs launch thrust
+2 min burn time
+~ 50,000 lb/sec propellant burn
+
+
+Shuttle (on landing) - 230,000 lbs max
+
+
+Space shuttle main engine
+
+178,000 L/min liquid hydrogen
+64,000 L/min liquid oxygen
+1,734,803 N at sea level (each)
+ET - 2 million liters
+     29,900 kilograms empty
+     751,000 kilograms full
+1,035 gallons (3,900 liters) per second (17-inch diameter feed lines)
+8.5 minutes burn time
+
 
 forced CVI (chemical vapor infiltration)
    3M Nextel fiber
@@ -112,33 +130,33 @@ hack them, ranging from tapping into the router line and hopeing
 somebody will come in and type the password in the clear, to Vic's
 scheme for an Ethernet wiretap built from a thousand-plus element
 phased array to built in the woods across from MiraCom's office park.
-Finally, Brent stepped in and showed why he was in charge.  Somebody
-just had to go in and get a job with them.  Burns' qualifications were
-impecable.
+Finally, Marc Mercurio stepped in and showed why he was in charge.
+Somebody just had to go in and get a job with them.  Burns'
+qualifications were impecable.
 
 At first he just watched the place, as he went about coding a new 3-D
 graphics look for the State of Nevada's lottery.  Back at the rented
-apartment, Brent drilled him for days to read passwords - Burns
-looking over Brent's shoulder as he typed and telling him what he just
-entered.  They'd drill for an hour each day, which Brent liked to say
+apartment, Marc drilled him for days to read passwords - Burns
+looking over Marc's shoulder as he typed and telling him what he just
+entered.  They'd drill for an hour each day, which Marc liked to say
 way the minimum amount of time to put into doing something.  It was a
 big pain, Burns hated it, and turns out they never used them, but by
 the end of the month they had every important password in the place.
 
 They spent the time getting a good look at the development system.
-Brent went right for his favorite program - the gcc compiler.  It was
-several years old, and Brent asked Burns to float a question with
+Marc went right for his favorite program - the gcc compiler.  It was
+several years old, and Marc asked Burns to float a question with
 management about updating it.  "Skipper" yelped with glee when Burns
 returned with the answer.  MiraCom wasn't just turning down the idea;
 they were dead set against upgrading the compiler for fear of hackers
-putting something "funny" in it.  "This means," Brent spurted after
+putting something "funny" in it.  "This means," Marc spurted after
 his bout of laughter and clapping, "that we can change the compiler
 with near absolute certainty that they won't just upgrade it away in a
 few months."  He didn't want to repeat his college experience of an
 upgrade taking away a favorite hack.  The stakes were a lot higher,
 too.
 
-Having settled on the compiler, they set to work on the hack, Brent
+Having settled on the compiler, they set to work on the hack, Marc
 doing most of the coding, Burns reviewing the code each night,
 watching over his shoulder and doing code reviews.  They were
 determined to do it right.  The virus was designed to disappear into
@@ -146,7 +164,7 @@ the compiler's binary, recreating itself if the compiler was asked to
 re-compile itself, as well as infecting the target program.  Since
 they weren't too sure about the target program, they added another
 feature - a third prong of the virus, targeted against the operating
-system kernel, that would give them a back door.  Brent didn't have a
+system kernel, that would give them a back door.  Marc didn't have a
 job, so made sure he fixed dinner every night and generally took care
 of the apartment.  It was just the two of them living there, and on
 weekend nights they'd party with some of the waitresses from a seafood
@@ -157,7 +175,7 @@ snorting coke, cranking the tunes.  Just like their college days.
 The problem remained of getting the hack into the compiler; probably
 the hardest step.  They knew the root passwords, but Burns wasn't
 supposed to have them, and the question remained of when could he
-successfully use them to hack the main development system.  Brent
+successfully use them to hack the main development system.  Marc
 resolved the question - they wouldn't use the passwords at all, but
 rather waited until the system was down for a routine maintenance.
 Burns made sure he was in the server room that day, working on a
@@ -176,7 +194,7 @@ as the server workers came back with the new power supply.  He had
 been practicing at home.  The whole operation took less than 10
 seconds.
 
-Now they leaned back and waited.  Brent starting spending his days at
+Now they leaned back and waited.  Marc starting spending his days at
 the library, as well as starting to make some discrete inquires about
 land in the midwest.  Burns tinkered with the virus a few more times,
 but they were already in, so it was just a matter of copying a file up
@@ -184,7 +202,7 @@ to the server and running a bizarre little system call that should
 just have returned an error but instead jumped into the file's code at
 full kernel privledge.  Burns was really careful every time he used
 it, because a slipup would crash the system and that might begin to
-attract attention.  Brent insisted that each change was carefully
+attract attention.  Marc insisted that each change was carefully
 tested before Burns installed it.  They practiced better software
 design on the hack than anybody in the company did on their software.
 They had to - they couldn't afford a bug.
@@ -206,16 +224,16 @@ time.
 
 Vic had located a ranch site in New Mexico; pretty high up, flat, and
 twenty miles down a back road.  A good road, though - dirt, but a good
-road that trucks could come down.  Brent started to spend money, now -
+road that trucks could come down.  Marc started to spend money, now -
 used trailers for the construction site; a front corporation; phony
 building permits for a large dairy.  Vic asked about the money; the
 leader just shrugged.  "If the hack works, we've got some cash," he
 said, "if not, we've got problems no matter what."  "Do you think we
-should stake everything on this hack?"  "No," Brent answered after a
+should stake everything on this hack?"  "No," Marc answered after a
 short pause, "but I am."
 
 The break can within six months.  The Kansas state jackpot in the
-Pick-Five-Plus had risen to over $11 million.  Brent knew the numbers
+Pick-Five-Plus had risen to over $11 million.  Marc knew the numbers
 would hit.  What kept him up all night was the thought of somebody
 else picking the numbers at random.  Nobody did.
 
@@ -232,7 +250,7 @@ philanthropy with the money.  A little grin washed over his mouth and
 his mustashe bristled.  "Actually, I'm starting a dot-com".
 
 They called it Robotics Research.  Which wasn't far from the truth.
-Brent certainly planed to do a lot of work robotically.  He was also
+Marc certainly planed to do a lot of work robotically.  He was also
 careful to keep the company's cash burn under a half-million a month,
 even considering things like his deal to purchase 60 PCs and 60
 laptops for a hundred thousand, complete with wireless networking
@@ -247,14 +265,14 @@ keep them running all night.  Mostly Jasper's code, Navier-Stokes
 equations, wing design, hypersonic flight, that kind of thing.
 Robotics Research accumulated a sizable collection of robots, and most
 of the software running them was pretty simple.  Just basic remote
-control, really.  Boring stuff, and Brent had to struggle to hold on
+control, really.  Boring stuff, and Marc had to struggle to hold on
 to some of his brighter employees.  He gave them an orbital mechanics
 system to work with and enhance.  No explaination given what a
 robotics company would want with orbital mechanics.  Yet the work was
 interesting, so most of the programmers stayed on.
 
-Meanwhile, Brent had still been playing the lotteries.  The hack had
-worked its way into both Maryland's and Flordia's systems, and Brent
+Meanwhile, Marc had still been playing the lotteries.  The hack had
+worked its way into both Maryland's and Flordia's systems, and Marc
 himself decided to have his fifteen minutes of fame in Flordia, then
 had Jasper's mom hit it big.  People who knew them well started to
 wonder.  If you somebody you know hit the jackpot, it was a big deal,
@@ -262,12 +280,56 @@ but three people?  Questions were already starting to rise when New
 Year's came around.  The core team got together at a ski resort in
 Taos and went back to a rented ski house afterwards.  Vic, as usual,
 was the one to question the lottery winnings, and the increasing money
-drain.  Brent just stood in the corner and puffed on a joint.  "This
+drain.  Marc just stood in the corner and puffed on a joint.  "This
 is the year of living dangerously."
 
-Brent had leveraged the roughly $20 million from the lotterys into
+Marc had leveraged the roughly $20 million from the lotterys into
 about $100 million using fraduent financial statements to get various
 loans for land and equipment.
+
+
+
+T - 341 days
+
+Frozen with fear, Dr. Andrea Yeats stared at the young man in his
+early twenties sitting in the passenger seat near to her.  His jeans
+were ripped, his hair unkempt, and his body excuded a faint odor that
+betrayed the three days that had passed since his last shower.  His
+heavy blond hair and muscular upper body betrayed months of surfing on
+the Southern California beaches.  His eyes had narrowed to slits, and
+his lewd smile told that the money in her purse wasn't the only thing
+he'd be taking.
+
+
+T - 113 days
+
+"I'm inquiring into one of your accounts - Robotics Research; they're
+applying for a sizable line of credit and listed your bank on the
+financial statements they provided us.  According to these statements
+they have several million dollars on deposit with you, right?"
+
+"That's right.  They're one of our larger customers.  They do a lot of
+business, and they always cover their checks; we've never had a
+problem with them."
+
+"Mr. Mercurio, the CEO, said they had a line of credit?"
+
+"That's right, they have a fifty million dollar line of credit secured
+by an six-story office building they own in San Francisco.  They've
+had the credit line for two or three years now; they used it once, and
+repaid in a couple of months."
+
+"So you'd say they're a good credit risk?"
+
+"Absolutely.  They're one of our best customers."
+
+"OK, thank you very much."
+
+Burns hung up the phone and swiveled around in his chair to find
+Alister staring at him from the entrance of the room.
+
+"Is that legal?"
+
 
 T - 57 days
 
@@ -276,7 +338,7 @@ squinted at its display.
 
 "Oh shit."
 
-Baccala stopped eating and looked at him quizically.  So did Alister.
+Mercurio stopped eating and looked at him quizically.  So did Alister.
 
 "It's one of _those_ numbers."
 
@@ -294,10 +356,10 @@ Alister grabbed the phone out of Burns' hand and hit the talk button.
 
 "Hello, our office hours are nine to five, Pacific Standard Time..."
 
-"Get something that beeps," Burns whispered furtively, and Brent pulled
+"Get something that beeps," Burns whispered furtively, and Marc pulled
 out his pager and held it across the table.
 
-"...and we'll get back to you right away."  Brent hit a button on the
+"...and we'll get back to you right away."  Marc hit a button on the
 pager, it emitted a quick beep-beep-beep, and Alister hit the mute
 button on the cell phone.  All three leaned towards the center of the
 table to listen.
@@ -312,7 +374,7 @@ The three sat in silence until the call ended.  Alister spoke first.
 
 "Do you have the money?"
 
-"Yeah, we've got the money," Brent answered.
+"Yeah, we've got the money," Marc answered.
 
 "Then why don't you just pay them?"
 
@@ -495,23 +557,75 @@ the most brilliant engineer he had ever met.
 
 T - 52 days
 
-The story broke on Wall Street that morning.  Brent quickly decided on
+The story broke on Wall Street that morning.  Marc quickly decided on
 damage control and agreed to appear on CNNfn.  He lied through his
 teeth.
+
+"If they control Cisco, they control the network."
+
+----
+
+"OK, so we'll take the most lethal mix of the computer viruses we
+stole from Network Security, transmit them encrypted to the Ciscos so
+they won't be detected in transit, then program the machines to dump
+them all out onto their network segments at a given time."
+
+----
+
+"The FBI computer network was essentially crippled today by what
+government leaders are calling the most devastating act of
+cyberterriorism yet perpetrated."  Similarly read the first statement
+of almost every TV news program that evening.  On this particular
+broadcast, the first clip was of FBI director Louis Freed giving an
+interview.
+
+"What happened today would be akin to someone breaking into the
+Centers for Disease Control, taking a test tube of each of the most
+lethal viruses there, mixing them all in a beaker and throwing it out
+in the middle of New York City."
+
+Later that day, someone sent an email to the NBC news desk that gave
+instructions for contacting the criminals behind the latest string of
+assults.  It prescribed use of a particular Cisco router, behind which
+lay an elaborate string of ruses, redirectors and trap doors.  The end
+result was an audio stream containing a computer synthesized voice
+that would answer questions being broadcast live on national TV.  That
+evening, the voice was interviewed by the network's national news
+anchor.
+
+"First," the voice began, "Director Freed's analogy of releasing Ebola
+viruses in New York City is absurd.  In such an attack, thousands of
+people would die.  In this case, I'd be amazed if even a single person
+died as a result of the FBI network being crippled."
+
+"But there were millions of dollars of damage done, correct?"
+
+"Millions of dollars of what?  Computer expert's overpaid $200-an-hour
+consulting fees?  Maybe.  But actual damage to physical hardware that
+needs to be pulled out and replaced?  Probably zero."
+
+The government responded quickly and harshly.  President Nixon held a
+press conference the next evening in which he addressed the nation,
+informed the people that the United States was under attack from a
+group of terrorists, and that the government was responding
+accordingly.
+
+
+
 
 T - 38 days
 
 
-The programers at Robotics Research were a different story.  Brent
+The programers at Robotics Research were a different story.  Marc
 wanted to keep some of them, so decided to drop the bomb.
 
-"So let's have a red alert right now," Brent added.  Some of the people
+"So let's have a red alert right now," Marc added.  Some of the people
 in the room started to fidget.  Nobody other than the principals had
 any idea what a "red alert" was.
 
 "OK," Burns agreed.
 
-"All right," Brent said, turning back to the room.  "We're going
+"All right," Marc said, turning back to the room.  "We're going
 to tell you everything, that is, those of you who want in on it."
 
 "Want in on what?"
@@ -522,11 +636,11 @@ to tell you everything, that is, those of you who want in on it."
 
 "Pretty much all of it.  All the money is stolen, we ripped off the
 venture capitalists for everything we could get out of them.  Those
-of you who want to hear more stick around; the rest of you..." Brent's
+of you who want to hear more stick around; the rest of you..." Marc's
 voice trailed off and his motioned to the door.
 
 Most of the people in the room got up and left.  One guy asked about
-getting a last paycheck.  Baccala grinned and shook his head.  "So
+getting a last paycheck.  Mercurio grinned and shook his head.  "So
 basically we've been working for free the last two weeks?  You'll
 be hearing from my lawyer."
 
@@ -553,13 +667,13 @@ T - 37 days
 
 A "red alert" simply meant that they were now within one month of
 launch, a final countdown.  The plan called for almost all of their
-operations to be shifted to the location know as Site Blue.  Baccala
+operations to be shifted to the location know as Site Blue.  Mercurio
 insisted that the equipment at Robotics Research be packed and shipped
 within twenty-four hours.  Burn's kids worked through the night and
-were gone by 7 A.M.  Baccala left a simple, typewritten notice taped
+were gone by 7 A.M.  Mercurio left a simple, typewritten notice taped
 to the door:
 
-   From:  Brent Baccala, CEO, Robotics Research, Ltd
+   From:  Marcelius Mercurio, CEO, Robotics Research, Ltd
    To:    Lawyers
           Financiers
           Bankers
@@ -622,19 +736,6 @@ and turned back towards the Interstate.
 
 
 
-		CHAPTER CHAPTER CHAPTER
-
-
-Frozen with fear, Dr. Andrea Yeats stared at the young man in his
-early twenties sitting in the passenger seat near to her.  His jeans
-were ripped, his hair unkempt, and his body excuded a faint odor that
-betrayed the three days that had passed since his last shower.  His
-heavy blond hair and muscular upper body betrayed months of surfing on
-the Southern California beaches.  His eyes had narrowed to slits, and
-his lewd smile told that the money in her purse wasn't the only thing
-he'd be taking.
-
-
 T - 15 days
 
 The police raided two days early.  The "heads up" from the cop turned
@@ -642,7 +743,7 @@ out to be deliberate misinformation.  The police bust into the ranch
 house early morning, and caught everyone asleep, except Burns, who
 was smoking dope and watching TV.
 
-"Where Baccala?" a detective asked him after rounding up the programmers.
+"Where Mercurio?" a detective asked him after rounding up the programmers.
 
 Burns shrugged, "not here".
 
@@ -650,7 +751,7 @@ The rest watched on CNN.  "Maybe they'll let 'em go, when they find out
 they're small fish."  "With all this Homeland Security crap?  They had
 'em locked up tigher than a drum."
 
-Baccala slapped him hand on the table.  "Fuck it.  I said I wouldn't
+Mercurio slapped him hand on the table.  "Fuck it.  I said I wouldn't
 let 'em hang out there, and I'm not letting 'em hang.  We'll go get
 'em with the choppers."
 
@@ -659,7 +760,7 @@ let 'em hang out there, and I'm not letting 'em hang.  We'll go get
 "We'll hold up the cops.  Surprise 'em as they move our people to
 the jail."
 
-"I'll go," Brian said.  Brent started to object.  "No, I told you you
+"I'll go," Brian said.  Marc started to object.  "No, I told you you
 needed someone for security, and this is exactly what I meant."
 
 They went down in CH-47 Chinooks, sat the choppers down on an empty mesa twenty
@@ -680,14 +781,14 @@ pointing an M-16 at the driver's head.
 "So you need a diversion," Brian summerized.  "I'll take care of it."
 
 Over the next week, Brian blazed a trail of blown-up highway bridges
-across the country.  Brent continued to phone in to the various media
+across the country.  Marc continued to phone in to the various media
 outlets, and quickly became dubbed the "Highway Bomber".  The manhunt
 dominated the national headlines, but Brian kept right on going,
 across Kansas, across Missouri, into Tenneesse, and up through
 Virginia towards Washington, D.C.  His destination was obvious, and
 nobody paid Utah any attention at all.  The nation's capital was put
 on a terrorist alert.  Part of the reason he was so successful is that
-all the pictures on the TV were Brent's, so Brian was able to drive
+all the pictures on the TV were Marc's, so Brian was able to drive
 the highways unmolested.
 
 That all changed in Roanoke, Virginia.  Two deer hunters came across
@@ -698,7 +799,7 @@ hunters had gotten his license plate numbers and a good description of
 the Highway Bomber.  The police now knew they had a second suspect and
 shifted their focus accordingly.  The public was told this unknown man
 was "armed and extremely dangerous" and were advised to report to the
-police immediately any sitings.  Brian called Brent on his cell phone.
+police immediately any sitings.  Brian called Marc on his cell phone.
 
 "I think my cover is pretty much blown here."
 
@@ -728,7 +829,7 @@ tal como Nuevo York y Los Angeles."
 "He says he thinks you're going to launch these missiles against
 American cities like New York and Los Angeles."
 
-"No.  No.  Estes missiles voy a espacio.  Espacio!  Espacio!"  Brent
+"No.  No.  Estes missiles voy a espacio.  Espacio!  Espacio!"  Marc
 pointed to the sky for emphasis.
 
 "A las noticas dicen que usted es un terroristo."
@@ -747,7 +848,7 @@ pointed to the sky for emphasis.
 
 "He says somebody's been blowing up bridges in Virginia."
 
-Brent shrugged his shoulders and paused for a moment, his mouth agap.
+Marc shrugged his shoulders and paused for a moment, his mouth agap.
 
 "Al Queda?"
 
@@ -755,16 +856,16 @@ Brent shrugged his shoulders and paused for a moment, his mouth agap.
 
 Launch Day
 
-With rockets launching every 5 minutes, Baccala finally started
+With rockets launching every 5 minutes, Mercurio finally started
 to give honest answers to the media.
 
 "How much money did you steal?"
 
 "Hard to say.  Adding up everything we lied about, everything we
 bought on empty credit, everything we just flat out stole - probably
-about 200 million dollars."  He paused for a minute.  "And that's a
+close to a billion dollars."  He paused for a minute.  "And that's a
 shoestring budget for what we're trying to do.  We've cut a lot of
-corners.  200 million isn't much for a manned space launch, let alone
+corners.  A billion isn't much for a manned space launch, let alone
 one going to Mars."
 
 "How many corners did you cut?"
@@ -801,7 +902,7 @@ wasn't much he could do at the moment.  Alister's ship had
 quickly lost all its atmosphere, but both astronauts were safely
 inside their spacesuits.
 
-"OK, Baccala here," the captain announced into the radio, as he
+"OK, Mercurio here," the captain announced into the radio, as he
 glanced behind himself and noticed the TV crew that had followed
 them.  Probably live on CNN, he thought, which they were.
 
@@ -815,13 +916,13 @@ wait there for us."
 
 "Right on, no problem."
 
-"How's it look, Alister?" Baccala interjected.
+"How's it look, Alister?" Mercurio interjected.
 
 "It's fine, chief.  It was a great ride up, and think the leak won't
 be too much of a problem.  We're already looking around to try
 and find the hole."
 
-"OK, I'll see you on orbit.  Baccala out."
+"OK, I'll see you on orbit.  Mercurio out."
 
 "No possibility of an abort?" Brian ventured.  His old friend shook
 his head.  "OK, let's go."
@@ -850,11 +951,11 @@ at the base and the cops ran to the base of the tower, but the car
 was already out of reach.
 
 "If you want to stick around when we fire this thing up, be my guest!"
-Brent yelled down to them, motioning towards the mamouth ICBM they
-were now inching up.  At the top, Brent and Brian walked across the
-catwalk and climbed into the cockpit.  Brent pulled the hatch shut
+Marc yelled down to them, motioning towards the mamouth ICBM they
+were now inching up.  At the top, Marc and Brian walked across the
+catwalk and climbed into the cockpit.  Marc pulled the hatch shut
 behind them and sealed it.  They had checked the radio earlier, and
-Brent now clicked it on and called Burns.  He knew they didn't have
+Marc now clicked it on and called Burns.  He knew they didn't have
 time for long checklists.
 
 "We're ready to go."
@@ -875,11 +976,303 @@ sent top secret papers flying everywhere.
 I've got to find out from CNN when 70 missiles get fired off in Utah?"
 
 
+T + 2 days
+
+Burns had originally toyed with the idea of putting windows in some of
+the cargo modules to let sunlight in for growing plants.  The time
+factor had caused him to forego this in favor of solid, uncut cargo
+modules and more than two hundred grow lights that he had simply
+packed away, surrounded by almost a solid foot of styrofoam packing
+peanuts to protect them against the bumpy ride up.  Due in large part
+to their inefficient launch profile, all the lights made it.
+
+Supplying them with power was a different story.  Burns had brought
+four fuel cells capable of reacting the kerosene and the oxygen
+produced from the hydrogen peroxide, albeit inefficiently, and mounted
+two of them in the 747's pressurized upper deck.  They were supplied
+with fuel from a pair of tanks in the rear of the 747.  Each tank
+contained a diaphragm with pressurized air on one side and liquid fuel
+or oxidizer on the other.  Especially in the micro gravity of Earth
+orbit, little air pressure was required to keep the fluid flowing to
+the fuel cells, and Burns had designed the tanks so he could force
+more fuel into them from the plane's main fuel tanks by starting the
+rocket engines and using the force of the thrust to force fuel back
+into the tanks.  He also had several small tanks of fuel and oxidizer
+that fit through the hatchways and could be used in emergencies.
+
+But the real power would have to come from the solar panels.  The ship
+just didn't have enough power to operate the grow lights so critical
+for the ultimate success of the mission.  Moreover, if they continued
+to use the power cells, they would eventually run out of fuel.
+They had not brought enough fuel to both get to the astroid belt
+and run the fuel cells the entire way.
+
+So, the first week in orbit consisted almost entirely of orbital
+operations, as Burns docked with one cargo module after another,
+slowing refueling the 747 from the 30,000 L capacity of each module.
+Along the way, he also assembled the cargo modules in a long chain
+attached to the docking ring on the nose of the 747, which became
+like a tugboat pushing a cargo barge around Earth orbit.
 
 T + 4 days
 
-"The problem is populist government - this stupid idea that you can
-put the masses in charge of society.  It was talked about by
+Despite all the work going on in orbit, Mercurio found time for
+the media, and at that moment the stunning private space launch
+was all the rage.  His first major appearance was on a prime-time
+national news program.
+
+"Captain, by all accounts you stolen millions of dollars, and many
+people think you could have gotten away with at least several million
+undetected.  Why not just take the money and retire on a beach in
+Aruba?  Why fly into space?"
+
+"Well, Jack, that's a good question.  I guess, basically, I'm 35
+years old and not ready to lounge on a beach just yet.  Spaceflight
+has always facinated me, and I want to do something with my life,
+not just sit around and enjoy a big pile of cash."
+
+"Couldn't you have raised money for your flight just by being
+honest with people about what you were attempting, have say,
+hey, we're flying to space, finance us?"
+
+"No, I don't think so.  Look at the X Prize.  They were trying to
+raise 10 million dollars to reward a private manned spaceflight and
+struggled every step of the way.  Ten million is nothing; you'd be
+lucky to get one man into orbit for ten million, heck, you'd be lucky
+to put an unmanned satellite into orbit for ten million.  The only
+manned space programs are funded by national governments with huge
+bankrolls.  Other than that, you've got these commercial satellite
+launches backed by large corporations with some kind of scheme to make
+the money back, and plenty of those schemes fail.  Let's face it - in
+a capitalist society the only way to get anything done is to have some
+kind of money-making scheme, some kind of 'business plan', they call
+it, and we've got no business plan of any kind for how you can recoup
+a billion dollars from this flight or any other.  So the only way to
+do it was to either wait for the government, or be independantly
+wealthy, or steal it.  We stole it."
+
+"What do you have to say to all the people you stole from, I'm sure
+many of them are listening to this program, do you have anything to
+say to them?"
+
+"Not really.  We didn't steal from Mother Teresa.  The only people
+we stole from were capitalists, and they won't lift a finger for
+anybody unless they're getting something out of it for themselves."
+
+"So you don't have a problem stealing from capitalists?"
+
+"Why should I?  They're some of the most selfish people in the world,
+heck, their whole philosophy is based on greed.  I'm mean, let's just
+apply their own rational.  I'm helping them compete.  If some of them
+go out of business, so what?  I'm developing technology to fly to
+Mars, so the whole society benefits.  We rip and claw at each other
+throats, and that drives civilization forward.  This is the capitalist
+philosophy, isn't it?"
+
+"Well, just to play the devil's advocate, I think a lot of people would
+say that we play according to rules, and that you've broken those
+rules."
+
+"Who makes up the rules?  The capitalists."
+
+"Well, the rules are made collectively, through a democratic process."
+
+The captain paused a moment before answering.
+
+"You make it sound like everyone agrees on these rules.  If that's the
+case, then why do people blow up federal buildings, why do people
+smash airplanes into skyscrapers, who do people burn this country's
+flag?  Obviously, there's a lot of people who don't agree with these
+rules, and frankly, I'm one of them."
+
+"I think many people would say that even though we don't necessarily
+agree with all the rules, we obey them anyway and work to change them
+democratically."
+
+"Sure, that's why everyone obeys the speed limit, because they're so
+committed to obeying the rules.  Look, I don't buy any of that.
+People obey the rules because they're forced to, because they're
+afraid of what will happen to them if don't follow the rules."
+
+"Well, that might be true in a dictatorship, but in a democracy?"
+
+"How's it different?  It's just that the majority makes up the rules
+and forces the minorities to obey.  They only thing that's different
+about democracy is that it's a different group of people making the
+rules.  In Russia it was the proletariat, here it's the majority."
+
+"So do you see America as similar to the Soviet Union?"
+
+"Very much so.  It's the same kind of trash that runs it."
+
+"Meaning... the capitalists?"
+
+"Sure.  The communist philosophy was based on brutal, cut-throat class
+competition; the fascist philosophy was based on brutal, cut-throat
+racial competition; the capitalist philosophy is based on brutal,
+cut-throat individual competition.  It's basically the same thing,
+slightly editted for a new generation, but the same kind of garbage in
+charge of society.  And I feel as bad about ripping off the
+capitalists as I would about ripping off communists or fascists,
+because to me they're all basically the same.  Just another bunch of
+men with some nightmare system to be jammed down everyone's throats.
+
+"Well, captain, we're pretty much out of time.  Thank you for
+being on the program, and I'm sure we'll talk to you again soon."
+
+
+T + 5 days
+
+Mercurio's next TV appearance was on a political talk show that
+usually featured a panel discussion.  This evening the other
+guests were a congressman and a prominent businessman, who
+had heard his earlier interview and was determined to rebut him.
+
+"The fact is that capitalism has produced a society with the highest
+standard of living that has ever been seen on this planet.  People are
+well-fed, well-housed, generally content with their jobs, with a
+surplus of leisure time and disposible income.  And yet these
+psuedo-socialists insist on slamming capitalism at every turn because
+they can't stand the idea of people working hard and getting rewarded
+for that hard work.  And now this man comes along, this criminal, who
+has taken advantage of our society, stolen from our businesses, lied,
+cheated; he comes on this program with the nerve to blame capitalism
+for what?  For letting him take advantage of it?  For giving him the
+opportunity to pull of one of the greatest con jobs in history?"
+
+Mercurio retorted without waiting for the host to invite him.
+
+"That's quite a nice speech.  The communists also had their speeches.
+They loved to go off about how they had put the first man in space,
+and how they had brought tractors and steel factories to this
+backwards, feudal country, and how everyone was guaranteed a job, and
+an education, and a retirement, and how wonderful communism was.  And
+the fascists loved to talk about their Zeppelin airships, and their
+autobahns, and how they had pulled Germany out of a worldwide
+recession, and how they were rebuilding their Reich and how wonderful
+fascism was.  And it's all true, but it all overlooks the simple fact
+that every one of these societies is based on forced labor.  So if you
+want Zeppelins, or Sputniks, or Microsoft Windows, and these material
+things are more important to you than your freedom, then should pick
+whichever one of these brutal philosophies most appeal to you and go
+sign up."
+
+"Ted, can I jump in here?" Congressman Black asked.
+
+"Sure, go ahead," replied the moderator.
+
+"Capitalism may not be perfect, and this society may not be perfect,
+but what sets us apart from communism and fascism is our commitment to
+democracy and freedom.  Those countries were dictatorships.  This
+country is run by its people, through their elected representatives,
+and the capitalists don't simply 'own' the government, and they don't
+always get their way."
+
+"Well, congressman, I'll agree with you that this is a democracy, but
+I don't think that changes things more than a little.  Let's say
+Russia had had freedom of speech, and freedom of the press, and free
+and open elections every two or four years, and they had still elected
+the communists, and still supported the KGB, and still shipped their
+citizens off to gulags.  Would that have changed things all that much,
+just that they had elections?"
+
+"But we don't support the KGB, and we don't ship our citizens off to
+gulags."
+
+"Oh, but you do.  Haven't you heard about 'zero tolerance'?  Haven't
+you heard about the War on Drugs?  You do ship your citizens off to
+jail, and while you may not torture them, and your prisons may not be
+as cold as the ones in Siberia, the fact remains that fear of the
+police is just as readily used in this society as in those others."
+
+"I don't think you can compare the DEA with the KGB."
+
+"I do.  The basic premise is the same.  The solution to our problems
+is to have a war against our own people, to send armed men busting
+into the homes of people who have done absolutely nothing to harm
+anyone, to make people so terrified of what will be done to them
+that they will too afraid not to just fall in line and do what
+they're told when the great majority barks out its orders."
+
+"OK, sir, we have a Constitution..."
+
+"So did they; so did they."
+
+"Our Constitution is enforced.  Our Constitution restrains the power
+of our government..."
+
+"Really?  Let's take a look."
+
+"Oh, please..."
+
+"No, let's take a look!  You've made this absurd claim that our government
+is restrained by its Constitution; let's get the thing out and take a look
+at it.  Mr. Koppel, I think we can a copy of the Constitution faxed
+around to the members of this panel."
+
+"OK, but I'm not sure that's really the point of the discussion..."
+
+"I do!  I think that's exactly the point!"
+
+"OK, fine!"  Black interjected, determined not to be shown up.  "Let's
+get a copy of the Constitution."
+
+Mercurio was already ahead of him.  He grabbed his laptop, ran an
+Internet search, pulled up the U.S. Constitution, and prepared to
+start reading from it.
+
+"Let's start with the powers of Congress.  Article one, section eight.
+Now, congressman, stop me if at any point you hear anything about
+regulating the use of drugs, or radio communications, or agriculture,
+or the environment, or..."
+
+"All right, all right, first of all, many of these problems didn't exist
+two hundred years ago, there was no drug abuse, no radio, the environment
+wasn't an issue..."
+
+"So we should just ignore our Constitution whenever some new problem
+comes up; it only applies to our old problems?"
+
+"You want to go through the Constitution section by section?  How
+about Ammendment One, Freedom of Speech; Ammendment Two, the Right to
+Bear Arms; the guarantees of due process, the election procedures,
+this is absurd!"
+
+"What good's a law when you pick and choose what parts of it you want
+to obey?  Fine, you obey parts of the Constitution, what about the
+other parts?  This is like me blowing down the highway at ninety miles
+an hour, and when the cop pulls me over saying, oh, but officer, I
+came to a full and complete stop at all the red lights!"
+
+"OK," Koppel interjected, trying to bring the discussion under
+control.  "Congressman, Captain Mercurio certainly isn't the first
+person to accuse the Federal Government of circuventing the
+Constitution.  Is there nothing to any of these claims?"
+
+"No, and I'll tell you why," Black replied.  "All these things the
+anti-government people gripe about - gun control, the drug war, the
+environmental laws, the Department of Homeland Security - all of them
+are supported by the overwealming majority of the people of this
+country."
+
+"I'll agree with that," the space captain replied, "but I'd still like
+to see these additional powers codified in Constitutional Ammendments,
+and I'll tell you why.  One of the big accusations people made against
+Soviet Russia was that their government didn't obey their
+Constitution.  I don't want anybody being able to come around a
+hundred years from now and try to say that it wasn't really a
+democracy, that people didn't really want these things, that some
+bunch of politicians took over the government.  This government, this
+majority, talks so much about law and order, is so determined to make
+all these rules for everyone else to obey, I'd just like to see them
+have to obey the rules that were laid down for them.  It's a bit of a
+side issue, but I'd really like a precedent established that the
+powers of the government are limited by the Constitution."
+
+"So you actually do think the majority of people support the government?"
+
+"Yes.  The problem is populist government - this stupid idea that you
+can put the masses in charge of society.  It was talked about by
 philophers in the eigthteenth century, brought to power in Europe and
 the Americas by a string of revolutions in the nineteenth century, and
 brought to fuition in the twentieth century.  What it produced was
@@ -916,7 +1309,7 @@ and call you a bum who doesn't want to work... And they're right,
 
 
 
-"The majority don't want good leaders," Brent cut in.  His advesary
+"The majority don't want good leaders," Marc cut in.  His advesary
 stuttered and faltered.  "The majority don't want good leaders," the
 astronaut repeated, floating weightless on the screens of 10 million
 people watching the live interview on Nightline.  "They want garbage
@@ -929,7 +1322,7 @@ freedom of speech or freedom of the press.  Nobody can claim that this
 isn't really what the majority of people want.  Democracy is another
 communism."
 
-"Another communism?" Koppel cut it, stunned.  "That's right," Brent
+"Another communism?" Koppel cut it, stunned.  "That's right," Marc
 replied, before backpedeling... slightly.  "I don't mean that it's
 murdered millions of people, or enslaved half the planet, but it's
 another big pile of books and theories that sound real good on paper,
@@ -942,7 +1335,7 @@ captain.
 "Look here, democracy may not be perfect, but it's a damn sight better
 than just about anything else out there.  In the last 200 years, we've
 abolished slavery, and that alone has to count as one of the biggest
-achieve..."  Baccala cut right back in.  The debate had turned into an
+achieve..."  Mercurio cut right back in.  The debate had turned into an
 intellectual free-for-all.
 
 "The communists abolished slavery, too.  That isn't the point.  The point..."
@@ -956,11 +1349,11 @@ themselves, but for decent people everywhere!"
 The congressman paused for breath, and Koppel chose this moment to
 jump in and try to bring the debate back under control.  He decided to
 do it by challenging one of the astronaut's more dramatic
-claims. "Gentelmen, please.  Captain Baccala, many people critize the
+claims. "Gentelmen, please.  Captain Mercurio, many people critize the
 United States, but another communism?  You can't be serious."
 
 "Look here, it's the same with all these populist governments,"
-Baccala replied.
+Mercurio replied.
 
 "Populist?" the congressmen retorted.
 
@@ -1006,10 +1399,10 @@ these bums every step of the way.  The majority of people are
 completely incapable of choosing anything but the worst possible
 leaders."
 
-Baccala stopped, and Black didn't retort immediately.  A tense silence
+Mercurio stopped, and Black didn't retort immediately.  A tense silence
 fell over the teleconference.  Across the country, millions of people
 in their homes murmorred amongst themselves.  "I don't want to hear
-any more of this."  "You tell 'em, Brent!"  "That bastard deserves to
+any more of this."  "You tell 'em, Marc!"  "That bastard deserves to
 die up there!  I hope the whole bunch die!"  "Is this what people
 think about us?"
 
@@ -1053,7 +1446,7 @@ cheered in Moscow, they cheered in Beijin - the 'people' always cheer
 when their 'heros' show up with their tanks and guns.  And just what
 is a legitamite government, anyway?"
 
-A pause fell over the broadcast, and Baccala repeated his question.
+A pause fell over the broadcast, and Mercurio repeated his question.
 "What is a legitamite government?"
 
 "A democratically elected body with the support of the people."
@@ -1110,7 +1503,7 @@ was nearing it's end.  There would be plenty more opportunities for
 debate.  "Captain, what are your plans?  How long can you stay in
 orbit?"
 
-Baccala rumaged in a storage bin and sent clothes flying all over
+Mercurio rumaged in a storage bin and sent clothes flying all over
 the compartment.  Finally, he pulled out the T-shirt he was looking
 for, brushed a pair of jeans away from the TV camera and spread
 the black T-shirt out so it dominated the view field of the camera.
@@ -1123,7 +1516,7 @@ T + 7 days
 
 All of NASA's top project managers were at the meeting.  The shuttle
 was scheduled to go up in two weeks, and they had to figure if
-Baccala's unexpected launch would affect anything they were doing.
+Mercurio's unexpected launch would affect anything they were doing.
 
 "They'll never make it.  We better have the shuttle ready for a
 rescue."
@@ -1190,7 +1583,7 @@ by anger, by thirst for an insane kind of revenge against a society he
 hated.  In light of this, the risks of the mission began to loom
 large, and the hardships they now faced, only a little more than a
 hundred miles above Earth, drove doubt into him about anyone's chances
-for survival.  Baccala mentioned several more times that they could
+for survival.  Mercurio mentioned several more times that they could
 still turn back, but nobody else seemed interested.  Burns largely
 ignored politics and concentrated on doing his work, smoking his weed
 afterwards, and playing loud rock music.  Vic didn't have as much to
@@ -1202,12 +1595,12 @@ came the reply, with a chuckle.
 Finally, Pipi's simple desire for life won out, and his loss of
 respect for the captain broke the man's hold on him.  He came to the
 skipper while he was working alone one day on the water recycler, told
-him he wanted out, and braced himself for an argument.  Yet Baccala
+him he wanted out, and braced himself for an argument.  Yet Mercurio
 wasn't that kind of man.  As angry and bitter as he could be while
 confronted a distant representative of a hated society, he always
 softened up in person.  "You want to think about this, or talk about
 it?"  he asked.  "I have though about it, a lot," was Pipi's reply.
-"I want to go home."  "I'll see what I can do," Brent replied, and
+"I want to go home."  "I'll see what I can do," Marc replied, and
 went back to his work.
 
 Two days later, despite Pipi's misgivings, despite the heated exchange
@@ -1237,7 +1630,7 @@ sat down, her heart racing.  Becker hadn't called her here just to
 tell her something that would probably be on the news within days.
 "Endevor is going up next month, and we've agreed to extend the flight
 three days to redevous with them and retrieve this guy."  "Whose idea
-was that?"  the engineer asked.  The reply can from Lou.  "Baccala's.
+was that?"  the engineer asked.  The reply can from Lou.  "Mercurio's.
 He called us himself."  "Really?" she answered, with an interested
 pout.  "That leaves him one down," she noted, her mind starting to
 race ahead, but Becker continued before she could think that far.
@@ -1250,13 +1643,13 @@ it."
 
 T + 24 days
 
-"We still haven't decided on a name for the ship," Brent explained.
+"We still haven't decided on a name for the ship," Marc explained.
 
 "Well, can I put my two cents in?"  "Sure"
 
 "You've heard the story of Icarus?"
 
-"Some greek hero, right?"  Baccala replied, vaguely enough to betry
+"Some greek hero, right?"  Mercurio replied, vaguely enough to betry
 his failure to exactly place the name.
 
 "The son of Daedalus.  The father built wax wings for them both
@@ -1265,14 +1658,51 @@ melted," Brian interjected.
 
 "That's right," Andrea afirmed, and a moment's silence fell on the group
 before people started to chuckle.  Burns finally bust laughing out loud.
-Baccala smiled, and noted quietly that his crew had learned to laugh
+Mercurio smiled, and noted quietly that his crew had learned to laugh
 at the insanity of their undertaking.
 
 
-Two days later, the Icarus breaks orbit.  Baccala moves the ship to a
+Two days later, the Icarus breaks orbit.  Mercurio moves the ship to a
 six-hour orbit, basically solves the meteor problem this way, and the
 crew gets to work.  They've brought supplies for a year before the
 crops have to work.
+
+
+T + 91 days
+
+After three months in orbit, the constant TV interviews had died down
+and the Icarus crew had settled into a kind of routine.  This day was
+typical.  Burns led Alister into the branching tree of docked cargo
+modules, rummaged in one for a moment or two, then pulled out the
+box he was looking for, a brand-new Whirlpool automatic dishwasher.
+
+"Will this work in orbit?" he asked.  Alister shrugged non-commitally.
+
+"Find out," Burns said as he pushed the box towards the open hatch,
+letting Alister slow its momentum and guide it into the docking nexus
+before propelling it down towards the main body of the spacecraft.
+While Alister starting pulling apart the styrofoam packing pieces,
+Burns returned to organizing the various equipment that now filled the
+cramped crew compartment.  The captain quickly joined in.
+
+"Where do you want it?" he asked his chief engineer, taking a box of
+reference books that Burns had pulled out for his last big project,
+modifying the forward radar array to give better azimuth coverage.
+
+"Put them back in L-9; you should find some space there," Burns
+replied, refering to the cargo module into which he had moved
+most of the books he had brought.  He had wanted to scan them
+electronically, but as the time-fuel trade-off had shifted
+towards burning fuel to save time, the scanning had been
+postponed and the books stored into cargo modules.
+
+Meanwhile, the South African had began removing the cover from
+the bulky dishwasher.  Having examined its construction, he had
+already concluded that it would just fill up with water and
+spill over into the cabin when opened, so his first thought was
+to install a vacuum suction to remove the water when the
+machine was finished.
+
 
 
 T + 113 days
@@ -1325,8 +1755,8 @@ Mars!"  he finally burst out.  "What did you say when they asked you -
 let me think about it for a few days?"
 
 
-		CHAPTER CHAPTER CHAPTER
 
+T + 194 days
 
 "You wouldn't have been using any alcohol or illegal drugs, would you?"
 
@@ -1351,6 +1781,119 @@ face.  Oh my God, it's him.  Oh my God, not again, she thought as his
 hand slid across towards her leg.  She couldn't move, couldn't breath,
 couldn't talk, couldn't scream, couldn't do anything but sit terrified
 as he moved to touch her... and woke up.
+
+
+
+T + 388 days
+
+The asteroid belt turned out to be a gold mine.  Burns had devised a
+scheme to survey the asteroid belt using four cargo modules loaded
+with fuel and piloted under radio control.  In addition to digital
+cameras, each module was equiped a spectrographic imager he had bought
+the pieces for on Earth and assembled and tested on the way out.  When
+focused on part of an asteroid, it would use a rotating prism to break
+apart the various wavelengths of light and sweep them across a light
+sensitive phototransistor.  The output from the transitor would be
+digitized and transmitted back to the ship, producing something like a
+strip chart showing the relative intensity of light at each
+wavelength.  The light intensity would dip sharply at frequencies
+absorbed by the asteroid's material, and by comparing the charts
+with the absorption spectrum of known materials, the crew could
+estimate the probably mineral content of each asteroid.
+
+The cargo modules were launched under radio control, while the Icarus
+drifted in solar orbit a thousand kilometers from the nearest
+asteroids.  From their ship, the humans piloted the unmanned modules
+through the belt, focusing the spectrographs on parts of individual
+asteroids.  After two weeks of surveying more than a hundred
+asteroids, they struck paydirt - a deposit of what turned out to be
+nearly pure silicon.
+
+Mercurio split the crew into two teams.  Burns and Alister loaded a
+week's worth of supplies into a cargo module and headed for the
+asteroid with the silicon deposit.  The captain, NASA engineer and
+doctor remained on the ship and continued the survey.  Burns stopped
+at another asteroid en route to their target and tested various
+schemes for retrieving the silicon.  He finally settled on explosives,
+and proceeded to the surveyed asteroid, blew half of it apart with
+shaped charges he and the South African planted during a series of
+spacewalks, collected several dozen of the larger pieces of silicon
+left floating in space, and headed back to Icarus.  It was a
+groundbreaking accomplishment, and the video images relayed back to
+Earth were broadcast on news programs throughout the world.
+
+After returning to Icarus, Burns loaded the silicon into the same
+cargo module he had outfitted in Earth orbit to build solar cells.
+While the sizes and shapes of silicon crystal were more irregular than
+the original ingots from Earth, and the purity wasn't quite as good,
+the silicon turned out to be fine for solar cells, and the robot
+manipulators they had started using in Earth orbit were now put to
+work producing solar cells from the ample supply of Asteroid Belt
+silicon.  After a few tweaks, the manufacturing software began to run
+unattended and started turning out a new solar power array every day.
+Within a week, the ship was running completely from solar power, the
+fuel cells were shut down, and Mercurio began to wonder what they
+could do with the solar arrays the robots continued to crank out at
+what seemly a nearly fantastic pace.  Burns had already planned ahead.
+
+After returning from another trip into the asteroid belt, this time
+with a cargo module loaded with water ice, Burns piloted the ship
+closer to the asteroids, moved one of the cargo modules to a crater on
+a nearby asteroid, set up several of the new solar panels, and began
+using the power to melt the ice and then split the resulting water
+into hydrogen and oxygen.  He and Alister spent almost a month setting
+up the fuel plant, and by the time they were done two more cargo
+modules were docked in a shaded corner of the asteroid crater, slowly
+filling with hydrogen and oxygen, which easily cooled into liquid
+without either sunlight or an atmosphere to keep them warm.
+
+Meanwhile, the first crops from the ship's vegetable garden ripened,
+just as the supply of military rations was growing noticably short.
+Vic set about devising a high-protein diet plan, and soy beans, which
+had grown quite readily in zero-g, topped his list.  The doctor
+prepared his first batch in the Burns-devised vegetable steamer, which
+superheated a pressurized canister of water before releasing it into
+the chamber containing the soy beans.  As it left the canister, the
+water, already heated beyond its conventional boiling point, burst
+into steam with a loud hizzing that attracted the attention of the
+young South African in the next module.
+
+"Soy beans?" Alister questioned, imagining the pressed blocks of
+tofu he had habitually passed by in the supermarket.
+
+"I rather like them steamed," Vic replied.
+
+"I don't know about this, mate," the programmer quibbled as he
+inspected some of the freshly picked raw beans.  "I'll eat it though,"
+he quickly added.
+
+"Ever been to a sushi restaurant?" Vic asked, with a raised eyebrow
+that indicated he thought he knew something his friend didn't.
+
+"Sure, I love sushi, it's great!  Got any tuna hand roll in there?"
+
+"Nope, but you ever had those green beans they serve as appetizers?"
+
+"Yeah," Alister replied, glancing back down at the soy pods in his
+hand.  "That's what these are?"
+
+The doctor nodded in assent as he opened the steamer and let some of
+the cooked soy beans, along with an ample quantity of steam, float out
+into the air.  The aroma of freshly steamed vegatables permeated the
+air and quickly brought work to a standstill on a spaceship where
+plastic-wrapped spaghetti pouches and freeze dried peaches had been
+the norm for months.
+
+"What have we got here?" the captain asked as he floated in with Burns
+from one direction, almost simultaneously as Andrea entered from the
+other side, where she had been calibrating instrumentation for an
+upcoming survey run.
+
+"Are these from the garden?" she asked.  "Great!"
+
+
+
+
 
 
 ---- They make it first to the astroid belt, where they outfit the
@@ -1379,11 +1922,174 @@ frame of the door as he walked into the dark room.  Her heart leaped
 with fear and her feet were frozen to the ground.  She couldn't
 move; couldn't scream... but yelled as she woke up.
 
+T + 624 days
+
+"Look we've made it this far without any serious problems."
+
+"Yeah, but all the really critical stuff's been well tested up until
+now.  Think about it.  We test-fired all the rocket engines before
+using any of them.  We burned extra fuel to keep the aerodynamic
+stresses on the 747 within its normal flight tolerances.  We
+brought spare fuel canisters in case the supply tanks didn't
+work."
+
+"And we didn't really need any of those things.  Look, the
+bottom line is that we said we were going to Mars, and now
+we're here and we have to land."
+
+"Why do you have to land?"  Andrea interjected.  The NASA engineer
+had floated into the room unnoticed during their debate.  "Why can't
+you just go back to Earth?  You've already accomplished more than
+almost any other space mission.  This will go down along with
+with Gagarin's flight and Armstrong's moon landing..."
+
+"We have to land!" the captain shouted.  Alister and Vic stopped work
+two modules away and moved closer to try to overhear more of the
+conversation.
+
+"If we don't land," he continued, "they'll say we failed, and then the
+capitalists will just come back two years from now and make the first
+landing on Mars; heck, they'll probably use our technology to do it."
+
+"So let them!" Andrea shot back, drawing only a snort in reply.  "Why
+do you have to risk everything just to win your private little war?"
+
+"Well, maybe you find this hard to understand from your cushy NASA
+perch," Marcellus continued, his voice dripping with sarcasm, "but
+there's a lot of people back home rooting for us to show the world
+that you don't have to become one of these ruthless bums to get
+something done in life."
+
+"Don't you?  Haven't you?" she challenged him.  "How many millions did
+_you_ steal, captain?  How many toes did you step on?  Don't tell me
+you haven't become ruthless!"
+
+"We are landing this plane on Mars," Mercurio stated slowly and
+firmly, in a no-nonsense command tone of voice.  "That has been
+the goal of this mission from day one.  We take the risks as they
+come, but we have a mission plan and we're going to carry it out."
+
+"OK, if we're going to do that..." Burns started, then stopped as
+Andrea flung herself through the hatchway, muttering something
+about "just like NASA" as she zoomed away through the spacecraft.
+
+"If we're going to do that," Burns continued, "I want to make at least
+one test pass where we just reenter through the atmosphere, fly down
+there without landing and come back up.  That way, we can take some
+low-level photographs of the landing area to make sure there aren't
+any nasty surprises waiting for us.  We might even want to survey
+several landing areas before we pick one.  We've got plenty of fuel
+now."
+
+"Sounds good.  Let's start getting ready."
+
+
 T + 650 days
 
 Disaster on Mars.  Burns attempts to land the 747, but they hadn't
 gotten everything figured quite right.  The wings snap off during
 reentry and the whole thing goes up in a fireball.  Burns dies.
+
+The wings of the aircraft had been designed to flex, yet the carbon
+coating was rigid.  Burns and Alister had correctly calculated the
+aerodynamic forces from the reentry, and the dense layer of carbon
+was strong enough to withstand those forces, yet hairline cracks
+began to creep into the carbon during reentry.
+
+Burns' first warning was a loud crack that sounded like a firecracker
+or gunshot.
+
+"What was that?" he wondered aloud.
+
+The answer came less than a second later, as the left wing tore away
+from the fuselage and slammed into the tail before falling away
+towards the red planet below.  Liquid hydrogen gushed from the jagged
+hole in the plane's left side as it swerved into an uncontrollable
+spin.  The right wing crumbled under the new stresses, but before much
+more could happen one of the remaining engines ignited the leaking
+hydrogen and the entire aircraft disappeared into a ball of flame.
+
+In orbit, the Icarus crew were first stunned by the sudden loss of
+telemetry, then watched speechless as the aircraft flamed red on black
+against the planet surface below, then disintegrated into hundreds of
+tiny meteors that streaked silently into the Martian dawn.
+
+T + 651 days
+
+"Disaster on Mars" scream the newspapers.
+
+Most world goverments issue a Statement of Condolence.  The United
+States is critized in Europe for the lukewarm nature of its official
+comment.
+
+A tense but unharmed crew holds a staff meeting.  The Captain is silent.
+
+"OK, we should assemble the cargo modules into a chain," Vic began.
+
+"We can't assemble the cargo modules without the 747," Alister interjected.
+"At least, we can't yet.  I need to run some simulations.  We've got
+the cargo modules from the asteroid belt that we rigged to push things
+around, but I've got to figure how to get them... lined up in a row."
+
+"Well, how do we do that."
+
+"I don't know."
+
+"What do you mean, what's the first thing to do."
+
+"I don't know.  I guess, I've got to think about it for a while."
+
+The room fell silent.
+
+"Can you do it?" Brian asked quietly.
+
+"Do what?  Put the things in a row?  I think so."
+
+"Can you get us home?"
+
+Again the room was quiet.  Everyone except the Captain and Dr. Yeats
+were looking at Alister.  Finally Alister blurted out.
+
+"I don't know."
+
+The NASA engineer looked up.  She had been thinking carefully about
+what she wanted to say.  "Alister's not alone.  I've got more hours of
+spaceflight logged than anyone else here."
+
+Vic furrowed his eyebrows.  It was the first time he had thought about
+it, but Andrea would for many years hold the record for most livetime
+hours of spaceflight.  She was going on.
+
+"And we've got this whole crew.  Alister's the chief engineer now, so
+if says he needs time to think about it and simulate it, fine.  He'll
+need help.  I can make myself do equations again.  I volunteer as
+assistant engineer."
+
+Brian said, "We need you as second officer."
+
+Vic volunteers as assistant engineer, is accepted in lue of Dr. Yeats,
+and the meeting adjours.
+
+
+T + 652 days
+
+The Captain stops coming to staff meetings.
+
+Alister's face is plastered on the Earth tabloids.  "Can the kid get
+the crew home?" one asks.  Another focused on lurid details, supplied
+by a panel of experts, on what Burns' last moments must have been
+like.  U.S. rags like to publish how Edgar Cayce's prophesies had
+fortold the disaster.
+
+Dr. Yeats took to organizing Burns' library, made sure Alister had
+everything he asked for, suggested some books he hadn't thought about,
+and reading a bit herself.
+
+
+T + 658 days
+
+Alister begins maneuvering the cargo modules.  He can get them home,
+but the trip's going to take a lot longer than anyone had planned on.
 
 
 T + 690 days
@@ -1418,7 +2124,7 @@ right?  I didn't think it would be my best friend."
 mission, I might as well have reached out and killed them myself.
 I... I just don't...  I just should never have come."
 
-Andrea lowered her voice, moved closer, and took Brent by the arm.
+Andrea lowered her voice, moved closer, and took Marc by the arm.
 
 "Look, let me tell you something I've never really told anyone.  I've
 been on three space shuttle launches, and watched a dozen more from
@@ -1452,7 +2158,7 @@ anyway.  And they knew it wasn't perfect, and they still followed
 you."  Now he looked down and away.  "And I know _you_'re not
 perfect... but I still love you."
 
-Baccala didn't say anything in response, nor did he look up.  Andrea
+Mercurio didn't say anything in response, nor did he look up.  Andrea
 waited a moment longer, then returned to the smokers in the com shack.
 
 "I can't beleive I just said that," she mumbled to herself.
@@ -1471,7 +2177,7 @@ now it's time to go on, because there's no other place to go."
 
 He nodded and said "OK", but wasn't really sure himself if he could do it.
 
-Baccala pulled himself into the com shack a bit faster and bit more
+Mercurio pulled himself into the com shack a bit faster and bit more
 focused than he'd done in weeks.  "Alister?"
 
 "Sir?" the younger looked up from his computer game.
@@ -1495,7 +2201,7 @@ his teachings seriously."
 T + 729 days
 
 With cork puller still attached, the cork went flying unheaded across
-the cabin as Brent grabed for the plastic cover and slapped it over
+the cabin as Marc grabed for the plastic cover and slapped it over
 the top of the wine bottle.  Even so, several gobs of the red alcohol
 went floating into the air, the liquid's surface tension forming them
 into perfectly round spheres.  Andrea shook her head.
@@ -1508,9 +2214,9 @@ compartment and swallowed one of the larger floating drops, "is that
 if you spill red wine in space, it's a lot easier to clean up than on
 Earth!"
 
-Baccala spilt only a few more drops as he "poured" the wine into two
+Mercurio spilt only a few more drops as he "poured" the wine into two
 wine glasses, each one quickly covered with a flat plastic square.
-Drinking from straws was much easier, but Brent had dug into the
+Drinking from straws was much easier, but Marc had dug into the
 ship's stores an hour earlier and produced the glasses alongside the
 bottle, and Andrea had stood on tradition.
 
@@ -1525,11 +2231,57 @@ head through the hatchway.
 "Well, maybe you want to come in here," he stammered as he realized
 that he was interrupting a "private" dinner.
 
-"What's up?" Brent asked, as Andrea grabbed a towel and started
+"What's up?" Marc asked, as Andrea grabbed a towel and started
 to wipe off his face.
 
-"Israel just nuked Saudi Arabia."
+"Somebody just smashed a plane into the World Trade Center!"
 
+At 1431 GMT, exactly 3 minutes, 17 seconds after the event occured on
+Earth, the silent crew watched the second tower collapse.  In the days
+ahead, it would be revealed that Islamic terrorists had hijacked four
+American airlines.  Coincidently, or perhaps not, all were Boings.
+Two had slammed, full throttle, into the World Trade Center, at one
+time the tallest building in the world.  Burns would have suggested
+imagining the pictures you've seen of jet crash scenes, then trying to
+project it 100 stories above you in lower Manhattan.  Within hours,
+the buildings fell.  Bankers, mail men, fire fighters, bus boys - all
+lost their lives that terrible day.
+
+Within days, the nation mobilized.  Medical teams sprung into action,
+fire fighters dove into the wreckage, alongside men who walked up on
+the street, desperate to find anything still alive in the tons of
+rubble.  At Andrea's suggestion, The Captain issued a statement of
+condolence, expressing his "deapest reget", stating that it grieved
+him as nearly as much the death of his "dear friend Burns".  The
+entire crew followed suit.  Asked via videomail by the press about his
+comparison with Burns, he replied that though he deeply felt the loss
+in New York, he was sure the family's victims would concer that no one
+feels a loss more acutely than that of a loved one.  The media largely
+accepted this.
+
+Within weeks, President Bush attacked Afghanistan after correctly
+finguring Osama bin Ladin as the culprit.  The Captain began objecting
+to Bush's behavior, stating publically than an orderly extradition
+procedure should be followed rather than an invasion.  Andrea Yeats
+said all parties should try to resolve their problems peacefully,
+though she ruefully noted that the Muslems would do good to accept
+Christ, and ruffled feathers by suggesting that the terrorists,
+misguided though they may have been, were probably the only people
+that morning who got on the airplanes because they were trying to do
+God's will.
+
+Within months, most of the old animosities had resurfaced.  The
+Captain was still openly critical of the western democratic
+establishment in general, and the Bush Administration in particular.
+Dr. Yeats became far more prominent, and far more controversial, by
+her repeated advice to end the war, moarn over the dead, then ask
+ourselves why so many people hated the country and decide to give our
+lives over to God to do something about it.
+
+Within a year, it had become obvious to	many people that the
+September 11th attack was not simply an outrageous act of
+terrorism, but in fact a devastatingly effective act
+of unconventional warfare.  While the political
 
 T + 729 days
 
@@ -1803,7 +2555,7 @@ Vic spoke up next.
 would be involved with any kind of hijacking or anything of the kind.
 No way."
 
-"What if she isn't involved?  What if Baccala and his crew just hijack
+"What if she isn't involved?  What if Mercurio and his crew just hijack
 the thing without telling her anything?"
 
 Vic shook his head.
@@ -1820,7 +2572,7 @@ just hope we get the damn shuttle down in one piece."
 
 T + 754 days
 
-"So, what's the plan?" Baccala asked the shuttle commander and pilot.
+"So, what's the plan?" Mercurio asked the shuttle commander and pilot.
 
 "Basically, everything's fine until we deorbit about six hours before
 we're supposed to, ignore mission control when they start hollering,
@@ -1844,7 +2596,7 @@ of him.
 "I'm sick of flying these buckets anyway.  The mission specialists
 have all the fun; all I do is command the thing!"
 
-A few hours later, Baccala gathered his crew in the shuttle's
+A few hours later, Mercurio gathered his crew in the shuttle's
 main compartment.  He filled them in on the shuttle crew's
 plan.
 
@@ -1853,7 +2605,7 @@ he concluded.  "I just can't ask them to do it."
 
 Vic broke the silence that followed.
 
-"So, it's Kennedy after all, then?"  Baccala nodded in the affirmative.
+"So, it's Kennedy after all, then?"  Mercurio nodded in the affirmative.
 
 "Look, if anyone doesn't want to do this, we'll go to Dakar.  I'll
 say I hijacked the shuttle; hell, let's actually do it, then maybe
