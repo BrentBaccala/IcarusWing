@@ -250,15 +250,15 @@ loans for land and equipment.
 
 T - 350 days
 
-In 1998, _)_ had become the first man in history to win a Nobel Prize
-for writing a computer program.  It was called _Gaussian_, and it
-numerically simulated Schroedinger's equation, the defining physical
-equation for explaining the complex interactions between the electrons
-and nuclei that formed atoms and molecules, and made it possible to
-analyze atomic structures in much the same was as numerical
-simulations of Newton's gravitational equations made possible the
-analyze of planetary movement in solar systems.  For the first
-time, physics was beginning to correctly predict the physical
+In 1998, John Pople became the first man in history to win a Nobel
+Prize for writing a computer program.  It was called _Gaussian_, and
+it numerically simulated Schroedinger's equation, the defining
+physical equation for explaining the complex interactions between the
+electrons and nuclei that formed atoms and molecules, and made it
+possible to analyze atomic structures in much the same was as
+numerical simulations of Newton's gravitational equations made
+possible the analyze of planetary movement in solar systems.  For the
+first time, physics was beginning to correctly predict the physical
 properties of matter that until then had only been understood
 empirically by chemists.
 
@@ -2310,7 +2310,7 @@ Mercurio smiled, and noted quietly that his crew had learned to laugh
 at the insanity of their undertaking.
 
 
-Two days later, the Icarus breaks orbit.  Mercurio moves the ship to a
+Two days later, the _Icarus_ breaks orbit.  Mercurio moves the ship to a
 six-hour orbit, basically solves the meteor problem this way, and the
 crew gets to work.  They've brought supplies for a year before the
 crops have to work.
@@ -3031,8 +3031,9 @@ one test pass where we just reenter through the atmosphere, fly down
 there without landing and come back up.  That way, we can take some
 low-level photographs of the landing area to make sure there aren't
 any nasty surprises waiting for us.  We might even want to survey
-several landing areas before we pick one.  We've got plenty of fuel
-now."
+several landing areas before we pick one; we've got plenty of fuel
+now.  We should move everything critical to the module stack, because
+it'll stay in orbit and have to act as a command post."
 
 "Sounds good.  Let's start getting ready."
 
@@ -3076,11 +3077,86 @@ telemetry, then watched speechless as the aircraft flamed red on black
 against the planet surface below, then disintegrated into hundreds of
 tiny meteors that streaked silently into the Martian dawn.
 
+-----
+
+The carbon coating itself was strong enough to withstand the
+forces of reentry and thick enough to act as an effective heatshield.
+The coverings on the wheelwells was a different story.  Removing
+them to test them, then replacing them and recovering them had
+introduced cracks and fissures along their edges, where they
+joined to the main body of the spaceplane.  Now, during reentry,
+the superheated gases began working into these cracks around
+the edges.  Finally, one of the coverings detached completely,
+broke off in a single piece, and let the superheated gas pass
+through to the aluminum airplane skin beneath.  In less than
+a second, a hole the size of the wheelwell had burn completely
+through the plane.
+
+From orbit, the _Icarus_ crew saw a red dot appear on the left
+wing of the spaceplane about a minute into reentry.  On board
+the 747, Burns heard a load pop.
+
+"What was that?" he wondered aloud.
+
+Alarms started going off in the cockpit.  The puncture had
+passed right through the wing's fuel tank and ignited the
+fuel, which now poured out the hole in the top of the wing
+in a geyser of flame.
+
+"Looks like something on the left wing," Mercurio noted, looking over
+at the computer telemetry coming from the spaceplane.  "You might have
+lost part of the heatshield."
+
+Even before he finished speaking, the same thing happened to the
+wheelwell covering on the right wing and a second geyser of
+flame erupted from it.
+
+"I've got flames coming out of the right wing now," Burns observed
+from the right-hand pilot's seat, looking over his shoulder.  "We
+might be losing the heatshield," he speculated as a knot formed
+tighter in his stomach.
+
+There was nothing he could do at the moment about the heatshield, but
+as great as that concern was, he also had to worry about the fuel in
+the wing tanks.  Without sufficient fuel, he couldn't return to orbit.
+
+"I'm aborting reentry," he declared as he made a snap decision.
+Starting the engines for a return to orbit would be dangerous,
+but if he lost much of the fuel, it'd be a moot point, since he'd
+lack the fuel to return to orbit.
+
+In orbit, Andrea suddenly realized why the two failure points
+seems so symmetrically positioned on the wings.
+
+"It's the wheelwells," she declared, and the rest of the crew
+turned towards her.  "The wheelweels are failing."
+
+Before anyone could say another word, or do anything, the third
+wheelweel, almost directly beneath the cockpit, failed.  A torrent of
+flame erupted into the cockpit from below.  Clad in his spacesuit,
+Burns was swept out into the Mach 13 flowstream.  The acceleration
+alone probably killed him instantly, even before his spacesuit was
+consumed by the raging flames that engulfed the crew compartment.
+
+From orbit, the crew watched a third speck of red appear at the
+front of the plane, neatly centered, just short of the nose.
+At the same moment, all the telemetry ceased, as the cockpit
+computers were destroyed by the flames from the breach.
+
+"Burns?" Mercurio asked a dead com link.  "Burns?"
+
+Without control computers to balance manuevering thrusters and control
+surfaces, the spaceplane lost its equilibrium, pitched back and began
+to yaw.  The aerodynamic forces of the hypersonic airflow overwealmed
+the now unstable spaceplane.  The left wing snapped off the
+fuselage, and slammed into the tail...
+
+
 T + 651 days
 
 "Disaster on Mars" scream the newspapers.
 
-Most world goverments issue a Statement of Condolence.  The United
+Most world goverments issue statements of condolence.  The United
 States is critized in Europe for the lukewarm nature of its official
 comment.
 
@@ -3111,7 +3187,7 @@ The room fell silent.
 "Can you get us home?"
 
 Again the room was quiet.  Everyone except the Captain and Dr. Yeats
-were looking at Alister.  Finally Alister blurted out.
+was looking at Alister.  Finally Alister blurted out.
 
 "I don't know."
 
@@ -3121,7 +3197,7 @@ spaceflight logged than anyone else here."
 
 Vic furrowed his eyebrows.  It was the first time he had thought about
 it, but Dr. Andrea Yeats would for many years hold the record for most
-lifetime hours of spaceflight.  She was going on.
+lifetime hours of spaceflight.  She went on.
 
 "And we've got this whole crew.  Alister's the chief engineer now, so
 if says he needs time to think about it and simulate it, fine.  He'll
@@ -3352,7 +3428,8 @@ Within a year, it had become obvious to many people that the September
 11th attack was not simply an outrageous act of terrorism, but in fact
 a devastatingly effective act of unconventional warfare.
 Osama bin Ladin wasn't a mad terrorist out to kill as many
-people as he could.  He was a genius stratagition, who knew
+people as he could.  He was a genius stratagition, fighting
+against the democracy he perceived as his people's mortal enemy, who knew
 he'd get one shot at his brillent plan, and was determined
 to make it work by striking the hardest blow he could muster
 at his arch-enemy's political and financial infrastructure.
@@ -3363,7 +3440,7 @@ Considering not only the twin towers
 of the World Trade Center, but the smaller buildings destroyed,
 or ravaged with all their windows blown out, plus the entire
 multi-block area that had been shut down for months, the center
-of New York's city's financial district had been devastated.
+of New York City's financial district had been devastated.
 
 Economies are complex systems, where events
 trigger other events, coast for a time, reflect from boundaries, then
@@ -3424,7 +3501,7 @@ T + 750 days
 After the first burn to put them back onto a course for Earth,
 a very late burn, just short of Earth orbit, was required to correct
 their final approach vector and insert them into a high parking
-orbit from where their could kill their momemtum and drop down
+orbit from where they could kill their momemtum and drop down
 into a circular orbit from where the OTVs could take them down
 to a newly built space station (the International Space Station).
 Alister had carefully calculated this correctional burn.  It would
@@ -3436,7 +3513,7 @@ applying thrust to the craft in the opposite direction from
 that of either the 747 or the engine configuration they had
 used to leave Martian orbit.
 
-Twenty five minutes into the burn, the engines died out, and
+Twenty five minutes into the burn, the engine died out, and
 fuel alarms began going off all over the ship.  In retrospect
 the problem was obvious, since the ship's design had used the force
 of the thrust to push the fuel to the back of the ship where
