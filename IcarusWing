@@ -1,0 +1,573 @@
+
+		Icarus' Wing
+
+It was a brillent hack.  It was better than the one they did in
+college, when the campus news server wouldn't accept posts from the
+student lab.  They had recompiled the server with gcc, goten a smaller
+executable than the original, altered it so that after printing 502
+ACCESS DENIED it went and accepted the post anyway and padded it out
+to make the CRC come out right.  They wern't using MD5 back then,
+heck, it hadn't even been invented yet.  Then Burns dug through the
+engineering and computer science library for the VAX Architecture
+Reference Manual, figured how to drop the student workstations into a
+diagnostic mode by hitting the little blue button on the back of the
+machine, installed packet sniffers on couple of them, and waited a few
+days to grab the server's root password as it went by over an
+unencrypted telnet.  They went in as root and just dropped the new
+server binary onto the hard drive.  It ran for six months unnoticed,
+until the staff updated the whole OS installation.  But this hack was
+even better.
+
+Brent had been planing it for months.  Well, years really, but months
+for this part of it.  He had Burns get a job with MiraCom.  MiraCom
+didn't advertise much.  They weren't listed in any web directory.  In
+fact, they had a fulltime Internet P.R. officer, one of whose jobs was
+to get the company un-listed from any web search engines it managed to
+get it's name into.  MiraCom had a handful of clients, but almost all
+were state governments, all paid well, and on time, and the directors
+had no desire to attrack any more attention than they had to.  MiraCom
+was the United States' largest supplier of lottery software.  They
+were always on the lookout for sharp programmers.
+
+A typical installation featured a computer in a sealed room, running
+exactly and only the MiraCom software, the only output being a video
+cable and an RS-232 line over which another computer (several,
+usually) were informed of the winning numbers.  Some states performed
+a lottery drawing every five minutes.  Various people had ideas to
+hack them, ranging from tapping into the router line and hopeing
+somebody will come in and type the password in the clear, to Vic's
+scheme for an Ethernet wiretap built from a thousand-plus element
+phased array to built in the woods across from MiraCom's office park.
+Finally, Brent stepped in and showed why he was in charge.  Somebody
+just had to go in and get a job with them.  Burns' qualifications were
+impecable.
+
+At first he just watched the place, as he went about coding a new 3-D
+graphics look for the State of Nevada's lottery.  Back at the rented
+apartment, Jasper drilled him for days to read passwords - looking
+over Jasper's shoulder as he typed and telling him what it was.  It
+was a big pain, Burns hated doing it, and turns out they never used
+them, but by the end of the month they had every important password in
+the place.
+
+They spent the time getting a good look at the development system.
+Brent went right for his favorite program - the gcc compiler.  It was
+several years old, and Brent asked Burns to float a question with
+management about updating it.  "Skipper" yelped with glee when Burns
+returned with the answer.  MiraCom wasn't just turning down the idea;
+they were dead set against upgrading the compiler for fear of hackers
+putting something "funny" in it.  "This means," Brent spurted after
+his bout of laughter and clapping, "that we can change the compiler
+with near absolute certainty that they won't just upgrade it away in a
+few months."  He didn't want to repeat his college experience of an
+upgrade taking away a favorite hack.  The stakes were a lot higher,
+too.
+
+Having settled on the compiler, Jasper set to work on the hack, with
+Brent watching over his shoulder.  It was designed to disappear into
+the binary, recreating itself if the compiler was asked to re-compile
+itself, as well as infecting the target program.  Since they weren't
+too sure about the target program, Skip had Jasper add another feature
+- a third prong of the virus, targeted against the operating system
+kernel, that would give them a back door.  Vic continued to work on
+some simulation software, but used the lull as a mini-vacation when he
+just fixed dinner for everyone and took care of the apartment.  There
+were five of them then, and Skip had insisted on taking most of Burns'
+salery from MiraCom.  This let them live without digging into the nest
+egg Brent and Burns had built up over the last two years.  Burns
+grumbled some, but respected the decision; Vic took care of handling
+most of the money.
+
+The problem remained of getting the hack into the compiler; probably
+the hardest step.  They knew the root passwords, but Burns wasn't
+supposed to have them, and the question remained of when could he
+successfully use them to hack the main development system.  Brent
+again resolved the question - they wouldn't use the passwords at all,
+but rather waited until the system was down for a routine maintenance.
+Burns made sure he was in the server room that day, working on a
+tricky install of a 3-D accelerator on one of the test machines.
+Somehow, he just couldn't get the drivers installed right, until
+everyone was out of the room for a few minutes.  He slapped a cable
+onto a special PCMCIA card that had been siting in the laptop for the
+last week, plugged the other end into the server's hard drive, powered
+it, hit a three-key sequence on the laptop, which beeped two seconds
+later.  Burns killed the power before the CPU had gotten out of BIOS,
+replaced the original cable to the drive, and walked away with his
+laptop.  Since they weren't using a cryptographic file system yet,
+they didn't even have to worry about forging signatures.  He finished
+the tricky install in less than five minutes and left, just as the
+server workers came back with the new power supply.  He had been
+practicing at home.  The whole operation took less than 10 seconds.
+
+Now they leaned back and waited.  Brent found a job for Vic, sending
+him off to find some land in the midwest.  Jasper tinkered with the
+virus a few more times, but they were already in, so it was just a
+matter of copying a file up to the server and running a bizarre little
+system call that should just have returned an error but instead jumped
+into the file's code at full kernel privledge.  Brent was really
+careful every time he used it, because a slipup would crash the system
+and that might begin to attract attention.  Jasper tested each
+prospective hack very carefully before Brent gave Burns the O.K to
+install it.  Three weeks later Burns watched a production system
+getting ready to head for Kansas make a Keno drawing.  The night
+before, Brent had declared the hack done and handed him a list of Keno
+numbers.  They had replaced the random number generator with one of
+their own, and Burns couldn't surpress a smile under his face as the
+numbers came up on the screen the next day.
+
+With the hack done, the team started to clean up shop.  Burns quit.
+Everyone else was heading for the Southwest, and he had never taken
+the job because he liked it.  Told his boss he'd had a better offer
+elsewhere.  Declined to discuss it.  Was offered a raise.  Politely
+refused.  He offered two weeks more work.  Politely declined.  They
+handed him his last paycheck and he walked out the door for the last
+time.
+
+Vic had located a ranch site in New Mexico; pretty high up, flat, and
+twenty miles down a back road.  A good road, though - dirt, but a good
+road that trucks could come down.  Brent started to spend money, now -
+used trailers for the construction site; a front corporation; phony
+building permits for a large dairy.  Vic asked about the money; the
+leader just shrugged.  "If the hack works, we've got some cash," he
+said, "if not, we've got problems no matter what."  "Do you think we
+should stake everything on this hack?"  "No," Brent answered after a
+short pause, "but I am."
+
+The break can within six months.  The Kansas state jackpot in the
+Pick-Five-Plus had risen to over $11 million.  Brent knew the numbers
+would hit.  What kept him up all night was the thought of somebody
+else picking the numbers at random.  Nobody did.
+
+Vic had picked the winning ticket, and the doctor revealed in the
+limelight.  For the first time in his life, he was in front of
+T.V. cameras.  He told his story, his bills from medical school, his
+work for the doctors, his work for the clinics, his general
+disillusionment with medince.  "Everyone grips about H.M.O.s and
+professional assocations and the cost of medical insurance," he told
+one press conference.  "If the doctors would just forget about the
+money and heal the people who came to them, we wouldn't have all these
+problems."  One reporter asked him if he was going to start a medical
+philanthropy with the money.  A little grin washed over his mouth and
+his mustashe bristled.  "Actually, I'm starting a dot-com".
+
+They called it Robotics Research.  Which wasn't far from the truth.
+Brent certainly planed to do a lot of work robotically.  He was also
+careful to keep the company's cash burn under a half-million a month,
+even considering things like his deal to purchase 60 PCs and 60
+laptops for a hundred thousand, complete with wireless networking
+cards.  Wireless cards for which they had a amplifier design.  They
+just stamped out a small run of 150 circuit boards and soldered them
+on.  The dozen young programmers they'd hired started to find some of
+the quirks of their management when a hundred of the computers just
+disappeared out the door to a remote location know only as "Site Y".
+They were still available over the network, though, and they were
+starting to run some pretty serious simulation software that would
+keep them running all night.  Mostly Jasper's code, Navier-Stokes
+equations, wing design, hypersonic flight, that kind of thing.
+Robotics Research accumulated a sizable collection of robots, and most
+of the software running them was pretty simple.  Just basic remote
+control, really.  Boring stuff, and Brent had to struggle to hold on
+to some of his brighter employees.  He gave them an orbital mechanics
+system to work with and enhance.  No explaination given what a
+robotics company would want with orbital mechanics.  Yet the work was
+interesting, so most of the programmers stayed on.
+
+Meanwhile, Brent had still been playing the lotteries.  The hack had
+worked its way into both Maryland's and Flordia's systems, and Brent
+himself decided to have his fifteen minutes of fame in Flordia, then
+had Jasper's mom hit it big.  People who knew them well started to
+wonder.  If you somebody you know hit the jackpot, it was a big deal,
+but three people?  Questions were already starting to rise when New
+Year's came around.  The core team got together at a ski resort in
+Taos and went back to a rented ski house afterwards.  Vic, as usual,
+was the one to question the lottery winnings, and the increasing money
+drain.  Brent just stood in the corner and puffed on a joint.  "This
+is the year of living dangerously."
+
+Brent had leveraged the roughly $20 million from the lotterys into
+about $100 million using fraduent financial statements to get various
+loans for land and equipment.
+
+
+T - 38 days
+
+
+The programers at Robotics Research were a different story.  Brent
+wanted to keep some of them, so decided to drop the bomb.  He called a
+meeting of the dozen or so still left, and explained everything.
+"This company is a front.  All of the money behind it is stolen," he
+said.  At first, nobody said anything.  Then Kim chipped in, "I always
+thought something was funny about this place," she said.  "So why have
+we been working on all this crazy stuff?" Mike asked.  "Because this
+company is a front.  It isn't a dot-com startup.  It's a manned
+mission to Mars."
+
+		CHAPTER CHAPTER CHAPTER
+
+
+Frozen with fear, Dr. Andrea Yeats stared at the young man in his early twenties
+sitting in the passenger seat near to her.
+His jeans were ripped, his hair unkempt, and his body excuded a faint odor that
+betrayed the three days that had passed since his last shower.  His heavy blond
+hair and muscular upper body betrayed months of surfing on the Southern
+California beaches.  His eyes had narrowed to slits, and his lewd smile
+told that the money in her purse wasn't the only thing he'd be taking.
+
+
+T - 15 days
+
+The police raided two days early.  The "heads up" from the cop turned
+out to be deliberate misinformation.  The police bust into the ranch
+house early morning, and caught everyone asleep, except Burns, who
+was smoking dope and watching TV.
+
+"Where Baccala?" a detective asked him after rounding up the programmers.
+
+Burns shrugged, "not here".
+
+The rest watched on CNN.  "Maybe they'll let 'em go, when they find out
+they're small fish."  "With all this Homeland Security crap?  They had
+'em locked up tigher than a drum."
+
+Baccala slapped him hand on the table.  "Fuck it.  I said I wouldn't
+let 'em hang out there, and I'm not letting 'em hang.  We'll go get
+'em with the choppers."
+
+"How, they're already arrested."
+
+"We'll hold up the cops.  Surprise 'em as they move our people to
+the jail."
+
+"I'll go," Brian said.  Brent started to object.  "No, I told you you
+needed someone for security, and this is exactly what I meant."
+
+They went down in NH-60s, sat the choppers down on an empty mesa twenty
+miles away, and waited for the TV to show the police driving out.
+As soon as they hit the road, the choppers were in the air.
+
+Brian shot out the lead cop car's engine and jumped onto the ground,
+pointing an M-16 at the driver's head.
+
+"Hand on the wheel, now!"
+
+...
+
+"We need another week or two at least."
+
+"We're out of options.  This place is all we've got left."
+
+"So you need a diversion," Brian summerized.  "I'll take care of it."
+
+
+
+		CHAPTER CHAPTER CHAPTER
+
+
+"The problem is populist government - this stupid idea that you can
+put the masses in charge of society.  It was talked about by
+philophers in the eigthteenth century, brought to power in Europe and
+the Americas by a string of revolutions in the nineteenth century, and
+brought to fuition in the twentieth century.  What it produced was
+fascism, communism, and capitalism - three of the most depraved
+societies that have every been seen on the face of this planet.
+Fascism, based on brutal, viscious, racial competition; communism,
+based on brutal, viscious, class competition; and capitalism, based on
+brutal, viscious individual competition.  Now, tell me, what do all of
+these things have in common... other than the fact that millions upon
+millions upon millions of people went chasing off after every one of
+them?"
+
+"The problem with communism wasn't their economic system, it wasn't
+the structure of their elections, it wasn't their lack of
+constituional guarentees.  The problem with communism was that their
+leaders were a bunch of trash with some nightmare system to be jammed
+down everyone's throughts.  They were a lot like the people who run
+democracy today."
+
+"The problem isn't Bill Gates.  The problem is John Doe.  Walk into
+one of these stores anywhere in the Western world without a credit
+card or a twenty dollar bill in hand.  Ask for a plate of food.  See
+what you get."
+
+"Well, that's perfectly understandable.  If you just give away to
+everyone, you'll be put out of business."
+
+"That's right!  That's the 'freedom' of democracy right there - you be
+a capitalist or you'll be put out of business.  And then if you won't
+work for these bums, you'll be put homeless and starving on the street
+and all these great, decent people will spit on you as they walk past
+and call you a bum who doesn't want to work... And they're right,
+'cause I don't want to work - for them and their brutal system!"
+
+
+
+"The majority don't want good leaders," Brent cut in.  His advesary
+stuttered and faltered.  "The majority don't want good leaders," the
+astronaut repeated, floating weightless on the screens of 10 million
+people watching the live interview on Nightline.  "They want garbage
+leaders.  They want the most selfish bastards you'd ever want to meet,
+with this nightmare capitalist system based on the most vicious traits
+of mankind to be jammed down everyone's throughts.  And this time,
+nobody can say it isn't really a democracy, that one man took over the
+government, that the discedents were 'disappeared', that we don't have
+freedom of speech or freedom of the press.  Nobody can claim that this
+isn't really what the majority of people want.  Democracy is another
+communism."
+
+"Another communism?" Koppel cut it, stunned.  "That's right," Brent
+replied, before backpedeling... slightly.  "I don't mean that it's
+murdered millions of people, or enslaved half the planet, but it's
+another big pile of books and theories that sound real good on paper,
+and in practice has produced one of the most depraved societies that's
+every been seen on the face of this planet.  People will look back on
+this a hundred years from..."  It was more than the congressman could
+take.  Visibly redening, now it was his turn to cut off the space
+captain.
+
+"Look here, democracy may not be perfect, but it's a damn sight better
+than just about anything else out there.  In the last 200 years, we've
+abolished slavery, and that alone has to count as one of the biggest
+achieve..."  Baccala cut right back in.  The debate had turned into an
+intellectual free-for-all.
+
+"The communists abolished slavery, too.  That isn't the point.  The point..."
+
+"Yes it is the point!  Yes it is! Don't go brushing off everything
+this country's accompished just 'cause you can't see anything but it's
+faults!  We're not perfect, but the majority of this country's people
+are decent, hardworking people who want a better life not just for
+themselves, but for decent people everywhere!"
+
+The congressman paused for breath, and Koppel chose this moment to
+jump in and try to bring the debate back under control.  He decided to
+do it by challenging one of the astronaut's more dramatic
+claims. "Gentelmen, please.  Captain Baccala, many people critize the
+United States, but another communism?  You can't be serious."
+
+"Look here, it's the same with all these populist governments,"
+Baccala replied.
+
+"Populist?" the congressmen retorted.
+
+"Yes, populist," the spaceman replied.  "Communism was one of the
+biggest populist movements of the twentieth centry.  Millions upon
+millions upon millions of people 'believed' in communism.  And they
+beleived in it for the same reasons that millions of people in Germany
+beleived in fascism, and that millions of people today believe in
+capitalism..."  The spaceman paused before letting his bombshell drop.
+"...because it's brutal as hell, and that's what 'works' in the 'real
+world', and that's what all these millions and millions of people
+'know'!"
+
+Congressman Black looked like he was ready to reach through the TV
+monitor and rip the spaceman's head off.  He replied in clipped,
+measured tones that betrayed the rage he felt at his floating nemisis.
+
+"Communism was a brutual, murderous dictatorship.  And I want to be
+very clear on that word - dictatorship.  There was nothing populist
+about it in the least."
+
+"Nothing populist about communism?  Then how did it manage to take
+over half this planet?  It was the same with the Nazis, elected in
+1932, and yes, despite every attempt to claim the contrary, the were
+_elected_; France, the French Revolution, whose leaders talked about
+liberty, fraternity, and equality, then built guilateons in the public
+squares of Paris and chopped off the heads of the nobelmen.  Europe's
+first democracy - and every one of those men was elected - Coulton,
+Saint Just, Robspierre, and of course, finally, Napoleon."
+
+"Napoleon was elected?" Black sneered.
+
+"He could have been.  He could have won any election in that country.
+Bonaparte was one of France's most popular leaders."
+
+"This has been the broken record of democracy for the last two hundred
+years.  All these people talk about these grandeose ideas of liberty
+and freedom, and then choose abolute garbage for their leaders, and
+build societies based on the basest and most vicious traits of
+mankind.  This time around it's the capitalists - the most selfish
+sons of bitches you'd ever want to meet, and the majority support
+these bums every step of the way.  The majority of people are
+completely incapable of choosing anything but the worst possible
+leaders."
+
+Baccala stopped, and Black didn't retort immediately.  A tense silence
+fell over the teleconference.  Across the country, millions of people
+in their homes murmorred amongst themselves.  "I don't want to hear
+any more of this."  "You tell 'em, Brent!"  "That bastard deserves to
+die up there!  I hope the whole bunch die!"  "Is this what people
+think about us?"
+
+In New York, Koppel decided to change the subject, since the broadcast
+was nearing it's end.  There would be plenty more opportunities for
+debate.  "Captain, what are your plans?  How long can you stay in
+orbit?"
+
+Baccala's reply was suscinct.  "We're going to Mars."
+
+
+------ A problem quickly develops.  They've overlooked the need for a
+meteor shield and quickly suffered several metor hits.  They deal with
+the problem by putting the damaged modules in front of the others, and
+some begin talk of a rescue mission and how much it will cost NASA,
+and this is why we need regulation, etc, etc.
+The Captain decides to break orbit and head higher, away from LEO,
+but they'll be beyond the shuttle's range for a rescue.  Meanwhile...
+
+		CHAPTER CHAPTER CHAPTER
+
+
+Pipi had been fairly quiet and sullen after the Nightline interview.
+He continued to do his work, quietly, efficiently, but his opinion of
+the captian had irrevokably changed.  He had known him as a driven
+man, but had thought he was driven by a thirst for adventure and
+exploration.  Now he saw something different - a man driven by rage,
+by anger, by thirst for an insane kind of revenge against a society he
+hated.  In light of this, the risks of the mission began to loom
+large, and the hardships they now faced, only a little more than a
+hundred miles above Earth, drove doubt into him about anyone's chances
+for survival.  Baccala mentioned several more times that they could
+still turn back, but nobody else seemed interested.  Burns largely
+ignored politics and concentrated on doing his work, smoking his weed
+afterwards, and playing loud rock music.  Vic didn't have as much to
+do, but seemed to Pipi to harbor a kind of secret hatred of the world
+that only occasionally surfaced.  Once, trying to feel him out, Pipi
+asked him if he would want to go back to Earth.  "Over my dead body,"
+came the reply, with a chuckle.
+
+Finally, Pipi's simple desire for life won out, and his loss of
+respect for the captain broke the man's hold on him.  He came to the
+skipper while he was working alone one day on the water recycler, told
+him he wanted out, and braced himself for an argument.  Yet Baccala
+wasn't that kind of man.  As angry and bitter as he could be while
+confronted a distant representative of a hated society, he always
+softened up in person.  "You want to think about this, or talk about
+it?"  he asked.  "I have though about it, a lot," was Pipi's reply.
+"I want to go home."  "I'll see what I can do," Brent replied, and
+went back to his work.
+
+Two days later, despite Pipi's misgivings, despite the heated exchange
+on television, despite his own contempt for the world they now circled
+above, the captain quietly demonstrated what, time and again, would
+carry him and his crew through the loney and difficult years ahead.
+He put his personal feelings aside to do what made sense for his
+mission and his crew.  Over the last few weeks, he had accumulated
+a small database of unlisted phone numbers.
+He picked up the phone and made one call.
+
+The next day, Andrea Yeats pulled into the parking lot at Johnson
+Spaceflight Center and started walked towards her office.  "Becker
+wants to see you right away," Vou told her before she made it there.
+She set her briefcase down next to her desk and headed across the way
+to the director's office.  Lou was already there.
+
+"He doesn't want our help."
+
+"True, but he wants us to do him a favor, and he's willing to do
+a favor for us in return."
+
+"Looks like one of his crewman has gotten cold feet.  The kid
+from California."  "Really?" Andrea replied, her heart racing.
+Becker hadn't called her here just to tell her something
+that would probably be on the news within days.  "Endevor is going up
+next month, and we've agreed to extend the flight three days to
+redevous with them and retrieve this guy."  "Whose idea was
+that?"  the engineer asked.  The reply can from Lou.  "Baccala's.  He
+called us himself."  "Really?" she answered, with an interested pout.
+"That leaves him one down," she noted, her mind starting to race
+ahead, but Becker continued before she could think that far.  "He's
+offered us the possibility of putting a NASA observer on the flight."
+He paused to let the impact of the statement sink in.  Andrea's heart
+jumped, her mouth opened slightly and her gaze panned to Lou, who was
+looking her right in the eye.  "It's yours if you want it."
+
+
+	    CHAPTER CHAPTER CHAPTER
+
+"We still haven't decided on a name for the ship," Brent explained.
+
+"Well, can I put my two cents in?"  "Sure"
+
+"You've heard the story of Icarus?"
+
+"Some greek hero, right?"  Baccala replied, vaguely enough to betry
+his failure to exactly place the name.
+
+"The son of Daedalus.  The father built wax wings for them both
+to escape prison, and Icarus flew too close to the sun, and his wings
+melted," Brian interjected.
+
+"That's right," Andrea afirmed, and a moment's silence fell on the group
+before people started to chuckle.  Burns finally bust laughing out loud.
+Baccala smiled, and noted quietly that his crew had learned to laugh
+at the insanity of their undertaking.
+
+
+------ Two days later, Icarus' Wing break orbit.  Baccala moves the ship
+to a six-hour orbit, basically solves the meteor problem this way, and
+the crew gets to work.  They've brought supplies for a year before the
+crops have to work.
+
+		CHAPTER CHAPTER CHAPTER
+
+
+"You wouldn't have been using any alcohol or illegal drugs, would you?"
+
+"No," Andrea replied, stiffling the anger she felt at the policeman's
+leading question, "I haven't."  She was in Germany for a technical
+conference, and been pulled over in her rental car after turning the
+wrong way down a one-way street.  If the sign had been in German, she
+probably would have understood it, but it was one of these idiotic
+"international" pictograms with just a red circle and line.  So now
+she was pulled over the side, parked behind a ludicrously small police
+car with its funny sounding siren, being questioned by a German
+policeman.
+
+"Then how did I get into the driver's seat of your car?" he asked.
+
+The anger vanished, and fear gripped Andrea, terrifying, unreasoning
+fear.  How had he gotten into the driver's seat?  He sat there in the
+car seat next to her, but somehow she was on the passenger's side.
+She opened her month and started to stammer something, then caught the
+policeman's eyes as they narrowed and a lewd smile crept onto his
+face.  Oh my God, it's him.  Oh my God, not again, she thought as his
+hand slid across towards her leg.  She couldn't move, couldn't breath,
+couldn't talk, couldn't scream, couldn't do anything but sit terrified
+as he moved to touch her... and woke up.
+
+
+---- They make it first to the astroid belt, where they outfit the
+ship with everything missing.  They build a giant carbon sprayer
+and in this way fix the two modules that still have meteor strikes
+that can't be sealed.  They sprayed the bottom of an old 747
+NASA had given them and began to wonder it to would work as a
+landing craft.
+
+	     CHAPTER CHAPTER CHAPTER
+
+They had made it back to Earth without incident.  Crouds, cheering,
+parties, Andrea vaquely remembered them.  She had settled back into
+life as a NASA engineer, and after the initial round of publicity
+wore off, back into some kind of routine.  The chance to go to Tokyo
+for a conference came up, and she jumped at it.  She was the keynote
+speaker, all the media wanted to interview her, and best of all a lot
+of people just didn't recognize her as she walked around downtown.
+Those who did were invariably polite.  She came back to her hotel
+after a wonderful sushi dinner, and was gazing out from her window
+at the city below.  Then the door was thrown open, she turned around,
+and gasped in fear.
+
+"Think I'd forgotten about you?"  He stood silohited in the light
+frame of the door as he walked into the dark room.  Her heart leaped
+with fear and her feet were frozen to the ground.  She couldn't
+move; couldn't scream... but yelled as she woke up.
+
+
+	       CHAPER CHAPTER CHAPTER
+
+They'd left as pariahs; they came back as heros.  To some, demigods.
+
+The captain disengaged the mooring clamps and tapped the maneuvering
+thrusters to translate away from the docking station.
+
+"Let's go home."
