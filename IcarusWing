@@ -23,24 +23,135 @@ based on real events and real people.  Some of the names have been
 changed.  Some haven't.  The body of the work is fictional.
 
 
-T - 391 days
+T - 691 days
 
 It was a brillent hack.  It was better than the one they did in
 college, when the campus news server wouldn't accept posts from the
-student lab.  They had recompiled the server with gcc, goten a smaller
-executable than the original, altered it so that after printing 502
-ACCESS DENIED it went and accepted the post anyway and padded it out
-to make the CRC come out right.  They wern't using MD5 back then,
-heck, it hadn't even been invented yet.  Then Burns dug through the
-engineering and computer science library for the VAX Architecture
-Reference Manual, figured how to drop the student workstations into a
-diagnostic mode by hitting the little blue button on the back of the
-machine, installed packet sniffers on couple of them, and waited a few
-days to grab the server's root password as it went by over an
-unencrypted telnet.  They went in as root and just dropped the new
-server binary onto the hard drive.  It ran for six months unnoticed,
-until the staff updated the whole OS installation.  But this hack was
-even better.
+student lab.  They had recompiled the server with 'gcc', goten a
+smaller executable than the original, altered it so that after
+printing 502 ACCESS DENIED it went and accepted the post anyway, then
+padded the end of the program to make the CRC come out right.  They
+wern't using MD5 back then, heck, it hadn't even been invented yet.
+Then Burns dug through the engineering and computer science library
+for the VAX Architecture Reference Manual, figured how to drop the
+student workstations into a diagnostic mode by hitting the little blue
+button on the back of the machine, installed packet sniffers on couple
+of them, and waited a few days to grab the server's root password as
+it went by over an unencrypted telnet.  They went in as root and just
+dropped the new server binary onto the hard drive.  It ran for six
+months unnoticed, until the staff updated the whole OS installation.
+But this hack was even better.
+
+Burns parked his car in the employee lot and walked to the main
+entrance, past a fountain spraying water, fronted by a 3-foot-high
+corporate logo cast out of concrete - the word "Chesapeake", with the
+'k' forming the shape of a sailboat's mast and a blue-and-white color
+scheme that cleverly gave the impression of waves breaking on its
+namesake bay.  Chesapeake Computer Corporation - depending on how you
+measured it, possibly the world's largest manufacturer of routers, the
+telephone switches of the Internet, the gray metal cabinets whose fans
+hummed in the backrooms of thousands of Internet service providers,
+most bearing that same one-word, blue-white logo.
+
+Burns pushed open the plate glass doors, waved to the receptionist
+behind the curved mahongony desk that dominated the center of a lobby
+formed by potted plants, couches and coffee tables, slid his card key
+through the black plastic box to the side of the employee's entrance,
+pushed open the door after its lock clicked open, and walked into to a
+massive two-story room subdivided into hundreds of cubicles that
+dominated the ground floor of the building.  This was Chesapeake's
+brain trust, headquarters of the programmers and engineers that
+built its flagship products.  Corporate management had wisely
+consigned itself to a seperate building across the street.
+
+The key card was real.  Burns was a legitimate employee, number 3504,
+hired almost six months before after a job interview that consisted of
+little more than technical presentation in front of a conference room
+of corporate engineers and managers.  He walked down the mammoth
+room's main isle, past a bank of photocopier machines and a series of
+cubicles, half of them deserted.  Turning down a side isle, he walked
+to the fourth cubicle, tossed his laptop case on a chair, sat down in
+front of his terminal, logged in and began reading his email.
+
+"System's going down today, Burns," announced a neatly attired
+secretary walking at brisk pace in the other direction
+down the isle that backed the cubicle.
+
+"Yep," the programmer replied without turning around.  The company's
+main development computer was scheduled for a hardware upgrade today
+that would boost its processing power by nearly a factor of ten,
+though the use of a faster, multi-processor system.  Half of Burns'
+email consisted of brief notes from various employees that they were
+taking the whole day off, turning the system upgrade into an excuse
+for a three-day weekend.  Burns, on the other hand, had no intension
+of being anywhere but in the office today.  He found his job boring,
+wanted to be rid of it as quickly as possible, and had no intension of
+letting _this_ opportunity slip by.  He finished skimming the email,
+shouldered the laptop case while the terminal finished its logout
+sequence, and headed for the server room.
+
+A Kerningham virus is named for its inventor, Brian Kerningham, a
+respected American computer scientist who demostrated in the early
+1970s that a compiler, a program which converts human-readable source
+code into the bits and bytes of machine code that actually run the
+machine, could be made to perform covert modifications on the programs
+it generates.  What's more, if the compiler is itself used to generate
+new compilers, as is so often the case with modern computer systems,
+the virus could be made to replicate itself from one generation of
+compiler to another, effectively disappearing into the billions of
+bits on a computer's hard drive.  Such a virus is particularly
+effective when used on computer systems using heavily customized
+compilers, such as those used by manufactures who produced both their
+own hardware and software, and who wanted their software customized to
+take advantage of their custom hardware.  Which was exactly the world
+of Chespeake.
+
+Burns keyed the door to the server room and walked in.  An economic
+boom was in progress, every bunch of twenty-somethings with a neat
+program had a startup corporation running, and skilled programmers
+were in short supply.  Someone with Burns' qualifications was a
+genuine find, and he had quickly gotten the run of Chesapeake's
+operation, which was far more concerned with filling the next
+multi-million-dollar order and satisfying those customers by cramming
+miriads of new features into their products than implementing any real
+security against a determined insider attempting to hack their
+systems.
+
+Inside the server room, a white-walled room with a elevated floor that
+covered a haylon-based fire extinguisher system, the new server
+hardware was laid out along one wall, its technicians chatting
+leisurely amonst themselves while awaiting the announced time to
+shutdown the system.  Burns crossed to the other side of the room,
+where he was working on a tricky install of a new high-speed optical
+interface in one of the test machines.  Somehow, he just couldn't seem
+to get the settings right.
+
+Forty five minutes later, with the main system shut down and half its
+components spread across a table, all three technicians were out of
+the room for a minute, one to take a soda break, another to retrieve a
+power cable from his desk, and the third to answer a phone call from
+someone who had already hung up by the time he got there.  Burns had
+contemplated taking a shot of J.D. that morning to steal himself for
+this moment, but designed that he had to be absolutely sober in case
+_anything_ went wrong.
+
+He practicly sprinted across the room as soon as the door closed
+behind the last tech, slapped a cable onto a special PCMCIA card that
+had been siting in his laptop for the last week, plugged the other end
+into the server's hard drive, powered it, and hit a three-key sequence
+on the laptop, which beeped two seconds later.  Then Burns killed the
+power before the server's CPU had gotten out of BIOS, replaced the
+original cable to the drive, and dashed back across the room with his
+laptop.  Since they weren't using a cryptographic file system yet,
+they didn't even have to worry about forging signatures.  It had taken
+less than 15 seconds.  After the technicians returned, Burns preserved
+appearances by consuming another half hour to finish installing the
+optical interface, then left.  Buoyed by an air of near invincibility,
+he practically floated out to the parking lot, tossed the laptop in
+the back seat, fired up a sneak-a-toke cleaverly designed to look like a
+cigarette, and floored the rag-top all the way home.
+
+#if NOT
 
 They had been planing it for months.  Well, they'd been talking about
 it for years really, but months to actually do it.  They targeted a
@@ -48,9 +159,8 @@ major router manufactuer.  Routers, for the uninformed, are the
 telephone switches of computer networks, that handle almost all the
 data packets and make decisions about how to get data packet X to
 destination Y. First, Burns got a job with the company.  It wasn't
-hard.  An economic boom was in progress, every bunch of
-twenty-somethings with a neat program had a startup corporation
-running, and skilled programmers were in short supply.  Various ideas
+hard.
+Various ideas
 were proposed to hack them, ranging from tapping into the router line
 and hopeing somebody will come in and type the password in the clear,
 to Burns' pet scheme for an Ethernet wiretap built from a
@@ -113,21 +223,9 @@ could be fudged, it was an extra level of complexity that Marc, a firm
 beleiver in K.I.S.S, didn't want to deal with.  Marc resolved the
 question - they wouldn't use the passwords at all, but rather waited
 until the system was down for a routine maintenance.  Burns made sure
-he was in the server room that day, working on a tricky install of a
-new high-speed optical interface in one of the test machines.
-Somehow, he just couldn't get the settings right, until everyone was
-out of the room for a few minutes.  He slapped a cable onto a special
-PCMCIA card that had been siting in the laptop for the last week,
-plugged the other end into the server's hard drive, powered it, hit a
-three-key sequence on the laptop, which beeped two seconds later.
-Burns killed the power before the server's CPU had gotten out of BIOS,
-replaced the original cable to the drive, and walked away with his
-laptop.  Since they weren't using a cryptographic file system yet,
-they didn't even have to worry about forging signatures.  He finished
-the tricky install in less than five minutes and left, just as the
-server workers came back with the new power supply.  He had been
-practicing at home for a week.  The actual hack took less than 10
-seconds.
+he was in the server room that day,
+
+out of the room for a few minutes.
 
 Now they leaned back and waited.  Marc starting spending his days at
 the library, researching various computer companies as well as
@@ -176,6 +274,8 @@ routers, retreieve their passwords, add new passwords without them
 appearing in any configuration files, generate connections that
 seemed to appear out of thin air, and generally infiltrate any
 network using the company's routers.
+
+#endif
 
 T - 380 days
 
@@ -6630,7 +6730,7 @@ green, red, blue and black design of the South African flag.
 
 			   ===== NOTES =====
 
-T - 391 days <***>
+T - 691 days <****>
 
 Kerningham viruses.  The hack.
 
@@ -7587,3 +7687,98 @@ a great find.  He's a lot of fun to work with, and a lot of stuff I'm
 sick of fooling with, he'll jump into.  Marc hired him, of course."
 
 -----
+
+The federal detective showed Andrea his identification papers.
+
+"Ever heard of Keystone Securities?"
+
+She started to shake her head, then stopped.  "Isn't that
+the company that went bankrupt?"
+
+He nodded.
+
+"There's some kind of investigation into that right?"
+
+Again he nodded.
+
+"You're part of it?"
+
+For the third time, a nod in response, followed by an explaination.
+
+"Keystone's operation was heavily computerized.  Their computers
+malfunctioned and traded away a little over a billion dollars
+in securities in less than a day."
+
+"A bug?" Andrea wondered aloud.  The agent shook his head.
+
+"A virus would be closer to the truth.  They were hacked, we're still
+not exactly sure how, but we've found the critical section of code
+that was modified in their trading system."
+
+Andrea knitted her brow.
+
+"Well, if that's true, then the transactions were illegal, right?"
+
+Again the agent nodded.
+
+"So why can't you just reverse them and get the money back, you
+should even be able to track down who it went to."
+
+The agent smiled.
+
+"That's the beauty of this thing.  The transactions went to hundreds
+of different accounts, spread over three major banks - WorldBank, Bank
+Deutsch, and Allenby's of London."
+
+[hopefully, none of these companies actually exist!]
+
+"And?"
+
+"And none of the banks have any record of the transactions!"
+
+Again Andrea was puzzled.
+
+"So the transactions never occured?"
+
+"Oh, they occured.  The exchange recorded them, and the books won't
+balance without them."
+
+A silence pervaded the room for a minute.
+
+"So how can there be no record of the transactions, I mean, I'm no
+banking expert, but..."  She let her voice trail off.
+
+"Dr. Yeats," the fed continued, "a detective far more famous than
+I once said that when you eliminate the impossible, whatever remains,
+however improbable..."
+
+"...must be the truth," Yeats finished his sentence for him.  "I've
+read Sherlock Holmes, too.  So what's your impossible, or improbable
+truth, and how does it relate to N-1033?"
+
+"The impossible truth, Dr. Yeats, the only possible way I can account
+for the evidence I've got, is that not only was Keystone hacked, but
+so was WorldBank, Bank Deutsch, and Allenby's.  All four computer
+systems were party to this theft."  He paused for a moment to let this
+set in.
+
+"And the relationship to N-1033," he continued, "is simply this.  Do
+you believe, from what you've read, that N-1033 could have been
+developed without the source code to _Gaussian_?"
+
+Andrea leaned back in her chair and thought for a moment.  Finally,
+the conversation had turned to a subject she more or less understood.
+
+"No," she said after a moment, "didn't they parallize the system
+themselves?"  Lou nodded.  "And their handling of the liquid state
+dynamics... did the _Gaussian_ team do that for them?"
+
+Lou's response was negative.
+
+"No, Andrea, they did it all themselves.  And the manufacturer says
+they never provided them with the source code, in fact, that it's
+their policy not to release source code to customers, they only get
+binaries."
+
+"In short, Dr. Yeats," the agent now concluded, "the most likely
+way XXX got the source code to _Gaussian_ was a hack."
