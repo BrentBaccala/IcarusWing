@@ -1,94 +1,12 @@
 
-Each Shuttle SRB
-
-1,300,000 lbs at launch
-1,100,000 lbs propellant
-192,000 lbs inert
-3,300,000 lbs launch thrust
-2 min burn time
-~ 50,000 lb/sec propellant burn
-
-
-Shuttle (on landing) - 230,000 lbs max
-
-
-Space shuttle main engine
-
-178,000 L/min liquid hydrogen
-64,000 L/min liquid oxygen
-1,734,803 N at sea level (each)
-ET - 2 million liters
-     29,900 kilograms empty
-     751,000 kilograms full
-1,035 gallons (3,900 liters) per second (17-inch diameter feed lines)
-8.5 minutes burn time
-
-
-forced CVI (chemical vapor infiltration)
-   3M Nextel fiber
-   start with pressed sheets of ceramic fibers in graphic holder
-   methyl trichlorosilane (MTS) -> silicon carbide + HCl
-   others than SiC = BN, carbon, a-Si3N4
-   SiC sublimes ~ 2700 deg C
-   1100 deg C - depositation
-Handbook of Selected Properties of Air- and Water-reative Materials
-   MTS - p. 172
-
-$5 million for a used 747
-
-Clayton tanker truck - 30,000 L    ~ 40 ft length
-
-90% Hydrogen peroxide / JP-4
-  297 sec Isp (theoretical)
-
-possible 95% efficiency?
-
-one test
-  130 sec Isp (theoretical)
-  52 sec Isp (measured)
-
-
-ammonium perchlorate (NH4ClO4) - oxidizer - 69.6 percent by weight
-aluminium - fuel - 16 percent
-iron oxide - catalyst - 0.4 percent
-polymer - binder - 12.04 percent
-epoxy curing agent - 1.96 percent
-high thrust at ignition and reduced thrust during max dyn pressure via shape
-  11-point star perforation in forward segment
-  double-truncated cone perforation in each aft segment
-nozzle - 7-to-79 expansion ratio
-  hydraulic gimbaled for thrust vector control (8 deg)
-four hold down posts; top nut contains NASA standard detonators (NSDs)
-  NSDs blown during launch sequence; lights booster charge, lights propellant
-redundant 
-
-
-
-Design of Liquid Propellant Rocket Engines; Huzel and Huang
-
-
-orbital speed - Mach 26 - 8 km/s
-
-
-New 747   $200 million
-  6,025 cu ft cargo space
-  216,840 L max fuel
-  operating empty weight = 394,088 lb
-various engines - CF6-80C2B1 59,000 lb thrust (weight = 9,570 lb x 4)
-   "The Engine Handbook"
-
-
-Simple liquid fueled rocket - 275 sec spec impulse
-  for 59,000 lb thrust  59,000/275 = 214 lb/sec (total propellant flow rate)
-  for four engines ~ 1000 lb/sec
-  1000 lbs water ~ 120 gallons ~ 500 liters
-  433 seconds operating time (216,840 L)
-  6,025 cu ft = 45,000 gallons = 180,000 L
-  216,840 + 180,000 L ~= 400,000 L
-  400,000 L = 800 sec operating time = 13 min
-
 
 		Icarus' Wing
+
+This is a work of historical fiction.  Many of the events and
+characters are based on real events and real people.  Some of the
+names have been changed.  Some haven't.  The body of the work is
+fictional.
+
 
 T - 391 days
 
@@ -851,6 +769,147 @@ pointed to the sky for emphasis.
 Marc shrugged his shoulders and paused for a moment, his mouth agap.
 
 "Al Queda?"
+
+
+
+T - 3 days
+
+Vic asks Andrea to go to the fuel company and check it out.  She
+meets the management team, and is shown around the headquarters
+facility, and told the gate way down the road led to another
+property.
+
+She takes a moment in the lady's room as an excuse to walk around,
+try all the doors, find one unlocked, open it, walk in and begin
+to look through the file cabinet.  She opens one drawer and pulls
+out a sheet of paper.  It reads:
+
+
+Each Shuttle SRB
+
+1,300,000 lbs at launch
+1,100,000 lbs propellant
+192,000 lbs inert
+3,300,000 lbs launch thrust
+2 min burn time
+~ 50,000 lb/sec propellant burn
+
+
+Shuttle (on landing) - 230,000 lbs max
+
+
+Space shuttle main engine
+
+178,000 L/min liquid hydrogen
+64,000 L/min liquid oxygen
+1,734,803 N at sea level (each)
+ET - 2 million liters
+     29,900 kilograms empty
+     751,000 kilograms full
+1,035 gallons (3,900 liters) per second (17-inch diameter feed lines)
+8.5 minutes burn time
+
+
+forced CVI (chemical vapor infiltration)
+   3M Nextel fiber
+   start with pressed sheets of ceramic fibers in graphic holder
+   methyl trichlorosilane (MTS) -> silicon carbide + HCl
+   others than SiC = BN, carbon, a-Si3N4
+   SiC sublimes ~ 2700 deg C
+   1100 deg C - depositation
+Handbook of Selected Properties of Air- and Water-reative Materials
+   MTS - p. 172
+
+$5 million for a used 747
+
+Clayton tanker truck - 30,000 L    ~ 40 ft length
+
+90% Hydrogen peroxide / JP-4
+  297 sec Isp (theoretical)
+
+possible 95% efficiency?
+
+one test
+  130 sec Isp (theoretical)
+  52 sec Isp (measured)
+
+
+ammonium perchlorate (NH4ClO4) - oxidizer - 69.6 percent by weight
+aluminium - fuel - 16 percent
+iron oxide - catalyst - 0.4 percent
+polymer - binder - 12.04 percent
+epoxy curing agent - 1.96 percent
+high thrust at ignition and reduced thrust during max dyn pressure via shape
+  11-point star perforation in forward segment
+  double-truncated cone perforation in each aft segment
+nozzle - 7-to-79 expansion ratio
+  hydraulic gimbaled for thrust vector control (8 deg)
+four hold down posts; top nut contains NASA standard detonators (NSDs)
+  NSDs blown during launch sequence; lights booster charge, lights propellant
+redundant 
+
+
+
+Design of Liquid Propellant Rocket Engines; Huzel and Huang
+
+
+orbital speed - Mach 26 - 8 km/s
+
+
+New 747   $200 million
+  6,025 cu ft cargo space
+  216,840 L max fuel
+  operating empty weight = 394,088 lb
+various engines - CF6-80C2B1 59,000 lb thrust (weight = 9,570 lb x 4)
+   "The Engine Handbook"
+
+
+Simple liquid fueled rocket - 275 sec spec impulse
+  for 59,000 lb thrust  59,000/275 = 214 lb/sec (total propellant flow rate)
+  for four engines ~ 1000 lb/sec
+  1000 lbs water ~ 120 gallons ~ 500 liters
+  433 seconds operating time (216,840 L)
+  6,025 cu ft = 45,000 gallons = 180,000 L
+  216,840 + 180,000 L ~= 400,000 L
+  400,000 L = 800 sec operating time = 13 min
+
+
+Suddenly, the light comes on. She slams shut the folder, shoves it
+awkwardly back into the filing cabinet, and spins around to find the
+Captain watching her from the doorway.  He smiles sarcastically.
+
+"Can I help you?"
+
+Andrea takes a deep breath.  She's no spy, no matter what government
+agency she works for.  She decides on honesty.  She puts down the
+papers, turns fully back around to the door and puts her hands on her
+hips.
+
+"What are you up to?"
+
+"Why don't you tell me what you think I'm up to?  Why don't you give
+me your expert analysis of... whatever it is you're reading?"
+
+"It looks like you've got some kind of orbital launch planned, I'd
+say probably manned."
+
+Bryan appears in the door behind Marcelius just in time to hear the
+last part.  The Captain smiles broadly and walks completely into the
+room.
+
+"Would you come with us, please?"
+
+Andrea looks back at the man who just arrived.  She knows in her heart
+that he could completely dominate in any physical confrontation, that
+she might as well be in the presence of two or three police officers.
+
+"What if I don't want to?"
+
+Bryan speaks for the first time.
+
+"You're coming with us, and you can come however you please."
+
+
 
 
 
@@ -2057,15 +2116,15 @@ what she wanted to say.  "Alister's not alone.  I've got more hours of
 spaceflight logged than anyone else here."
 
 Vic furrowed his eyebrows.  It was the first time he had thought about
-it, but Andrea would for many years hold the record for most livetime
-hours of spaceflight.  She was going on.
+it, but Dr. Andrea Yeats would for many years hold the record for most
+lifetime hours of spaceflight.  She was going on.
 
 "And we've got this whole crew.  Alister's the chief engineer now, so
 if says he needs time to think about it and simulate it, fine.  He'll
 need help.  I can make myself do equations again.  I volunteer as
 assistant engineer."
 
-Brian said, "We need you as second officer."
+Bryan said, "We need you as second officer."
 
 Vic volunteers as assistant engineer, is accepted in lue of Dr. Yeats,
 and the meeting adjours.
@@ -2124,7 +2183,8 @@ right?  I didn't think it would be my best friend."
 mission, I might as well have reached out and killed them myself.
 I... I just don't...  I just should never have come."
 
-Andrea lowered her voice, moved closer, and took Marc by the arm.
+Andrea lowered her voice, moved closer, and took Marcelius Mercurio by
+the arm.
 
 "Look, let me tell you something I've never really told anyone.  I've
 been on three space shuttle launches, and watched a dozen more from
@@ -2201,7 +2261,7 @@ his teachings seriously."
 T + 729 days
 
 With cork puller still attached, the cork went flying unheaded across
-the cabin as Marc grabed for the plastic cover and slapped it over
+the cabin as the Captain grabed for the plastic cover and slapped it over
 the top of the wine bottle.  Even so, several gobs of the red alcohol
 went floating into the air, the liquid's surface tension forming them
 into perfectly round spheres.  Andrea shook her head.
@@ -2209,61 +2269,63 @@ into perfectly round spheres.  Andrea shook her head.
 "You'd think that after two and a half years in space, you'd have learned
 how to open a wine bottle without spilling it everywhere."
 
-"What I've learned," the captain answered, as he spun across the
+"What I've learned," the Captain answered, as he spun across the
 compartment and swallowed one of the larger floating drops, "is that
 if you spill red wine in space, it's a lot easier to clean up than on
 Earth!"
 
 Mercurio spilt only a few more drops as he "poured" the wine into two
 wine glasses, each one quickly covered with a flat plastic square.
-Drinking from straws was much easier, but Marc had dug into the
-ship's stores an hour earlier and produced the glasses alongside the
-bottle, and Andrea had stood on tradition.
+Drinking from straws was much easier, but Marc had dug into the ship's
+stores an hour earlier, produced the glasses alongside the bottle, and
+Andrea had stood on tradition.
 
 "Cheers."
 
-They clinked glasses and laughed together as the captain spilled wine
-all over his face as he tried to drink it.
+They clinked glasses and laughed together as the Captain spilled wine
+all over his face as he tried to drink it.  Andrea grabbed a towel and
+started to wipe off his face.
 
-"You guys better come in here!" Alister yelled as he propelled his
-head through the hatchway.
+"You guys better come in here!" Alister yelled, then got up and
+propelled himself through the hatchway.
 
-"Well, maybe you want to come in here," he stammered as he realized
+"Well, m-maybe you want to come in here," he stammered as he realized
 that he was interrupting a "private" dinner.
 
-"What's up?" Marc asked, as Andrea grabbed a towel and started
-to wipe off his face.
+"What's up?" the Captain asked.
 
 "Somebody just smashed a plane into the World Trade Center!"
 
-At 1431 GMT, exactly 3 minutes, 17 seconds after the event occured on
-Earth, the silent crew watched the second tower collapse.  In the days
-ahead, it would be revealed that Islamic terrorists had hijacked four
-American airlines.  Coincidently, or perhaps not, all were Boings.
-Two had slammed, full throttle, into the World Trade Center, at one
-time the tallest building in the world.  Burns would have suggested
-imagining the pictures you've seen of jet crash scenes, then trying to
-project it 100 stories above you in lower Manhattan.  Within hours,
-the buildings fell.  Bankers, mail men, fire fighters, bus boys - all
-lost their lives that terrible day.
+At 1431 GMT, September 11, 2001, after first the event on Earth and
+then a radio transmission lag of exactly 3 minutes 17 seconds, the
+silent crew watched the second tower collapse.  In the days ahead, it
+would be revealed that Islamic terrorists had hijacked four American
+airlines.  Coincidently, or perhaps not, all were Boings.  Two had
+slammed, full throttle, into the twin towers of World Trade Center, at
+one time the tallest building in the world, and headquarters to dozens
+of major companies.  Burns would have suggested imagining the pictures
+you've seen of jet crash scenes, then trying to project it 100 stories
+above you onto a skyscraper in lower Manhattan.  Within hours, the
+buildings fell.  Bankers, mail men, fire fighters, bus boys - all lost
+their lives that terrible morning.
 
 Within days, the nation mobilized.  Medical teams sprung into action,
-fire fighters dove into the wreckage, alongside men who walked up on
-the street, desperate to find anything still alive in the tons of
-rubble.  At Andrea's suggestion, The Captain issued a statement of
-condolence, expressing his "deapest reget", stating that it grieved
-him as nearly as much the death of his "dear friend Burns".  The
-entire crew followed suit.  Asked via videomail by the press about his
-comparison with Burns, he replied that though he deeply felt the loss
-in New York, he was sure the family's victims would concer that no one
-feels a loss more acutely than that of a loved one.  The media largely
-accepted this.
+fire fighters dove into the wreckage alongside men who walked up on
+the street and volunteered, desperate to find anything still alive in
+the tons of rubble.  At Andrea's suggestion, The Captain issued a
+statement of condolence, expressing his "deapest reget", and stating
+that it grieved him as nearly as much the death of his "dear friend
+Burns".  The entire crew followed suit.  Asked via videomail by the
+press about his comparison with Burns, he replied that though he
+deeply felt the loss in New York, he was sure the family's victims
+would concer that no one feels a loss more acutely than that of a
+loved one.  The media largely accepted this.
 
 Within weeks, President Bush attacked Afghanistan after correctly
 finguring Osama bin Ladin as the culprit.  The Captain began objecting
 to Bush's behavior, stating publically than an orderly extradition
 procedure should be followed rather than an invasion.  Andrea Yeats
-said all parties should try to resolve their problems peacefully,
+said that all parties should try to resolve their problems peacefully,
 though she ruefully noted that the Muslems would do good to accept
 Christ, and ruffled feathers by suggesting that the terrorists,
 misguided though they may have been, were probably the only people
@@ -2278,11 +2340,51 @@ her repeated advice to end the war, moarn over the dead, then ask
 ourselves why so many people hated the country and decide to give our
 lives over to God to do something about it.
 
-Within a year, it had become obvious to	many people that the
-September 11th attack was not simply an outrageous act of
-terrorism, but in fact a devastatingly effective act
-of unconventional warfare.  While the political prong of
-the assult had failed, the economic prong
+Within a year, it had become obvious to many people that the September
+11th attack was not simply an outrageous act of terrorism, but in fact
+a devastatingly effective act of unconventional warfare.  While the
+political prong of the twin assult had failed, the economic prong had
+succeeded beyond belief.  Economies are complex systems, where events
+trigger other events, coast for a time, reflect from boundaries, then
+interact again, much like ripples on a pond, or perhaps a pile of
+leaves in the wind.  The intricate network of buyers, sellers,
+consumers, suppliers, distributors, bankers, salesman, real estate
+agents, and thousands of other occupations that form The Economy, that
+much-worshiped god of business plans, spreadsheets, balance sheets and
+profit-and-loss statements that the Captain would have called the
+Global Capitalist Economic System, had been dealt a crippling blow.
+The stock market was down.  And it stayed down.  As the analysts
+puzzled over corporate earnings ratios, and how many bargins were
+popping up on the market these days, and how a bottoming out had to
+occur soon, amid patriotic demonstrations of pride and determination,
+day after day, week and week, month after month, the market kept going
+down, down, and down.  Slowly, the men and women of the U.S, and the
+world began to realize the gravity of their situation.
+
+By the time the _Icarus_ was close enough to Earth orbit that the
+videomail was no longer needed, the U.S. was looking for heros, and
+for the men and women of the disastrously successful space mission,
+their hour had come.  Practically the entire anti-government movement
+finally dropped all their quibbles and lined up behind Marceleus
+Mercurio, ready to declare peace or war at his whim.  Some ministers
+and many religious beleived Andrea Yeats was a genuine spiritual
+leader.  Others added up the letters of her name in Chinese to obtain
+666.  Alister Compton was declared the world's sexiest astronaut by a
+popular poll.  Vic spent hours on end holed up, working on a proposal
+to reform medical care that the AMA had invited him to make, and Bryan
+and his men were informally told that all charges against them would
+be dropped if they'd sign up as the U.S's first squad of Space
+Rangers.  Several proposals were floated for a memorial to Burns.
+
+President Bush told Mercurio that his was willing to send the space
+shuttle to retrieve them, but that he and his men would be arrested
+upon return to Earth and charged with crimes against them.  He hinted
+that they would probably be released on their own recognizance, but
+the Captain would hear none of it.  As the media began to speculate
+about what kind of legal reception awaited the crew, the Captain
+agreed to the shuttle proposal, primarily because he had no other way
+to return to Earth from orbit.
+
 
 T + 729 days
 
@@ -2293,25 +2395,27 @@ so finally he just blurt it out.
 "I'm looking for a volunteer flight crew to pick up the Icarus crew
 and land the shuttle in Europe or somewhere."
 
-"Is this approved by the director, sir?"
+The two shuttle pilots looked at each other, then back at the
+STS program coordinator.  "This isn't approved by the director, is it sir?"
 
-"No."  Lou paused before continuing.
+"No."  Lou paused before continuing.  "You can say I gave you the
+order to do..."
 
-"You can say I gave you the order to do..."
+The commander interjected.  "You can't give us that kind of order,
+sir.  We'd be court-martialed and thrown out of the space program,
+probably the entire military."
 
-"You can't give us that kind of order, sir.  We'd be court-martialed and
-thrown out of the space program, probably the entire military."
+Breaking an awkward silence, the pilot asked, "Is this a favor for
+Andrea?"
 
-The pilot broke to awkward silence.
+Lou rubbed his hand over his balding scalp, noting the sweatiness of
+both his head and his hands, and nodded in response, "Yeah".
 
-"Is this a favor for Andrea?"
-
-Lou nodded in response.
-
-"I'm in," he said, looking over at the shuttle commander.  To Lou's
-surprise, he suddenly found himself outnumbering the Air Force
-cournal, who looked back and forth between the administrator and pilot
-before replying.
+"I'm in," he said, looking over at the shuttle commander.  Lou had
+imagined this interview going much differently.  To his surprise, he
+suddenly found himself outnumbering the Air Force colonel, who looked
+back and forth between the administrator and pilot before finally
+collapsing.
 
 "Ah, what the hell.  I'm sick of this gig, anyway.  Mission
 specialists have all the fun; all I do is command the thing!"
@@ -2646,20 +2750,19 @@ The two NASA men looked at each other, and the pilot spoke first.
 "I know, and I thank you.  But you're not throwing your careers away
 for us.  Take us to Kennedy."
 
-Colonel X replied.
+The NASA men looked at each other, and the pilot spoke for both of them.
 
 "Well, we'll take you where ever you want to go."
 
-"Kennedy."
+"Kennedy," the Captain said with an air of finality.
 
 The shuttle commander looked around the cramped compartment.  Each
 Icarus crewman nodded assent.
 
-"Ok, Kennedy it is then.  Are we ready to close the hatches?"
+"Ok, Kennedy it is.  Are we ready to close the hatches?"
 
-He received another collection of brief affirmative replies.  As the
-space station crew closed the PMA's hatch, the captain turned
-back to his crew.
+The space station crew above gave an affirmative reply.  As they
+closed the PMA's hatch, the Captain turned back to his crew.
 
 "Let's go home."
 
