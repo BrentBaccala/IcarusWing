@@ -15,7 +15,7 @@
 
 I'LL KEEP THIS NOVEL ABOUT REAL PEOPLE
 I'LL NOT GET STUCK IN "IVY TOWERS"
-I'LL REMEBER THOSE WHO DO THE HARD WORK
+I'LL REMEMBER THOSE WHO DO THE HARD WORK
 I'LL THANK THEM FOR BEING SO KIND TO ME
 SOME OF THE NAMES HAVE BEEN CHANGED
 SOME OF THEM REMAIN THE SAME
@@ -28,20 +28,13 @@ T - 691 days
 It was a brilliant hack.  It topped the one
 in college, when the net-news server was
 configured to refuse the student lab.
-They had recompiled the server with 'gcc', goten a
-smaller executable than the original, altered it so that after
-printing 502 ACCESS DENIED it went and accepted the post anyway, then
-padded the end of the program to make the CRC come out right.  They
-wern't using MD5 back then, heck, it hadn't even been invented yet.
-Then Burns dug through the engineering and computer science library
-for the VAX Architecture Reference Manual, figured how to drop the
-student workstations into a diagnostic mode by hitting the little blue
-button on the back of the machine, installed packet sniffers on couple
-of them, and waited a few days to grab the server's root password as
-it went by over an unencrypted telnet.  They went in as root and just
-dropped the new server binary onto the hard drive.  It ran for six
-months unnoticed, until the staff updated the whole OS installation.
-But this hack was even better.
+They'd recompiled the server, altered so
+that after printing ACCESS DENIED the
+program went and accepted it anyway,
+then went in as "root", dropped the binary
+straight to the drive, and used it daily for
+six months until the system staff updated
+the whole install.  But that hack was kid's stuff.
 
 Burns parked his car in the employee lot and walked to the main
 entrance, past a fountain spraying water, fronted by a 3-foot-high
@@ -125,27 +118,26 @@ awaiting the announced time to shutdown the system.
 
 "Well, be my guest, but I'm hitting the bay.  Sure you don't want to come?"
 
-An afternoon of sailing was a tempting proposition, and HIS NAME had a
-nice boat.  A roaring economic boom kept restaurants, bars, and
-shopping malls packed with young, dreamy-eyed twenty-somethings
-sitting on thousands of dollars worth of stock options.  Every other
-car on University Avenue was either a Ferrari, or a BMW, or a Land
-Rover - most of them leased.  Up scale restaurants provided their
-patrons with blank paper placemats and colorful Crayons to doodle and
-brainstorm their latest propietary server architecture while waiting
-for their hundred dollar drink orders.  Skilled programmers were in
-short supply.  Someone with Burns' qualifications was a genuine find.
-His job interview was little more than a technical presentation in
-front of a conference room of corporate engineers and managers, and he
-had quickly gotten the run of Chesapeake's operation, which was far
-more concerned with filling the next multi-million-dollar order and
-satisfying those customers by cramming miriads of new features into
-their products than implementing any real security against a
-determined insider attempting to hack their systems.
+An afternoon of sailing was a tempting proposition, and Dirk had a
+thirty-six-foot Catalan.  A roaring economic boom kept restaurants,
+bars, and shopping malls packed with twenty-somethings who had
+never worked a real job now sitting on thousands of dollars worth of stock
+options.  Every other car on University Avenue was either a Ferrari,
+or a BMW, or a Land Rover - most of them leased.  Up scale restaurants
+provided their patrons with blank paper placemats and colorful Crayons
+to doodle and brainstorm their latest propietary server architecture
+while waiting for their hundred dollar drink orders.  Skilled
+programmers were in short supply.  Someone with Burns' qualifications
+was a genuine find.  His job interview was little more than a
+technical presentation in front of a conference room of corporate
+engineers and managers, and he had quickly gotten the run of
+Chesapeake's operation, which was far more concerned with filling the
+next multi-million-dollar order and satisfying those customers by
+cramming miriads of new features into their products than implementing
+any real security against a determined insider attempting to hack
+their systems.
 
-"No, I gotta get this done," he truthfully answered.
-
-"Thanks for the offer."
+"No, I gotta get this done.  Thanks for the offer."
 
 Burns crossed to the other side of the room, where he was working on a
 tricky install of a new high-speed optical interface in one of the
@@ -204,7 +196,7 @@ convinced that he would ultimately win.  He was also the closest thing
 Burns had to a boss.
 
 "We had to wait four more months to make sure it got into their
-production system, Burns got sick of the job and quit after two, but
+production system.  Burns got sick of the job and quit after two, but
 it worked anyway.  They've been shipping it for about half a year,
 now."
 
@@ -497,9 +489,11 @@ He lay back down on the blanket.
 The sun was setting when he awoke.  He sat and watched it slip down
 behind the mountains, until shade came to the arroyo, then watched the
 light retreat up the slopes until only the summits were in direct sun.
-Vic felt depressed.  Finally the sunlight was gone, leaving only
-a blue sky that deepened into purple, then black.  Here, away
-from the city lights, stars began to emerge.
+Vic felt depressed.  Finally the sunlight was gone, leaving only a
+blue sky that deepened into purple, then black.  Crickets and frogs
+trumpeted the night.  A rattlesnake slithered silently across the
+still warm sand.  Here, away from the city lights, stars began to
+emerge.
 
 _The_stars!_ Could there be life out there, too?  How could there not
 be, in such vast reaches?  Was the Great Spirit only for this world?
@@ -508,12 +502,9 @@ the Greatest Spirit that transcended all?
 _Who_knows?__This_is_dogma._
 
 Dogma.  The bastard son of religion raped by logic.  The
-psuedo-science of devising laws to play a game we do not understand.
-For all the paucity of science, at least the physicists demanded that
-all their math eventually predict something real.
-
-Night came.  Crickets and frogs trumpeted its arrival.  Not far
-away, a rattlesnake slithered silently across the still warm sand.
+psuedo-science of devising laws that govern a game we do not
+understand.  For all the paucity of science, at least the physicists
+demanded that all their math eventually predict something real.
 
 _Space._ Vic gazed up at the sky.  Blackness filled with light.
 Thousands of ragging thermonuclear fires, tiny lights in their various
@@ -573,8 +564,8 @@ stretched, then slowly rolled his blanket and started down the trail.
 Though he was looking forward to the company of people again, he also
 knew that he would miss this place.
 
-He looked back at the arroyo, regretting that he hadn't returned
-again to bathe.
+He looked back at the arroyo, regretting that he hadn't returned to
+bathe.
 
 
 T - 350 days
