@@ -881,6 +881,26 @@ accounts in Lichtenstein and the Bahamas.  He leased
 a half-dozen plots of empty land in western U.S. states, selecting
 them for both isolation from towns and easy highway access.
 
+....
+
+"Half their currency trading operation is based on arbitrage.  They
+look for an eighth-point discrepancy between say, the price of gold
+futures in Chicago and the price of gold in London.  It's a guaranteed
+win if you can move fast enough to take advantage of it, and that's
+why they're so heavily computerized.  The software makes almost all
+the trading decisions.  Now, they've built their entire network out of
+Chesapeake equipment, so we're in like Flint from that angle.  Also,
+they develop all their own software, so we've already got their source
+code.  We've got a targeted modification that, when triggered, will
+make loosing trades.  Once we're done, we flip the switch again, and
+the software goes back to behaving like normal."
+
+"It does have the disadvantage of leaving evidence on the hard disk.
+The hack should remain dormant, but will be there if somebody starts
+looking hard enough."
+
+....
+
 Finally, on a Friday afternoon, they went in.  First, they had their
 hacked routers cut all legitimate connections to the Keystone
 mainframe.  Their network administrators knew something was amiss, but
@@ -1709,10 +1729,11 @@ Launch Day
 Andrea woke early in the darkened room and lay still until she heard
 voices down the hallway.  During her contemplation, she resolved upon
 a plan, which consisted in little more than trying to extract any
-possible concession from her jailers.  Siting up against the wall, she
-waited quietly until the electronic lock clicked and the door was
-cautiously pushed open.  It was the blond-haired youth with the
-foreign accent.  He turned on the light.
+possible concession from her jailers which would allow her to get to a
+phone and call Lou.  Siting up against the wall, she waited quietly
+until the electronic lock clicked and the door was cautiously pushed
+open.  It was the blond-haired youth with the foreign accent.  He
+turned on the light.
 
 "Good morning.  I brought you some breakfast," he said as cheerily as
 he could muster. He put a bottle of water and a military ration down
@@ -2373,37 +2394,50 @@ carried the interview live, conducted by the anchor of their nightly
 national news program.  Thus, the world got it's first dose of Captain
 Marcelius Mercuriou.
 
-"How much money did you steal?"
+"Captain, I just don't understand.  Your company has developed a major
+new rocket fuel; you _did_ legitimately develop N-1033, didn't you?"
 
-"Hard to say.  Adding up everything we lied about, everything we
-bought on empty credit, everything we just flat out stole - probably
-close to a billion dollars."  He paused for a minute.  "And that's a
-shoestring budget for what we're trying to do.  We've cut a lot of
-corners.  A billion isn't much for a manned space launch, let alone
-one going to Mars."
+"Sure we did.  But where do you think we got the money to develop it?
+You think they just give computational chemistry software aware for
+free?  You think you get Pyrex laboratory equipment handed to you just
+because you want to play around with some crazy idea that might
+somehow make the world a better place?  People just put food in front
+of your chemists because they get up and go to work in the morning?
+No, you need money for all of it!  It cost us over a million dollars
+just to _develop_ N-1033; that was before you ever heard of us!"
 
-"How many corners did you cut?"
+"So where did you get the money from?"
 
-"A bunch.  I'd like to have three identical ships going, but we've
-only got one.  We don't have any kind of landing vehicle yet, and
-of course I'd like to have one built already and tested here on Earth,
-but that isn't going to happen either."
+"I told you, we stole it!"
 
-"How do you plan to land on Mars if you don't have a landing vehicle?"
+"But you had a working product.  Couldn't you get all the venture
+capital funding you needed?"
 
-"We've got an old 747 we managed to put in orbit this morning, and
-I'm hoping we can modify it to function as a space shuttle."
+"We didn't have a working product at first," Mercuriou noted.  "We had
+nothing.  One really smart guy who thought you design a rocket fuel
+with a computer.  That's it.  No computers.  No staff.  No software.
+No lab.  Nothing.  Now how do you get that venture capital funding?
+I'll tell you how.  You sell your soul to the capitalists.  You
+convince them, and I mean really sell them, that you're one of them,
+that you believe in their nightmare philosophy of greed, you agree to
+bring on their management team, you agree to some 'business plan' that
+tells how you're going to patent and control this technology once it's
+developed, because these people will do nothing unless they can see
+how they'll get a big killing back out it, and unless you can really
+bring something more than your good ideas to the table, you'll fight
+like hell just to keep 51% of the company.  And if you tell them the
+truth, that once you invent this thing that their dear precious money
+paid for, you're going to publish everything you've got about how it
+works, they'll drop you like a hot potato.  Or you toil away in your
+garage for ten years of nights and weekends while working some stupid
+job just to pay for the garage, and I'm not much of garage guy.  So we
+developed, let's just say, an original source of funding."
 
-"How much do you have of... uh, supplies?"
+"And what was that?  Did you rob a bank?"
 
-"We've got a year's supply of food, water, charcoal to extract carbon
-dioxide from the air.  Then we'll have to start recycling."
+Mercuriou starting laughing.
 
-"Do you expect to be gone longer than a year?"
-
-"Of course, yes.  There's no way we could get to Mars and back in a
-year.  Plus, I'm planning on making a stop at the astroid belt on the
-way.  I'm looking at five years..."
+"Something like that.  Ever heard of Keystone Securities?"
 
 After Mercuriou's interview was finished, Andrea finally had the
 opportunity to use the telephone.  Far from being held as a prisoner
@@ -2412,7 +2446,7 @@ called Lou at home.
 
 "My God, girl, where are you?"
 
-"Where do you think I am, Lou?" she asked dryly.  "I'm in space."
+"Where do you think I am, Lou?" she answered dryly.  "I'm in space."
 
 T + 1.1 days
 
@@ -2590,28 +2624,28 @@ the ship's design, all the result of Burns' prodigious mind, she then
 found her way into the ship's library.
 
 It was extensive, numbering well over ten thousand books, completely
-electronic, and completely illegal.  Every major publisher of
-technical books in the English language had been targeted by Burns'
-super-hack, and the few books of which Alister couldn't spirit off
-electronic copies from the publishers' computers were purchased and
-shipped to a site in Guatemala, where their bindings were sawed off,
-the pages were systematically scanned, and the resulting digital
-images transmitted back electronically.  Without lauching more than a
-few pounds of books, most of these for nostalgic value, such as Burns'
-1956 first edition of Adrian Albert's
-_Fundamental_Concepts_of_Higher_Algebra_, the _Icarus_ crew enjoyed
-easy access to major reference works on every aspect of technology.
-There was an entire book, for example, simply titled _Uranium_, that
-described almost everything known about the chemistry of that
-important element - it's dozens of compounds, their properties, the
-reactions used to convert between them, and of course its nuclear
-properties, despite the fact that _Icarus_ carried only a small sample
-of uranium in it's chemistry lab.  In fact, all the major chemical
-elements were well represented, with entire books on silicon, iron,
-and nearly a dozen on carbon and its various compounds.  There were
-also books on antenna theory, orbital mechanics, and hydroponics, as
-well as Mercuriou's collection of ancient Greek and Latin authors,
-both in translation and in the original tongues.
+electronic, and totally illegal.  Every major publisher of technical
+books in the English language had been targeted by Burns' super-hack,
+and the few books of which Alister couldn't spirit off electronic
+copies from the publishers' computers were purchased and shipped to a
+site in Guatemala, where their bindings were sawed off, the pages were
+systematically scanned, and the resulting digital images transmitted
+back electronically.  Without lauching more than a few pounds of
+books, most of these for nostalgic value, such as Burns' 1956 first
+edition of Adrian Albert's _Fundamental_Concepts_of_Higher_Algebra_,
+the _Icarus_ crew enjoyed easy access to major reference works on
+every aspect of technology.  There was an entire book, for example,
+simply titled _Uranium_, that described almost everything known about
+the chemistry of that important element - it's dozens of compounds,
+their properties, the reactions used to convert between them, and of
+course its nuclear properties, despite the fact that _Icarus_ carried
+only a small sample of uranium in its chemistry lab and Burns had no
+intention of using a nuclear fuel source.  In fact, all the major
+chemical elements were well represented, with entire books on silicon,
+iron, and nearly a dozen on carbon and its various compounds.  There
+were also books on antenna theory, orbital mechanics, and hydroponics,
+as well as Mercuriou's hand-picked collection of ancient Greek and
+Latin authors, both in translation and in the original tongues.
 
 Almost as impressive was the software collection.  Every major
 technical product was present, many including all their source code,
@@ -2858,7 +2892,7 @@ back to the bridge without saying another word.
 
 Burns finally dealt with the problem by putting the damaged cargo
 module, along with a few other empty ones, in front of the others.
-The "ground sqwalk" as Mercuriou called the Earth-based media pundits,
+The "ground sqwalk", as Mercuriou called the Earth-based media pundits,
 began talk of a rescue mission and how much it will cost NASA, and
 this is why we need more government regulation in aerospace-related
 industry, etc, etc.
@@ -2908,13 +2942,9 @@ wealthy, or steal it.  I want nothing to do with the government, we're
 not independantly wealthy, so we stole it."
 
 "Well, it's interesting that you mention the government space
-programs.  In the last two days, we've interviewed a lot of people,
-both scientists and astronauts, as well as ordinary people on the
-street.  Something that has come up time and again is an admiration
-that such a small number of people could accomplish something like
-this.  I think there was a general belief that you needed a big
-government program to accomplish manned spaceflight.  What are your
-thoughts on that?"
+programs, because I think there was a general belief that you needed a
+big government program to accomplish manned spaceflight.  What are
+your thoughts on that?"
 
 "Well, if some big government agency had built the first airplane,
 everyone would be walking around laughing at the notion that two men
@@ -2948,7 +2978,7 @@ anybody unless they're getting something out of it for themselves."
 
 "Why should I?  They're some of the most selfish people in the world,
 hell, their whole philosophy is based on greed.  I mean, let's just
-apply their own rational.  I'm helping them compete."  Mercuriou's
+apply their own rational.  I'm 'helping them compete'."  Mercuriou's
 voice now took on a strong tinge of sarcasm.
 
 "If some of them go out of business, so what?  Businesses fail every
@@ -2988,11 +3018,12 @@ afraid of what will happen to them if don't follow the rules."
 "How's it different?  It's just that the majority makes up the rules
 and forces the minorities to obey.  They only thing that's different
 about democracy is that it's a different group of people making the
-rules.  In Russia it was the proletariat, here it's the majority.
-It's always the same.  Some big group of people that think that
-because they're more advanced, or because they've been oppressed, or
-because there's more of them than anybody else, that they have the
-right to rule everybody else's lives."
+rules.  In Russia it was the proletariat, in Germany it was the Arian
+race, here it's the majority.  It's always the same.  Some big bunch
+of millions and millions of people that think that because they're
+more advanced, or because they've been oppressed, or because there's
+more of them than anybody else, that they have the right to rule
+everybody else's lives."
 
 "So do you see America as similar to the Soviet Union?"
 
@@ -3008,20 +3039,32 @@ slightly editted for a new generation, but with the same kind of
 garbage in charge of society.  And I feel as bad about ripping off the
 capitalists as I would about ripping off communists or fascists,
 because to me they're all basically the same.  Just another bunch of
-men with some nightmare system to be jammed down everyone's throats."
+men with some nightmare system based on the viscious traits of mankind
+to be jammed down everyone's throats."
 
 "Well, captain, we're pretty much out of time.  Thank you for
 being on the program, and I'm sure we'll talk to you again soon."
 
 "I'm sure you will."
 
+With the exception of Burns, who had his head buried in front of a
+computer screen, the rest of the crew had watched the interview from
+behind the TV camera.  After it was concluded, Yeats took Mercuriou
+aside.
+
+"I was almost ready to jump in there and say a few things myself."
+
+"By all means, doctor, be my guest!"  Mercuriou exclaimed with a
+flourish.  "Jump in anytime you please!"
+
+
 
 T + 5 days
 
 Mercuriou's next TV appearance was on a political talk show that
 usually featured a panel discussion.  This evening the only other
-guest was a prominent congressman, who had heard his earlier interview
-and was determined to rebut him.
+guest was Richard Ecks, a prominent congressman, who had heard his
+earlier interview and was determined to rebut him.
 
 "The fact is that capitalism has produced a society with the highest
 standard of living that has ever been seen on this planet.  People are
@@ -3040,22 +3083,22 @@ Mercurio retorted without waiting for the host to invite him.
 "That's quite a nice speech.  The communists also had their speeches.
 They loved to go off about how they had put the first man in space,
 and how they had brought tractors and steel factories to this
-backwards, feudal country, and how everyone was guaranteed a job, and
-an education, and a retirement, and how wonderful communism was.  And
-the fascists loved to talk about their Zeppelin airships, and their
-autobahns, and how they had pulled Germany out of a worldwide
-recession, and how they were rebuilding their Reich and how wonderful
-fascism was.  And it's all true, but at some point you step back and
-see some kind of objective truth.  Every one of these great societies
-was run by a bunch of garbage leaders with some screwball system based
-on the most viscious traits of mankind, and captialism is no
-exception.  Its leaders are about the most selfish sons of bitches
-you'd ever want to meet in your life, and the simple truth is that you
-either work for these bastards or you starve.  So if you want want
-Zeppelins, or Sputniks, or Microsoft Windows, and these material
-things are more important to you than your freedom, then should pick
-whichever one of these brutal philosophies most appeal to you and go
-sign up."
+backwards, feudal country, and how everyone was guaranteed an
+education, and health care, and retirement, and how wonderful
+communism was.  And the fascists loved to talk about their Zeppelin
+airships, and their autobahns, and how they had pulled Germany out of
+a worldwide recession, and how they were rebuilding their Reich and
+how wonderful fascism was.  And it's all true, but at some point you
+step back and see some kind of objective truth.  Every one of these
+great societies was run by a bunch of garbage leaders with some
+screwball system based on the most viscious traits of mankind, and
+captialism is no exception.  Its leaders are about the most selfish
+sons of bitches you'd ever want to meet in your life, and the simple
+truth is that you either work for these bastards or you starve.  So if
+you want want Zeppelins, or Sputniks, or Microsoft Windows, and these
+material things are more important to you than your freedom, then
+should pick whichever one of these brutal philosophies most appeal to
+you and go sign up."
 
 "Capitalism may not be perfect," the legislator fired back, "and this
 society may not be perfect, but what sets us apart from communism and
@@ -3069,10 +3112,10 @@ per capita incarceration rate on this planet, if everything
 thinks it's so wonderful?"
 
 "Well, there's always the criminal element who thinks they can
-side-step everyone everyone else, isn't there, 'Captain'?  The fact is
-that capitalism works.  It certainly works for all the decent,
-hard-working people who have the opportunity to better themselves
-instead of being stuck in a rice paddy somewhere!"
+side-step everyone else, isn't there, 'Captain'?  The fact is that
+capitalism works.  It certainly works for all the decent, hard-working
+people who have the opportunity to better themselves instead of being
+stuck in a rice paddy somewhere!"
 
 "You mean it works for all the selfish creeps who are willing to claw
 over everyone else to 'better themselves', or more precisely to have a
@@ -3086,15 +3129,14 @@ long as you're honest in how you pay for it."
 mine developed a computer program to aid people in reading Greek
 literature; I majored in classical languages.  This was before the
 World Wide Web, but basically this was a rudimentary hypertext system.
-You could load any ancient Greek text into the program, and it would
-display it on the screen.  If you came across a word you didn't
-understand, you could click on it with the mouse, the program would
-look it up in a Greek-English dictionary and display the entry at the
-bottom of the screen.  It was a lot faster than flipping pages in a
-dictionary, trust me, and a great learning tool.  I finished the last
-half of the _Iliad_ using it, and it was like night and day compared
-to old way of stopping at every other word and looking for it in a
-different book." []
+You could load any Greek text into the program, and it would display
+it on the screen.  If you came across a word you didn't understand,
+you could click on it with the mouse, the program would look it up in
+a Greek-English dictionary and display the entry at the bottom of the
+screen.  It was a lot faster than flipping pages in a dictionary,
+trust me, and a great learning tool.  I finished the last half of the
+_Iliad_ using it, and it was like night and day compared to old way of
+stopping at every other word and looking it up in a different book."
 
 [I wrote this program, only it works for Spanish rather than Greek.
 Unlike our hero, I didn't even bother to try and publish it, for all
@@ -3124,13 +3166,16 @@ could use their dictionary!  But we couldn't use it just to let people
 download the program for free.  I decided to fight.  I still believed
 in the great free democracy back them.  After a year-long legal battle
 that I lost, I ended up with a court injunction against me for four
-hundred thousand dollars in damages.  I'm still waiting for that
-house, by that way."
+hundred thousand dollars in damages, and for what?  Because I worked
+hard, developed a useful product, and was decent enough to want to see
+it available to everyone who wanted a copy.  I'm still waiting for
+that house, by that way."
 
-"Well, Captain, it sounds to me like you were guilty!  That sounds
-like a real noble cause, but the bottom line is that you stole someone
-else's intellectual property and published it without their
-permission.  You seem to have a problem with authority."
+"Well, Captain, it sounds to me like you were guilty!"  the
+congressman fired back.  "That sounds like a real noble cause, but the
+bottom line is that you stole someone else's intellectual property and
+published it without their permission.  You seem to have a problem
+with authority."
 
 "You're damn right I've got a problem with authority!  I've got a
 problem with authority when the people in authority are just a bunch
@@ -3144,8 +3189,9 @@ sure they put as much work into as you did into your program, maybe
 more, and they chose to sell it, and there's nothing wrong with that."
 
 "There's a hell of a lot wrong with it.  People should be generous,
-not selfish.  That program, that dictionary, and all the other ones
-like it should be freely available on our computer networks!"
+not selfish, especially the _leaders_ of society.  That program, that
+dictionary, and all the other ones like it should be freely available
+on our computer networks!"
 
 Ecks laughed out loud.
 
@@ -3165,15 +3211,17 @@ wants a better life for themselves and their children is trash,
 Captain!"
 
 "No, Congressman, but a bunch of men determined to outlaw twenty-first
-century public libraries before they're ever created _are_ trash, sir,
-they are!  This society isn't going to be remembered for all this
+century public libraries before they're ever been created _are_ trash,
+sir, they are!  This society isn't going to be remembered for all this
 so-called freedom, let me assure you.  It's going to remembered for
 all the information it kept secret.  All the design information for
-the computers, all the source code, all the circuit diagrmas, all the
+the computers, all the source code, all the circuit diagrams, all the
 manufacturing processes!  It's all kept secret by these capitalists
 determined to keep the whole world dependent on them and their
-nightmare system.  It's not about making money, it's about how you
-treat people, and these capitalists people like dirt!"
+nightmare system.  They talk about 'freedom', 'freedom', and the only
+freedom they're interested in is their own!  It's not about making
+money, it's about how you treat people, and the capitalists treat
+people like dirt!"
 
 "They don't treat..." the Congressman started, but never finished,
 as he was interrupted by the now incensed space captain.
@@ -3183,8 +3231,8 @@ bastard, you sit there with your jacket and tie on and try to defend a
 bunch of bums that won't lift a finger for anyone unless they're
 getting something out of it for themselves!  What is so terrible about
 public libraries?  What is so terrible about information being free?
-Why shouldn't we take all these books and put them up on our
-networks?"
+What is so terrible about taking these books and putting them up on
+our networks for anyone to read and use?"
 
 "Who the hell are you to tell someone else what they can and can't do
 with their property?!?!" Ecks fired back, now furious himself.  "How
@@ -3201,46 +3249,8 @@ book in every library on this planet, scan it, and put it up on that
 network, but that's not what our leaders want.  They want an
 "information economy", where knowledge is just one more commodity to
 bought and sold, and the only way people will pay for it is if it's
-kept secret."
-
-#if 1
-
-"And who's going to pay for it, Captain, who's going to pay for it?"
-
-#elsif 2
-
-"Well, that sounds very noble, Captain, but in the real world, if you
-just give everything away, you'll be put out of business."
-
-"That's right!  That's the 'freedom' of capitalism right there - you be
-a capitalist or you'll be put out of business.  And then if you won't
-work for these bums, you'll be put homeless and starving on the street
-and all these great, decent people will spit on you as they walk past
-and call you a bum who doesn't want to work... And they're right,
-'cause I don't want to work - not for them and not for their brutal
-system!"
-
-#elsif 3
-
-"And who's going to pay for it, Captain, who's going to pay for this
-library of Alexandria once we just give all these books away for
-free?"
-
-"Maybe the capitalists could pay for it, Congressman, they've
-certainly got the money."
-
-"I know, I know, take from the rich and give to the poor.  We've heard
-all this before!  It's been rejected by the people."
-
-"Again, Congressman, I don't have some big plan to figure how to pay
-for it, but I know that our leaders aren't even trying.  They're
-determined that it won't happen.  They're determined that all this
-information will be controlled, just like everything else in a
-capitalist society.  Everything is controlled by the capitalist
-system."
-
-#endif
-
+kept secret.  That's the sick truth about your 'global capitalist
+economic system'."
 
 
 
@@ -3250,11 +3260,11 @@ T + 6 days
 it's because the people choose it."  The speaker was David Wye, a
 U.S. senator.  Mercuriou was once again in a televised debate.
 
-"Well, senator, I'll agree with you that this is a democracy, but
-I don't think that changes things more than a little.  Let's say
-Russia had had freedom of speech, and freedom of the press, and free
-and open elections every two or four years, and they had still elected
-the communists, and still supported the KGB, and still shipped their
+"Well, senator, I'll agree with you that this is a democracy, but I
+don't think that changes things much.  Let's say Russia had had
+freedom of speech, and freedom of the press, and free and open
+elections every two or four years, and they had still elected the
+communists, and still supported the KGB, and still shipped their
 citizens off to gulags.  Would that have changed things all that much,
 just that they had elections?"
 
@@ -3262,13 +3272,14 @@ just that they had elections?"
 don't ship our citizens off to gulags!"
 
 "Oh, but you do.  Haven't you heard about 'zero tolerance'?  Haven't
-you heard about the War on Drugs?  Don't you watch C.O.P.S?  Remember
-who you're talking to, senator - a drug user!  Don't expect me to
-sit here and crow on about freedom while this whole society is
-hell-bent on a war against me and everyone else like me.  You do
-ship your citizens off to jail, and while you may not torture them,
-and your prisons may not be as cold as the ones in Siberia, the fact
-remains that fear of the police is just as readily used in this
+you heard about the War on Drugs?  Don't you watch C.O.P.S?  It has
+got to be one of the most violent programs on television, and it's all
+real!  Remember who you're talking to, senator - a drug user!  Don't
+expect me to sit here and crow on about freedom while this whole
+society is hell-bent on a war against me and everyone else like me.
+You do ship your citizens off to jail, and while you may not torture
+them, and your prisons may not be as cold as the ones in Siberia, the
+fact remains that fear of the police is just as readily used in this
 society as in those others."
 
 "I don't think you can compare the DEA with the KGB."
@@ -3278,7 +3289,9 @@ is to have a war against our own people, to send armed men busting
 into the homes of people who have done absolutely nothing to harm
 anyone, to make people so terrified of what will be done to them that
 they'll be too afraid not to just fall in line and do what they're
-told when the great majority barks out its orders."
+told when the great majority barks out its orders.  Isn't it funny how
+in all of these great _people's_ societies the biggest enemy of all
+always ends up being _your_own_people_?"
 
 "OK, sir, we have a Constitution..."
 
@@ -3319,12 +3332,14 @@ about Ammendment One, Freedom of Speech; Ammendment Two, the Right to
 Bear Arms; the guarantees of due process, the election procedures,
 this is absurd!"
 
-"Fine!  Fine!  Let's keep going, too!  Don't forget the ninth
+"Fine!  Fine!  Let's keep going, too!  Don't forget the tenth
 Ammendment, how's it read?"
 
 Mercuriou quoted the document word-for-word from his laptop.
 
-[Insert ninth ammendment here]
+"The powers not delegated to the United States by the Constitution, nor
+prohibited by it to the States, are reserved to the States respectively, or to
+the people."  [italics]
 
 "OK!  So here it is clearly stated that the federal government
 _does_not_ have any of these additional powers!  No right to regulate
@@ -3343,12 +3358,14 @@ but this notion that half the federal government is unconstitutional
 is simply absurd!"
 
 "It says it right here that the government _does_not_ have these
-powers!  What good's a law when you pick and choose what parts of it
-you want to obey?  Fine, so you obey parts of the Constitution, but
-what about the other parts?  This is like me blowing down the highway
-at ninety miles an hour, and when the cop pulls me over saying, oh,
-but officer, I came to a full and complete stop at all the red
-lights!"
+powers!
+_The_powers_not_delegated_to_the_United_States_by_the_Constitution ...
+_are_reserved_to_the_States_.  What good's a law when you pick and
+choose what parts of it you want to obey?  Fine, so you obey parts of
+the Constitution, but what about the other parts?  This is like me
+blowing down the highway at ninety miles an hour, and when the cop
+pulls me over saying, 'oh, but officer, I came to a full and complete
+stop at all the red lights'!"
 
 "OK," the moderator interjected, trying to bring the discussion under
 control.  "Senator, Captain Mercurio certainly isn't the first person
@@ -3382,15 +3399,18 @@ fundamental principles of American government."
 "How can you sit there and say that!  How can you read the Bill of
 Rights, and in particular the Ninth and Tenth Ammendments, then sit
 there and say that!  I can't even call it a lie!  It just flys in the
-face of reason!"
+face of the English language!"
 
 "Again, Captain, it comes back to self-government.  The bottom line is
 that this is what the majority of the people want!  And what they want
 is freedom!"
 
-"Freedom!"  Mercuriou spit the word out in disgust.  "Senator, turn on
-the T.V!  Don't you see the police slamming people to the ground and
-dragging them off in handcuffs!"
+"The majority!"  Mercuriou spit the word out in disgust.  "That's what
+it's all comes down to!  The majority isn't restricted by their
+constitution, constitutions are only for communist dictatorships!  And
+then you talk about 'freedom'!  Senator, turn on the T.V!  Don't you
+see the police slamming people to the ground and dragging them off in
+handcuffs!"
 
 "Criminals!  Criminals!  People who break our laws!"
 
@@ -3400,13 +3420,14 @@ so had to be content with a bizarre gestation of his arms
 before firing back his retort.
 
 "Senator, _I'm_one_of_those_criminals_!  Because I smoke marijuana!
-Because I don't concede to this God-damned, filthy, cursed democracy
-that it can control every aspect of my life, no matter how private,
-that it can literally tell me what I can and can't put into my own
-body!  And then you sit there are talk about 'freedom', you dirty son
-of a bitch!"
+Because I copy computer software from 'C' drive to 'D' drive!  Because
+I don't concede to this God-damned, filthy, cursed democracy that it
+can control every aspect of my life, no matter how private, that it
+can literally tell me what I can and can't put into my own body!  And
+then you sit there are talk about 'freedom', you dirty son of a
+bitch!"
 
-"We have freedom in this country!" Wye practically screamed back at
+"We do have freedom in this country!" Wye practically screamed back at
 the camera in retort.  "We have freedom of speech, freedom of the
 press, free elections!"
 
@@ -3419,7 +3440,94 @@ of their own people because they won't just do what their told when
 the great free democracy barks out its orders, and then jam it down
 their throats at gunpoint!"
 
+"Excuse me," came a female voice from just outside camera range, and
+Andrea Yeats propelled herself into view.
 
+"Excuse me, but I really don't think the issue is freedom.  The issue
+is morality.  Freedom has to be used morally, and I think the objections
+of Captain Mercuriou and people like him come down to morality.
+They believe, and I tend to agree, that the majority of people have
+freedom, but have abused it and used it immorally."
+
+"Well, who's going to define this morality, Doctor Yeats," came the
+response from Earth.  "Who's going to tell people what they can and
+can't do with their freedom?"
+
+"Morality is a function of religion.  We Christians look to the
+Bible and its gospel teachings to define morality."
+
+"Well, we've got freedom of religion in this country, Doctor!"
+
+"Freedom of religion is fine up to a point, but somewhat unrealistic..."
+
+"It's not unrealistic, Doctor, we've got it!  What you advocate is
+something we abandoned centuries ago, that there should be some
+prefered religion!"
+
+"Well, you've got to have a prefered religion..."
+
+"Got to have a prefered religion!"  Wye echoed her words with a sneer.
+"Doctor Yeats, I hate to break this to you, but you're about two
+hundred years behind the times!  Ever heard of the Salem Witch
+Trials?"
+
+The NASA engineer turned red and practically ripped the microphone
+off her shirt before fleeing from the TV cameras.  Mercuriou
+jumped into the gap.
+
+"OK, now you're back to picking on someone your own size!"
+
+Later, Mercuriou found Yeats back working in C-3.
+
+"So what where you talking about there?  You've got to have a hide of
+steel to debate those bastards; it's like a blood sport.  They're not
+trying to have some intellectual debate; they'll stoop to any low to
+get their sound bite and 'win'."
+
+Yeats brushed back the long blond hair that was starting to
+drift in front of her face.
+
+"What I was trying to say was that you just can't have a human society
+without some kind of shared standard of morality, and that's one of
+the main functions of relgiion. I mean, how can you judge right or
+wrong?  Why can't someone say that his religion allows human
+sacrifice, for example?  Where's your freedom of religion then?"
+
+"I'll tell you what their prefered religion is - it's democracy!"
+Mercuriou responded.  "The murderer can't make his human sacrifice
+because the majority won't allow it!  I can't smoke pot because
+the majority has decided to outlaw it!  Our ship's library
+is illegal because that's what the majority has decided to call it!
+Right and wrong are subject to a vote, now, Andrea."
+
+"Well, I don't beleive right and wrong are subject to a vote, and I
+know you don't, either.  I think half of what religion is, heck, maybe
+90% of what religion is is giving us standards to judge right and
+wrong.  Murder isn't wrong because it's illegal, it's wrong because
+it's immoral, and you can't decide what's moral and immoral without
+religion.  So that's why I think freedom of religion, or more precisly
+seperation of religion from public life, is a chimera.  You can have
+freedom to go to whatever church you want, but you can't have a
+society without some kind of shared norm of morality, and that means
+religion."
+
+Mercuriou thoought about this for a minute.
+
+"You know, you've got a good point there, Doctor - morality!  Maybe
+it's something I don't talk enough about.  These people crow on to no
+end about 'freedom', but they don't want to talk about morality!"
+
+... the next day ...
+
+Mercuriou had taken the conversation with Yeats to heart, and
+when the interview started was absolutely determined to discuss morality.
+
+"Every murder ever committed in human history was perpetrated by a
+murderer who had freedom!  Every rape, every theft!  Every slave was
+enchained by the _freedom_ of his master, yes _freedom_!  I'm
+so sick of listening to you people crow on about 'freedom'!
+Freedom in the absence of morality is the single most destructive
+force this planet has _ever_ seen!"
 
 
 T + 7 days
@@ -3450,19 +3558,19 @@ of people want."
 "So you actually do think the majority of the American people support
 their government?" the moderator asked.
 
-"Yes.  The problem is populist government - this stupid idea that you
-can put the masses in charge of society.  It was talked about by
-philophers in the eigthteenth century, brought to power in Europe and
-the Americas by a string of revolutions in the nineteenth century, and
-brought to fuition in the twentieth century.  What it produced was
-fascism, communism, and capitalism - three of the most depraved
-societies that have every been seen on the face of this planet.
-Fascism, based on brutal, viscious, racial competition; communism,
-based on brutal, viscious, class competition; and capitalism, based on
-brutal, viscious individual competition.  Now, tell me, what do all of
-these things have in common... other than the fact that millions upon
-millions upon millions of people went chasing off after every one of
-them?"
+"Yes, and that's really the problem - populist government - this
+stupid idea that you can put the masses of people in charge of
+society.  It was talked about by philophers in the eigthteenth
+century, brought to power in Europe and the Americas by a string of
+revolutions in the nineteenth, and brought to fuition in the twentieth
+century.  What it produced was fascism, communism, and capitalism -
+three of the most depraved societies that have every been seen on the
+face of this planet.  Fascism, based on brutal, viscious, racial
+competition; communism, based on brutal, viscious, class competition;
+and capitalism, based on brutal, viscious individual competition.
+Now, tell me, what do all of these things have in common... other than
+the fact that millions upon millions upon millions of people went
+chasing off after every one of them?"
 
 "Communism wasn't a democracy, or a populist goverment..." Zee began
 to retort, but Mercurio cut him off.
@@ -3498,14 +3606,15 @@ took power in!"  Zee shot back.  "Look at the people in Russia!  If
 communism is so populist, why did they need another revolution to take
 back their government!"
 
-"It was populist at first!" the Captain answered.  "Sure, after the
-communists really got entrenched it was almost impossible to remove
-them, but it'd be almost impossible to remove the capitalists from the
-west - they control everything!  Look at what's happening right now in
-Russia - the Communist Party is the single largest political party in
-that country, they control a quarter of the seats in the Duma; what
-possible explanation is there for this except that millions upon
-millions of Russians _to_this_day_ support communism!"
+"Because once the communists got entrenched it was almost impossible
+to remove them, just like it'd be almost impossible to remove the
+capitalists from power the west - they control everything!  If
+communism wasn't populist, then why did a third of the Russian
+electorate vote for Zyuganov in 1996?  And this is part of an ongoing
+trend that has made the Communist Party the single largest political
+party in Russia!  Now what possible explanation is there for this
+except that millions upon millions of Russians _to_this_day_ support
+communism?!"
 
 Mercuriou paused briefly before continuing in a calmer voice.
 
@@ -3775,18 +3884,18 @@ while in New York Koppel winced as the broadcast profanity.
 "Humanity_has_abandoned_greed_and_force_and_this_great_event_goes_by
 the_name_of_democracy!" he continued in a sarcastic drawl.  "Well, if
 your government is so based on persuation, then why do you have the
-second highest per capita incarceration rate on the planet?  Why
-every time you turn on C.O.P.S, you see the police chasing after
+second highest per capita incarceration rate on the planet?  Why every
+time you turn on C.O.P.S, you see the police chasing after
 'criminals', gang-tackling them, and dragging them off to prison?  Why
 are you screaming for war on your own people and zero tolerance for
-your children?  The only people that the democrats persuade are the
-majority.  Everyone else is ruled through threat and fear.  The
+your own children?  The only people that the democrats persuade are
+the majority.  Everyone else is ruled through threat and fear.  The
 majority act real nice and polite to each other, then scream for the
 criminal's blood and elect all these men who talk about cracking down
 and getting tough, and how wonderful a world it is where anybody can
 start a business and ruthlessly try to compete in this brutual
 capitalist system.  The majority are perfectly willing to resort to
-force; they do it every day."
+force; they do it _every_single_day_."
 
 The moderator cut in before Ecks could get more than a word off.
 
@@ -3810,81 +3919,82 @@ the depths of their being and find out who we really are, and what our
 genuine vision of ourselves really is."
 
 "Want to take a crack at it?" Mercuriou asked Alister after the
-broadcast was concluded, indicating the camera with a gesture.
+broadcast was concluded, indicating the camera with an arm gesture.
 
-The South African emphatically shook his head no.  Andrea Yeats also
-demurred, though more calmly, when Mercuriou inquired her desire.
-Burns, who had gone right back to work on a computer console even
-before the conclusion of the interview, never looked up.
+The South African emphatically shook his head 'no'.  Burns, who had
+gone right back to work on a computer console even before the
+conclusion of the interview, never looked up.
 
 
 T + 13 days
 
-Due to the considerable radio time lag at this point, the media
-couldn't interview Andrea except through videomail, which meant
-that a lot of her answers took the form of monologues.  One
-thing was for sure.  The woman who had saved Alister's life
-and been promoted to first officer had started to generate
-a lot of media interest.
+After her one ill-fated attempt to butt in, Andrea had let Mercuriou
+have the debates to himself.  One thing was for sure, though, and that
+was that the crew of the _Icarus_, loved or hated, had become media
+darlings, and Yeats was one of the big 'gets' for a TV interview.
+Rather than returning to Mercuriou's format, Andrea decided to accept
+an offer for a one-on-one interview from a prominent female journalist
+with a reputation for objectivity.
 
 "Captain Mercurio says the problem is democracy, that it's another
 communism.  Do you agree?"
 
 The NASA engineer thought for a moment before answering.
 
-"The problem is human nature.  Democracy is just another political
-system.  In some ways it's better than others, in some ways worse.
-Ultimately, the solutions to our problems are spiritual and not
-political.  Unfortunately, democracy tends to accentuate a lot of
+"Not really.  The problem is human nature.  Democracy is just another
+political system.  In some ways it's better than others, in some ways
+worse.  Ultimately, the solutions to our problems are spiritual and
+not political.  Unfortunately, democracy tends to accentuate a lot of
 problems, because you can't just go blame it off on some dictator."
 
 "How does democracy accentuate problems?"
 
-"Well, the problems have always been there.  It's just that democracy
-shows us that a lot of our problems are still with us; that it's not
-just because people don't have political representation that causes
-our problems.  Now people do have political representation, and a lot
-of the problems are still with us.  So, just giving political power to
-the people doesn't solve your problems."
+"Well, the problems have always been there.  Democracy shows us that
+the problems aren't caused because people don't have political
+representation.  Now people do have political representation, and a
+lot of the problems are still here.  So, just giving political power
+to the masses of people doesn't magically solve your problems."
 
-The commentator cut it.  "Dr. Yeats, you mentioned a moment ago
-that democracy is better than some political systems, worse than
-others, or something to that effect.  If I'm not reading too
-much into your words, can you give us an example of a superior
-political system?"
+"Dr. Yeats, you mentioned a moment ago that democracy is better than
+some political systems, worse than others, or something to that
+effect.  If I'm not reading too much into your words, can you give us
+an example of a superior political system?"
 
-"Well, I don't know if there are any superior political systems.
-Like I said, our problems are spiritual more than political,
-and thus we need spiritual solutions more so than political ones.
-Now take a monarch like King Arthur; you can have a good king,
-genuinely interested in caring for his people, and yes, you
-can have a good monarchy."
+"Well, I don't know if there are any superior political systems.  Like
+I said, our problems are spiritual more than political, and thus we
+need spiritual solutions more so than political ones.  Now take a
+monarch like King Arthur; you can have a good king, genuinely
+interested in caring for his people, and yes, you can have a good
+monarchy."
 
 "Do you advocate monarchy as a system of government?"
 
 "I don't advocate anything as a system of government.  I advocate
-Christianity as a means for people to live their lives.  Monarchy is
+Christianity as a system for people to live their lives.  Monarchy is
 like any other system of government, you might get a good king for a
-while, but eventually you'll get a bad one, so it's no answer.
-There's the story in the Bible of the Jewish people demanding a king -
-this was Saul - and the prophet at the time, I believe it was Samuel,
-told them that the king would take the best of their crops, and
-conscript their sons into his army, and tax their profits, but the
-people wanted a king anyway.  And some of the Jewish kings were pretty
-lousy men."
+while, but eventually you'll get a bad one, so it's no answer.  If you
+go back to the Old Testament, first Samuel, I think, you find the
+people actually _demanding_ a king!  We have this idea today that a
+king is somehow imposed on people against their will, but in those
+days it was the commonly accepted form of government.  And Samuel
+basically told those people that they didn't need a king, that all
+they needed was to follow the will of God, but they didn't want to
+hear it.  So they got their king, it was Saul, and Samuel told them
+again that if they and their king followed the will of God, things
+would work out well for them, but if they didn't, there would be
+problems.  It's a lot the same today.  People don't need a king, and
+they don't need a democracy.  They need to follow the will of God, but
+of course you've got half of them screaming that militant capitalism
+_is_ the will of God, so there you go."
 
 "So, doctor, I'm, I'm not sure exactly what you mean when you say
 that you advocate Christianity rather than any system of government.
 For example, what do you say to Captain Mercurio's very vocal
 criticisms of western society?"
 
-"Well, I'm still on his crew, so I'd better not say too much!"
+The astronaut paused before responding.
 
-Due to the time lag in the transmission, it was almost a second
-before anybody laughed, so the joke fell flat.  She faltered
-a moment, then continued.
-
-"No, seriously, he makes a lot of good points, but this has been human
+"I think he makes a lot of good points, but this has been human
 society since the dawn of time.  Take Saint Anthony of the Desert, for
 example.  God appeared to him in a vision and told him to flee from
 men, so he went to live in the desert, and founded the Christian
@@ -3902,12 +4012,12 @@ means that you're going to get a lot of doors slammed shut on you."
 
 "Could you elaborate on that?  How do people not live as Christians?"
 
-"Oh, please, look around.  Christ gave us two great commandments,
-to love God with all our hearts, and to love our neighbors as
-ourselves.  And he elaborated on them, and lived them in his own
-life.  I think the second commandment is more obvious than the
-first; we look around and see how we don't love each other as
-Christ taught, that's more obvious that how we fail God."
+"Well, look around.  Christ gave us two great commandments, to love
+God with all our hearts, and to love our neighbors as ourselves.  And
+he elaborated on them, and lived them in his own life.  I think the
+second commandment is more obvious than the first; we look around and
+see how we don't love each other as Christ taught, that's more obvious
+that how we fail God."
 
 "Could you be more specific; I'm not trying to be dense, but
 why don't you think a Christian can rise to the top in our society?"
@@ -3915,8 +4025,23 @@ why don't you think a Christian can rise to the top in our society?"
 "Well, consider what Christ said.  He taught us to give to all those
 who beg from us; that if someone asked to borrow from us we should
 give without expecting anything in return.  If you do that, if you
-give to all, you often end up with nothing, at least nothing
-material."
+give to all, you often end up with nothing, at least nothing material."
+
+"Capitan Mercuriou has talked about making books and dictionaries
+freely available and has been accused of theft.  Do you support
+intellectual property rights?"
+
+"Well, I think it's somewhat of a mute issue.  Christ said that if a
+man steals your coat, you should give him your cloak as well - you
+love your enemies, and not just in an abstract sense, either, you
+really try to do good for your enemies.  So if someone steals your
+intellectual property, the Christian response is the same as to any
+other theft - you make sure the thieves have got the latest and most
+up-to-date versions of your books or software.  When you take that
+kind of an attitude, I think you quickly reach a point where you just
+say that you'll publish all this information anyway, I mean, why would
+you give to a thief, but withhold from someone who just asks
+politely?"
 
 "So do you advocate a welfare system of some kind?"
 
@@ -3938,19 +4063,18 @@ well, that's what the homeless shelter is for."
 
 "Yeah", Andrea replied, sucking in her breath, "picking up hitckhikers
 is dangerous.  But we remember the story of the good samartain, we
-remember that we're called to give to all those who beg of us, and we
-don't like a bad experience turn us against all hitchhikers."  She
-uttered the last phrase as though a robot, it was her voice, she was
-preaching to herself, but she didn't really beleive it.
+remember that we're called to love our neighbors, and we don't let one
+bad experience turn us against all hitchhikers."  She uttered the last
+phrase as though a robot, it was her voice, she was preaching to
+herself, but she didn't really beleive it.
 
-"Sure, but it's more dangerous not to pick them up.  It's dangerous
-because then we're violating the commandments that Christ gave us to
-live by; we're acting out of fear and not love.  And the reason
-someone, well a lot of people, actually, like Captain Mercurio, really
-dislike democracy is because people don't choose leaders who say,
-look, you should stop and pick these people up, they choose leaders
-who say, no, don't do that, think of how dangerous it is, put your own
-safety first."
+"It's more dangerous not to pick them up.  It's dangerous because then
+we're violating the commandments that Christ gave us to live by; we're
+acting out of fear and not love.  And the reason someone, well a lot
+of people, actually, like Captain Mercurio, really dislike democracy
+is because people don't choose leaders who say, look, you should stop
+and pick these people up, they choose leaders who say, no, don't do
+that, think of how dangerous it is, put your own safety first."
 
 "You mentioned homeless shelters, in a somewhat negative way.  Do you
 not support homeless shelters?"
@@ -4026,7 +4150,7 @@ what's going on behind the scenes."
 "What do you think of the Christian right?"
 
 "Well, the Christian right seems to be much more a political movement
-than a spiritual one.  We here constantly from them about sex.  Sex,
+than a spiritual one.  We hear constantly from them about sex.  Sex,
 sex, sex, sex, sex.  Yet they're almost completely silent on something
 like Capitalism.  Chirst say 'give to all those who beg of you'.  He
 told one of his followers to sell all his worldly possesions and give
@@ -4064,8 +4188,6 @@ So much of how our prisons are run is based on anger and hatred.
 People don't love their enemies; they hate them, and they want to make
 them suffer, so that's why they want their prisons to be 'tough'."
 
-
-
 "OK, we've only got a few minutes left, let me change the subject, at
 least slightly.  You're a scientist, or at least an engineer, so what
 do you say to people who claim that there's no scientific proof from
@@ -4078,12 +4200,7 @@ experiment you can perform to find out if God is real - you can die.
 Most of us don't want to perform that experiment just to satisfy our
 curiosity about God, but the fact remains that we will all die some
 day, and then you'll know.  So my answer to those people is just to
-wait - you're going to find out all about God."
-
-
-
-
-
+wait - you're going to find out all about God some day."
 
 "Well, thank you for joining us this evening.  My guest had been
 Dr. Andrea Yeats, astronaut and Christian.  We'll be back in a minute
@@ -4091,57 +4208,15 @@ with my final thought."
 
 The entire crew had watched the broadcast, floating on the other
 side of the TV camera.  After the program ended, they were
-fairly quite for a while, the captain in particular.
+fairly quiet for a while, the captain in particular.
 
-"You did really good, I was quite proud of you," was all he had to say.
+"You did really good, I was quite proud of you," he finally said.
 
-Andrea's long-distance television interview had aired four days after
-it was taped, to a large audience.  It had provoked wide spread public
-response, evidenced by a deluge of e-mails whose subject lines ranged
-the spectrum from "May God bless you and your crew" and "Thank you,
-you are a genuine Christian" to "Christianity COMMANDS Capitalism" and
-"This is __HERESY__!!!".
-
-T + 14 days
-
-"Does the media have a conservative bias?" McLauchlin asked the TV
-camera.  Marcellius Mercurio had suggested that the day before, going
-on to add that whatever it's conservative capitalist bias, the media
-was totally biased in favor of democracy.  Now the topic was being
-debated on McLauchlin's popular weekly TV show, which featured a panel
-of regular participants who debated various issues.  A recuring theme
-was for the host to ask his panelists to rate a question on a scale of
-one to ten.
-
-"On a scale of one to ten, how conservatively biased is the news media?"
-
-"Zero.  OK, maybe one.  The media just reflects the opinions of the
-people," his well-known conservative panelist noted.  "The people have
-finally gotten sick of all this liberal crap, of which Mercurio
-represents merely the most violently anti-democractic fringe."
-
-"I'll go with five," responded another panelist, a respected, somewhat
-liberal newspaper writer.  "The media tends to reflect the prevaling
-mood of the country.  Thirty years ago, the media had a liberal
-bias..."
-
-"No!" his conservative colleage interrupted, in mock shock.  "The
-media had a liberal bias back in the seventies?!?"
-
-"Well, they did, it's true.  Only because they reflected the mood
-of the country at the time!"  He leaned forward on the table to
-make his point in earnest.  "The country was more liberal, so the
-media was liberal.  Now the country has become more conservative,
-so the media is more conservative."
-
-"The answer is - three," McLauchlin ended the discussion.  "Next
-question - what are this crew's chances of making it to Mars?  Scale
-of one to ten - John."
-
-In orbit, Mercurio clicked off the TV screen on his laptop and pushed
-it away.
-
-"I already know the answer to that question!"
+Andrea's television interview aired four days later, to a large
+audience.  It provoked widespread public response, evidenced by a
+deluge of e-mails whose subject lines ranged the spectrum from "May
+God bless you and your crew" and "Thank you, you are a genuine saint"
+to "Christianity COMMANDS Capitalism" and "This is __HERESY__!!!".
 
 
 T + 16 days
@@ -5749,6 +5824,24 @@ agreed to the shuttle proposal, primarily because he had no other way
 to return to Earth from orbit.
 
 
+T + 734 days
+
+"Took advantage of freedom!?"  Mercuriou practically spit the words
+out.  The old Mercuriou was back, the Mercuriou that hadn't
+faced disaster on Mars, the Mercuriou that hadn't listened
+to Andrea Yeats for the last two years.
+
+"Took advantage of freedom!  You make it sound like anybody can just
+walk up to one of these training companies, 'hey, I'd like to learn to
+fly a 767'... 'sure, no problem'.  You've got to have _money_ to fly!
+All those people out there who'd love to fly an airplane but can't or
+don't because _it's_too_expensive_... Took advantage of freedom!  They
+took advantage of _capitalism_!  They had the one thing that will make
+people say 'yes' in a society that says 'no', 'No', 'NO' - money!
+They took advantage of the fact that Osama bin Laden is a
+_multimillionare_!"
+
+
 T + 735 days
 
 "Well, who you gonna attack?  The political leaders, the President?"
@@ -6787,10 +6880,6 @@ do you advocate a welfare system?  isn't picking up hitchhikers dangerous.
 
 You bet.
 
-T + 14 days
-
-"Does the media have a conservative bias?"  Mercuriou is only an observer.
-
 T + 16 days
 
 decision to move out of LEO to higher orbit
@@ -6912,6 +7001,10 @@ we don't run this ship.  Burns runs this ship.
 T + 729 days
 
 wine in orbit.  9/11.
+
+T + 734 days
+
+they took advantage of capitalism, not freedom
 
 T + 735 days
 
@@ -7098,19 +7191,6 @@ he spend so much time discussing them?"
 
 -----
 
-"If you go back to the Old Testament, first Samuel, I think, you find
-the people actually _demanding_ a king!  We have this idea today that
-a king is somehow imposed on people against their will, but in those
-days it was the commonly accepted form of government.  And Samuel
-basically told those people that they didn't need a king, that all
-they needed was to follow the will of God, but they didn't want to
-hear it.  So they got their king, it was Saul, and Samuel told them
-again that if they and their king followed the will of God, things
-would work out well for them, but if they didn't, there would be
-problems.  It's a lot the same today.  These people don't need a king,
-and they don't need a democracy.  They need to follow the will of God,
-but of course you've got half of them screaming that militant
-capitalism _is_ the will of God, so there you go."
 
 
 ------
@@ -7240,90 +7320,6 @@ C-2: sickbay
 C-3: electronics lab
 C-4: chemistry lab
 
--------
-
------
-
-"Captain, I just don't understand.  Your company has developed a major
-new rocket fuel, you _did_ legitimately develop N-1033, didn't you?"
-
-"Sure we did.  But where do you think we got the money to develop it?
-You think they just give computational chemistry software aware for
-free?  You think you get Pyrex laboratory equipment handed to you just
-because you want to play around with some crazy idea that might
-somehow make the world a better place?  People just put food in front
-of your chemists because they get up and go to work in the morning?
-No, you need money for all of it!  It cost us almost a million dollars
-just to _develop_ N-1033; that was before you ever heard of us!"
-
-"So where did you get the money from?"
-
-"I told you, we stole it!"
-
-"But you had a working product.  Couldn't you get all the venture
-capital funding you needed?"
-
-"We didn't have a working product at first," Mercuriou noted, more
-calmly now.  "We had nothing.  One really smart guy who thought you
-design a rocket fuel with a computer.  That's it.  No computers.  No
-staff.  No software.  No lab.  Nothing.  Now how do you get that
-venture capital funding?  I'll tell you how.  You sell you soul to the
-capitalists.  You convince them, and I mean really convince them, that
-you're one of them, you agree to bring on their management team, you
-agree to some 'business plan' that tells how you're going to patent
-and control this technology once it's developed, because these people
-will do nothing unless they can see how they'll get a big killing back
-out it, and unless you can really bring something more than your good
-ideas to the table, you'll fight like hell just to keep 51% of the
-company.  And if you tell them the truth, that once you invent this
-thing that their money paid for you're just going to publish
-everything you've got about how it works, they'll drop you like a hot
-potato.  Or you work in your garage for ten years, and I'm not much of
-garage guy.  So we developed, let's just say, an original source of
-funding."
-
-"And what was that?  Did you rob a bank?"
-
-Mercuriou laughed out loud.
-
-"Something like that.  Ever heard of Keystone Securities?"
-
-#if NOT
-
-"You're referring to the currency traders that went bankrupt?"
-
-"Sure am.  What's the latest on that SEC investigation?"
-
-"Well, the FBI has now been brought into the case, Captain, are you
-saying that you had something to do with Keystone?"
-
-"How did Keystone go bankrupt?"
-
-"Well, I think that's the subject of the investigation."
-
-"I don't need any investigation to answer that.  Their computers
-malfunctioned and traded all their assets away in a weekend."
-
-#endif
-
-----
-
-"Half their currency trading operation is based on arbitrage.  They
-look for an eighth-point discrepancy between say, the price of gold
-futures in Chicago and the price of gold in London.  It's a guaranteed
-win if you can move fast enough to take advantage of it, and that's
-why they're so heavily computerized.  The software makes almost all
-the trading decisions.  Now, they've built their entire network out of
-Chesapeake equipment, so we're in like Flint from that angle.  Also,
-they develop all their own software, so we've already got their source
-code.  We've got a targeted modification that, when triggered, will
-make loosing trades.  Once we're done, we flip the switch again, and
-the software goes back to behaving like normal."
-
-"It does have the disadvantage of leaving evidence on the hard disk.
-The hack should remain dormant, but will be there if somebody starts
-looking hard enough."
-
 ----
 
 Bush: "Quit all this politic'ing around and land that plane before
@@ -7384,20 +7380,6 @@ for themselves.  That's when we really saw the truth about democracy."
 
 ----
 
-"Took advantage of freedom!?"  Mercuriou practically spit the words
-out.  The old Mercuriou was back, the Mercuriou that hadn't
-faced disaster on Mars, the Mercuriou that hadn't listened
-to Andrea Yeats for the last two years.
-
-"Took advantage of freedom!  You make it sound like anybody can just
-walk up to one of these training companies, 'hey, I'd like to learn to
-fly a 767'... 'sure, no problem'.  You've got to have _money_ to fly!
-All those people out there who'd love to fly an airplane but can't or
-don't because _it's_too_expensive_... Took advantage of freedom!  They
-took advantage of _capitalism_!  They had the one thing that will make
-people say 'yes' in a society that says 'no', 'No', 'NO' - money!
-They took advantage of the fact that Osama bin Laden is a
-_multimillionare_!"
 
 
 ----
@@ -7451,81 +7433,6 @@ the force of government should be used to absolute minimum and that
 people have to ask themselves what is right and wrong!  Democracy
 makes all these decisions for you!"
 
------
-
-"We've got freedom of religion in this country, Doctor!"
-
-"Freedom of religion is fine up to a point, but somewhat unrealistic..."
-
-"It's not unrealistic, Doctor, we've got it!  What you advocate is
-something we abandoned centuries ago, that there should be some
-prefered religion!"
-
-"Well, you've got to have a prefered religion..."
-
-"Got to have a prefered religion!"  X echoed her words with a sneer.
-"Doctor Yeats, I hate to break this to you, but you're about two
-hundred years behind the times!  Ever heard of the Salem Witch
-Trials?"
-
-The NASA engineer turned red and practically ripped the microphone
-off her shirt before fleeing from the TV cameras.  Mercuriou
-jumped into the gap.
-
-"OK, now you're back to picking on someone your own size!"
-
-Later, Mercuriou found Yeats back working in C-3.
-
-"So what where you talking about there?  You've got to have a hide of
-steel to debate those bastards; it's like a blood sport.  They're not
-trying to have some intellectual debate; they'll stoop to any low to
-get their sound bite and 'win'."
-
-Yeats brushed back the long blond hair that was starting to
-drift in front of her face.
-
-"What I was trying to say was that you just can't have a human society
-without some kind of shared standard of morality, and that's one of
-the main functions of relgiion. I mean, how can you judge right or
-wrong?  Why can't someone say that his religion allows human
-sacrifice?  Where's your freedom of religion then?"
-
-"I'll tell you what their prefered religion is - it's democracy!"
-Mercuriou interjected.  "The murderer can't make his human sacrifice
-because the majority won't allow it!  I can't smoke pot because
-the majority has decided to outlaw it!  Our ship's library
-is illegal because that's what the majority has decided to call it!
-Right and wrong are subject to a vote, now, Andrea."
-
-"Well, I don't beleive right and wrong are subject to a vote.  I think
-half of what religion is, heck, maybe 90% of what religion is is
-giving us standards to judge right and wrong.  Murder isn't wrong
-because it's illegal, it's wrong because it's immoral, and you can't
-decide what's moral and immoral without religion.  So that's why I
-think freedom of religion, or more precisly seperation of religion
-from public life, is a chimera.  You can have freedom to go to
-whatever church you want, but you can't have a society without some
-kind of shared norm of morality, and that means religion."
-
-Mercuriou thoought about this for a minute.
-
-"You know, you've got a good point there, Doctor - morality!  Maybe
-it's something I don't talk enough about.  These people crow on to no
-end about 'freedom', but they don't want to talk about morality!"
-
-
-... the next day ...
-
-Mercuriou had taken the conversation with Yeats to heart, and
-when the interview started was absolutely determined to discuss morality.
-
-"Every murder ever committed in human history was perpetrated by a
-murderer who had freedom!  Every rape, every theft!  Every slave was
-enchained by the _freedom_ of his master, yes _freedom_!  I'm
-so sick of listening to you people crow on about 'freedom'!
-Freedom in the absence of morality is the single most destructive
-force this planet has _ever_ seen!"
-
 ----
 
 "Well, that's a hobby."
@@ -7552,3 +7459,84 @@ has even been proposed for men to live their lifes."
 
 "That's right!  For you and your nightmare system and your
 ruthless capitalist leaders, you're damn right I don't want to work!"
+
+----
+
+
+...
+
+"How much money did you steal?"
+
+"Hard to say.  Adding up everything we lied about, everything we
+bought on empty credit, everything we just flat out stole - probably
+close to a billion dollars."  He paused for a minute.  "And that's a
+shoestring budget for what we're trying to do.  We've cut a lot of
+corners.  A billion isn't much for a manned space launch, let alone
+one going to Mars."
+
+"How many corners did you cut?"
+
+"A bunch.  I'd like to have three identical ships going, but we've
+only got one.  We don't have any kind of landing vehicle yet, and
+of course I'd like to have one built already and tested here on Earth,
+but that isn't going to happen either."
+
+"How do you plan to land on Mars if you don't have a landing vehicle?"
+
+"We've got an old 747 we managed to put in orbit this morning, and
+I'm hoping we can modify it to function as a space shuttle."
+
+"How much do you have of... uh, supplies?"
+
+"We've got a year's supply of food, water, charcoal to extract carbon
+dioxide from the air.  Then we'll have to start recycling."
+
+"Do you expect to be gone longer than a year?"
+
+"Of course, yes.  There's no way we could get to Mars and back in a
+year.  Plus, I'm planning on making a stop at the astroid belt on the
+way.  I'm looking at five years..."
+
+------
+#if 1
+
+"And who's going to pay for it, Captain, who's going to pay for it?"
+
+#elsif 2
+
+"Well, that sounds very noble, Captain, but in the real world, if you
+just give everything away, you'll be put out of business."
+
+"That's right!  That's the 'freedom' of capitalism right there - you be
+a capitalist or you'll be put out of business.  And then if you won't
+work for these bums, you'll be put homeless and starving on the street
+and all these great, decent people will spit on you as they walk past
+and call you a bum who doesn't want to work... And they're right,
+'cause I don't want to work - not for them and not for their brutal
+system!"
+
+#elsif 3
+
+"And who's going to pay for it, Captain, who's going to pay for this
+library of Alexandria once we just give all these books away for
+free?"
+
+"Maybe the capitalists could pay for it, Congressman, they've
+certainly got the money."
+
+"I know, I know, take from the rich and give to the poor.  We've heard
+all this before!  It's been rejected by the people."
+
+"Again, Congressman, I don't have some big plan to figure how to pay
+for it, but I know that our leaders aren't even trying.  They're
+determined that it won't happen.  They're determined that all this
+information will be controlled, just like everything else in a
+capitalist society.  Everything is controlled by the capitalist
+system."
+
+#endif
+
+
+----
+
+The paradox of freedom: how do you give freedom to both the Nazis and the Jews?
