@@ -29,7 +29,7 @@ It was a brilliant hack.  It topped the one
 in college, when the net-news server was
 configured to refuse the student lab.
 They'd recompiled the server, altered so
-that after printing ACCESS IS DENIED
+that after printing ACCESS 5 DENIED
 the program would accept posts anyway.
 They went in as "root", dropped the binary
 straight to the drive, and used it daily for
