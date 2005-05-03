@@ -55,10 +55,10 @@ around the world, that same one-word logo
 emblazoned on the case of every one.
 
 He strolled into the lobby like a favorite son
-into his father's restaurant, walked
+into his father's restaurant, breezed
 past the rock garden and the potted palms,
 blew off the break room, its Phillie cream cheese
-bagels and stocked 'fridge, turned right at the conference rooms
+bagels and stocked 'fridge, jogged right at the conference rooms
 and entered a two-story cave
 partitioned by a hundred cubicles -
 his life, ten hours a day the last six months.
@@ -69,7 +69,29 @@ and white-board markers.  Management wisely
 consigned itself across the street.
 
 The key card was real; Burns was totally
-legit.  His facial features, chiseled, dark,
+legit.  A roaring economic boom
+kept restaurants, book stores, country clubs and concert halls
+jam packed with twenty-somethings who
+had never flown economy in their
+lives.  Every other car on College Avenue
+was a Mercedes, or a B M W,
+or a Land Rover.  Chic
+restaurateurs provided their patrons colored Crayons and
+blank paper place-mats to
+brainstorm slick new proprietary server architectures while
+waiting for hundred dollar lunches.  Programmers
+were in short supply, and someone with Burns' qualifications
+was a genuine find.  His job interview was little more than a
+technical presentation in front of a whiteboard;
+the background check non-existent.
+He had quickly gotten the run of
+Chesapeake's operation, which was far more concerned with filling the
+next multi-million-dollar order and satisfying those customers by
+cramming miriads of new features into their products than implementing
+any real security against a determined insider attempting to hack
+their systems.
+
+His facial features, chiseled, dark,
 though somewhat warm and soft,
 reminded some of 'Che' Guevara, the
 famed communist revolutionary.
@@ -126,7 +148,7 @@ awaiting the announced time to shutdown the system.
 
 Jason Gertsen was a competent programmer who specialized in diving into
 stalled projects and getting them finished by pounding out source
-code.  Burns, more a designer than a programmer, respected Jason for
+code.  Burns, really more a designer than a programmer, respected Jason for
 his staying power with the boring tedium the finicky machines imposed
 on their masters.
 
@@ -134,51 +156,51 @@ on their masters.
 
 "Well, be my guest, but I'm hitting the bay.  Sure you don't want to come?"
 
-An afternoon of sailing was a tempting proposition, and Jason had a
-thirty-six-foot Catalan.  A roaring economic boom kept restaurants,
-bars, and shopping malls packed with twenty-somethings who had
-never worked a real job now sitting on thousands of dollars worth of stock
-options.  Every other car on University Avenue was either a Ferrari,
-or a BMW, or a Land Rover - most of them leased.  Up scale restaurants
-provided their patrons with blank paper placemats and colorful Crayons
-to doodle and brainstorm their latest propietary server architecture
-while waiting for their hundred dollar lunches.  Skilled
-programmers were in short supply, and someone with Burns' qualifications
-was a genuine find.  His job interview was little more than a
-technical presentation in front of a whiteboard
-and he had quickly gotten the run of
-Chesapeake's operation, which was far more concerned with filling the
-next multi-million-dollar order and satisfying those customers by
-cramming miriads of new features into their products than implementing
-any real security against a determined insider attempting to hack
-their systems.
+On one hand, an afternoon of sailing was a tempting proposition, and
+Jason had a thirty-six-foot Catalan.  On the other hand were the weeks
+spent writing his laptop's "screensaver" that had been black-boxed,
+white-boxed, leak-proofed and peer-reviewed; the hours drilling a
+thirty-second procedure on a machine in his living room almost
+identical to Chesapeake's main server; the flowcharted contingency
+plans on an encrypted hard drive; his roommate waiting back at the
+apartment with a network link and two phone lines.
 
-"No, I gotta get this done.  Thanks for the offer."
+"No, thanks," Burns said without a hint of disumulation in his voice,
+"I gotta get this done.'
 
 Burns crossed to the other side of the room, where he was working on a
 tricky install of a new high-speed optical interface in one of the
 test machines.  Somehow, he just couldn't seem to get the settings
-right.
+right.  "How about lunch?" he emailed his
+roommate. _I'm_in_the_server_room._ "Sounds fine," came the reply.
+_Go!_
 
 Forty five minutes later, with the main system shut down and half its
-components spread across a table, all three technicians were out of
-the room for a minute, one to take a soda break, another to retrieve a
-power cable from his desk, and the third to answer a phone call from
-someone who had already hung up by the time he got there.  Burns had
-contemplated taking a shot of J.D. that morning to steal himself for
-this moment, but designed that he had to be absolutely sober in case
-_anything_ went wrong.
+components spread across a table, two of the three technicians were
+out of the room, one to take a soda break and another to retrieve a
+power cable from his desk.  Burns sent another email, "Let's try
+Bogart's."  Back in the apartment, Marc Mercuriou skimmed down his
+list of local restaurants and the names they translated into in their
+code language, then picked up the phone.  A minute later, the third
+tech was called out to answer a phone call from someone who had
+already hung up by the time he got there.  Burns had contemplated
+taking a shot of J.D. that morning to steal himself for this moment,
+but designed that he had to be absolutely sober in case _anything_
+went wrong.
 
 Nothing went wrong.  He practicly sprinted across the room as soon as
 the door closed behind the last tech, slapped a cable onto a special
 PCMCIA card that had been siting in his laptop for the last week,
 plugged the other end into the server's hard drive, powered it, and
-hit a three-key sequence on the laptop, which beeped two seconds
-later.  Then Burns killed the power before the server's CPU had gotten
-out of BIOS, replaced the original cable to the drive, and dashed back
-across the room with his laptop.  Since they weren't using a
-cryptographic file system yet, they didn't even have to worry about
-forging signatures.  It had taken less than 15 seconds.  After the
+hit a three-key sequence on the laptop before venturing a glance at
+the door.  Nobody.  The laptop beeped.  He killed the power before the
+server's CPU had gotten out of BIOS, replaced the original cable to
+the drive, and dashed back across the room with his laptop.  It had
+taken less than 15 seconds.  "Let's shoot for happy hour instead," he
+emailed Mercuriou, who read the message with a wry smile that soon
+broke into a broad grin.
+
+After the
 technicians returned, Burns preserved appearances by consuming another
 half hour to finish installing the optical interface, then left.
 Buoyed by an air of near invincibility, he practically floated out to
@@ -1086,12 +1108,12 @@ ehh?"
 Andrea shook her head vigorously.  "Not a chance."
 
 As she was leaving, she quietly took one of the envelopes from the
-holders on each table.  It was blank, except for a Bible quote: "When
-I was hungry, you fed me."  She put the four remaining twenty dollar
-bills she had into the envelope, sealed it, and slipped it in the drop
-box on her way out the door.  Taking a city bus to the northern
-extremnities of Houston, she walked to Interstate 45, sat her duffle
-bag down beside the onramp, and began waiting for a ride.
+holders on each table.  It was blank, except for a quote from Matthew:
+"When I was hungry, you fed me."  She put the four remaining twenty
+dollar bills she had into the envelope, sealed it, and slipped it in
+the drop box on her way out the door.  Taking a city bus to the
+northern extremnities of Houston, she walked to Interstate 45, sat her
+duffle bag down beside the onramp, and began waiting for a ride.
 
 
 T - 200 days
@@ -1313,12 +1335,12 @@ announcement that the government investigation into the bankruptcy of
 one Keystone Securities had been expanded into a criminal affair.  All
 that was publicly known was that the investment firm had gone bankrupt
 after a computer malfunction had frittered away more than a billion
-dollars worth of securities in a single weekend of frenzied trading.
-Outraged investors were demanding to know how such a 'bug' could have
-passed undetected, and industry analysts speculated that Keystone
-would become a test case of corporate liability for computer errors.
-Burns read the story while Mercuriou thought over the problem with
-Alister.
+dollars worth of securities in a single weekend of frenzied automated
+trading.  Outraged investors were demanding to know how such a 'bug'
+could have passed undetected, and industry analysts speculated that
+Keystone would become a test case of corporate liability for computer
+errors.  Burns read the story while Mercuriou thought over the problem
+with Alister.
 
 "This could be serious," the engineer concluded as his returned the
 newspaper.
@@ -7080,21 +7102,32 @@ Conversation."
 
 T - 691 days <****>
 
-The college hack described here is an amalgam of two different
-hacks - the news server hack done by friends of mine, and the
-student workstation hack that I did.
+"The hack"
 
-The company is basically Cisco.
+strong setting, Silicon Valley during the dot-com boom; strong plot, a
+blow-by-blow of a major hack; moderate character development, we see a
+bit of Burns - his technical skill, his drug use, his deceitfulness
 
-Kerningham viruses.  The hack.
+The college hack described here was an amalgam of two different hacks
+- the news server hack done by friends of mine, and the student
+workstation hack that I did.  I finally ditched my own hack and used
+my friends exclusively - this is just a one-paragraph intro, not a
+thesis.
 
-COULD USE BURNS ACTUALLY WALKING INTO THE BUILDING TO DO THE HACK HERE
+The company is basically Cisco, the only Silicon Valley operation I
+got to see from the inside, but I think the description here is
+sufficiently general that it could be any one of dozens of high-tech
+startups.  Its name is a hats-off to my friend Terry Slattery and
+Chesapeake Computer Consultants, which in its hey-day was one of
+Cisco's top training partners (and my first corporate employer).
 
-T - 380 days <**>
-
-First attack - Keno maker
+"Jason Gertsen" is also a tip of the hat to Rob Widmer, Terry's first
+employee (I was his second).  I respect Rob's "staying power with the
+boring tedium the finicky machines impose on their masters."
 
 T - 370 days <****>
+
+"A tough reception"
 
 Mercuriou visits Vic.  Description of the hydroponic farm - has to
 be a more extensive operation than just marijuana
@@ -7111,6 +7144,8 @@ Don't ask me how Orion got into a _summer_ sky, I don't know, either.
 
 T - 350 days <****>
 
+"The crapshot"
+
 John Pople.  Gaussian.  Vic joins up.
 
 isn't it usually a "house with an attached garage"?
@@ -7118,6 +7153,45 @@ isn't it usually a "house with an attached garage"?
 T - 313 days <****>
 
 Press conference announcing the new fuel
+
+Moderate plot, at least its moving forward (the chapshoot paid off);
+weak setting, but something I learned from Tom Clancy is that you can
+use the ability to explain technical details to create setting, here
+and in about a hundred other places in the novel; moderate character
+development - we meet Andrea Yeats for the first time!
+
+I found out after this book was mostly written that Andrea Yeats is
+the name of the Texas women who drowned her four kids in a bathtub.
+Coincidently, her husband worked for NASA.  I'm not changed the name -
+her identify is too deeply ingrained in my mind.  Or maybe it's not
+coincidence - maybe God's trying to tell me something about was this
+character espouses (I hope not)...
+
+"Kyle" was originally "Lou" but my friend Kyle Hourihan demanded on
+the characters be named after him, so I lent his moniker to this minor
+character.
+
+T - 312 days <****>
+
+"The Franciscan Frier"
+
+strong setting - a inner-city soup kitchen; slow plot (but who cares);
+strong character development - we learn a lot about Andrea here.
+
+Brother Dunstan is a amalgram of two religious I know - one is a
+California-based Franciscan in culinary school (probably graduated by
+now) that proposed basically this idea for a "Franciscan restaurant"
+as a class project (and what a great idea it is), though I "cooked up"
+its name myself; the other is my good friend, the Benedictine Dunstan
+Robaduex, who lends this character his name.  The Benedictines don't
+make it into this novel (sorry guys), but any fraternity couldn't good
+far wrong by patterning its house management after the Benedictines
+and its work ethic after the Franciscans.
+
+Dunston only appears this one time, but he's probably my most
+important minor character.  St. Francis has been such an influence in
+my life; it's so important to me to showcase the Franciscan movement
+in such a compelling scene (one of my favorites in the novel).
 
 T - 200 days <**>
 
@@ -9188,3 +9262,10 @@ _obligations_!"
 ======
 
 liberation theology is alive and well in the United States
+
+
+======
+
+Launch day.
+
+"Why drink and drive when you can bake and fly?"
