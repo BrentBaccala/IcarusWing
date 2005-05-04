@@ -71,7 +71,7 @@ consigned itself across the street.
 The key card was real; Burns was totally
 legit.  A roaring economic boom
 kept restaurants, book stores, country clubs and concert halls
-jam packed with twenty-somethings who
+packed full with twenty-somethings who
 had never flown economy in their
 lives.  Every other car on College Avenue
 was a Mercedes, or a B M W,
@@ -80,14 +80,13 @@ restaurateurs provided their patrons colored Crayons and
 blank paper place-mats to
 brainstorm slick new proprietary server architectures while
 waiting for hundred dollar lunches.  Programmers
-were in short supply, and someone with Burns' qualifications
-was a genuine find.  His job interview was little more than a
-technical presentation in front of a whiteboard;
+were hot, and someone with Burns' qualifications
+was a genuine find.
+His job interview was a talk in front of a whiteboard;
 the background check non-existent.
 He had quickly gotten the run of
 Chesapeake's operation, which was far more concerned with filling the
-next multi-million-dollar order and satisfying those customers by
-cramming miriads of new features into their products than implementing
+next multi-million-dollar order than implementing
 any real security against a determined insider attempting to hack
 their systems.
 
@@ -154,9 +153,10 @@ on their masters.
 
 "I've got to get this optical interface installed."
 
-"Well, be my guest, but I'm hitting the bay.  Sure you don't want to come?"
+"Well, fill in your own timesheet, but I'm hitting the bay.  Sure you
+don't want to come?"
 
-On one hand, an afternoon of sailing was a tempting proposition, and
+On the one hand, an afternoon of sailing was a tempting proposition, and
 Jason had a thirty-six-foot Catalan.  On the other hand were the weeks
 spent writing his laptop's "screensaver" that had been black-boxed,
 white-boxed, leak-proofed and peer-reviewed; the hours drilling a
@@ -165,7 +165,7 @@ identical to Chesapeake's main server; the flowcharted contingency
 plans on an encrypted hard drive; his roommate waiting back at the
 apartment with a network link and two phone lines.
 
-"No, thanks," Burns said without a hint of disumulation in his voice,
+"No, thanks," Burns said without a hint of deceit in his voice.
 "I gotta get this done.'
 
 Burns crossed to the other side of the room, where he was working on a
@@ -178,8 +178,8 @@ _Go!_
 Forty five minutes later, with the main system shut down and half its
 components spread across a table, two of the three technicians were
 out of the room, one to take a soda break and another to retrieve a
-power cable from his desk.  Burns sent another email, "Let's try
-Bogart's."  Back in the apartment, Marc Mercuriou skimmed down his
+power cable from his desk.  Burns sent another email, "How about
+Bogart's?"  Back in the apartment, Marc Mercuriou skimmed down his
 list of local restaurants and the names they translated into in their
 code language, then picked up the phone.  A minute later, the third
 tech was called out to answer a phone call from someone who had
@@ -189,31 +189,35 @@ but designed that he had to be absolutely sober in case _anything_
 went wrong.
 
 Nothing went wrong.  He practicly sprinted across the room as soon as
-the door closed behind the last tech, slapped a cable onto a special
-PCMCIA card that had been siting in his laptop for the last week,
-plugged the other end into the server's hard drive, powered it, and
-hit a three-key sequence on the laptop before venturing a glance at
-the door.  Nobody.  The laptop beeped.  He killed the power before the
-server's CPU had gotten out of BIOS, replaced the original cable to
+the door closed behind the last tech.
+The situation was almost ideal; one of the scenarios
+he had drilled for.  The new machine was
+disassembled and unpowered; the hard drive
+had been installed but was uncabled.
+Burns connected a data cable from his laptop to the drive, then plugged
+in a special cable he had built that could power a server's
+drive from the laptop's battery.  He powered the drive,
+hit a three-key sequence on the laptop, and ventured a glance at
+the door.  Nobody.  The laptop beeped.  He killed the power,
+disconnected both cables, and dashed back across the room.  It had
 the drive, and dashed back across the room with his laptop.  It had
 taken less than 15 seconds.  "Let's shoot for happy hour instead," he
 emailed Mercuriou, who read the message with a wry smile that soon
 broke into a broad grin.
 
-After the
-technicians returned, Burns preserved appearances by consuming another
-half hour to finish installing the optical interface, then left.
-Buoyed by an air of near invincibility, he practically floated out to
-the parking lot, tossed the laptop in the back seat, fired up a
-sneak-a-toke cleaverly designed to look like a cigarette, and floored
-the rag-top all the way home.
+Burns preserved appearances by consuming another half hour to finish
+installing the optical interface, then left.  Buoyed by an air of near
+invincibility, he practically floated out to the parking lot, tossed
+the laptop in the back seat, fired up a sneak-a-toke cleaverly
+designed to look like a cigarette, and floored the rag-top all the way
+home.
 
 
 T - 370 days
 
-"The routers run the network; heck the routers _are_ the network.  You
-control the routers, you control the network.  I'm telling you," the man on
-the couch concluded, "this thing is like super-hack."
+"The routers run the network; hell the routers _are_ the network.  You
+control the routers, you control the network.  I'm telling you,"
+Mercuriou concluded, "this thing is like super-hack."
 
 A silence fell over the house trailer, punctuated by a single word
 from the only other person present, waiting in the kitchen for a
@@ -221,7 +225,7 @@ teakettle to boil while slowly shaking his head in admiration.
 
 "Burns."
 
-Marc Mercuriou, the man on the couch, nodded in assent.  In his late
+From the couch, Mercuriou nodded in assent.  In his late
 thirties and a shade under six feet tall, his cheekbones betrayed the
 mixed features of his hybrid Romanian/Irish ancestry.  A white
 T-shirt, khaki shorts, and tennis shoes composed his undistinguished
@@ -232,12 +236,11 @@ the University of Chicago.  Like his paternal ancestors, who had
 decended from the Scythian plains to ravage the heart of the Roman
 Empire, he was fiercely loyal to his friends, determined to conquer the
 unconquerable, undetered by any temporary setbacks in his plans, and
-absolutely convinced that he would ultimately win.  He was also the
-closest thing Burns had to a boss.
+absolutely convinced that he would ultimately win.
 
 "We had to wait four more months to make sure it got into their
 production system.  Burns got sick of the job and quit after two, but
-it worked anyway.  They've been shipping it for about six months now."
+it didn't matter.  They've been shipping it for about six months now."
 
 Victor Antonov, the man who watched the teakettle in the kitchen, was
 nearly ten years his elder, heavy set to nearly the point of obesity,
@@ -323,14 +326,16 @@ cat had disappeared as soon as a stranger had entered the abode.
 was clear.  He thought back over the years he had known Marc
 Mercuriou.  If he had learned one thing about the man, it was that he
 wouldn't undertake a project if he didn't think he could finish it.
-He'd sit and do nothing before undertaking something half-baked.
+He'd sit and do nothing before undertaking something half-baked.  On
+the other hand...
 
-"Why are you doing this, Marc?  Is it really about Mars... really?"
+"Why are you doing this, Marc?  Is it about Mars... really?"
 
 Mercuriou didn't answer.  He hadn't expected the question and didn't
-have an answer.  The doctor broke another awkward silence.
+have an answer.  The doctor broke another awkward silence as
+his curiosity got the best of him.
 
-"Can it really work?"
+"Can it really work?" he wondered aloud.
 
 Mercuriou shrugged.  This question he was prepared for.
 
@@ -350,7 +355,7 @@ Finally, he elicited a smile and a chuckle from Antonov.
 first time.
 
 "Because I'm not even forty, yet.  Speaking of which, old man, what
-have you been doing up here in these hills, anyway?"
+have you been doing up here in these hills, anyway, early retirement?"
 
 Vic chuckled.
 
@@ -422,14 +427,17 @@ there and 'hustle', I'll 'compete', I'll rip and claw my way
 to the top, and when I get there, I'll turn around and ram
 their capitalist system right back down their throats."
 
-Vic bowed his head and struggled with conflicting emotions.
+Vic bowed his head and struggled with conflicting emotions.  He loved
+the way he felt years younger in the company of Mercuriou's brash
+bravado, but felt now like a father who had seen his son drunk for the
+first time.
 
 "How often do you pray, Marc?"
 
 Mercuriou guffawed.
 
 "Right now, my only prayer is that Burns can figure how to get this
-thing into orbit... literaly!"
+thing into orbit... literally!"
 
 "I'll need some time to think about this," Vic concluded after several
 minutes of silence.
@@ -445,7 +453,7 @@ the rest of his life the way he spent his last ten years, fumbling
 around from one dumb thing to another while a court settlement ate all
 his money and his best ideas sat as notes on a hard drive.
 
-"Fuck it," he said as the car reached the paved road and he hit the
+"Fuck it," he said aloud as the car reached the paved road and he hit the
 gas.  If Victor Antonov didn't want in, he'd find another doctor...
 and another horticulturalist.
 
@@ -9269,3 +9277,7 @@ liberation theology is alive and well in the United States
 Launch day.
 
 "Why drink and drive when you can bake and fly?"
+
+======
+
+One of the worst aspects of capitalism is how it promotes mediocrity.
