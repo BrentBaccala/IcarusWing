@@ -141,11 +141,11 @@ awaiting the announced shutdown time.
 
 "Hey, Burns, what's up?"
 
-Jason Gertsen was a competent programmer who specialized in diving into
-stalled projects and getting them finished by pounding out source
-code.  Burns, really more a designer than a programmer, respected Jason for
-his staying power with the boring tedium the finicky machines imposed
-on their masters.
+'Red' Gertsen was a competent programmer who specialized in diving
+into stalled projects and getting them finished by pounding out source
+code.  Burns, really more a designer than a programmer, respected Red
+for his staying power with the boring tedium the finicky machines
+imposed on their masters.
 
 "I've got to get this optical interface installed."
 
@@ -153,7 +153,7 @@ on their masters.
 don't want to come?"
 
 On the one hand, an afternoon of sailing was a tempting proposition, and
-Jason had a thirty-six-foot Catalan.  On the other hand were the weeks
+Red had a thirty-six-foot Catalan.  On the other hand were the weeks
 spent writing his laptop's "screensaver" that had been black-boxed,
 white-boxed, leak-proofed and peer-reviewed; the hours spent drilling a
 thirty-second procedure; the flowcharted contingency
@@ -2338,7 +2338,9 @@ second ring.
 "My God, girl, where are you?  The police are looking all over the
 Rockies for you!"
 
-"I'm at NuTech; they're holding me prisoner here."
+"My God, girl, where are you?  I'm worried sick about you!"
+
+"I'm at TenTech; they're holding me prisoner here!"
 
 "What?!"  Her boss was incredulous.  "But they found your car near
 Denver!"
@@ -2395,6 +2397,8 @@ haven't got loaded yet?"
 Nobody said anything for a minute.  Finally, Vic spoke up.
 
 "Well, we've got checklists, right?"
+
+  [start fueling the 747]
 
 "Sure," Burns replied, and turned back to his computer terminal to
 begin pulling up the lists.  Each of the crewmen now went through the
@@ -2568,8 +2572,9 @@ and closed the airlock behind him.
 
 "No, you wear your spacesuit, I'm fine without one."
 
-"I'm the ship's doctor, and I'm giving you a medical order.  You
-put on this spacesuit, now."
+"Young lady," he replied with a air of chiverly, "I am this ship's
+doctor, and I am giving you a medical order.  You will put on this
+spacesuit, now."
 
 As Mercurio looked on, Andrea gave up.
 
@@ -2770,11 +2775,13 @@ completely and effectively disappeared into high Earth orbit.
 Five hours after the 747's launch, Burns fired the rocket engine of
 the first cargo module and put it into its transfer orbit.  NORAD
 detected the course change and reported it to the Pentagon within
-minutes.  By the time the third cargo module had been put into
-transfer orbit, it was clear to NORAD that the engine burns were
-lifting the modules into higher orbits, not deorbiting them as some
-kind of attack.  They computed the rendezvous point and readquired the
-747 there, just as it was docking with the first cargo module.
+minutes, who immediately passed this information on to an emergency
+session of the National Security Council.  By the time the third cargo
+module had been put into transfer orbit, the Air Force was convinced
+that the engine burns were lifting the modules into higher orbits, not
+deorbiting them as some kind of attack.  They computed the rendezvous
+point, aimed their imaging telescopes at that point, and were shocked
+to find a 747 there.
 
 In Washington, the President held a hurried meeting of his national
 security team, finally blowing up in frustration at their inability to
@@ -2821,7 +2828,7 @@ array designed to track moving satellites, and the television network
 had no such equipment readily available, they finally agreed to use an
 existing television satellite in geostationary orbit as a relay, which
 provided about twenty minutes of video capability each time the
-_Icarus_ passed around its ninety-minute orbit.  As soon as the
+_Icarus_ passed around its two-hour orbit.  As soon as the
 network received the first images of men floating in zero-gee in the
 cabin of a heavily modified 747, they knew they had their scoop, and
 carried the interview live, conducted by the anchor of their nightly
@@ -3101,9 +3108,12 @@ course its nuclear properties, despite the fact that _Icarus_ carried
 only a small sample of uranium in its chemistry lab and Burns had no
 intention of using a nuclear fuel source.  In fact, all the major
 chemical elements were well represented, with entire books on silicon,
-iron, and nearly a dozen on carbon and its various compounds.  There
+iron, and nearly a dozen on carbon and its various compounds.  The
+ship's custom navigation software was littered with references that
+hyperlinked directly into a book called _Celestrial_Mechanics._ There
 were also books on antenna theory, orbital mechanics, and hydroponics,
-as well as Mercuriou's hand-picked collection of ancient Greek and
+plant diseases, plant pathology,
+as well as Mercuriou's hand-picked collection of (foreign) ancient Greek and
 Latin authors, both in translation and in the original tongues.
 
 Almost as impressive was the software collection.  Every major
@@ -3121,6 +3131,7 @@ understatement.  The three-pound computer tablet in her hand offered
 the same information that would fill a small, elite university
 library.  The legal penalties for acquiring and possessing it added up
 to more than eighty years of prison time.
+to hundreds of years of prison time.
 
 "We've got a pressure drop," Alister announced from the copilot's
 seat, as an amber alert window popped up on the computer screen to his
@@ -3287,6 +3298,8 @@ watch the unfolding events in space.
 
 Meanwhile, Andrea released the harnesses on several large packing
 crates and moved them aside to follow the trail of the water droplets.
+A wave of fear swept over her.  _You_have_no_spacesuit._ Calming
+herself, she said a silent prayer, _Father,_watch_out_for_me_in_here._
 
 "Alister, keep reading the pressure off to me," she told the assistant
 engineer.
@@ -3299,7 +3312,7 @@ doors in front of the captain, now moving down the central chain of
 cargo modules.  Mercuriou bumped against several walls as he went, and
 pushed off roughly from them, partly because he hadn't fully learned
 how to maneuver in zero-gee, but more because his irate mood grew even
-more heated the further he went.
+more heated the further along he went.
 
 "Opening A-3."
 
@@ -3308,54 +3321,49 @@ doors?"  Alister asked him.  Burns shrugged in response, contenting
 himself with silently closing the doors behind the captain after the
 video monitors showed that he had passed.
 
+Meanwhile, Andrea was thinking.  The hole was almost certainly caused
+by a micro-meteor strike, and that meant it was almost certainly on
+the side of the module facing forward.
+
 Meanwhile, Andrea had found the pinhole leak at the root of the
 problem.  Unlike the space shuttle, designed for manned spaceflight
 operations from the beginning, the cargo modules were just large
 pressure tanks with cargo containers secured to their side.  At times
 this meant an inconvenient jumble of conduit that could have been
 better designed, but in this case it meant easy access to the
-punctured wall of the module.
+punctured wall of the module.  She began looking around for
+something to plug the hole with.
 
-"OK, I found the hole," she announced to the others, "now I need
-something to plug it with."  Just as she finished this statement, the
-captain propelled himself into C-4, still holding his helmet and
-gloves in one hand.
-
-"Excuse me, sir," she said as she reached for his helmet and pulled
-one of his gloves out of it.  Turning back to the puncture hole, she
-slapped the glove against it.  The interior pressure held the glove
-against the wall and stopped the leak.
+Just then, Merceriou opened the door and propelled himself into the
+module, still holding his helmet and gloves in one hand.
 
 "Doctor Yeats, we've got to get a few things clear right now,"
-he began, then interrupted himself to yell into his microphone.
+he began.
 
-"Burns, turn off these cameras!"
+"Excuse me... sir," she interrupted as she reached for his helmet and
+pulled one of his gloves out of it.  Turning back to the puncture
+hole, she slapped the glove against it.
 
-"Just a minute," Yeats stated, then keyed her own microphone.
+"That'll hold until we can patch it permanently," she announced,
+then crossed her arms over her chest.
+then put her hands on her hips.
+then put her left hand on her hip
+while still holding a wall strip with her right.
 
-"Alister, what's the pressure doing?"
-
-"Uhh.. it's at 75."
-
-"Let me know if it drops any lower.  I think I've got the hole
-plugged."
-
-Turning back to the captain, she turned off her microphone and crossed
-her arms over her chest.
-
-"Now you wanted to get something clear?" she asked.
+"Now you wanted to get some things clear?" she asked.
 
 Red-faced, Merceriou stared at her for several seconds, then taking
 his helmet and one remaining glove, left the cargo module and headed
 back to the bridge without saying another word.
 
+[
 Burns finally dealt with the problem by putting the damaged cargo
 module, along with a few other empty ones, in front of the others.
 The "ground sqwalk", as Mercuriou called the Earth-based media pundits,
 began talk of a rescue mission and how much it will cost NASA, and
 this is why we need more government regulation in aerospace-related
 industry, etc, etc.
-
+]
 
 T + 4 days
 
@@ -5909,14 +5917,16 @@ The room fell silent.
 
 "I guess I've got to think about it for a while."
 
-"Well, we've got NASA monitoring all of this, Kyle," she asked the
-video camera, "could you give us some help putting the cargo
-modules together?"
+"Well, we've got NASA monitoring all of this.  Kyle," she asked the
+video camera, "could you give us some help putting the cargo modules
+together?  We'll send you copies of the simulation software, and I
+think you've already got the manifests."
 
-"Don't worry about it," she told Alister, "we've got to have some kind
-of memorial service, I think, but we've got a lot of people back home
-who will help us, and I've got more hours of spaceflight logged than
-anyone else here."
+"We've also got to have some kind of memorial service."
+
+Turning back to Alister, she tried reassure him.  "Don't worry, we've
+got a lot of people back home who will help us, and I've got more
+hours of spaceflight logged than anyone else here."
 
 Alister furrowed his eyebrows.  It was the first time he had thought
 about it, but Dr. Andrea Yeats would for many years hold the record
@@ -5939,22 +5949,24 @@ the other's summary, which had been transmitted half an hour earlier,
 and then transmitting another.  They also arranged for an audible
 alarm to sound if they wanted to interrupt the other's proceedings.
 
-"Thought you might want to see this," Kyle announced in his 0800
-transmission, the first of this morning.
+"Oh, and thought you might want to see this," Kyle announced towards
+the end of his 0800 transmission, the first of the morning.
 
 He held a popular American newsstand tabloid to the camera.
 Alister's face dominated the front, which asked 'Can the kid get
 them home?'
 
 "Just to let you know the details, there's a panel of 'experts',
-telling what Burns' last moments must have been like, and also that
-some of Nostradomes's quatrains refered to the _Icarus_, that the
-death of your brilliant chief engineer is only the first of many woes
-to befall you guys, and that none of them would make it back to Earth
-alive."
+telling what Vic and Burns' last moments must have been like, how
+you're all on your own now to do all these critical orbital
+calculations, and, oh yeah, that apparently some of Nostradomes's
+quatrains refered to the _Icarus_, that the death of your brilliant
+chief engineer is only the first of many woes to befall you guys, and
+that none of you will ever make it back to Earth alive."
 
-"Thanks a lot, Kyle," Andrea told the video screen as Kyle's voice continued
-on uninterumpted.  "That's just what I wanted to hear."
+"Thanks a lot, Kyle," Andrea told the video screen as his voice droned
+on.  "That's just what I needed with my coffee!"
+"When we get home, remind me to read you your obituary over coffee!"
 
 
 T + 657 days
@@ -5998,8 +6010,11 @@ the infirmatory, and hardly looked up to see who it was.
 
 He answered with a snort.  "You don't want to know what I'm thinking."
 
-"Yes, I do."  He looked up at her.  "I really want to know what you're
-thinking."
+"Yes, I do."
+
+He looked up at her.  "This part of your suicide watch?"
+
+"No, I really want to know what you're thinking."
 
 He looked back down at the capsules in his hand, dry swallowed two and
 shoved the rest back into the container.  Then he floated still and
@@ -6135,7 +6150,9 @@ said a lot of things that needed to be said, and you've managed to
 find a platform where those things actually got heard.  Now, did you
 need to steal a billion dollars to do that?  I doubt it.  I suspect
 you could have found another way.  This is why I don't buy the
-Christians who say you have to fight against evil.  If there was ever
+Christians who say you have to fight against evil.  First off,
+it's un-Biblical - _resist_not_he_who_is_evil_.
+Second, if there was ever
 a time when you could have justified a revolution, it was two thousand
 years ago when slavery was as commonplace as money, paganism was the
 religion of the masses, and Rome was the terror of the Mediterranean.
@@ -6147,7 +6164,7 @@ in the beginning of John is this beautiful passage about him being the
 Word.  The Word was with God, and the Word became man, and the Word is
 the light of the world.  Why the Word?  Because the Word is the weapon
 of the Christian, and the pen is mighter than the sword / books are
-the light of the world."
+the light of the world / free speech is greatest weapon in the world."
 
 
 
@@ -6175,28 +6192,32 @@ how to open a wine bottle without spilling it everywhere."
 
 "What I've learned," the Captain answered, as he spun across the
 compartment and swallowed one of the larger floating drops, "is that
-if you spill red wine in space, it's a lot easier to clean up than on
+if you spill wine in space, it's a lot easier to clean up than on
 Earth!"
+
+"Alister, the picnic's starting!"  Andrea called out.
+
+"I'll be there in a minute," came the reply from the next module.
 
 Mercurio spilt only a few more drops as he "poured" the wine into two
 wine glasses, each one quickly covered with a flat plastic square.
-Drinking from straws was much easier, but Marc had dug into the ship's
-stores an hour earlier, produced the glasses alongside the bottle, and
-Andrea had stood on tradition.
+Drinking from straws was much easier, but an hour earlier, after
+Andrea suggested a picnic lunch, Marc had dug into the ship's stores
+and produced the glasses alongside the bottle, and Andrea had stood on
+tradition.
 
 "Cheers."
 
 They clinked glasses and laughed together as the Captain spilled wine
-all over his face as he tried to drink it.  Andrea grabbed a towel and
-started to wipe off his face.
+all over his face as he tried to drink it.  Andrea grabbed a towel.
 
 "You guys better come in here!" Alister yelled, then got up and
 propelled himself through the hatchway.
 
-"Well, m-maybe you want to come in here," he stammered as he realized
-that he was interrupting a "private" dinner.
+"Well, m-maybe you want to come in here," he stammered as he watched
+Andrea trying to clean the wine from Mercuriou's face.
 
-"What's up?" the Captain asked.
+"What's up?" the grinning Captain asked.
 
 "Somebody just smashed an airplane into the World Trade Center!"
 
@@ -6213,23 +6234,27 @@ discovery in the pages of a novel.  The other held it up to the sun
 for all the world to see its blazing red light that terrible September
 morning.
 
-At 1431 GMT, September 11, 2001, after first the event on Earth and
-then a radio transmission lag of exactly 3 minutes 17 seconds, the
-silent crew of three watched the second tower collapse.  In the days
-ahead, it would be revealed that Islamic terrorists had hijacked four
-American airlines.  Coincidently, or perhaps not, all were Boings.
-Two had slammed, full throttle, into the twin towers of World Trade
-Center, at one time the tallest buildings in the world, and
-headquarters to dozens of major companies.  Burns would have suggested
-imagining the pictures you've seen of jet crash scenes, then trying to
-project it 100 stories above you onto a skyscraper in lower Manhattan.
-Within hours, the buildings fell.  Burns would have then made a quick
-calculation based on the potential energy of a given mass at a given
-height along with the published weight of construction materials used
-in the skyscrapers to estimate the energy released by their collapse
-at ten kilotons of TNT - the size of a small atomic bomb.  Bankers,
-mail men, fire fighters, bus boys
-brokers, firemen, CEOs, bus boys,
+"Another Timothy McVeigh or something.  The country is so hated.  I
+thought about it; hell, you can say a lot about me, Andrea, that I'm a
+thief and all that, but I never did anything like this."
+
+The picnic was forgotten.  At 1431 GMT, September 11, 2001, after
+first the event on Earth and then a radio transmission lag of exactly
+3 minutes 17 seconds, the silent crew of three watched the second
+tower collapse.  In the days ahead, it would be revealed that Islamic
+terrorists had hijacked four American airlines.  Coincidently, or
+perhaps not, all were Boings.  Two had slammed, full throttle, into
+the twin towers of World Trade Center, at one time the tallest
+buildings in the world, and headquarters to dozens of major companies.
+Burns would have suggested imagining the pictures you've seen of jet
+crash scenes, then trying to project it 100 stories above you onto a
+skyscraper in lower Manhattan.  Within hours, the buildings fell.
+Burns would have then made a quick calculation based on the potential
+energy of a given mass at a given height along with the published
+weight of construction materials used in the skyscrapers to estimate
+the energy released by their collapse at ten kilotons of TNT - the
+size of a small atomic bomb.  Bankers, mail men, fire fighters, bus
+boys brokers, firemen, CEOs, bus boys,
  - all lost their lives that terrible
 morning.
 
@@ -6316,19 +6341,19 @@ to Andrea Yeats for the last two years.
 "Took advantage of freedom!  You make it sound like anybody can just
 walk up to one of these training companies, 'hey, I'd like to learn to
 fly a 767'... 'sure, no problem'.  You've got to have _money_ to fly!
-All those people out there who'd love to fly an airplane but can't or
-don't because _it's_too_expensive_... Took advantage of freedom!  They
-took advantage of _capitalism_!  They had the one thing that will make
+How many people listening to this program would love to learn to fly
+but _it's_too_expensive_... Took advantage of freedom!  They took
+advantage of _capitalism_!  They had the one thing that will make
 people say 'yes' in a society that says 'no', 'No', 'NO' - money!
 They took advantage of the fact that Osama bin Laden is a
 _multimillionare_!"
 
 All of his opponents were on the program, arranged on the TV screen in
-a montage of talking heads.  Ecks was speechless, unable to believe
-that his capitalist constituents were now being accused of aiding and
-abetting terrorism.  Wye sputtered nonsense, red-faced with rage.
-Only Zee remained stony and impassive, and it was he who answered the
-space captain now.
+a montage of talking heads. [CA]  Ecks was speechless, unable to decide if
+Mercuriou was defending the terrorists or attacking his capitalist
+constituents.  Wye, red-faced with rage, sputtered nonsense.  Only Zee
+remained stony and impassive, and it was he who answered the space
+captain now.
 
 "Yes, captain, they took advantage of capitalism, they took advantage
 of democracy, they took advantage of freedom.  They came here, lived
@@ -6372,6 +6397,11 @@ _in_it_for_themselves_ because _that's_what_runs_democracy."
 "It doesn't make a difference."
 
 "It doesn't make a difference!?!  And on God's earth, why, woman, why?"
+
+Earth-bound television viewers were witnessing a bizarre display.
+Ecks, Wye and Zee had fallen silent, while Merceriou carried on an
+animated discussion with the unseen Andrea Yeats.  Only her voice
+could be heard from off screen.
 
 "Because you _forgive_your_enemies_, as I've tried to tell you about a
 hundred times," Andrea was becoming irate.  "You don't smash airplanes
@@ -6867,7 +6897,7 @@ partially completed International Space Station.
 
 Mercuriou looked back towards his crew, grined, then opened the
 pressure door.  For the first time in almost three and a half years,
-they set eyes on someone else.
+they set eyes on someone else.  It wasn't who they expected.
 
 "Dr. Andrea Yeats!" exclaimed the booming, heavily accented voice
 of an overweight Russian cosmonaut.
@@ -6907,18 +6937,18 @@ The space station fell quiet, at least as quiet as all the machinery
 running would allow.
 
 "Well, I don't know," drawled the intoxicated Captain.  9/11 was the
-only other time on the mission he'd been stoned or drunk or otherwise
-inebriated.  "I suppose there'll be some kind of big civil trial, for
-all the money.  Probably there'll be a criminal trial first, we broke
-a lot of computer crime laws.  I don't know.  Maybe some prison time.
-Who knows?"
+only other time on the mission he'd been even mildly inebriated.  "I
+suppose there'll be some kind of big civil trial, for all the money.
+Probably there'll be a criminal trial first, we broke a lot of
+computer crime laws.  I don't know.  Maybe some prison time.  Who
+knows?"
 
 "There's another way down."
 
-Borzov, having drunk more than three times any of the others, didn't
-seem particularly drunk.
+Borzov, despite having drunk more than three times any of the others,
+didn't seem particularly drunk.
 
-"Seriously, captain, _Columbia_ isn't the only way off this station.
+"Seriously, captain, _Columbia_ is not the only way off this station.
 There are many in Russia who have heard your words against capitalism.
 There is also a Soyuz capsule attached here, too."
 
@@ -6937,11 +6967,12 @@ abilities, my dear, as I have tried to tell you many times."
 
 "Defined by our limitations?" Alister asked.
 
-"Yes.  Defined by our limitations.  Your first officer talks a lot
-about religion, doesn't she?  All these people who talk about
-religion, talk about giving to all who beg of them, talk about
+"Yes, young man.  Defined by our limitations.  Your first officer
+talks a lot about religion, doesn't she?  All these people who talk
+about religion, talk about giving to all who beg of them, talk about
 forgiving their enemies, and then go to work for the capitalists on
-Monday morning, why?  Because they are _defined_by_their_limitations_."
+Monday morning, why?  Because they are
+_defined_by_their_limitations_."
 
 Borzov let his words sink in, then continued.
 
@@ -6951,14 +6982,14 @@ abilities or more by your limitations?"
 "Limitations, definitely," Mercuriou answered quietly, but without
 hesitation.
 
-"Hah!  You see!  _Defined_by_our_limitations_, young man!  Andrea here
+"You see!  _Defined_by_our_limitations_, Alister Compton!  Andrea here
 believes men can walk on water!" Borzov exclaimed, perhaps extracting
 a small vengeance for Andrea's remark about communism.  "So why, my
 dear, do we need ships?"
 
 Andrea answered slowly.  "We can't walk on water because our faith in
-God isn't strong enough, I think that's the only really consistent
-answer."
+God isn't strong enough, I think that's the only answer really
+consistent with the Gospel."
 
 "A limitation of faith!"  Borzov exclaimed.  "Or perhaps her
 limitation is her inability to accept that the world
@@ -7082,10 +7113,14 @@ important mission goal had been achieved, but I wouldn't listen."
 
 Alister fell quiet.
 
-"So what was the point then, that it was all for nothing?"
+"So what was the point then, that it was all for nothing, and this is
+the end?"
 
 "No, think about it, Alister," the captain answered slowly but with
-conviction, exhaling first.  "This nerve we've struck with people, the
+conviction.  His thoughts drifted back to college.  _Rhetoric._
+_Maybe_they_should_have_required_a_class_in_honesty_instead._
+
+"This nerve we've struck with people, the
 stuff we've talked about - freedom, democracy, religion, God - this is
 the stuff Plato and Aristotle wrote about, St. Matthew and Thomas
 Aquinas, this is the soul of our species.  Karl Marx, Victor Hugo, Leo
@@ -7127,7 +7162,7 @@ startups.  Its name is a hats-off to my friend Terry Slattery and
 Chesapeake Computer Consultants, which in its hey-day was one of
 Cisco's top training partners (and my first corporate employer).
 
-"Jason Gertsen" is also a tip of the hat to Rob Widmer, Terry's first
+"'Red' Gertsen" is also a tip of the hat to Rob Widmer, Terry's first
 employee (I was his second).  I respect Rob's "staying power with the
 boring tedium the finicky machines impose on their masters."
 
@@ -9279,3 +9314,12 @@ Launch day.
 ======
 
 One of the worst aspects of capitalism is how it promotes mediocrity.
+
+======
+
+"And if you could land and take off again, you could claim the X Prize."
+
+It was weak, but Andrea was grabbing at straws.
+
+"The X Prize?  Doctor, I'm after the M Prize."
+
