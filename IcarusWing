@@ -113,14 +113,26 @@ no reason to change plans.
 He logged out, shouldered his laptop case
 and headed for the server room.
 
-A Kerningham virus makes compilers,
-the programs which convert source code into
+Back in the early 70s, those halcyon
+days when spam came in a can
+when pirates wore hooks
+keyrings were kept in your pocket
+and passwords were sent in the clear,
+pings were diagnostic tools
+porn sites were on Gay Street,
+copy protection meant regular backups
+and hacker was a term of respect,
+Brian Kerningham,
+respected American computer scientist,
+had demonstrated that compilers,
+the programs which convert the source code to
 the bits and bytes that govern the machine,
-perform covert alternations to the compiled programs.
+could perform covert alternations to the compiled programs.
 What's more, if the compiler is itself compiled
 (and who would write a compiler from scratch?),
-the virus can propagate from one generation of
-compiler to the next, effectively disappearing into the billions of
+a virus could propagate from one generation of
+compiler to the next, altering programs at will
+and effectively disappearing into the billions of
 bits on a computer's hard drive.  Such a virus is particularly
 effective on closed, heavily customized systems, like those used by
 router manufactures wanting their custom software to take
