@@ -84,9 +84,9 @@ were hot, and Burns' qualifications made
 him a genuine find.
 A white board talk was his job interview;
 the background check non-existent.
-He had quickly got the run of Chesapeake's operation,
-concerned far more with the next multi-million-dollar order than
-implementing any real security against an inside hack.
+He quickly got the run of Chesapeake,
+concerned far more with the next million-dollar order than
+deploying any real security against an inside hack.
 
 Today, the cubicles were largely deserted.  As
 he slipped into his, an attractive femme
@@ -97,18 +97,18 @@ remind "her" programmers the obvious.
 When Burns had quit this job, he would not miss
 "Top of the morning, there, Burns," or
 "Big talk today, Burns," or
-"Cable's loose, Burns," or
+"Got a cable loose, Burns," or
 
 "System goes down today, Burns!"
 
 "Wouldn't miss it for judgement day,"
 he muttered back without turning around,
 propelled his chair against the terminal stand,
-repressed anxiety and typed his password.
+repressed his anxiety and logged in.
 The main development computer, scheduled for
 a hardware upgrade, would be shutdown in less than an hour.
 His e-mails, mostly notes from various employees turning the
-day's outage into an excuse for a long weekend, offered
+day's outage into an excuse for a holiday weekend, offered
 no reason to change plans.
 He logged out, shouldered his laptop case
 and headed for the server room.
@@ -116,10 +116,10 @@ and headed for the server room.
 Back in the early 70s, those halcyon
 days when spam came in cans
 and porn sites were on Gay Street, Brian Kerningham,
-a prominent, respected computer scientist,
+a respected American computer scientist,
 had demonstrated that a compiler,
-the program which convert the source code to
-the bits and bytes that govern the machine,
+the program which converts source code into
+the bits and bytes that actually run the machine,
 could alter covertly the programs it compiled.
 What's more, if the compiler is itself compiled
 (and who would write a compiler from scratch?),
@@ -128,26 +128,26 @@ compiler version to the next,
 altering programs at will
 and effectively disappearing in the billions of
 bits on a hard drive.  Such a virus is particularly
-effective on closed, heavily customized systems, like those used by
+effective on closed, heavily customized systems, like those of
 router manufactures wanting their custom software to take
 advantage of their custom hardware.  Chesapeake.
 
-Burns keyed the door to the server room and walked in.  Inside the
-white-walled room an elevated floor covered a haylon
-fire extinguisher system that could purge all traces of
-breathable air within thirty seconds.
-Oxygen tanks with respirator masks were mounted at prominent
-points around the walls.  Amid floor-to-ceiling racks
-loaded with switch hubs, firewalls and RAID arrays
-was a brand new multi-processor array, unpowered and silent.
-Several technicians chatted leisurely amonst themselves,
+Burns keyed the server room door and walked in.
+Above an elevated floor that covered a haylon
+fire extinguisher system were floor-to-ceiling arrays
+loaded with switch hubs, firewalls, RAID arrays,
+and a 10,000-BTU air conditioner to dissipate the heat.
+A UPS on the roof could power everything for an hour.
+A brand new multi-processor system sat, unpowered and silent,
+while
+several workers chatted leisurely amonst themselves,
 awaiting the announced shutdown time.
 
 "Hey, Burns, what's up?"
 
-'Red' Briwom was a competent programmer who specialized in diving
-into stalled projects and getting them finished by pounding out source
-code.  Burns, really more a designer than a programmer, respected Red
+'Red' Briwom specialized in diving
+into stalled projects and getting them finished by pounding out code.
+Burns, really more a designer than a programmer, respected Red
 for his staying power with the boring tedium the finicky machines
 imposed on their masters.
 
@@ -167,7 +167,7 @@ apartment with a network link and two phone lines.
 "No, thanks," Burns said without a hint of deceit in his voice.
 "I gotta get this done."
 
-Burns crossed to the other side of the room, where he was working on a
+He crossed to the other side of the room, where he was working on a
 tricky install of a new high-speed optical interface in one of the
 test machines.  Somehow, he just couldn't seem to get the settings
 right.  Once set up, he emailed his roommate, "How about lunch?"
@@ -176,7 +176,7 @@ _Everything's_go!_
 
 Forty five minutes later, with the main system shut down and half its
 components spread across a table, two of the three technicians were
-out of the room, one to take a soda break and another to retrieve a
+out of the room, one to the restroom and another to retrieve a
 power cable from his desk.  Burns sent another email, "Let's try
 Bogart's."  Back in the apartment, Marc Mercuriou skimmed down his
 list of local restaurants and the names they translated into in their
@@ -188,24 +188,30 @@ but designed that he had to be absolutely sober in case _anything_
 went wrong.
 
 Nothing went wrong.  He practicly sprinted across the room as soon as
-the door closed behind the last tech.  The situation was almost ideal;
+the door closed.  The situation was almost ideal;
 one of the scenarios he had drilled for.  The new machine was still
-unpowered; the hard drive had been installed but was uncabled.  Burns
+unpowered; the hard drive installed but uncabled.  Burns
 connected a data cable from his laptop to the drive, then plugged in a
-special cable he had built that could briefly power a server's drive
+custom-built cable that could briefly power a server's drive
 from the laptop's battery.  He hit a three-key sequence on the laptop,
 and ventured a glance at the door.  Nobody.  The laptop beeped.  He
 killed the power, disconnected both cables, and dashed back across the
-room with his laptop.  It had taken less than 15 seconds.  "Let's shoot for
+room with his laptop.  The hack had taken less than 15 seconds.
+What would become one of the world's most infamous hacks
+had taken less than 15 seconds.
+"Let's shoot for
 happy hour instead," he emailed Mercuriou, who read the message with a
 wry smile that soon broke into a broad grin.
+It would become one of the world's most infamous hacks.
+It would be one of the world's most infamous hacks.
+It had taken less than 15 seconds.
 
-Burns preserved appearances by consuming another half hour to finish
-installing the optical interface, then left.  Buoyed by an air of near
-invincibility, he practically floated out to the parking lot, tossed
-the laptop in the back seat, fired up a sneak-a-toke cleaverly
-designed to look like a cigarette, cranked the tunes and floored the
-rag-top all the way home.
+Burns preserved appearances by consuming another half hour to
+'finally' finish the optical interface, then left.  Buoyed
+by an air of invincibility, he floated back out to the
+parking lot, tossed the laptop in the back seat, fired up a
+sneak-a-toke cleaverly designed to look like a cigarette, cranked the
+tunes and floored the rag-top all the way home.
 
 
 T - 370 days
@@ -223,8 +229,9 @@ teakettle to boil while slowly shaking his head in admiration.
 From his perch on the couch, Mercuriou nodded in assent.  In his late
 thirties and a shade under six feet tall, his cheekbones betrayed the
 mixed features of his hybrid Romanian/Irish ancestry.  A white
-T-shirt, khaki shorts, and tennis shoes comprised Burns' roommate's
-undistinguished attire.  What differentiated him more were the
+T-shirt, khaki shorts, and tennis shoes comprised the
+undistinguished attire of Burns' roommate.
+What differentiated him more were the
 subtleties - a refusal to allow a television into the apartment; an
 hour each day, timed on a stopwatch, devoted to reading Latin; a
 framed letter of rejection from the University of Chicago.  Like his
@@ -237,11 +244,9 @@ would ultimately win.
 "We had to wait four more months to make sure it got into their
 production system.  Burns got sick of the job and quit after two, but
 it didn't matter.  They've been shipping it for about six months now."
-for almost a year now."
 
-Victor Antonov, the man who watched the teakettle in the kitchen, was
-nearly ten years his elder, heavy set to nearly the point of obesity,
-dressed in a button-down shirt and light slacks, and with a bristling
+Victor Antonov, watching the teakettle in the kitchen, was
+nearly ten years older, heavy set with a bristling
 mustache that often covered a mischevious smile.  They had met in
 college, when Mercuriou was an eighteen-year-old freshman in love with
 classical literature and Vic was finishing medical school.  Marc had
@@ -257,11 +262,10 @@ Mercuriou puckered his lips, then answered with a single word.
 
 "Oh, man, not Mars," Antonov exclaimed almost involuntarily as he
 rolled his eyes, sighed deeply, then slowly poured the water into a
-pair of ceramic mugs.  _Not_again_, he thought.  His level of
-distraction was illustrated by his need to return to the kitchen for
+pair of ceramic mugs.  _Not_Mars, he thought, _not_again_..
+Walking into the living room, he had to return to the kitchen for
 teabags, as the mugs contained nothing but hot water.  Meanwhile,
-Mercuriou, somewhat muffed (?) by his reaction, continued his prepared
-explaination.
+Mercuriou, continued his prepared explaination.
 
 "Burns' got a plan, and I think it'll work.
 Spaceflight is perfectly doable, that's been
@@ -271,13 +275,12 @@ always money.  You can't fly without money,
 you can't ride without money, no money
 means no electricity, no house, no food,
 hell, they sell bottled water now for
-two bucks a pop and half the planet can't
+a dollar a pop and half the planet can't
 drink the crap that comes out of the tap,
-with all the air pollution, next thing'll be bottled air,
-and you won't even be able to breath without money."
+next thing'll be bottled air,
+you won't be able to breath without money!"
 
-He paused.  The explanation was in danger of
-degenerating into a tirade.
+He paused.  The explanation degenerating into a familiar tirade.
 
 "Well, now we've got money," he concluded cynically, producing a wad
 of fifty-dollar bills and fanning them on the table like a deck of
@@ -291,8 +294,8 @@ longer completely random," he replied to the unasked question.
 
 "Marc, this isn't like you, you're not a thief."
 
-"Well, maybe I've changed," the younger man answered bitterly, the
-words dry, uninflected, emotionless.
+"Well, maybe I've changed," the younger man answered, the words dry
+and emotionless.
 
 He paused, and now switched his tone of voice to that of a teenager
 stammering to explain a 2 A.M. party to his parents.
@@ -308,7 +311,7 @@ and then to the only bedroom on the far end of trailer, where a gray
 cat had disappeared as soon as a stranger had entered the abode.
 
 "Mars, huh," the doctor muttered.  Mercuriou wasn't joking, that much
-was clear.  He thought back over the years he had known Marc
+he knew.  He thought back over the years he had known Marc
 Mercuriou.  If he had learned one thing about the man, it was that he
 wouldn't undertake a project if he didn't think he could finish it.
 He'd sit and do nothing before undertaking something half-baked.  On
@@ -334,10 +337,10 @@ overcome the technical problems."
 else am I going to do, take my stolen millions and retire on a beach
 somewhere?"
 
-Finally, he elicited a smile and a chuckle from Antonov.
+Finally, he elicited a smile from Antonov.
 
-"Why not?" the doctor asked mischievously, his grin appearing for the
-first time.
+"Why not?" the doctor asked mischievously, his grin bristling under
+the moustache for the first time.
 
 "Because I'm not even forty yet!  Speaking of which, old man, what
 have you been doing up here in these hills, anyway, early retirement?"
@@ -347,49 +350,46 @@ Vic chuckled.
 "Let's go take a look."
 
 They walked out into the high summer of the New Mexico mountains, hot
-and dry, a day that made the ancient Greek scholar wish for a
-convertible, a surf board, and the P.C.H, before Southern California
-had been paved over by twelve-lane highways and built up by pre-fab
-houses and office buildings that looked like they'd been dropped down
-from the sky in a Tetris game.  He paused and inhaled deeply, saving
-the aroma of desert flora as a song fragment came to memory.
+and dry, a day that made the Latin scholar wish for a convertible, a
+surf board, and the P.C.H, before Southern California had been paved
+over by twelve-lane highways and built up by pre-fabs that looked like
+they'd been dropped down from the sky in a game of Tetris.  He paused
+and inhaled deeply, saving the aroma of desert flora.
 _Warm_smell_of_colitas,_rising_up_through_the_air...
 
 Mercuriou's Toyota and Vic's Jeep were the only vehicles in sight,
-parked next to the trailer at the end of a long driveway between a
-high cliff rising to the left and a dry riverbed on the right.
+parked next to the trailer at the end of a long driveway that wound
+along between a high cliff rising to the left and a dry riverbed on
+the right.
 
-Vic lead the way around the side of the trailer, down a dirt path
-through the scrub and catcus to the door of a second trailer some
-distance away.  It looked much like the first one, except that all of
-the window curtains were drawn.  Closer inspection revealed that white
-drywall had been placed over the interior off all the windows, behind
-the curtains.  It was impossible to see in or out of the trailer.  Vic
-used a key to take a padlock off the door and led the way in.
+Vic lead him around the back of the trailer, down a dirt path through
+the scrub to the door of a second trailer some distance away.  It
+looked much like the first one, except that all of the window curtains
+were drawn.  Closer inspection revealed that white drywall backed the
+curtains, making it impossible to see in or out.  Vic used a key to
+take a padlock off the door and led the way in.
 
-Inside, the trailer had obviously been stripped of almost all its
-original furniture and fixtures.  The main room, about thirty feet
-long, was lined on both sides with plastic tubs raised about a foot
-off the floor.  Inside the tubs were perhaps a hundred potted
-marijuana plants, each sporting a bushy top of their distinctively
-branching five-part leaves.  Two rows of bright lights hung down from
-the ceiling on chain links that could be adjusted in length as the
-plants grew upward.  An air conditioner hummed in the window, and a
-dehumidifier on the floor discharged outside the water it condensed
-from the air.  The lights ran off a timer, which also periodically
-turned on a pump that flooded the tubs with a liquid fertilizer from a
-child's toy plastic pool in the corner.  The smell, green and
-plantish, mixed with another aroma distinctly reminiscent of a skunk's
-spray, was overwealming.
+An overwealming smell hit Mercuriou - skunk.  Inside, the trailer had
+been stripped of its original furniture and fixtures.  The main room,
+some thirty feet long, was lined on both sides with plastic tubs
+raised about a foot off the floor.  Inside the tubs were perhaps a
+hundred potted canibis (marijuana) plants, each sporting a bushy top of their
+distinctively branching five-part leaves.  Two rows of grow lights
+hung down from the ceiling on chain links that could be adjusted in
+length as the plants grew upward.  They ran off a timer, which also
+periodically turned on a pump that flooded the tubs with liquid
+fertilizer from a child's toy plastic pool in the corner.  An air
+conditioner hummed in the window, and a dehumidifier discharged into
+the pool the water it condensed from the air.
 
-Vic walked around the raised tubs, selected one of the mature buds,
-broke it off by its stem and passed it to Mercuriou.  It was
-top-quality marijuana, never packaged or pressed, covered with tiny
-white crystals of the psychoreactive drug tetrahydrocannabinol.  The
-guest nodded his head in appreciation, not really sure what to say,
-then finally mumbled some kind of complement on his friend's carefully
-maintained operation.  Vic selected another, similar bud, popped
-it in his mouth, and motioned for his guest to do the same.
+Vic selected one of the mature buds, broke it off by its stem and
+passed it to Mercuriou.  It was top-quality marijuana, never packaged
+or pressed, covered with tiny white crystals of the psychoreactive
+drug tetrahydrocannabinol.  The guest nodded his head in appreciation,
+not really sure what to say, then finally mumbled some kind of
+complement on his friend's carefully maintained operation.  Vic
+selected another, similar bud, popped it in his mouth, and motioned
+for his guest to do the same.
 
 "I told you," the doctor wryly noted, "You should quit smoking...
 It's bad for your health!"
@@ -399,23 +399,23 @@ Mercuriou grinned.
 "So you eat it, like brownies?"
 
 "Sure.  But why fool around with brownies?  It's better fresh, just
-the way the Great Spirit made it.  I've got some AIDS patients I take
-care of, just G.P. stuff, but the guys who pay keep this place
-running."
+the way the Great Spirit made it.  I've got some AIDS and cancer
+patients I take care of for free, and then there's the guys who pay
+that keep this place running."
 
 Another hour of small talk found them back out in front of the cars,
-with Mercuriou ready to leave, but still waiting to see if his old
-friend would join his venture.
+now well intoxicated.  Mercuriou was ready to leave, but still waiting
+to see if his old friend would join his venture.
 
-"I'll play their capitalist game," Mercuriou was saying.  "I'll get
+"I'll play their money game," Mercuriou was saying.  "I'll get
 out there and 'hustle', I'll 'compete', I'll rip and claw my way to
 the top, and when I get there, I'll turn around and ram their
 capitalist system right back down their throats." [CA]
 
 Vic bowed his head and struggled with conflicting emotions.  He had
 always loved the way he felt years younger in the company of
-Mercuriou's brash bravado, but felt now like a father who had seen his
-son drunk for the first time.
+Mercuriou's brash bravado, but felt now like a father seeing his son
+drunk for the first time.
 
 "How often do you pray, Marc?"
 
@@ -445,7 +445,7 @@ and another horticulturalist.
 Almost at the same time, Vic was still standing in the New Mexico sun,
 watching the driveway Mercuriou's car had long since disappeared down.
 The dust had settled, and nothing disturbed the scene now except the
-buzzing of insects.
+buzzing of insects. [what kinds of insects?]
 
 "This," he said in a low voice to nobody in particular, "will require
 a vision quest."
@@ -454,7 +454,7 @@ a vision quest."
 T - 355 days
 
 The entire eastern sky was lit a brilliant red hue, as if a frosted
-piece of red glass had been slipped in behind the mountains.  Eyes
+pane of red glass had been slipped in behind the mountains.  Eyes
 closed, wrapped in a light Indian blanket, Vic calmly awaited the dawn.  A
 bright yellow light pierced out from a gap in the mountains and began
 to widen into the orb of the sun.  Though conscious of the light, Vic
@@ -569,6 +569,7 @@ who had grown up in a nursery, with cartoon wallpaper and colorful
 mobiles, and only occasional flickers of a distant fire glimpsed
 through the window.  _Men_with_guns_on_a_cruise_ship_.
 _A_protest_march_.  _Soldiers_patrolling_a_street_.
+_Protest_marchers_burning_a_flag_.
 
 They had emerged from the nursery to find the house engulfed in
 flames, and there was no way out.  Many gave themselves to the fire;
@@ -592,7 +593,8 @@ a watch.  No, the morning sun still falted the zenith.
 _What_else_am_I_going_to_do?__Take_my_stolen_millions_and_retire_on
 _a_beach?_
 
-_What_else_are_you_going_to_do?__Grow_pot_in_the_mountains?_ Vic
+_What_else_are_you_going_to_do?__Live_in_a_trailer_and_grow_pot_
+_in_the_mountains?_ Vic
 sighed.  His own life certainly hadn't turned out the way he had
 expected it.
 
@@ -654,7 +656,7 @@ of priorities, a sense of a direction forward.
 
 _It's_how_we_live_that_defines_us_.  How was he going to live?
 Growing pot in the mountains?  Twenty years in the big house with
-Mercuriou and Burns?  Blown to bits in some goofy launch attempt?
+Mercuriou?  Blown to bits in some goofy launch attempt?
 
 _What_if_it_works?_ It was almost impossible.  How could something
 this _crazy_ actually _work_?  _Crazy._ Yes, _crazy_.  Maybe he was
