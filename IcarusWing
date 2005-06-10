@@ -1124,127 +1124,6 @@ northern extremnities of Houston, she walked to Interstate 45, sat her
 duffle bag down beside the onramp, and began waiting for a ride.
 
 
-T - 200 days
-
-Burns was quite busy now with a whole host of design problems, few of
-which he could task off to the subordinates they'd hired, and all
-requiring detailed attention.  The mass production of N-1033, as part
-of a legitimate contract with NASA, was one of the few things he could
-task off, and Mercurio had in fact taken the entire N-1033 operation
-off Burns' hands, hiring a team of chemical engineers to design the
-tanks, piping, reaction chambers, and control equipment of a small
-refinery required to mass produce a chemical product.  Since the
-Captain dealt with NASA also exclusively himself, made sure he was
-present everytime NASA representives were around, and carefully
-segregated the designer from the operators of the chemical plant, he
-was able to effectively lie about how much N-1033 NASA was actually
-buying.  In fact, the company was massively over-producing the rocket
-fuel, a detail known to less than half a dozen men despite the fact
-that well over a hundred people were involved in the operation in one
-way or another.  Mercurio had mastered the military concept of
-"need-to-know", and in fact was as brilliant a manager as Burns was an
-engineer.
-
-Money was still a problem.  Financial statements could be fabricated,
-and loans could cover short-term discrepancies, but the simple fact
-remained that, even after a hefty markup, NASA wasn't paying for
-anything close to the quantities of chemicals actually being consumed.
-Somehow the costs had to be covered.  Burns had wanted to go back to
-hacking, but Mercurio had flat out refused this proposal.  Burns'
-talents were required elsewhere.  Instead, the Captain assigned Vic,
-who had basically nothing to do at the moment, to scout the Internet
-for likely targets.  Under conditions laid down by Burns and approved
-by Mercurio, his assignment was basically to look but not touch.
-
-For almost a month, Vic spent several hours each day looking but not
-touching.  It wasn't boring work.  It's easy to spend hours surfing
-the Internet, and Vic was surfing into company's internal networks,
-monitoring their web usage, reading private emails, grabbing
-passwords, watching supposedly secure logins.  Finally he settled in
-to a Delaware-based banking firm called Keystone Securities.  With a
-seat on the New York Stock Exchange, Keystone was a mid-sized
-financial services broker that specialized in portfolio management for
-corporate retirement funds, but was diversified into other banking
-operations as well.  Vic's survey of their private financial
-statements showed them with well over a billion dollars in assets,
-mostly in the form of securities.  Furthermore, they were insured by
-FDIC, the U.S. Federal Deposit Insurance Corporation, which meant that
-stealing from them would effectively be stealing from the
-U.S. Government.  Mercurio wouldn't have OK'ed theft from retirees.
-On the other hand, he had no problem with the Federal Government
-unwittingly underwriting his operation.
-
-The hack was made possible by Keystone's dependance on a IBM mainframe
-computer for the majority of their electronic banking operations.
-The brokers controlled the mainframe from PCs interconnected
-on a private corporate network.  A firewall allowed the PC users
-to access the Internet without allowing Internet access to
-the private network.  Of course, this design depending on
-correct operation of the firewall, manufactured by... Cisco.
-
-The software on the PCs was designed to emulate type 3270 mainframe
-terminals, and used unencrypted connections for communication with the
-mainframe.  Since the connections were completely within the corporate
-network, this wasn't regarded as a security risk by the designers.
-Their concern was focused on preventing a breakin from the outside.
-Nobody considered the possibility that a deliberate trapdoor might
-have been placed among the millions of machine instructions that ran
-the routers interconnecting the network.  Worse than the data
-connections being unencrypted, they were also unsigned, lacking any
-cryptographic signature that the mainframe might have used to ensure
-that the terminal sessions originated from trusted computers.
-Instead, Keystone's internal network depended entirely on password
-protection, which Vic easily circuvented simply by asking the routers
-to record the passwords as they went by.
-
-Mercurio knew that a billion dollar hack, unlike their lottery
-rip-off, wouldn't go unnoticed.  He delayed until the last minute,
-spent every penny of every line of credit he could get his hands on,
-made a master list of everything that still needed to be purchased,
-and lined up the purchase orders in advance.  He had front
-corporations set up in Europe and the Caribbean, with bank
-accounts in Lichtenstein and the Bahamas.  He leased
-a half-dozen plots of empty land in western U.S. states, selecting
-them for both isolation from towns and easy highway access.
-
-....
-
-"Half their currency trading operation is based on arbitrage.  They
-look for an eighth-point discrepancy between say, the price of gold
-futures in Chicago and the price of gold in London.  It's a guaranteed
-win if you can move fast enough to take advantage of it, and that's
-why they're so heavily computerized.  The software makes almost all
-the trading decisions.  Now, they've built their entire network out of
-Chesapeake equipment, so we're in like Flint from that angle.  Also,
-they develop all their own software, so we've already got their source
-code.  We've got a targeted modification that, when triggered, will
-make loosing trades.  Once we're done, we flip the switch again, and
-the software goes back to behaving like normal."
-
-"It does have the disadvantage of leaving evidence on the hard disk.
-The hack should remain dormant, but will be there if somebody starts
-looking hard enough."
-
-....
-
-Finally, on a Friday afternoon, they went in.  First, they had their
-hacked routers cut all legitimate connections to the Keystone
-mainframe.  Their network administrators knew something was amiss, but
-focused at first at the apparent inability of users to login over a
-network that appeared to otherwise be functioning normally.  Meanwhile,
-the hackers instructed the mainframe to dump nearly every one of
-Keystone's NASDAQ securities onto the market, then immediately began a
-series of wire transfers to numbered bank accounts as the money from
-the sales rolled in.  By midnight, when they returned the routers to
-normal, Keystone Securities was effectively bankrupt.  The traders,
-being told only that there were network problems, had mostly taken off
-early.  The network administrators, puzzled at why the network had
-malfunctioned, then equally puzzled as it mysteriously returned to
-normal, shrugged their shoulders and went home.  It wasn't until
-Saturday morning that the company's partners began to realize the
-gravity of their situation.  They were bankrupt.
-
-
 T - 138 days
 
 Alister Compton puzzled over the messages on the screen in front of
@@ -3622,6 +3501,40 @@ T + 6 days
 it's because the people choose it."  The speaker was David Wye, a
 U.S. senator.  Mercuriou was once again in a televised debate.
 
+"The people!" Mercuriou sneered.  "Which people, Senator, surely not
+all the people!"
+
+"Yes, _all_ the people!"
+
+"Well what about all the people in jails?  Do they choose their own
+leaders?  How about drug users?  Is that why we have a War on Drugs,
+because they choose their own leaders, too?"
+
+"We have a participatory democracy, Captain!  Those people can
+petition their government to change those laws, and if enough
+people support them, the laws _will_ change!"
+
+"So not all the people, Senator, only those who have enough people
+supporting them, right?"
+
+"No, Captain, everyone can participate in our government!"
+
+"But that's not how you started!  You didn't say the people could
+_participate_ in their government!  You said the people could
+_choose_their_own_leaders_!  Hell, I'll take 'participatory
+government' any day.  You participate, and I'll make all the
+decisions!  What do you say?"
+
+"Look here, I don't know what you're trying to say..." Wye sputtered.
+
+"Well then let me be crystal clear, Senator.  I don't think your
+'participatory government' is worth a hill of beans [CA].  The
+majority of people - not all the people, mind you, just one group of
+people - make all the decisions.  Everybody else gets to 'participate'
+about the same way you could 'participate' in Russia!"
+
+...
+
 "Well, senator, I'll agree with you that this is a democracy, but I
 don't think that changes things much.  Let's say Russia had had
 freedom of speech, and freedom of the press, and free and open
@@ -3896,7 +3809,7 @@ can have freedom to go to whatever church you want, but you can't have
 a society without some kind of shared norm of morality, and that means
 a shared, what I called a preferred, religion."
 
-Mercuriou thoought about this for a minute.
+Mercuriou thought about this for a minute.
 
 "You know, you've got a good point there, Doctor - morality!  Maybe
 it's something I don't talk enough about.  These people crow on to no
@@ -7027,8 +6940,9 @@ _Maybe_they_should_have_required_a_class_in_honesty_instead._
 
 "This nerve we've struck with people, the
 stuff we've talked about - freedom, democracy, religion, God - this is
+the stuff Socrates debated,
 the stuff Plato and Aristotle wrote about, St. Matthew and Thomas
-Aquinas, this is the soul of our species.  Karl Marx, Victor Hugo, Leo
+Aquinas, this is the soul of a species.  Karl Marx, Victor Hugo, Leo
 Tolstoy, and none of them had all the answers.  I mean, if this is the
 stuff _they_ talked about _then_, and it's the same stuff _we're_
 talking about _now_..."
@@ -7096,7 +7010,7 @@ John Pople.  Gaussian.  Vic joins up.
 
 isn't it usually a "house with an attached garage"?
 
-T - 313 days <****>
+T - 313 days <***>
 
 Press conference announcing the new fuel
 
@@ -7139,10 +7053,6 @@ important minor character.  St. Francis has been such an influence in
 my life; it's so important to me to showcase the Franciscan movement
 in such a compelling scene (one of my favorites in the novel).
 
-T - 200 days <**>
-
-billion dollar hack
-
 T - 138 days <****>
 
 Alister's hack
@@ -7165,6 +7075,10 @@ T - 17 days <***>
 
 we meet Andrea for the first time.  Kyle dispatches her to look into all this
 
+T - 2 days <**>
+
+Andrea picking up a hitchhiker
+
 T - 1 day <***>
 
 Andrea hitchhiking.  picked up by Merceriou and Alister and locked up
@@ -7180,22 +7094,6 @@ one of my mother's old accounting clients (an HVAC contractor).
 T + 1 day <***>
 
 Mercuriou's first press conference
-
-T + 1.1 days <**>
-
-first EVA
-
-T + 1.2 days <*>
-
-brief press conference over the EVA
-
-T + 1.5 days <**>
-
-the toilet
-
-T + 2 days <**>
-
-description of cargo modules and hydroponics
 
 T + 3 days <****>
 
@@ -7536,7 +7434,7 @@ The Great Conversation
 
 A critical scene to set the stage for the end of the novel
 
-T + 1093 days <**>
+T + 1094 days <**>
 
 Big government was in.
 
@@ -7704,49 +7602,6 @@ he spend so much time discussing them?"
 
 -----
 
-
-
-------
-
-"Because we've got other things we need the money for."
-
-"Like what?"
-
-"Like your tenderloin, so eat it," Burns cut in, reaching across the
-table with his knife and tapping the South African's plate for emphasis.
-
-"No!" the man stated emphatically, pushing the plate away from him.
-"You guys are up to something, and it's not legal..."
-
-"Keep your voice down," Mercurio growled.
-
-"OK," Alister began again in a near whisper.  "Whatever you blokes
-are up to, there's no way it's above board."
-
------
-
-A "red alert" simply meant that they were now within one month of
-launch, a final countdown.  The plan called for almost all of their
-operations to be shifted to the location know as Site Blue.  Mercurio
-insisted that the equipment at Robotics Research be packed and shipped
-within twenty-four hours.  Burn's kids worked through the night and
-were gone by 7 A.M.  Mercurio left a simple, typewritten notice taped
-to the door:
-
-   From:  Marcelius Mercurio, CEO, Robotics Research, Ltd
-   To:    Lawyers
-          Financiers
-          Bankers
-
-   Gentlemen,
-
-      Your services are no longer required.
-
------
-
-
-----
-
 andrea in space
 
 "Well, we keep hearing about what if you can't produce enought?"
@@ -7759,33 +7614,6 @@ of extra effort that goes into putting all these controls and
 restrictions in place to get money.  Who knows about other fields
 of industry, but clearly in the software industry, the cost
 of production would be a lot less without capitalism!"
-
-----
-
-They sped across the desert mesa towards the last rocket, police cars
-with screaming sirens right behind.  Both police and news helicopters
-hovered overhead, and the images were now being carried live on
-practically every TV station in the country, as well as some in
-Europe.  Stopping the jeep at the base of the rocket, they jumped
-into the cable car and started the winch.  The police cars pulled up
-at the base and the cops ran to the base of the tower, but the car
-was already out of reach.
-
-"If you want to stick around when we fire this thing up, be my guest!"
-Marc yelled down to them, motioning towards the mamouth ICBM they
-were now inching up.  At the top, Marc and Brian walked across the
-catwalk and climbed into the cockpit.  Marc pulled the hatch shut
-behind them and sealed it.  They had checked the radio earlier, and
-Marc now clicked it on and called Burns.  He knew they didn't have
-time for long checklists.
-
-"We're ready to go."
-
-One of the cops said something on his radio, then they all got in
-their cars and headed back towards the compound.  "This is out of our
-league; call for the feds," one of them told his partner.  Halfway
-across the mesa, the ground shook as the solid fuel ignited in the
-rocket behind them.
 
 -----
 
@@ -8279,103 +8107,6 @@ to do less and less.  He'll offload anything he can.  And Alister was
 a great find.  He's a lot of fun to work with, and a lot of stuff I'm
 sick of fooling with, he'll jump into.  Marc hired him, of course."
 
------
-
-The federal detective showed Andrea his identification papers.
-
-"Ever heard of Keystone Securities?"
-
-She started to shake her head, then stopped.  "Isn't that
-the company that went bankrupt?"
-
-He nodded.
-
-"There's some kind of investigation into that right?"
-
-Again he nodded.
-
-"You're part of it?"
-
-For the third time, a nod in response, followed by an explaination.
-
-"Keystone's operation was heavily computerized.  Their computers
-malfunctioned and traded away a little over a billion dollars
-in securities in less than a day."
-
-"A bug?" Andrea wondered aloud.  The agent shook his head.
-
-"A virus would be closer to the truth.  They were hacked, we're still
-not exactly sure how, but we've found the critical section of code
-that was modified in their trading system."
-
-Andrea knitted her brow.
-
-"Well, if that's true, then the transactions were illegal, right?"
-
-Again the agent nodded.
-
-"So why can't you just reverse them and get the money back, you
-should even be able to track down who it went to."
-
-The agent smiled.
-
-"That's the beauty of this thing.  The transactions went to hundreds
-of different accounts, spread over three major banks - WorldBank, Bank
-Deutsch, and Allenby's of London."
-
-[hopefully, none of these companies actually exist!]
-
-"And?"
-
-"And none of the banks have any record of the transactions!"
-
-Again Andrea was puzzled.
-
-"So the transactions never occured?"
-
-"Oh, they occured.  The exchange recorded them, and the books won't
-balance without them."
-
-A silence pervaded the room for a minute.
-
-"So how can there be no record of the transactions, I mean, I'm no
-banking expert, but..."  She let her voice trail off.
-
-"Dr. Yeats," the fed continued, "a detective far more famous than
-I once said that when you eliminate the impossible, whatever remains,
-however improbable..."
-
-"...must be the truth," Yeats finished his sentence for him.  "I've
-read Sherlock Holmes, too.  So what's your impossible, or improbable
-truth, and how does it relate to N-1033?"
-
-"The impossible truth, Dr. Yeats, the only possible way I can account
-for the evidence I've got, is that not only was Keystone hacked, but
-so was WorldBank, Bank Deutsch, and Allenby's.  All four computer
-systems were party to this theft."  He paused for a moment to let this
-set in.
-
-"And the relationship to N-1033," he continued, "is simply this.  Do
-you believe, from what you've read, that N-1033 could have been
-developed without the source code to _Gaussian_?"
-
-Andrea leaned back in her chair and thought for a moment.  Finally,
-the conversation had turned to a subject she more or less understood.
-
-"No," she said after a moment, "didn't they parallize the system
-themselves?"  Kyle nodded.  "And their handling of the liquid state
-dynamics... did the _Gaussian_ team do that for them?"
-
-Kyle's response was negative.
-
-"No, Andrea, they did it all themselves.  And the manufacturer says
-they never provided them with the source code, in fact, that it's
-their policy not to release source code to customers, they only get
-binaries."
-
-"In short, Dr. Yeats," the agent now concluded, "the most likely
-way XXX got the source code to _Gaussian_ was a hack."
-
 ----
 
 "The difference between capitalism and those other system is
@@ -8509,7 +8240,7 @@ influence even local elections."
 "It was like that movie 'The Untouchables', in that scene where the
 accountant got blown away by the mob, and scrawed on the wall in blood
 was the word 'touchable'.  That's what nine-eleven was for this
-country - 'touchable' scrawed in blood across Ground Zero.
+country - 'touchable' scrawed in blood across the rubble of Ground Zero.
 
 ----
 
@@ -8634,13 +8365,6 @@ into a _personal_ attack on your opponent
 
 ----
 
-The National Enquirer
-published a cover story suggesting that
-
-
-----
-
-
 "OK, now let's take a look at the history of democracy!"
 
 "Fine, let's look at it's history.  Let's start with freeing the slaves!"
@@ -8703,9 +8427,6 @@ record."
 
 "Well, I've got a web update for you, captain.  The people of this
 planet have decided on democracy, and we're not going back."
-
-
------
 
 
 ----
@@ -8823,17 +8544,6 @@ Mercuriou yanked the headphones off.  He had appeared out of nowhere.
 
 nobody's going allow the vegitarian minority to do this to
 the majority.  So why don't you get off my back about drugs?"
-
-----
-
-This is Vic
-
-now we're spuing this nitrogen-mix stuff all over the atmosphere.  If
-Mercuriou gets his way, he'll only be the first.  We've got people
-talking about N-1033 from Bangkok to Tartu.  Then we'll have 10-33 fumes
-all over the atmosphere.  We'll destroy our own planet's atmosphere in
-order to get ourselves into space.  We'll _make_ ourselves a
-space-faring race by destroying our planet!  It's insane!
 
 ----
 
