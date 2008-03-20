@@ -1051,72 +1051,68 @@ T - 138 days
 
 _Everybody_says_this'll_lead_you_to_doom_
 
-The stereo was cranked, the windows reverberating with the beat
+Stereo cranked, the windows reverberated with the beat
 as the guitar lick arched to its climax.
 
 _But_that_don't_help_you_in_the_...
 
-"Bed-room!"
+"Bed-roooom!"  Alister bobbed his head in time with the bass line
+and lip synched the refrain out loud.
+The "Big Three" were out of town somewhere,
+and most of the other guys had taken the weekend off,
+so the young South African had the place to himself.
+Twenty years old, with matted blond hair, he had
+left his home to study abroad, finished a double
+major in chemistry and physics, then decided to stay in
+the United States after graduating.
+TenTech was his first job after college.
 
-Alister Compton puzzled over the messages on the screen in front of
-him.  He wasn't supposed to be in here, but the presence of a
-mysterious computer on the network had first attracted and then
-consumed the attension of the young chemist hired to research and
-improve the simulation programs being used to develop Burns' new
-rocket fuel.  Twenty years old, with matted blond hair, Alister had
-left South Africa to study abroad and decided to stay and find a job
-after graduating with a double degree in chemisty and physics.
-Robotics Research was his first job after college.
-
-He had taken the job because it had challenged him to hone his
-knowledge of numerical simulation of quantum mechanical systems well
-beyond what he had studied as an undergraduate.  Burns had hired him
-not only because his academic background matched what he was looking
-for, not only because he had graduated so quickly with a double
-degree, but also because the young man had a natural aptitude working
+The work challenged him to hone his skills
+at numerical simulation of quantum mechanical systems well
+beyond his undergraduate work.  Burns had hired him both
+because he had graduated so quickly with a double
+degree, and because the young man had a natural aptitude working
 with the computers that were so critical to the project's success.
 
-Yet now that aptitude was begining to land the young South African in
-trouble.  He had noticed that Burns or Mercuriou periodically used a
-computer that was kept completely isolated from the rest of the
-machines on their network.  His inquires about the machine had been
-vaguely dismissed.
+Yet now, with all the key software finished, that aptitude was
+begining to land [Alister Compton / the young South African] in trouble.  He had noticed
+that Burns or Mercuriou periodically used a computer that no one else
+had access to.  His inquires about the machine had been vaguely
+dismissed.
 
 Yet Alister fancied himself a hacker, and had trained himself to read
 keystrokes over people's shoulders.  Burns had carelessly allowed the
-young chemist to watch him login to the 'dumper', as the computer was
-called, and now Alister had used to password to enter the system
-himself and began looking around it.  It contained dozens of files
-written in assembly language, which was about as close as you could
-get to the machine's underlying architecture without dealing directly
-with the bits and bytes.  Alister rarely used assembly, and didn't
-bother trying to understand the arcane instructions contained therein.
-Instead, he looking at the machine's accounting records, which showed
-one program used more than another other on the system.  Alister
-ran the program.
+young chemist to watch him login to 'genie', and now Alister used to
+password to enter the system himself and began looking around it.  The
+master hacker hadn't even bothered to encrypt the files on his own
+machine.  Its accounting records showed one program used more than any
+other.  Alister ran it.
 
 A new window appeared on his screen.  On it, brightly colored graphics
 portrayed a cue stick deflecting billard balls into a neat square.
 Each ball contained a number - sixteen, then thirty-five, then four.
-Alister recognized it almost immediately.  It was a Keno game of the
+Alister recognized it immediately.  It was a Keno game of the
 type you might find in a casino.
 _What's_all_this_secrecy_about_a_game_, the young man wondered.  Then
 the bottom of the screen caught his eye, where the machine displayed
-the current date and time.  _What_the_hell!?!_
+the current date and time.  _Bloody_hell!?!_
 
 
 T - 137 days
 
 "What did he see?"
 
-Mercuriou asked the question without turning around to face Burns.
-Instead, he leaned back in his chair with his back to the engineer
-and watched a rain storm pelt the office's plate glass windows.
+Mercuriou asked the question without turning around.  Instead, he
+leaned back in his chair and watched the rain pelt against the
+office's plate glass windows.  The steel gray ocean beyond frothed and
+seethed, reflecting the chaotic smear of light patterns that radar
+engineers dubbed "sea scatter", before morphing into an indistinct
+horizon where rain met cloud met ocean.
 
 "He ran the program," Burns replied.
 
 Unbeknownst to Alister, Burns also had a completely seperate computer
-monitoring the connections to "dumper".  Although the login sessions
+monitoring the connections to 'genie'.  Although the login sessions
 were encrypted, they could at least be tracked and logged.  Each
 morning, Burns ran a program that verified that the login records
 matched the packet traces recorded on the network.  In addition, there
@@ -1253,7 +1249,7 @@ to college, to one of his most energetic professors, scrawling
 around from the window, he faced the young chemist.
 
 "This is a manned mission to Mars," he stated calmly.  "I'm the
-commander; Burns is chief engineer."
+commander; Burns is chief engineer; Vic is the ship's doctor."
 
 Alister looked from one man to the other.  Sitting comfortably in the
 Mercuriou's office, he couldn't imagine that the man in the swivel
@@ -1268,16 +1264,18 @@ the room.  Both of the other men appeared absolutely serious.
 
 "What I saw on that computer last night was no space shuttle."
 
-"You saw the Kansas state Pick Five daily lottery drawing," Mercuriou
-stated in a tone of voice Burns might have used to declare that
-gravity manifested itself as curvature in a four-dimensional space
-invarient under Lorentz transformations.  _Establish_credibility,_ the
-blackboard had read.
+"You saw the Kansas state Pick Five daily lottery drawing,"
+Mercuriou stated in a tone of voice Burns might have used to declare
+that gravity manifested itself as curvature of a four-dimensional
+space invarient under Lorentz transformations.  ESTABLISH CREDIBILITY,
+the blackboard had read.
 
 "Of course, you could have turned on the TV and seen the Kansas state
 Pick Five daily lottery drawing," Mercuriou continued, walking forward
 and consciously dominating the space of the room, without approaching
-close enough to impede on Alister's space.  _Performance_art_.
+close enough to impede on Alister's space.
+
+RHETORIC IS A PERFORMANCE ART.
 
 "Except that you saw _tonight's_ Kansas state Pick Five daily lottery
 drawing."
@@ -1288,16 +1286,17 @@ Alister looked from one man to the other.
 
 "Not even close," Mercuriou answered.  "We could hack every state
 lottery out there and might barely have the money to put a
-communications satellite in orbit."  _Impress_your_audience_
+communications satellite in orbit."
+
+IMPRESS YOUR AUDIENCE.
 
 Mercuriou waved his arm in a sweeping gesture that including the
 desk, the chairs, the office, the computers.  The truth slowly
 started to dawn on Alister.
 
-"You mean all this is stolen?  I mean hacked?"
+"You mean all this is stolen?  Hacked?"
 
-"Stolen," Mercuriou answered.  "That's the right word.  All of it.
-Every penny."
+"Stolen," Mercuriou answered.  "Every penny."
 
 Only the rain could be heard.
 
@@ -6877,7 +6876,11 @@ travel, too."
 new fuel!  Get mankind into space!  Grow crops!  Make clothes!  Mine
 the asteroid belt!"
 
-Mercuriou answered now, slowly.
+RHETORIC appeared on the college blackboard [in Mercuriou's mind],
+then evaporated before the stark reality of his two best friends dead.
+_Maybe_I_should_have_taken_a_course_called_"Honesty"_instead.
+
+[ Mercuriou answered now, slowly. ]
 
 "No, that was just my sales pitch.  My real reason was... it was a
 stunt.  It was biggest stage I could think of to get myself heard.
@@ -6894,16 +6897,17 @@ conviction.  His thoughts drifted back to college.  _Rhetoric._
 _Maybe_they_should_have_required_a_class_in_honesty_instead._
 
 "This nerve we've struck with people, the
-stuff we've talked about - freedom, democracy, religion, God - this is
+stuff we've talked about - freedom, democracy, religion, God,
+the role of the individual in society, money, power - this is
 the stuff Socrates debated in Athens,
 the stuff Plato and Aristotle wrote about, St. Matthew and Thomas
-Aquinas, this is the soul of a species.  Karl Marx, Victor Hugo, Leo
+Aquinas, this is the soul of our species.  Karl Marx, Victor Hugo, Leo
 Tolstoy, and none of them had all the answers.  I mean, if this is the
 stuff _they_ talked about _then_, and it's the same stuff _we're_
 talking about _now_..."
 
 The captain's voice trailed off.  Behind him, _Columbia_ gleamed in
-the razor-sharp sun.
+the razor-sharp sun of low-Earth orbit.
 
 "There is no beginning.  There is no end.  This is the Great
 Conversation."
