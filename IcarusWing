@@ -1047,7 +1047,7 @@ Interstate 45, sat down her duffle bag beside the on ramp, and began
 thumbing for a ride.
 
 
-T - 138 days
+T - 139 days
 
 _Everybody_says_this'll_lead_you_to_doom_
 
@@ -1076,7 +1076,7 @@ with the computers that were so critical to the project's success.
 
 Yet now, with all the key software finished, that aptitude was
 begining to land [Alister Compton / the young South African] in trouble.  He had noticed
-that Burns or Mercuriou periodically used a computer that no one else
+that Burns and Mercuriou periodically used a computer that no one else
 had access to.  His inquires about the machine had been vaguely
 dismissed.
 
@@ -1104,20 +1104,15 @@ T - 137 days
 
 Mercuriou asked the question without turning around.  Instead, he
 leaned back in his chair and watched the rain pelt against the
-office's plate glass windows.  The steel gray ocean beyond frothed and
+office's plate glass windows.  The steel gray ocean frothed and
 seethed, reflecting the chaotic smear of light patterns that radar
-engineers dubbed "sea scatter", before morphing into an indistinct
+engineers dubbed "sea scatter", then morphed into an indistinct
 horizon where rain met cloud met ocean.
 
 "He ran the program," Burns replied.
 
-Unbeknownst to Alister, Burns also had a completely seperate computer
-monitoring the connections to 'genie'.  Although the login sessions
-were encrypted, they could at least be tracked and logged.  Each
-morning, Burns ran a program that verified that the login records
-matched the packet traces recorded on the network.  In addition, there
-were accounting records that recorded the beginning and end of every
-program, and they were duplicated on the other computer.
+The same accounting records that Alister studied had told Burns about
+the unauthorized access.
 
 "Did he understand what he saw?"
 
@@ -1128,211 +1123,194 @@ glass.
 "Probably.  He's pretty sharp."
 
 "So Alister knows we're up to something; he just doesn't know what,"
-Mercuriou concluded, leaning back in his chair and watching a rain
-storm pelt the plate glass windows behind his desk.  Burns nodded.
-Mercuriou sniffed, then chuckled, then finally broke out in an awkward
-guffaw.
+Mercuriou concluded, turning around in his chair and folding his hands
+in front on him on the desk.  Burns nodded.  Mercuriou sniffed, then
+chuckled, then finally broke out in an awkward guffaw.
 
-"You think this is funny?" Burns asked.
+"You think this is funny?" Vic inquired from a corner seat.
 
-"I think it's hilarious," Mercuriou replied, swiveling around in his
-chair.  "Our whole operation is made possible by your super-hack of
-Chesapeake, and now along comes this twenty-year-old kid who hacks
-_your_ network!"
+"I think it's hilarious," Mercuriou replied, kicking back in his
+chair.  "Our whole operation is made possible by Burns' super-hack,
+and now along comes this twenty-year-old kid who hacks _your_ system!"
+Now how do we look on our launch preparations?"
 
-Burns grinned at the thought.
+"We've almost got the engines finished," Burns replied.  "We still
+need an airplane, spacesuits, launch towers, tanks and just about
+everything that goes in them.  And, of course, we don't have enough
+ten-thirty-three.  The bottom line," he concluded, "is that we still
+don't have enough money."
 
-"By the way, did you see this?"
+"OK," Mercuriou continued, more thoughfully, "we need another
+big hack."
 
-Mercuriou handed Burns a two-day-old copy of a major financial
-newspaper.  It was folded back to page four, which contained a brief
-announcement that the government investigation into the bankruptcy of
-one Keystone Securities had been expanded into a criminal affair.  All
-that was publicly known was that the investment firm had gone bankrupt
-after a computer malfunction had frittered away more than a billion
-dollars worth of securities in a single weekend of frenzied automated
-trading.  Outraged investors were demanding to know how such a 'bug'
-could have passed undetected, and industry analysts speculated that
-Keystone would become a test case of corporate liability for computer
-errors.  Burns read the story while Mercuriou thought over the problem
-with Alister.
+Vic shifted uncomfortably on his coach, but said nothing.  It was
+Burns who objected.
 
-"This could be serious," the engineer concluded as his returned the
-newspaper.
+"Well I certainly don't have the time; I'm swamped."
 
-"Oh, it _is_ serious.  They'll eventually catch up with us."
-Mercuriou leaned forward on his desk, and tapping his
-forefinger against the clock there.  "There's a countdown clock
-running on this launch, just like with NASA's, T minus
-whatever-the-hell, only we don't know what time it is.  At some point,
-that clock goes to zero, and we better be ready to launch when it
-does."
-
-"It's not going to be today," Burns replied.  "We don't even have all
-the engines finished yet, and as you very well know, we don't have
-enough ten-thirty-three."
-
-"Well, we better get them finished, we better get all the payload we
-need down to Site Y, we better make sure that as soon as we've got
-enough ten-thirty-three then we've got a launch capability."
-
-Burns shifted testily on the couch.  Mercuriou was preaching
-the choir, and the engineer didn't like being told what he
-very well knew.
-
-"That's all fine," he answered, "but despite offloading the
-ten-thirty-three production, we've still got way more work than hands
-to do it."
-
-"OK," Mercuriou continued, more thoughfully, "you keep telling me you
-need more help, and one of the big things I _haven't_ be able to
-provide you is help with all these computer hacks you want done.  Now
-can Alister do that for you?"
+"Can Alister do that for you?"
 
 Burns thought for a moment, begining to follow Mercuriou's line of
-thought.  He had known Alister for almost six months (check
+thought.  He had known Alister for almost two years (check
 chronology) now.
 
-"He's sharp, real sharp.  One of the best technicians I've got, and
-yeah, it looks like he can hack, too.  The real question is,
+"He's sharp, real sharp.  One of the best programmers I've got, and
+yeah, it looks like he can hack, too.  I guess the real question is,
 will he hack for us?"
 
-Alister is called into the office.
+Mercuriou raised a finger in the air.
 
-"Close the door," Mercuriou directed and the young man complied.
-Burns began speaking as soon as the door closed.
+"Let me take care of that.  Go get Alister."
 
-"There was an unlogged connection to 'dumper' from your workstation
-last night at 9:43 PM.  It was encrypted of course, but it looks like
-it lasted almost an hour.  Know anything about it?"
+As soon as Burns returned with the young man, Mercuriou directed
+him to close the door.
 
-Alister's face flushed red.  He had been avoiding Burns all day,
-feeling uncomfortable ever since his un-authorized excursion of the
-night before.  There seemed little point in trying to deny the
-obvious.  Card key records of entry and exit from the building would
-place him in the office last night at that time, and his workstation's
-own accounting records could probably be mined for evidence to support
-the hack.  Anyway, it was curiosity that had driven Alister; he wasn't
-a natural liar.
+"There was an unauthorized connection to 'genie' from your workstation
+Saturday night at 9:43 PM.  It was encrypted of course, but it lasted
+about an hour, and, of course, there are accounting records."
 
-"Yeah, I've seen you type that password a few times and I wanted to
-see what was on that machine."
+Alister's face flushed red.  He had been avoiding his bosses all day,
+but there now seemed little point in denying the obvious.  Anyway, it
+was curiosity that had driven Alister; he wasn't a natural liar.
+
+"Yeah, I saw Burns type that password once and I wanted to see what
+was on that machine."
 
 "You've seen me type the password?"
 
 "Yeah, I read it over your shoulder."
 
-Silently, Burns thought about when that could have happened.  Mecuriou
-snickered.
+Silently, Burns thought about when and how that could have happened.
+Mecuriou snickered, then tried to cover his mouth with his hand, as he
+wanted to appear tough.  He pressed on.
 
 "And what did you see?"
 
-Alister shrugged.  An awkward silence followed.
+Alister shrugged.  An awkward silence followed, then he answered.
 
-#if maybe
+"It's like tomorrow's lottery numbers today."
 
-"It's like tomorrow's lottery numbers today"
-
-#endif
-
-"OK," Mercuriou cut it, "so you know there's some kind of hack going
-on.  You may suspect that this is a front operation of some kind.
-What you haven't figured out is the truth, let me assure you.  Sit
-down."
-
-Alister planted himself in one of the two vacant chairs in the office.
-Mercuriou got up out of his and walked to one of the windows.
-He was conscious that the success or failure of his entire plan
-hung on his next words and actions.  His mind flashed back
-to college, to one of his most energetic professors, scrawling
-"RHETORIC" across the blackbord in foot-high block letters.  Turning
+Mercuriou got up out of his chair and walked to the window.  He was
+conscious that the success or failure of their entire plan hung on his
+next words and actions.  A calm overcame him.  He felt like an ace
+pitcher walking to the mound in the bottom of the ninth.  The game was
+on the line, and he was the only one who could deliver.  Turning
 around from the window, he faced the young chemist.
+
+"OK, you know there's some kind of hack going on here.  Maybe you even
+suspect that this is some kind of front operation.  But you haven't
+figured out the truth, let me assure you."
+
+Mercuriou paused for effect, as his mind flashed back to college, to
+one of his most energetic professors, scrawling "RHETORIC" across the
+blackbord in foot-high block letters.
 
 "This is a manned mission to Mars," he stated calmly.  "I'm the
 commander; Burns is chief engineer; Vic is the ship's doctor."
 
-Alister looked from one man to the other.  Sitting comfortably in the
-Mercuriou's office, he couldn't imagine that the man in the swivel
-chair was a space captain, or that the pot-smoking hacker reclining on
-the coach was a chief engineer.
+Alister looked around the room.  He could believe that he was about to
+be fired.  What he couldn't imagine that the man backed by the picture
+window was a space captain, or that the pot-smoking hacker reclining
+on the coach was a chief engineer, or that the mischievous
+cook/doctor/gardener was "Bones" McCoy.
 
-"Yeah, right," he replied as he got up out of his chair and started
-for the door.  "And I'm Mother Theresa."
+"Yeah, right, and I'm Mother Theresa."
 
-"This is no joke," Burns informed him.  Alister stopped halfway across
-the room.  Both of the other men appeared absolutely serious.
+"This is no joke," Burns informed him.  They were absolutely serious.
 
 "What I saw on that computer last night was no space shuttle."
 
-"You saw the Kansas state Pick Five daily lottery drawing,"
+"You saw the California state Keno lottery drawing,"
 Mercuriou stated in a tone of voice Burns might have used to declare
 that gravity manifested itself as curvature of a four-dimensional
-space invarient under Lorentz transformations.  ESTABLISH CREDIBILITY,
-the blackboard had read.
+space invarient under Lorentz transformations.
 
-"Of course, you could have turned on the TV and seen the Kansas state
-Pick Five daily lottery drawing," Mercuriou continued, walking forward
+ESTABLISH CREDIBILITY, the blackboard had read.
+
+"Of course, you could have walked into Rumors and seen the California state
+Keno lottery drawing," Mercuriou continued, walking forward
 and consciously dominating the space of the room, without approaching
 close enough to impede on Alister's space.
 
-RHETORIC IS A PERFORMANCE ART.
-
-"Except that you saw _tonight's_ Kansas state Pick Five daily lottery
+"Except that you saw _today's_ California state Keno lottery
 drawing."
 
 Alister looked from one man to the other.
 
-"So, what, you've hacked a state lottery to pay for a Mars mission?"
+"So, what, you've hacked the state lottery to pay for a Mars mission?"
 
 "Not even close," Mercuriou answered.  "We could hack every state
-lottery out there and might barely have the money to put a
-communications satellite in orbit."
+lottery in the country and barely have the money to put a communications
+satellite in orbit."
 
-IMPRESS YOUR AUDIENCE.
+RHETORIC IS A PERFORMANCE ART.
 
-Mercuriou waved his arm in a sweeping gesture that including the
-desk, the chairs, the office, the computers.  The truth slowly
+Mercuriou slowly waved his arm in a sweeping gesture that including
+the desk, the office, the computers, the house.  The truth slowly
 started to dawn on Alister.
 
-"You mean all this is stolen?  Hacked?"
+"You mean TenTech... all this... is stolen?  Hacked?"
 
 "Stolen," Mercuriou answered.  "Every penny."
 
 Only the rain could be heard.
 
+MORALITY ONLY EXISTS IN A CONTEXT, read the blackboard.
+
 "Now, we could have moved to Arruba and spent the next ten years sipping
 piña coladas on the beach," Mercuriou continued.  "We could have
 bought a restaurant, used it to launder the money, and then sat back
 and let someone else run it.  We could have checked out of this great
-society here and done whatever the hell we pleased." _SELL_THEM!_
+society here and done whatever the hell we pleased."
 
-Alister had made it back to his chair and sat down.
+"But I'm no petty thief!  We hacked that lottery because we _needed_
+the money, needed it to do something that'll make a difference for
+this whole world.  We going to push this space technology forward,
+come up with a rocket fuel that works well, that will really let
+people do what Robert Heinlein just dreamed about, quit piddling
+around in Low Earth Orbit, and _fly_to_Mars_.  Grow your own food in
+orbit!  Make your own clothes!  Mine the asteroid belt for the
+minerals you need!  Design your own computer chips up there!"
 
-"Instead, we've decided to do something that'll make a difference, and
-something that this man is uniquely qualified for," Mercuriou waved to
-indicate Burns, then continued.  "We decided to see if we can't really
-move this space technology forward, come up with a spacecraft fuel
-that works, and works well, that will really let people do what Robert
-Heinlein just dreamed about, quit piddling around in Low Earth Orbit,
-and _fly_to_Mars_.  Learn to grow your own food in orbit!  Make your
-own clothes!  Mine the asteroid belt for the minerals you need!
-Design your own computer chips up there!"
+"Think about it, Alister!  Six billion people on this people!  How
+many of them make a difference, really?  How many of them change the
+world?  If the human race is going into space, it won't happen seven
+people at a time in a space shuttle, that's for sure.  It going to
+take someone to jump start it; to show that ordinary people can make
+it up there, not just a bunch of government prima donas.  And
+_to_hell_ with what our great leaders here on Earth think with all
+their millions of dollars."
 
-LITTLE MORE HERE
+"What do they want to do with those millions?  Drive technology
+forward?  Really?  Promote innovation?  Is that why they've outlawed
+on-line libraries?  Promote freedom?  Is that why they want a wall
+across our southern border?  Liberty?  Is that what you call the drug
+war?"
 
-"And _to_hell_ with whatever all these people back on Earth think.
-That's what's we're about.  And that lottery you saw last night is
-just the tip of the iceberg, trust me, you have _no_idea_ how big this
-hack is."
+"All they want to do is sell you gasoline, or video games, or ballgame
+tickets at prices people will grumble about and then pay while they
+eat out every night and take their vacations on Maui.  We could have
+video-on-demand, right now, I'm telling you!  We could take every
+T.V. show aired in the last week and have it right there at the push
+of a button!  We could take every book in the Library of Congress and
+put it online for anyone in the world; we've _got_ that technology!
+The only innovation our leaders want is innovation that they can
+control!"
 
-Mercuriou turned his back and walked to the window.  _Challenge_them_
+"So we need a revolution, and it's not going to happen in this world;
+the police and the military are too strong.  But out there..."
 
-"OK," he continued in a low voice, "so it all sounds too wild to be
+Mercuriou let his voice trail off, walked to the window, and folded
+his hands behind his back.
+
+MAKE IT SEEM LIKELY!
+
+"OK," he concluded in a low voice, "so it all sounds too wild to be
 true.  Fine."
 
-He turned and looked Alister straight in the eye.
+He turned and looked Alister straight in the eye [CA].
 
-"Take a look at our launch facility.  Then tell me I'm full of shit."
+"Look at our launch facility.  Then tell me I'm full of shit."
 
 
 T - 131 days
@@ -9042,3 +9020,39 @@ The majority care about three things: getting rich, getting tough,
 and getting laid.
 
 Impossible task: a voyage to Narnia
+
+
+
+
+
+
+
+"Oh, it _is_ serious.  They'll eventually catch up with us."
+Mercuriou leaned forward on his desk, and tapping his
+forefinger against the clock there.  "There's a countdown clock
+running on this launch, just like with NASA's, T minus
+whatever-the-hell, only we don't know what time it is.  At some point,
+that clock goes to zero, and we better be ready to launch when it
+does."
+
+
+
+
+"By the way, did you see this?"
+
+Mercuriou handed Burns a two-day-old copy of a major financial
+newspaper.  It was folded back to page four, which contained a brief
+announcement that the government investigation into the bankruptcy of
+one Keystone Securities had been expanded into a criminal affair.  All
+that was publicly known was that the investment firm had gone bankrupt
+after a computer malfunction had frittered away more than a billion
+dollars worth of securities in a single weekend of frenzied automated
+trading.  Outraged investors were demanding to know how such a 'bug'
+could have passed undetected, and industry analysts speculated that
+Keystone would become a test case of corporate liability for computer
+errors.  Burns read the story while Mercuriou thought over the problem
+with Alister.
+
+"This could be serious," the engineer concluded as his returned the
+newspaper.
+
