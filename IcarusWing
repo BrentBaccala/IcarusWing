@@ -3015,23 +3015,30 @@ the captain.
 
 "...starting with your basic mission plan.  NASA has looked carefully
 at a manned mission to Mars.  We'd prefer to send three separate
-vehicles.  It worked for Columbus."
+vehicles.  Unlike a moon shot, a free-return trajectory isn't an
+option for a Mars mission.  It's just too far away to coast home after
+an Apollo 13-type failure.  A single vehicle, no matter how well
+equipped, lacks a level of redundancy that only multiple vehicles can
+offer.  Also, any new vehicle needs to be extensively tested before
+and after launch."
 
 There was another pause.  The only sounds were motor noise from the
 air conditioners and computers.
 
-"I'm still the captain.  I get the final say."
+"We're not going do things the way NASA does them.  Dissent is
+welcome, but I'm still the captain.  I get the final say."
 
 Andrea looked him directly in the eye.
 
-"All right.  I accept."
+"OK.  I accept."
 
 "Thank you."
 
-"And you actually did most of the right things yesterday.  Secure the
-air tight doors and come after me with a spacesuit in case I get into
-trouble.  Just one thing - next time, bring two suits.  It would sure
-suck if we got stuck out there with only one suit between us."
+"You actually did most of the right things yesterday.  Secure the air
+tight doors and come after me with a spacesuit in case I get into
+trouble.  Just one thing - next time, bring two suits, or at least a
+rescue ball.  It would have sucked if we had got stuck out there with
+only one suit between us."
 
 
 T + 5 days
@@ -3735,7 +3742,12 @@ answering.
 
 "Because sometimes _all_ of your options are unacceptable.  Then it
 becomes very easy to pick the most attractive one and gloss over its
-manifest defects."
+manifest defects.  That's why we have planning meetings and project
+cost estimates.  That's why we use Gantt charts and Capability
+Maturity Models.  It's not just bureaucratic bean counting. [CA] If
+_none_ of your options are capable of hitting your target, then you
+need to know that _before_ you push the little red button in the
+launch tower!"
 
 Mercuriou paused and studied her.
 
@@ -3794,12 +3806,12 @@ going to need a doctor, and you're not going to need the hydroponics."
 
 "What then?  You're saying we're going to die up here?"
 
-"I didn't say that, either.  I can't really explain it, Marc, except
-to tell you that I wrestled mightily trying to decide whether to come
-along with you on this.  I know now that it was totally worth it, I'm
-thrilled to be here, I don't question it now for a minute, but I also
-know that... I've gotten _centered_, Marc, I don't know how else to
-explain it, I've gotten centered, and I understand now that my
+"No, I didn't say that, either.  I can't really explain it, Marc,
+except to tell you that I wrestled mightily trying to decide whether
+to come along with you on this.  I know now that it was totally worth
+it, I'm thrilled to be here, I don't question it now for a minute, but
+I also know that... I've gotten _centered_, Marc, I don't know how
+else to explain it, I've gotten centered, and I understand now that my
 presence here is totally superfluous.  You don't need me... as a
 friend, yes, but not for anything else."
 
@@ -3828,8 +3840,8 @@ but the Captain was ephastically shaking his head, no, No, NO!
 
 "We're going to Mars, Dr. Yeats, that's not going to change."
 
-"Fine, you can go to Mars," Merceriou started to interrupt but Yeats
-would not let him, "but first you've got to test this spacecraft in a
+"Fine, you can go to Mars," Merceriou started to interrupt but-Yeats-
+would-not-let-him, "but first you've got to test this spacecraft in a
 controlled environment where there are rescue options both in orbit
 and on the ground."
 
@@ -3844,9 +3856,7 @@ with a snicker in his voice.
 
 Burns answered with a laugh in his.
 
-"Hey, I'm just saying what she says makes a lot of sense!  I've told
-you from the beginning that we should have three vehicles to try
-this."
+"Hey, I'm just saying what she says makes a lot of sense!"
 
 "Burns, the minute, nay, the second those wheels touch the ground,
 we're just five little nobodies at the mercy of those governments."
@@ -4352,7 +4362,7 @@ T + 424 days
 "Why?  Why do you have to land?"  Andrea interjected.  "Why can't you
 just go back to Earth?  You've already accomplished more than any
 other space mission to date.  _Mars_Explorer_ will go down along with
-with Gagarin's flight and Apollo 11.  So what that we didn't land..."
+with Vostok 1 and Apollo 11.  So what that we didn't land..."
 
 "We have to land!" the captain shouted.  "If we don't land, they'll
 say we failed, and then the capitalists will just come back two years
@@ -4393,52 +4403,53 @@ leave you for another man."
 T + 637 days
 
 "We saw this with the _Challenger_ accident," Burns was saying.  More
-than a million people were watching the crew conference on television.
-Most cable TV systems now carried the _Mars_Explorer_ video feed, and
-a small colored box stating "Live - Mars Orbit" had become a standard
-fixture in the upper-left-hand corner of many a television screen.
+than a hundred million people were watching the crew conference on
+television, relayed to Earth through a pair of communications
+satellites the crew had deployed into Mars-stationary orbit.  Now
+settled into low Mars orbit, and with a landing attempt only days
+away, most terrestrial cable TV systems now devoted a channel
+full-time to the _Mars_Explorer_ video feed, which now featured the
+A-core bridge.  During the crew's sleep cycle, a scrolling orbital
+panorama of the red planet's surface had become a standard fixture on
+many a TV screen, highlighted by a small colored box labeled "LIVE -
+Mars Orbit".
 
 "The first indications of the problem were visual, but nobody was
 looking at those particular cameras during the launch.  And although
 we've got cameras we can operate remotely, the fact remains that a
-manned presence in orbit is still by far our best observation option."
+manned presence in orbit is still by far our best observation option.
+There's also the question of reconnaissance.  We've already surveyed
+the site from orbit, but a low pass will give us the chance to take
+some close-up pictures, then analyze them carefully before committing
+to land."
 
-"So someone has to stay behind," Merceriou stated.  It wasn't
-a surprise; landing options had been discussed even before
-construction had began.
+"Kinda like Apollo 10," Andrea noted.  "Make a landing pass without
+actually landing."
+
+"Right.  Also, since we're landing an airplane, we need something like
+the salt flats at Edwards.  We don't have a VTOL capability, so our
+landing options are a lot more limited.  I really want to take a
+careful look at this site _before_ we land."
+
+_This_site_ was a flat area on the edge of Utopia Planetia, a few
+hundred miles north of the Viking 2 landing site.
 
 "Since I'm the only one here with experience piloting a 767, I figure
-I have to go," Burns said.
+I have to go," Burns continued.  "Alister should stay.  I think it's
+important for one of the engineers to remain in orbit, and he knows
+more about the overall setup of the spaceship than anyone but me,
+well, maybe Andrea, too, at this point."
 
-Mercuriou spoke again, after a pause.  "I think the command function,
-so to speak, has to remain in orbit, so I'll stay here."
+"I'll go.  It's just a test run, right?" Vic asked.
 
-"Alister should stay, too," Burns continued.  "I think it's important
-for one of the engineers to remain in orbit, and he knows more about
-the overall setup of the spaceship than anyone but me, well, maybe
-Andrea, too, at this point."
+"Yeah, it's a test run, but if something goes wrong..."
 
-The South African was staring silently at the bulkhead in front of
-him.  "Sorry, kid," Burns apologized.  Alister nodded.
+"Andrea, what do you think?" Mercuriou asked.
 
-"I'll stay," Andrea volunteered.  "Alister can go, if he wants, but I
-think I've got a pretty good idea of how the ship is run that Marc and
-I can handle things here."  She had remained silent up until this
-point in the conversation, mainly because her opposition to the
-entire landing attempt was by now well known to the crew.
+"You know what I think," the first officer sniffed.
 
-"You'll probably need help with the refueling, if nothing else," Vic
-told Burns.  "If Alister doesn't go, I will."
-
-"So," Mercuriou summarized, "Burns goes, Andrea and I stay, and either
-Vic or Alister goes, and the other one stays."
-
-"Let Alister go," Vic continued.  "He's young.  Give him the chance to
-walk on Mars."
-
-"No," Merceriou stated, after a pause.  "Andrea knows a lot about the
-ship, that's true, but I won't have both the engineers on the ground."
-Now it was his turn to apologize to Alister.  "Sorry, kid."
+"Burns and Vic go," Mercuriou summarized, "the rest of us stay, at
+least for the test."
 
 
 T + 639 days
@@ -4511,108 +4522,42 @@ wall of his cabin and slowly shook his head.
 
 T + 650 days
 
-The bottom line was that any reentry attempt, even without a landing,
-required flying the 767 in atmospheric flight.  Only Burns had ever
-flown a 767.  Furthermore, the thin Martian air required a much higher
-airspeed and possibly presented handling challenges to the pilot.
-Only Burns, it seemed, could make a reentry attempt, and after the
-incident in the asteroid belt, the Captain decided against sending
-Alister with him.  Finally, it was decided that he would pilot the
-aircraft alone.
+"We're getting a lot of vibration," Burns reported.
 
-Disaster on Mars.  Burns attempts to land the 767, but they hadn't
-gotten everything figured quite right.  The wings snap off during
-reentry and the whole thing goes up in a fireball.  Burns dies.
+He was seated next to Vic in the 767's cockpit, descending backwards
+through the Martian atmosphere, with the plane's tail pointed downward
+and its nose aimed at the sky.  Light engine thrust was being used to
+slowly brake the plane.
 
-The wings of the aircraft had been designed to flex, yet the carbon
-coating was rigid.  Burns and Alister had correctly calculated the
-aerodynamic forces from the reentry, and the dense layer of carbon
-was strong enough to withstand those forces, yet hairline cracks
-began to creep into the carbon during reentry.
+"Is that unexpected?" Vic asked.
 
-Burns' first warning was a loud crack that sounded like a firecracker
-or gunshot.
+"It didn't happen on Earth.  We're still over the speed of sound; I'm
+going to hit the brakes."
 
-"What was that?" he wondered aloud.
+Burns pushed the throttles forward.  They were still more than 50
+kilometers high, and he expected the vibration to ease as the rocket
+exhaust slowed the vehicle.  From orbit, the rest of the crew watched
+through a telescope fitted with several high definition cameras.
 
-The answer came less than a second later, as the left wing tore away
-from the fuselage and slammed into the tail before falling away
-towards the red planet below.  Liquid hydrogen gushed from the jagged
-hole in the plane's left side as it swerved into an uncontrollable
-spin.  The right wing crumbled under the new stresses, but before much
-more could happen one of the remaining engines ignited the leaking
-hydrogen and the entire aircraft disappeared into a ball of flame.
+"Burns, you, uh, you've got a lot of atmospheric turbulence developing
+around you," Mercuriou reported.
 
-In orbit, the Icarus crew were first stunned by the sudden loss of
-telemetry, then watched speechless as the aircraft flamed red on black
-against the planet surface below, then disintegrated into hundreds of
-tiny meteors that streaked silently into the Martian dawn.
+"What's going on here?" the engineer wondered.  "This should be dampening
+as we slow down; instead, it's getting worse."
 
------
+"I'm aborting," he declared as he pushed the throttles forward.  The
+entire ship began to shake like a washing machine's agitator.
 
-The carbon coating itself was strong enough to withstand the
-forces of reentry and thick enough to act as an effective heatshield.
-The coverings on the wheelwells was a different story.  Removing
-them to test them, then replacing them and recovering them had
-introduced cracks and fissures along their edges, where they
-joined to the main body of the spaceplane.  Now, during reentry,
-the superheated gases began working into these cracks around
-the edges.  Finally, one of the coverings detached completely,
-broke off in a single piece, and let the superheated gas pass
-through to the aluminum airplane skin beneath.  In less than
-a second, a hole the size of the wheelwell had burn completely
-through the plane.
+The 767 was now in a full-fledged Martian storm, with itself at the
+center.  In the cockpit, the two men heard a load pop as the rudder
+tore away from the fuselage and went careening away towards the red
+planet below.
 
-From orbit, the _Mars_Explorer_ crew saw a red dot appear on the left
-wing of the spaceplane about a minute into reentry.  On board
-the 767, Burns heard a load pop.
+"What was that?" Vic wondered aloud.
 
-"What was that?" he wondered aloud.
-
-Alarms started going off in the cockpit.  The puncture had
-passed right through the wing's fuel tank and ignited the
-fuel, which now poured out the hole in the top of the wing
-in a geyser of flame.
-
-"Looks like something on the left wing," Mercurio noted, looking over
-at the computer telemetry coming from the spaceplane.  "You might have
-lost part of the heatshield."
-
-Even before he finished speaking, the same thing happened to the
-wheelwell covering on the right wing and a second geyser of
-flame erupted from it.
-
-"I've got flames coming out of the right wing now," Burns observed
-from the right-hand pilot's seat, looking over his shoulder.  "We
-might be losing the heatshield," he speculated as a knot formed
-tighter in his stomach.
-
-There was nothing he could do at the moment about the heatshield, but
-as great as that concern was, he also had to worry about the fuel in
-the wing tanks.  Without sufficient fuel, he couldn't return to orbit.
-
-"I'm aborting reentry," he declared as he made a snap decision.
-Starting the engines for a return to orbit would be dangerous,
-but if he lost much of the fuel, it'd be a moot point, since he'd
-lack the fuel to return to orbit.
-
-In orbit, Andrea suddenly realized why the two failure points
-seems so symmetrically positioned on the wings.
-
-"It's the wheelwells," she declared, and the rest of the crew
-turned towards her.  "The wheelweels are failing."
-
-Before anyone could say another word, or do anything, the third
-wheelweel, almost directly beneath the cockpit, failed.  A torrent of
-flame erupted into the cockpit from below.  Clad in his spacesuit,
-Burns was swept out into the Mach 13 flowstream.  The acceleration
-alone probably killed him instantly, even before his spacesuit was
-consumed by the raging flames that engulfed the crew compartment.
-
-From orbit, the crew watched a third speck of red appear at the
-front of the plane, neatly centered, just short of the nose.
-At the same moment, all the telemetry ceased, as the cockpit
-computers were destroyed by the flames from the breach.
+A half-dozen alarms on the instrument panel answered his question.
+The rudder's hydraulic system had lost pressure, its feedback sensors
+had gone offline.
 
 The 767 was engulfed at the center of a hurricane with no eye.
 
@@ -4620,15 +4565,15 @@ The 767 was engulfed at the center of a hurricane with no eye.
 
 The spaceplane lost its equilibrium, pitched back and began to yaw,
 overwealmed by the aerodynamic forces of the maelstrom.  The left wing
-snapped off the fuselage, and slammed into the tail.
+snapped off the fuselage, and slammed into the battered tail.
 
-Vic watched the mad swirl of the artificial horizon like a tank
-commander watching an armor piercing round headed straight for his
-turret.  He glanced over at Burns, fighting madly against the
+In the cockpit, Vic watched the mad swirl of the artificial horizon
+like a tank commander watching an armor piercing round headed straight
+for his turret.  He glanced over at Burns, fighting madly against the
 controls, and a calm peace enveloped his soul.
 
-_Well_, _this_is_it_, he thought, _now_I_get_the_answer_key._ Then he
-reached toward the window, and exploded into light.
+_Well_, _now_I_get_the_answer_key._ Then he reached toward the window,
+and exploded into light.
 
 
 T + 651 days
@@ -4638,9 +4583,11 @@ T + 651 days
 Kyle's face disappeared and the video transmission changed into a
 crystal-clear and dramatic vision of the last seconds of the 767, seen
 from almost directly above, being buffeted in slow motion by wind
-gusts.
+gusts.  It had been almost a full day since the Icarus crew had
+watched stunned as the aircraft had disappeared in the storm, which
+then dissipated like a phantom conjured by a voodoo priestess.
 
-"We've been able to enhance it now to clearly show the eddies."
+"We've been able to enhance it to clearly show the eddies."
 
 The monitor still showed the 767, now overload with a grid of hundreds
 of tiny pressure vectors.  They clearly showed very strong vortexs
@@ -4654,11 +4601,10 @@ standing and seated behind.
 
 Kyle's face cut back onto the monitor.
 
-Andrea squirmed.  She wanted to see the final breakup in slow
-motion, but she could get that later from Alister.  More than
-anything, she wanted to interject and ask Kyle to show the
-rest of the film, but the 30-minute communications time lag
-prevented it.
+Andrea squirmed.  She wanted to see the final breakup in slow motion,
+but she could get that later from Alister.  More than anything, she
+wanted to interject and ask Kyle to show the rest of the film, but the
+30-minute communications time lag prevented it.
 
 "Andrea, we don't have any idea what happened other than it looks like
 the engines triggered a massive atmospheric disturbance, and
@@ -4682,27 +4628,15 @@ The transmission ended and was replaced by the usual screen cluster on
 the projector - a diagram of their orbit position, their coordinates
 in three different reference frames, a clock in universal time.
 
-The two astronauts were silent.  Mercuriou could have been viewing the
-transmission as well from his cabin, but there was no immediate way to
-tell.
+The Captain was silent.
 
-Alister said nothing, but stared at Andrea, almost dumbly awaiting
-instructions.
-
-"The resupply module?" she asked.
-
-A cargo module had been attached to a fuel module and an engine, then
-docked to A-core.
+"The rescue module?" Andrea asked Alister.  A cargo module had been
+attached to a fuel module and an engine, then docked to A-core.
 
 "It's got everything on our primary checklist, and a couple of things
 from our secondary, too."
 
 "Let's see."
-
-Alister scribbled an instruction on his tablet and the checklist
-appeared in a window on Andrea's. _Kyle_will_want_to_see_this_.
-She scribbled another instruction on her machine and a copy
-of the file began its 10,000,000 km (check this) journey.
 
 She knew everything on both lists, having helped compose them, and
 skipped the primary checklist, since Alister said it was loaded.  That
@@ -4711,27 +4645,14 @@ rescue balls, both large - a good-sized, circular tent when inflated,
 and small - two men in spacesuits could just fit into one, and a small
 quanity of the remaining military rations.  It was the secondary
 checklist she was more concerned with, and not all of it, but only the
-part that contained things more valuable, more irreplacible.  They had
+part that contained things more valuable, irreplacible.  They had
 begun to form in her mind a third checklist even.  None of them were
-packed except one - a pair of spacesuits.  _Mars_Explorer_ would then be left
-with only two.
+packed except one - a pair of spacesuits.  _Mars_Explorer_ would then
+be left with only two.
 
-Andrea made her first command decision, but said nothing and instead
-excused herself from the bridge and entered the captain's quarters,
-closing the hatch behind her.
+"Remove the spacesuits from the rescue module, then launch it."
 
-Less than sixty seconds later she was back.
-
-"What'd he say?" Alister asked.
-
-"He said that I'm in command, that I should do whatever I want."
-
-"OK."
-
-"Remove the spacesuits from the resupply module and launch it.  I want
-a bulls-eye on the 767's crash site."
-
-The resupply module was launched under computer control.  Its engine
+The rescue module was launched under computer control.  Its engine
 fired a de-orbit burn and it began dropping into the Martian
 atmosphere.  Five miles up the engine re-ignited to brake its decent.
 Another, smaller maelstrom quickly developed around it.  Radio contact
@@ -5218,6 +5139,15 @@ silent.
 again.  Finally, in a low voice, he spoke.
 
 "Dear God, forgive me my sins."
+
+
+T + 701 days
+
+"But you're not a Baptist?!"
+
+"I'm a Christian; I don't think of myself as a Catholic, or as a
+Protestant, or as a Baptist.  Baptism is an important part of our
+tradition."
 
 
 
@@ -9392,3 +9322,9 @@ contribution to production"
 
 
 This - THIS is democracy!
+
+
+The two astronauts were silent.  Mercuriou could have been viewing the
+transmission as well from his cabin, but there was no immediate way to
+tell.
+
