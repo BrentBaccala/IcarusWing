@@ -4029,27 +4029,50 @@ T + 60 days
 ship trying to draw everybody's life history out of them?"
 
 Vic was peering at a television camera relaying an image from one of
-the hydroponic pods.  He did a lot of work remotely, partly because it
-avoiding having to go all the way down the cargo chain just to do a
-transplant, partly because the robotics software Alister had stolen
-from the Japanese enabled a lot of the work to be automated anyway,
-and partly because his experience with hydroponics taught him to keep
-all the pods sealed, to contain any fungal or virual outbreak to a
-single pod.  Today, he was training a neural net to pick cherry
-tomatoes with a robot hand.
-
-Andrea thought for a moment before answering his question.
+the hydroponic pods.  He was training a neural net to pick cherry
+tomatoes with a robot hand.  Andrea thought for a moment before
+answering his question.
 
 "I'm no reporter, but I usually have the opportunity to get to know a
 crew before we're blasted into orbit together.  I've already spent
-more time in space with you guys than with any other astronauts, and I
-barely know anything about you!  Take your medical degree, for
-example, I mean why aren't you using it?  Sounds to me like until this
-gig came along, you were just siting up in the hills growing pot."
+more time in space with you guys than with anybody else, and I barely
+know anything about you!  Take your medical degree, for example, I
+mean why aren't you using it?  Sounds to me like until this gig came
+along, you were just siting up in the hills growing pot."
 
 The doctor sighed and tried to run the recognizer program again, but
 again it labeled half the leaves on the plant as tomatoes.  Vic threw
 his hands up in exasperation and pushed away from the computer.
+
+"To hell with this thing!"
+
+"Let me take a look; what is it?"
+
+"Some hot-shot program Alister stole from the Japanese..."
+
+The program was an integrated video recognition and robot control
+system designed for industrial automation, the type of environment
+where a computer is used to orient computer chips on a circuit board
+prior to baking them in a reflow soldering oven.  And it was indeed
+powerful, capable of selecting tomatoes from a plant as easily as it
+could select bolts from a conveyer belt.  Yet like much late-twentieth
+century software, it was difficult to use and required a steep
+learning curve before its operator could become proficient.
+
+"Why don't you just go down there and pick your tomatoes by hand?"
+
+"No, no, you don't want to do that, not in a hydroponic system.  You
+want to keep each of the pods sealed up - one plant gets a fungus and
+it'll run through your entire crop unless you've got isolation."
+
+"OK."
+
+Andrea set to work learning the complicated feature extraction system
+that labeled key spots on the video image, like where the leaves
+attached to the stems.  Successfully labeling those points was the
+linchpin to the software's operation, and it initially required
+careful training by the human operator.  Meanwhile, Vic floated
+a short distance away and watched her work.
 
 "I went to medicial school because I wanted to help people; learn to
 heal their injuries, ease their pain, that kind of thing.  Mainly what
@@ -4064,8 +4087,23 @@ wanted to know what on the next test so they could pass their class,
 get their degree, and move on to the next step towards their
 million-dollar beach house."
 
-"And as far as sitting up in the hills growing pot," he concluded,
-"I'm pretty good at it, and I don't have to deal with any HMO's!"
+"So you checked out."
+
+"That's right, I did!"
+
+"So did I.  After I left NASA I moved back to my parents' farm and
+took up gardening.  At first I wanted to supply vegetables to a friend
+of mine who was starting a restaurant, but he was too far away, it
+just wasn't practical.  But there were plenty of needy people nearby
+who were delighted to have fresh veggies for dinner."
+
+"So we were both farmers before this 'gig' came along!"
+
+"That's right!"
+
+"Well, I don't know about your farm, Andrea, but as far as sitting up
+in the hills growing pot, I'm pretty good at it, and the best part is
+that I don't have to deal with any HMO's!"
 
 
 T + 80 days
@@ -4075,8 +4113,22 @@ T + 80 days
 Mercuriou was reading the latest news dispatches from Earth.  Two
 giant oil companies had merged to form an even larger oil company.
 
+"Energy crisis," Mercuriou sneered.  "There's no energy crisis.  The
+only energy crisis that all the people who control the energy are
+capitalists, so they're going to hold back on supply and jack up the
+prices to make their record profits.  If they'd run their production
+facilities at full capacity we'd have plenty of cheap energy.  By the
+time the petroleum runs out in fifty years, we'd be able to develop
+nuclear or solar energy, but nooo... that's not how you maximize your
+profit.  Not where you want to be on your supply and demand curve, no
+sir.  If your demand schedule is inelastic, you want to restrict your
+supply schedule, _that_'s how your maximize your profit.  The profit
+maximization point is _not_ the maximum supply point.  That's a
+freshman mistake, fail you on your ECON 101 exam for that, right?
+Well, am I right?"
 
-
+Mercuriou stopped talking and looked around.  Nobody else was present;
+he was alone in his quarters.
 
 
 T + 302 days
@@ -4187,9 +4239,6 @@ long, no more Roman Empire."
 declared heritics.  And since so many of the barbarian tribes adhered
 to the Arian beliefs, well..."
 
-[ "I see that I'm not the only one here who's read _Decline_and_Fall_," ]
-[ Mercuriou answered a thoughtful pause. ]
-
 "A large part of Christianity was about propping up the Roman Empire,
 and then the Popes, and all the monarchs who got their scepters from
 the Popes," Vic continued.  "Christianity certainly got bastardized in
@@ -4277,13 +4326,16 @@ be dependent on society?"
 "Exactly."
 
 "So the philosophers have turned to politics to try and find their
-freedom there.  Their latest idea is democracy; they keep trying to
-convince us that freedom is to be found in that dumb vote, and don't
-you dare try to tell these people they don't have freedom, they'll
-scream you down as a Communist until the bell rings and then it's off
-to work.  Go to church on Sunday to hear how you need to work hard and
-drop ten percent of your money in the collection plate as they pass it
-around."
+freedom there.  Their latest dopey idea is democracy; they keep trying
+to convince us that freedom is to be found in that dumb vote, and
+don't you dare try to tell these people they don't have freedom,
+they'll scream you down as a Communist until the bell rings and then
+it's off to work.  Go to church on Sunday to hear how you need to work
+hard and drop ten percent of your money in the collection plate as
+they pass it around."
+
+[ Don't have sex, don't do drugs, don't drink alcohol, and give ]
+[ me ten percent of your money as the plate comes around. ]
 
 "You still need me to distinguish true Christianity from, how did Vic
 put it, bastardized Christianity?  Jesus didn't teach us to work to
@@ -4309,9 +4361,9 @@ T + 407 days
 The club was packed.  Colored beams of light flirted with the
 twenty-something revelers on the dance floor as strobes pumped with
 the beat and lasers scanned above the fog that filled the room.  By
-the bar and in the alcoves, older men flirted with youth.  The crowd,
-high on liquor and pot, sweat and sex, moved and vibed with the latest
-rock/rap hit.
+the bar and in the alcoves, older men flirted with the youth.  The
+crowd, high on liquor and pot, sweat and sex, moved and vibed with the
+latest rock/rap hit.
 
 	games are addictive
 	games are insane
@@ -4376,7 +4428,7 @@ flag on Mars --- I'm planting it face-down in the Martian dirt!"
 do you have to risk everything just to win your private little war?"
 
 "Well, maybe you find this hard to understand from your cushy NASA
-perch," Marcellus continued, his voice dripping with sarcasm, "but
+perch," Mercuriou continued, his voice dripping with sarcasm, "but
 there's a lot of people back home rooting for us to show the world
 that you don't have to become one of these ruthless bums to get
 something done in life."
@@ -4393,8 +4445,8 @@ goal since day one.  We take the risks as they come."
 
 "OK, if we're going to do that..." Burns started, then stopped as
 Andrea flung herself through the hatchway, muttering something about
-"just like NASA / Challenger" as she zoomed away through the spacecraft.
-Mercuriou watched her go.
+"just like NASA" as she zoomed away through the spacecraft.  Mercuriou
+watched her go.
 
 "If you learn to live with disappointment," he noted, "she'll never
 leave you for another man."
@@ -4423,13 +4475,11 @@ the site from orbit, but a low pass will give us the chance to take
 some close-up pictures, then analyze them carefully before committing
 to land."
 
-"Kinda like Apollo 10," Andrea noted.  "Make a landing pass without
-actually landing."
-
-"Right.  Also, since we're landing an airplane, we need something like
-the salt flats at Edwards.  We don't have a VTOL capability, so our
+"Also, since we're landing an airplane, we need something like the
+salt flats at Edwards.  We don't have a VTOL capability, so our
 landing options are a lot more limited.  I really want to take a
-careful look at this site _before_ we land."
+careful look at this site _before_ we land, so we'll do like Apollo 10
+and make a landing pass without actually landing."
 
 _This_site_ was a flat area on the edge of Utopia Planetia, a few
 hundred miles north of the Viking 2 landing site.
@@ -4444,26 +4494,14 @@ well, maybe Andrea, too, at this point."
 
 "Yeah, it's a test run, but if something goes wrong..."
 
+"And _anything_ could go wrong", Andrea interjected.  "We've never
+even _attempted_ a reentry in this vehicle, and it certainly wasn't
+designed for it.  We have absolutely no ground support _whatsoever_.
+And we have no rescue option whatsoever."
+
 "Andrea, what do you think?" Mercuriou asked.
 
-"You know what I think," the first officer sniffed.
-
-"Burns and Vic go," Mercuriou summarized, "the rest of us stay, at
-least for the test."
-
-
-T + 639 days
-
-"Anything could go wrong.  You're not landing on a runway; your tires
-could blow out; you could even crash.  You could be unable to refuel
-for some reason.  We have absolutely no ground support _whatsoever_.
-We've never even _attempted_ a reentry in this vehicle, and it certainly
-wasn't designed for it.  And we have no rescue option should
-_anything_ go wrong."
-
-For the last time, Andrea was trying to convince Merceriou to cancel
-the landing attempt.  The meeting was in the captain's quarters; only
-Burns, Yeats, and Merceriou were present.
+The first officer sniffed.
 
 "There was no rescue option on Apollo, either," the captain noted.
 "When they had problems on Apollo 13, they just had to work it out,
@@ -4472,55 +4510,38 @@ and that's what we'll have to do if we have problems here."
 "Apollo was risky.  Three astronauts had already died in Apollo 1;
 they were in this crazed moon race with the Russians trying to prove
 that communism wasn't some great advanced new society, a lot like this
-crazy venture which is half about trying to prove that capitalism and
-democracy aren't all they're cracked up to be, and _still_, Apollo was
-a better design."  Merceriou started to shake his head, but Andrea
-wouldn't be stopped.  "The entire vehicle was designed from the start
-with spaceflight in mind; they had tested the command module on
-Apollos 7 and 8; they had tested the lunar module on Apollos 9 and
-10."
+crazy venture which is half about, heck, it's _all_ about trying to
+prove that capitalism and democracy aren't all they're cracked up to
+be, and _still_, Apollo was a better design."  Merceriou started to
+shake his head, but Andrea wouldn't be stopped.  "The entire vehicle
+was designed from the start with spaceflight in mind; they had tested
+the command module on Apollos 7 and 8; they had tested the lunar
+module on Apollos 9 and 10."
 
-"The moon does make a lot more sense than Mars," Burns observed.
-"Heck, the astroid belt makes a lot more sense than Mars.  We've
-only..."
+Mercuriou exploded.
 
-Mercuriou cut him off, his temper short.
+"I can't believe that after two years in space you're still seriously
+suggesting that we should just pack up and go home!"
 
-"We're not in lunar orbit, this isn't a mission to the asteriod belt,
-this is a mission to Mars, that's where we are, and that's where we're
-going."
+Andrea could only shrug.
 
-Burns broke the silence that followed.
-
-"I'm just trying to give you an objective engineering assessment, Marc.
-We're picked a hard target.  The moon's got one-sixth Earth gravity
-and no atmosphere.  Nobody's ever attempt to land on another planet
-before.  We're definitely pushing the envelope in a big way."
-
-"Bottom line, will this work or not - objective engineering
-assessment?"
-
-"I can't read into a crystal ball, Marc.  Yes, for all it's
-disadvantages, I think the vehicle is as sound as Apollo, 'cause
-Apollo had big disadvantages too.  Spaceflight is _dangerous_.  More
-than anything else, as I've told you from the beginning, we should
-have more than one ship.  Three ships worked for Christopher Columbus,
-and it's hard to argue with the results from _that_ mission."
-
-"So you think we should go back and get two more ships?"  A twinge
-of sarcasm had now crept into the captain's voice.
-
-Burns sniffed.  "Ideally, we should never had left Earth orbit without
-more ships.  Maybe it would've made more sense to wait to see if we
-couldn't get someone else to come with us."
-
-Mercuriou drifted backwards, stared at the posters on the
-wall of his cabin and slowly shook his head.
-
-"We didn't come all this way to turn back.  We're landing on Mars."
+"We are not going home!  We are landing on Mars!  We did _not_ come
+all this way to turn back!  Burns and Vic go.  The rest of us stay, at
+least for the test."
 
 
 T + 650 days
+
+Unlike the space shuttle, or in fact any manned space vehicle before
+it, _Mars_Explorer's_ 767 was not equipped with a protective heat
+shield, nor was its airframe built to withstand the stresses of
+supersonic, let alone hypersonic, flight.  Burns corrected for this
+deficiency in a simple but effective way - by using the plane's rocket
+engines to slow it from orbital speeds while still high above the
+atmosphere.  Unlike previous designs, where weight was at an absolute
+premium and rocket fuel was heavy and bulky, N-1033 allowed the 767 to
+make a complete round trip - it could decelerate to zero and then
+accelerate again to orbital velocity.
 
 "We're getting a lot of vibration," Burns reported.
 
@@ -4531,10 +4552,9 @@ slowly brake the plane.
 
 "Is that unexpected?" Vic asked.
 
-"It didn't happen on Earth.  We're still over the speed of sound; I'm
-going to hit the brakes."
+"It didn't happen on Earth; I'm slowing down more."
 
-Burns pushed the throttles forward.  They were still more than 50
+Burns pushed the throttles forward.  They were still more than ten
 kilometers high, and he expected the vibration to ease as the rocket
 exhaust slowed the vehicle.  From orbit, the rest of the crew watched
 through a telescope fitted with several high definition cameras.
@@ -4592,19 +4612,17 @@ then dissipated like a phantom conjured by a voodoo priestess.
 The monitor still showed the 767, now overload with a grid of hundreds
 of tiny pressure vectors.  They clearly showed very strong vortexs
 coming off the running engines, enlarging and growing instead of
-contracting, all turning counterclockwise and forming into a massive
-counterclockwise disturbance that engulfed the aircraft.  Just as it
-began to break up, NASA Houston cut back onto the monitor.  Kyle was
-sitting in his accustomed place behind a long desk with computer
+contracting, all turning counterclockwise and coalescing into a
+massive counterclockwise disturbance that engulfed the aircraft.  Just
+as it began to break up, NASA Houston cut back onto the monitor.  Kyle
+was sitting in his accustomed place behind a long desk with computer
 monitors strung out in front of it and white-shirted engineers both
 standing and seated behind.
-
-Kyle's face cut back onto the monitor.
 
 Andrea squirmed.  She wanted to see the final breakup in slow motion,
 but she could get that later from Alister.  More than anything, she
 wanted to interject and ask Kyle to show the rest of the film, but the
-30-minute communications time lag prevented it.
+radio time lag prevented it.
 
 "Andrea, we don't have any idea what happened other than it looks like
 the engines triggered a massive atmospheric disturbance, and
@@ -4617,10 +4635,10 @@ atmosphere, so we're wondering if something down there in the reaction
 byproducts triggered additional reactions in the Martian atmosphere,
 but this is all just educated guesswork."
 
-"And we still don't think the crash was survivable, so I really
-have to advise against your resupply plan.  I know you want
-to do it, and so do I, but I'm looking at it from the angle
-of maybe needing those supplies to get the three of you home."
+"And we still don't think the crash was survivable, so I really have
+to advise against your resupply plan.  I know you want to do it, and
+so do I, but I'm looking at it from the angle of maybe needing those
+supplies to get the three of you home."
 
 "That's all for now."
 
@@ -4638,17 +4656,17 @@ from our secondary, too."
 
 "Let's see."
 
-She knew everything on both lists, having helped compose them, and
-skipped the primary checklist, since Alister said it was loaded.  That
-meant they had oxygen, water, first aid equipment, radio equipment,
-rescue balls, both large - a good-sized, circular tent when inflated,
-and small - two men in spacesuits could just fit into one, and a small
-quanity of the remaining military rations.  It was the secondary
-checklist she was more concerned with, and not all of it, but only the
-part that contained things more valuable, irreplacible.  They had
-begun to form in her mind a third checklist even.  None of them were
-packed except one - a pair of spacesuits.  _Mars_Explorer_ would then
-be left with only two.
+She knew everything on both lists, having composed them herself, and
+skipped the primary checklist, since Alister said that it was loaded.
+That meant they had oxygen, water, first aid equipment, radio
+equipment, rescue balls, both large - a good-sized, circular tent when
+inflated, and small - two men in spacesuits could just fit into one,
+and a small quanity of the remaining military rations.  It was the
+secondary checklist she was more concerned with, and not all of it,
+but only the part that contained things more valuable, irreplacible.
+They had begun to form in her mind a third checklist even.  None of
+them were packed except one - a pair of spacesuits.  _Mars_Explorer_
+would then be left with only two.
 
 "Remove the spacesuits from the rescue module, then launch it."
 
@@ -5894,6 +5912,14 @@ these devices, they want you to buy a new one.  Going green doesn't
 have to be mandated carbon scrubbers on smoke-stacks.  It's building
 clean, open, sustainable technology that everyone can build, improve,
 and repair.
+
+
+Wye: We're not going to let these sexual predators walk free to molest
+our children!
+
+Mercuriou: How many lives have _you_ destroyed!?  How many people have
+you disappeared into your prisons for fear of what they haven't done!?
+You!  _You_ are the predator!  You!  You and your _government_!
 
 
 T + 803 days
