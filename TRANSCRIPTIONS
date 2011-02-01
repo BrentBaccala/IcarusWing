@@ -403,10 +403,6 @@ if we hadn't gone to war to stop slavery
 
 We will not tolerate this!  We will not tolerate insurection!
 
-An obese congressman - dash out from his Capital Hill office
-
-Her frosted blond coiffure hadn't changed in twenty years.
-
 -----
 
 On the last interview, Andrea doesn't come to his rescue.  She thinks
@@ -782,6 +778,117 @@ immigration barrier from people who will do the same work for less.
 People want that protected labor market.  It's a trade war.
 
 They'll allow some development in places like Costa Rica, but it's
-hardly real development at all.  Real development would be every
-country, hell, every big city will have its own silicon fab and most
-of the chip masks and docs would be open and free.
+hardly real development at all.  They only develop in places that look
+stable, look like they won't let out the secrets.  Real development
+would be every country, hell, every big city will have its own silicon
+fab and most of the chip masks and docs would be open and free.
+
+
+
+-----
+
+Our original network paradigm: We're making a phone call.
+
+Our primitive network paradigm: We're sending a post card.
+
+Our new network paradigm: We're looking up something in a library
+
+
+
+
+Any attempt to retreive remote data is done, first and foremost, by
+downloading an applet.  You then ask the applet for the data.
+
+Use a RR that gives a (SHA-1) hash of the applet.  If you need to,
+then you can request the entire thing.
+
+DNSsec helps you here.
+
+If the applet is signed, the local host can trust its results.
+
+This means URLs, DNS RRs, SNMP MIB queries, OSPF link states.  Not the
+protocols themselves, but the content - all need caching.
+
+Why?  We want locally scoped caching.  That means something in the
+caching architecture has to look at link speeds.  Has to.  Might take
+other things into consideration, but link speeds from client to cache
+have to be considered.  Can be measured dynamically, but how can you
+pick values to start with?  Should be able to query MIBs, I think, to
+get a picture of the local topology, right?  (or should that be OSPF?)
+And why not?  Don't want a lot of SNMP chatter running around the
+network, so we need to cache this.
+
+Don't really need OSPF if we can cache and get decent performance out
+of SNMP, right?  Probably need a caching MIB protocol.
+
+If the applet is signed, the local host can trust its results.
+
+If the applet is run secure, it can cache and announce RRs
+
+DNSsec does not help you here.  You need a secure protected module.
+
+-----
+
+I have no intention of repudiating the national debt.  You can take
+1/300 th of it, or 1/50 th of it, and convert it 1:1 into Hawaiian
+dollars.  We'll pay off our part of it.
+
+-----
+
+Having a big, interlocking network of charities isn't a great idea, it
+would be better to make charity a lifestyle.  But it's better than
+a big, interlocking network of businesses.
+
+-----
+
+"...so some professor can build a pipe organ in his house"
+
+
+------
+
+MAYBE PUT SOME OF THIS WHERE ANDREA CONVERTS MERCURIOU
+
+word-for-word accurate..."
+
+"The Bible is the Inspired Word Of God!"
+
+"Then clear up some simple points for me, like how did Judas die?"
+
+"I really don't this is relevent..."
+
+"No, how did Judas die?  Can you tell me?"
+
+Zee took a deep breath before answering.  "Judas hung himself from
+a tree, consumed with the guilt of having betrayed Christ."
+
+"But that's now what the Bible says!  At least that not what the Bible
+says in Acts!  In _Matthew_ we're told Judas hung himself.  In _Acts_
+we're told he bought a field with the silver he had been paid and died
+after falling down a ravine in that field.  Now, Reverend, how can one
+man die two different ways?"
+
+Zee remained silent.  Mercuriou went on.
+
+"Or perhaps you can tell me what happened to Christ after his baptism
+by John?  In _Matthew_ we're told he went to wilderness for forty days
+where he was tempted by the devil.  In _John_ we're told that the
+_next_day_ he began calling his disciples - no wilderness trip, no
+forty days.  So what happened that days after his baptism, Reverend,
+did he head for the wilderness or start his ministry?"
+
+"So what are you trying to say, Doctor, that we can't beleive the Bible?"
+
+"No, I've just pointing out some of it's many internal
+inconsistencies.  There's no way it can be word-for-word exact.  I've
+come to see it as a historial document, and like many other historical
+documents flawed and inaccurate, but one that deals with some of the
+critical events of human history - the life, ministry, death, and
+resurrection of Jesus of Nazareth.  Asking if any particular event
+happened just the way it's related is like asking if Julius Cesear
+actually uttered the words "the die is cast" as he crossed the River
+Rubicon.  Who knows?  Yet we can be fairly certain that was a man
+named Julius Cesear and that he did most of the things attributed to
+him.  It's like that with the Bible - you can't just pick out some
+verse and insist that it's exactly infallible; you have to evaluate it
+with a critical eye."
+
