@@ -829,6 +829,47 @@ DNSsec does not help you here.  You need a secure protected module.
 
 -----
 
+DNS is a _layer_ in the networking stack.
+
+Therefore, a dns resolvelet implements basically a single function:
+'transmit packet to DNS-address'
+
+Actually, it implements at least two: 'transmit packet to
+DNS-address', 'retrieve URL'.  If it's an HTTP URL, then it will be
+resolved by transmitting HTTP/TCP packets.  So maybe 'transmit
+packet to DNS-address' is fine.
+
+This is now implemented using a resolvelet.  Basically, you publish
+something using a DNS RR that is Java bytecode to be run on the remote
+host to implement 'deliver packet to (my) DNS address'.
+
+Now the resolvelet needs to query (local) network topology; might be
+able to get "global" topology from a URL.
+
+How?  SNMP first to localhost and then out, probing the local
+topology.  Seems like a problem - and a future optimization.
+
+Resolvelet can query DNS however it wants.  Multicast to "all caches"
+addresses as well as a unicast target.  A cache should be able to do a
+"directed IGMP subscribe", i.e, _route_ an IGMP packet to a unicast
+address instructing that router to subscribe it to a multicast
+address.  Maybe this should trigger multicast subscribes at all the
+routers that handle it.
+
+This might require adding "exclusion addresses" to a LWM header -
+unicast addresses that already have a copy heading towards them and
+require no further splitting.
+
+Could also do an IGMP subscribe with a TTL radius.
+
+Resolvelet might use its local IP address combined with a list of
+instructions on how to do lookup from different IP addresses.  Also
+needs to find local caches that might not appear in the global
+database (especially if on a private network).  Need to be aware of
+the startup time downloading some URL.
+
+-----
+
 I have no intention of repudiating the national debt.  You can take
 1/300 th of it, or 1/50 th of it, and convert it 1:1 into Hawaiian
 dollars.  We'll pay off our part of it.
@@ -841,7 +882,7 @@ a big, interlocking network of businesses.
 
 -----
 
-"...so some professor can build a pipe organ in his house"
+"...so some professor can build a pipe organ in his home!"
 
 
 ------
