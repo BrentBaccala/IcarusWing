@@ -686,36 +686,26 @@ facility and T-131 completely and let Alister get cut in at this point
 along with more of an explanation of what's going on.  Pople can go
 back in too, i think!]
 
+
 T - 239 days    youth must be corrupted
 
 In 1998, John Pople became the first man in history to win a Nobel
 Prize for writing a computer program.  It was called _Gaussian_, and
 it numerically simulated Schroedinger's equation, the crucial formula
-for explaining the complex interactions between the electrons and
-nuclei that formed atoms and molecules.  _Gaussian_, and programs like
-it, made it possible to analyze atomic structures in much the same way
-as numerical simulations of Newton's gravitational equations made
-possible the analysis of planetary movement in solar systems.  For
-hundreds of years, scientists had sought the master formulae of a
-purely mathematical theory to explain the entire physical universe.
-Like two teams drilling a tunnel from opposite directions, physicists
-and chemists had pursued this common quest, the physicists cutting
-deeper and deeper into the mysteries of the atom, the chemists
-measuring and categorizing dozens of properties of the myriad array of
-chemical substances.  In the early decades of the twentieth century,
-men like Planck, Schroedinger, and Dirac developed the quantum theory
-that could finally explain the layered construction of atoms and
-molecules.  For the first time, physics was beginning to decode the
-Rosetta Stone of matter.  Quantum mechanics, the most spectacularly
-successful physics theory of all time, came with one slight caveat -
-nobody knew how to solve its equations.
-
-
-"Bloody hell!" exclaimed the young South African as he smacked the
-side of the computer monitor.  The screen image
-wavered and recovered as Burns walked over behind
-him.  He was wearing a tee-shirt a student group had made in
-college.
+for explaining the complex interactions that formed atoms and
+molecules.  _Gaussian_, and programs like it, made it possible to
+analyze atomic structures in much the same way as numerical
+simulations of Newton's equations made possible the analysis of
+planetary movement in solar systems.  For hundreds of years,
+scientists had sought the master formulae of a purely mathematical
+Theory Of Everything.  Like two teams drilling a tunnel from opposite
+directions, physicists and chemists had pursued a crucial thread of
+this common quest, the physicists digging deep into the mysteries of
+the atom while the chemists measured and categorized the myriad array
+of substances.  Then, in the early decades of the twentieth century,
+the physicists broke through the tunnel.  Quantum mechanics, the most
+spectacularly successful physics theory of all time, came with one
+slight/minor caveat - nobody knew how to solve its equations.
 
 _Everybody_says_this'll_lead_you_to_doom_
 
@@ -725,16 +715,28 @@ as the guitar lick arched to its climax.
 _But_that_don't_help_you_in_the_...
 
 "Bed-roooom!"  Alister bobbed his head and sang the refrain out loud.
-The "Big Three" were out of town somewhere, and most of the other guys
-had taken the weekend off, so the young South African had the place to
-himself.  Twenty years old, with matted blond hair, he had left his
-home to study abroad, finished a double major in chemistry and
-physics, then was able to stay in the United States after graduating.
-TenTech was his first job after college.
+
+The office was actually the living room of a large plantation house
+where [THEY LIVE IN OUTRIGGERS] Burns lived with a team of a
+half-dozen young programmers.  The house's tile floors and stucco
+walls overlooked a sandstone cliff dropping to an expansive beach and
+the Pacific Ocean.  Waves crashed against a nearby point, surfboards
+were stacked lazily [IMPROVE] near the beach trail, and broad overhead
+fans circulated the sea breeze.  In a pair of curtain-side semis
+hummed a parallel-processing system of more than a thousand
+processors.
+
+They were looking for a new type of rocket fuel, liquid at room
+temperature and with better performance than the solids.  The bosses
+were out of town and the other guys had taken off, so Alister had the
+place to himself.  Twenty years old, with matted blond hair, he had
+left South Africa to study abroad, finished a double major in
+chemistry and physics, then stayed after graduating.  TenTech was his
+first job [after college].
 
 Yet Alister fancied himself a hacker, and had trained himself to read
 keystrokes over people's shoulders.  Burns had carelessly allowed the
-young chemist to watch him login to 'genie', and now Alister used his
+young chemist to watch him login to 'genie', and now Alister used that
 password to enter the system and look around.  Its accounting records
 showed one program used more than any other.  Alister ran it.
 
@@ -752,66 +754,59 @@ T - 237 days    some politician must tell a pack of lies
 
 "What did he see?"
 
-Mercuriou asked the question without turning around.  Instead, he
-leaned back in his chair and watched the rain pelt against the
-executive suite's plate glass windows.  The gray-green ocean frothed
-and seethed, reflecting the chaotic smear of light patterns that radar
-engineers dubbed "sea scatter", then morphed into an indistinct
-horizon where rain met cloud met ocean.
+Mercuriou asked the question without emotion.  Behind him, Hanalei Bay
+frothed and seethed gray-green, reflecting the chaotic smear of light
+patterns that radar engineers dubbed "sea scatter", then morphed into
+an indistinct horizon where rain met cloud met ocean.
 
-"He ran the program," Burns replied.
+"He ran the program."
 
 "Did he understand what he saw?"
 
-Burns thought for a moment.  The pelting rain was the only sound in
-the office.  Mercuriou watched the streaks of water sliding down the
-glass.
-
 "Probably.  He's pretty sharp."
 
-"So Alister knows we're up to something; he just doesn't know what,"
-Mercuriou concluded, turning around in his chair and folding his hands
-in front on him on the desk.  Burns nodded.  Mercuriou sniffed, then
-chuckled, then finally broke out in an awkward guffaw.
+"So he knows we're stealing something; but he doesn't know what,"
 
-"You think this is funny?" Vic inquired from a corner seat.
+Mercuriou folded his hands in front on him on the desk.  He sniffed,
+then chuckled, then finally broke out in a loud guffaw.
 
-"I think it's hilarious," Mercuriou replied, kicking back in his
-chair.  "Our whole operation is made possible by Burns' super-hack,
-and now along comes this twenty-year-old kid who hacks _your_ system!"
-Now how do we look on our launch preparations?"
+"You think this is funny?" Vic asked from the corner.
 
-"We've almost got the engines finished," Burns replied.  "We still
-need an airplane, spacesuits, launch towers, tanks and just about
-everything that goes in them.  And, of course, we don't have enough
-ten-thirty-three.  The bottom line," he concluded, "is that we still
-don't have enough money."
+"I think it's hilarious!  Our whole operation is made possible by
+Burns' super-hack, and now along comes this twenty-year-old kid who
+hacks _your_ system!  Now, how's the project going?"
 
-"OK," Mercuriou continued, more thoughfully, "we need another
-big hack.  Or two."
+"The older engines work with the new fuel.  We've got a synthesis
+pathway, but it can be improved.  We still need an airplane,
+spacesuits, launch towers, tanks and just about everything that goes
+in them.  And, of course, we don't have enough fuel."
 
-Vic shifted uncomfortably on his coach, but said nothing.  It was
-Burns who objected.
+"And we need another big hack.  Or two."
 
-"Well I certainly don't have the time; I'm swamped."
+"I'm totally swamped."
 
-"Can Alister do that for you?"
+"But we've found a hacker!"
 
-Burns screwed his eyebrows and thought for a moment, begining to
-follow Mercuriou's line of thought.  He had known Alister for almost
-two years (check chronology) now.
+Burns screwed his eyebrows and thought for a moment.
 
-"He's sharp, real sharp.  One of the best programmers I've got, and
-yeah, it looks like he can hack, too.  I guess the real question is,
-will he hack for us?"
+"He's sharp, real sharp.  One of the best we've got, and it looks like
+he can hack, too.  I guess the real question is, will he?  For us?"
 
-Mercuriou raised a finger in the air, and felt an adrenaline rush
-surge within him, like he was about to ask a stranger out on a date.
+Mercuriou raised a finger in the air, an adrenaline rush surging
+within him, like he was about to ask a stranger out on a date.
 
 "Let me take care of that.  Go get Alister."
 
-As soon as Burns returned with the young man, Mercuriou directed
-him to close the door.
+
+As soon as Burns was out the door, Mercuriou lept to his feet, erasing
+the whiteboard then rearranging the chairs, placing one directly in
+front of his desk and the other behind it and to one side.  By the
+time Burns returned with Alister, he had returned to his chair, swung
+it around, and was watching the rain pelt against the executive
+suite's plate glass windows.  Vic directed Alister to sit, and Burns
+closed the door.  The pelting rain and the breaking surf were the only
+sounds.  Mercuriou watched the streaks of water sliding down the glass
+and gazed on toward the reef break.
 
 "There was an unauthorized connection to 'genie' from your workstation
 Saturday night at 9:43 PM.  It was encrypted of course, but it lasted
