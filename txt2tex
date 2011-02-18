@@ -1,0 +1,6 @@
+
+# This is a sed script-file used to convert the source to latex
+
+s/_(\w+)_/{\\it \1}/			# convert _ to italics
+s/_/ /g					# convert interior _ to spaces
+
