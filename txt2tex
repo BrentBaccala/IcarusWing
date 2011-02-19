@@ -6,8 +6,6 @@ print q|
 
 \documentclass{book}
 
-%\usepackage{nopageno}
-
 \usepackage{vmargin}
 \usepackage{times}
 \usepackage[pdftex]{color}
@@ -36,7 +34,7 @@ print q|
 \definecolor{Bible}{rgb}{0.8,0,0}
 
 \definecolor{Mercuriou}{rgb}{0.4,0,0}
-\definecolor{Burns}{rgb}{0.5,0.5,0.1}
+\definecolor{Burns}{rgb}{0.3,0.3,0}
 \definecolor{Vic}{rgb}{0.4,0,0.4}
 \definecolor{Alister}{rgb}{0,0.4,0}
 \definecolor{Andrea}{rgb}{0,0,0.4}
@@ -69,7 +67,20 @@ while (<>) {
     s/_(\w+)_/{\\it \1}/;			# convert _ to italics
     s/_/ /g;					# convert interior _ to spaces
 
-    s/^(\w+):(.*)"(.*)"/\2 \\textcolor{\1}{"\3"}/g;
+    # The speaking character can be indicated by a notation at the
+    # beginning of the line or paragraph like "Alister:".  Note
+    # if this is the case, or undef $speaker if we're at a blank
+    # line (in between paragraphs)
+
+    $speaker=$1 if (/^(\w+):/);
+    undef $speaker if (/^$/);
+
+    # Remove speaker indication now that we've processed it.
+    s/^(\w+)://;
+
+    # Set text color for material in quotes according to speaker
+    # Actual colors are defined above in the LaTeX preamble.
+    s/"(.*)"/\\textcolor{$speaker}{"\1"}/g if defined $speaker;
 
     print;
 
