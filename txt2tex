@@ -31,9 +31,9 @@ print q|
 % No title page for e-reader version
 % \maketitle
 
-\definecolor{Bible}{rgb}{0.8,0,0}
+\definecolor{Bible}{rgb}{0.7,0,0}
 
-\definecolor{Mercuriou}{rgb}{0.4,0,0}
+\definecolor{Mercuriou}{rgb}{0.4,0.2,0}
 \definecolor{Burns}{rgb}{0.3,0.3,0}
 \definecolor{Vic}{rgb}{0.4,0,0.4}
 \definecolor{Alister}{rgb}{0,0.4,0}
