@@ -1,7 +1,14 @@
+#! /usr/bin/perl
+#
+# This is a Perl script used to convert the Icarus Wing source to latex
 
-# This is a sed script-file used to convert the source to latex
+while (<>) {
 
-s/_(\w+)_/{\\it \1}/			# convert _ to italics
-s/_/ /g					# convert interior _ to spaces
+    s/_(\w+)_/{\\it \1}/;			# convert _ to italics
+    s/_/ /g;					# convert interior _ to spaces
 
-s/^(\w+):(.*)"(.*)"/\2 \\textcolor{\1}{"\3"}/g
+    s/^(\w+):(.*)"(.*)"/\2 \\textcolor{\1}{"\3"}/g;
+
+    print;
+
+}

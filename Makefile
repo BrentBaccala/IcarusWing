@@ -6,6 +6,6 @@ IcarusWing.pdf: IcarusWing.tex
 	rm IcarusWing.aux IcarusWing.log
 	cygstart IcarusWing.pdf
 
-IcarusWing.tex: IcarusWing Makefile front.tex back.tex regex
+IcarusWing.tex: IcarusWing Makefile front.tex back.tex txt2tex
 	rm -f IcarusWing.tex
-	sed -r -f regex	IcarusWing | cat front.tex - back.tex > IcarusWing.tex
+	./txt2tex IcarusWing | cat front.tex - back.tex > IcarusWing.tex
