@@ -8,4 +8,4 @@ IcarusWing.pdf: IcarusWing.tex
 
 IcarusWing.tex: IcarusWing Makefile front.tex back.tex txt2tex
 	rm -f IcarusWing.tex
-	./txt2tex IcarusWing | cat front.tex - back.tex > IcarusWing.tex
+	./txt2tex IcarusWing > IcarusWing.tex
