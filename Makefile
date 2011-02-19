@@ -1,4 +1,5 @@
 
+SUBFILES= ECKS[12] WYE[12] ZEE[12] SPEECH2 ALT-ENDING
 
 IcarusWing.pdf: IcarusWing.tex
 	rm -f IcarusWing.pdf
@@ -6,6 +7,6 @@ IcarusWing.pdf: IcarusWing.tex
 	rm IcarusWing.aux IcarusWing.log
 	cygstart IcarusWing.pdf
 
-IcarusWing.tex: IcarusWing Makefile front.tex back.tex txt2tex
+IcarusWing.tex: IcarusWing $(SUBFILES) Makefile txt2tex
 	rm -f IcarusWing.tex
-	./txt2tex IcarusWing > IcarusWing.tex
+	./txt2tex < IcarusWing > IcarusWing.tex

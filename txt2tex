@@ -2,6 +2,61 @@
 #
 # This is a Perl script used to convert the Icarus Wing source to latex
 
+my $speaker;
+my $counter = 0;
+
+sub ProcessLine {
+
+    s/\$/\\\$/;				# quote $
+
+    s/_([\w'!]+)_/{\\it \1}/;		# convert _ to italics
+    s/_/ /g;				# convert interior _ to spaces
+
+    # The speaking character can be indicated by a notation at the
+    # beginning of the line or paragraph like "Alister:".  Note
+    # if this is the case, or undef $speaker if we're at a blank
+    # line (in between paragraphs)
+
+    $speaker=$1 if (/^(\w+):/);
+    undef $speaker if (/^$/);
+    $counter=0 if (/^$/);
+
+    # Remove speaker indication now that we've processed it.
+    s/^(\w+)://;
+
+    # Set text color for material in quotes according to speaker
+    # Actual colors are defined above in the LaTeX preamble.
+
+    while (/"/ and defined $speaker) {
+	if ($counter % 2 == 0) {
+	    s/"/\\textcolor{$speaker}{``/;
+	} else {
+	    s/"/''}/;
+	}
+
+	$counter ++;
+    }
+
+    print;
+}
+
+sub ProcessFile {
+    my ($FILE) = @_;
+
+    while (<$FILE>) {
+	my $filename = $_;
+	chomp $filename;
+
+	if (-r $filename) {
+	    open(NESTED_FILE, "<$filename");
+	    ProcessFile(\*NESTED_FILE);
+	    close(NESTED_FILE);
+	} else {
+	    ProcessLine;
+	}
+    }
+}
+
 print q|
 
 \documentclass{book}
@@ -62,39 +117,7 @@ print q|
 
 |;
 
-while (<>) {
-
-    s/_(\w+)_/{\\it \1}/;			# convert _ to italics
-    s/_/ /g;					# convert interior _ to spaces
-
-    # The speaking character can be indicated by a notation at the
-    # beginning of the line or paragraph like "Alister:".  Note
-    # if this is the case, or undef $speaker if we're at a blank
-    # line (in between paragraphs)
-
-    $speaker=$1 if (/^(\w+):/);
-    undef $speaker if (/^$/);
-    $counter=0 if (/^$/);
-
-    # Remove speaker indication now that we've processed it.
-    s/^(\w+)://;
-
-    # Set text color for material in quotes according to speaker
-    # Actual colors are defined above in the LaTeX preamble.
-
-    while (/"/ and defined $speaker) {
-	if ($counter % 2 == 0) {
-	    s/"/\\textcolor{$speaker}{``/;
-	} else {
-	    s/"/''}/;
-	}
-
-	$counter ++;
-    }
-
-    print;
-
-}
+ProcessFile(\*STDIN);
 
 print q|
 \end{document}
