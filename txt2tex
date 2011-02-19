@@ -74,13 +74,23 @@ while (<>) {
 
     $speaker=$1 if (/^(\w+):/);
     undef $speaker if (/^$/);
+    $counter=0 if (/^$/);
 
     # Remove speaker indication now that we've processed it.
     s/^(\w+)://;
 
     # Set text color for material in quotes according to speaker
     # Actual colors are defined above in the LaTeX preamble.
-    s/"(.*)"/\\textcolor{$speaker}{"\1"}/g if defined $speaker;
+
+    while (/"/ and defined $speaker) {
+	if ($counter % 2 == 0) {
+	    s/"/\\textcolor{$speaker}{``/;
+	} else {
+	    s/"/''}/;
+	}
+
+	$counter ++;
+    }
 
     print;
 
