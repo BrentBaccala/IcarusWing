@@ -37,6 +37,16 @@ sub ProcessLine {
 	$counter ++;
     }
 
+    # Change '    ' in chapter title lines to hskip
+    s/    /\\hskip 0.5in/  if (/^T [+-] [0-9]+/);
+
+    # Put chapter titles on new pages in typewriter font
+    s/^T [+-] [0-9]+.*$/\\vfill\\eject\\thispagestyle{empty}{\\tt \\hfill $&}\\vskip 0.5in/;
+
+    # Ditto for Launch Day
+    s/    /\\hskip 0.5in/  if (/^Launch Day/);
+    s/^Launch Day+.*$/\\vfill\\eject\\thispagestyle{empty}{\\tt \\hfill $&}\\vskip 0.5in/;
+
     print;
 }
 
