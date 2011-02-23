@@ -68,7 +68,8 @@ sub ProcessLine {
     s/    /\\hskip 0.5in/  if (/^T [+-] [0-9]+/);
 
     # Put chapter titles on new pages in typewriter font
-    s/^T [+-] [0-9]+.*$/\\vfill\\eject\\thispagestyle{empty}{\\tt \\hfill $&}\\vskip 0.5in/;
+    #   the centerline is there to make T + 1 day overfill
+    s/^T [+-] [0-9]+.*$/\\vfill\\eject\\thispagestyle{empty}\\centerline{\\tt \\hfill $&}\\vskip 0.5in/;
 
     # Ditto for Launch Day
     s/    /\\hskip 0.5in/  if (/^Launch Day/);
