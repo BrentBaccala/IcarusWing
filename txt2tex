@@ -5,6 +5,33 @@
 my $speaker;
 my $counter = 0;
 
+sub insertTOC {
+
+    print q|
+
+\vfill\eject
+
+\thispagestyle{empty}
+
+\centerline{Requirements}
+\centerline{for}
+\centerline{The Great anti-American Novel}
+
+\begin{verbatim}
+|;
+
+    open(ICARUSWING, "<IcarusWing");
+    while (<ICARUSWING>) {
+	if (/^T / or /^Launch Day/) {
+	    s/^.*    //;
+	    print unless (/^T / or /^Launch Day/);
+	}
+    }
+    close(ICARUSWING);
+
+    print "\\end{verbatim}\n";
+}
+
 sub ProcessLine {
 
     s/\$/\\\$/;				# quote $
@@ -47,7 +74,17 @@ sub ProcessLine {
     s/    /\\hskip 0.5in/  if (/^Launch Day/);
     s/^Launch Day+.*$/\\vfill\\eject\\thispagestyle{empty}{\\tt \\hfill $&}\\vskip 0.5in/;
 
-    print;
+    # Format poetry at beginning - with italics {{ }}
+    s/^{{([^}]*)}}$/\\centerline{\\it \1}/;
+
+    # Format poetry at beginning - without italics {
+    s/^{([^}]*)$/\\centerline{\1}/;
+
+    if (/Requirements for The Great anti-American Novel/) {
+	&insertTOC;
+    } else {
+	print;
+    }
 }
 
 sub ProcessFile {
@@ -57,8 +94,7 @@ sub ProcessFile {
 	my $filename = $_;
 	chomp $filename;
 
-	if (-r $filename) {
-	    open(NESTED_FILE, "<$filename");
+	if (-r $filename) {	    open(NESTED_FILE, "<$filename");
 	    ProcessFile(\*NESTED_FILE);
 	    close(NESTED_FILE);
 	} else {
@@ -126,6 +162,7 @@ print q|
 \mainmatter
 
 |;
+
 
 ProcessFile(\*STDIN);
 
