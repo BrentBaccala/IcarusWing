@@ -10,3 +10,9 @@ IcarusWing.pdf: IcarusWing.tex
 IcarusWing.tex: IcarusWing $(SUBFILES) Makefile txt2tex
 	rm -f IcarusWing.tex
 	./txt2tex < IcarusWing > IcarusWing.tex
+
+publish:
+	scp IcarusWing.pdf freesoftftp@www.freesoft.org:httpdocs/IcarusWing
+
+checkin:
+	ci -u IcarusWing $(SUBFILES) Makefile txt2tex TRANSCRIPTIONS
