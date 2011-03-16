@@ -44,7 +44,7 @@ sub ProcessLine {
     # if this is the case, or undef $speaker if we're at a blank
     # line (in between paragraphs)
 
-    $speaker=$1 if (/^(\w+):/);
+    $speaker=$1 if (/^((\w|-)+):/);
     undef $speaker if (/^$/);
     $counter=0 if (/^$/);
 
@@ -151,7 +151,8 @@ print q|
 \definecolor{James}{rgb}{0,0,0}
 \definecolor{Jill}{rgb}{0,0,0}
 
-\definecolor{Husband}{rgb}{0,0,0}
+\definecolor{Reginard}{rgb}{0,0,0}
+\definecolor{al-Nass}{rgb}{0,0,0}
 
 \frontmatter
 
