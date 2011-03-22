@@ -1,5 +1,5 @@
 
-SUBFILES= ECKS[12]* WYE[12]* ZEE[12]* SPEECH2 ALT-ENDING
+SUBFILES= ECKS[12]* WYE[12]* ZEE[12]* SPEECH2 ALT-ENDING CALLERS
 
 IcarusWing.pdf: IcarusWing.tex
 	rm -f IcarusWing.pdf
