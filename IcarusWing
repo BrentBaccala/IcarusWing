@@ -2191,7 +2191,7 @@ to Earth to bring more people."
 Vic: "We're not going to need the hydroponics, Marc."
 
 All eyes turned to the hatch.  Though the crew, gathered together in
-A-core, had not specifically excluded Vic, they had grown used to his
+the 767, had not specifically excluded Vic, they had grown used to his
 absence.  His first appearance outside his quarters in a week now
 stunned everyone.  While Mercuriou silently assimilated his statement,
 Andrea was the first to respond.
@@ -2578,12 +2578,13 @@ snapped off the fuselage, and slammed into the battered tail.
 In the cockpit, Vic watched the mad swirl of the artificial horizon
 like a tank commander watching an armor piercing round headed straight
 for his turret.  He glanced over at Burns, fighting madly against the
-controls, and a calm peace enveloped his soul as he exploded into
-light.
+controls, and a calm peace enveloped his soul.
+
+% as he exploded into light.
 
 _Now_I_get_the_answer_key._
 
-"Death! Death!  Let me taste death!" the mad child gleefully cried.
+% "Death! Death!  Let me taste death!" the mad child gleefully cried.
 
 Mercuriou: Mercuriou looked at him closely.  "Is that a cliche?"
 
@@ -2596,7 +2597,7 @@ Vic: "I saw an angel, mommy!"
 Mercuriou: "Burns?  Burns?"
 
 
-T + 651 days    the "good guys" must seem heroic
+T + 151 days    everything must seem hopeless
 
 "This is what Alister recorded on the high-speed film."
 
@@ -2616,95 +2617,25 @@ storm that had then disappeared like a phantom conjured by a voodoo
 priestess. More than anything else, she wanted to ask a question, but
 the radio time lag prevented it.
 
-"We don't know what happened.  It looks the engines created some kind
-of storm, but nothing in any of our Martian models predicts it."
-
-"I don't think the crash was survivable, so I really have to advise
-against your resupply plan.  I know you want to do it, but you
-might need those supplies to get home."
-
-"And I'm genuinely sorry for your loss of your friends, Andrea.
+"We just don't know what happened.  It looks the engines created some
+kind of storm, but nothing in any of our Martian models predicts it.
+And I'm genuinely sorry for your loss of your friends, Andrea.
 Houston out."
 
 The transmission ended and was replaced by the usual screen cluster on
 the projector.
 
-The Captain was silent.  After a moment, he left for his cabin
+The Captain was silent.  After a moment, he left.
 
 
+T + 162 days    suicide must be contemplated
 
-
-
-"The rescue module?" Andrea asked Alister.  A cargo module had been
-attached to a fuel module and an engine, then docked to A-core.
-
-"It's got everything on our primary checklist, and a couple of things
-from our secondary, too."
-
-"Let's see."
-
-She knew everything on both lists, having composed them herself, and
-skipped the primary checklist, since Alister said that it was loaded.
-That meant they had oxygen, water, first aid equipment, radio
-equipment, rescue balls, both large - a good-sized, circular tent when
-inflated, and small - two men in spacesuits could just fit into one,
-and a small quanity of the remaining military rations.  It was the
-secondary checklist she was more concerned with, and not all of it,
-but only the part that contained things more valuable, irreplacible.
-They had begun to form in her mind a third checklist even.  None of
-them were packed except one - a pair of spacesuits.  _Xplorer_1_
-would then be left with only two.
-
-"Remove the spacesuits from the rescue module, then launch it."
-
-The rescue module was launched under computer control.  Its engine
-fired a de-orbit burn and it began dropping into the Martian
-atmosphere.  Twenty kilometers up the engine re-ignited to brake its
-decent.  Another, smaller maelstrom quickly developed around it.
-Radio contact was lost, it disintegrated in the storm, and another
-cloud of debris rained down to the red planet's soil.
-
-
-T + 652 days    suicide must be contemplated
-
-There was another staff meeting.  The Captain was not there.
-
-"We can't assemble the cargo modules without the 767," Alister interjected.
-"At least, we can't yet.  I need to run some simulations.  We've got
-the cargo modules from the asteroid belt that we rigged to push things
-around, but I've got to figure how to get them lined up in a row."
-
-"How do we do that?" Andrea asked.
-
-"I don't know."
-
-The room fell silent.
-
-"I guess I've got to think about it for a while."
-
-"Well, we've got NASA monitoring all of this.  Kyle," she asked the
-video camera, "could you give us some help putting the cargo modules
-together?  We'll send you copies of the simulation software, and I
-think you've already got the manifests."
-
-"We've also got to have some kind of memorial service."
-
-Turning back to Alister, she tried reassure him.  "Don't worry, we've
-got a lot of people back home who will help us, and I've got more
-hours of spaceflight logged than anyone else here."
-
-Alister furrowed his eyebrows.  It was the first time he had thought
-about it, but Dr. Andrea Yeats would for many years hold the record
-for most lifetime hours of spaceflight.
-
-
-The Captain stopped participating in staff meetings.  He respected
-Andrea's 'suicide watch' by remaining in the room, but Alister and the
-women from NASA did all the work, or more precisely all the work on
-the spaceship, because Kyle's 'mission control' facility in Houston
-was now constantly on one of the monitors.  Sometimes Andrea would
-just stop and watch it for several minutes, unable to directly
-participate because of the nearly hour-long round-trip radio time lag.
+The Captain stopped participating in staff meetings.  Alister and
+Andrea did all the work, or more precisely all the work on the
+spaceship, because Kyle's 'mission control' facility in Houston was
+now constantly on one of the monitors.  Sometimes Andrea would just
+stop and watch it for several minutes, unable to directly participate
+because of the nearly hour-long round-trip radio time lag.  [CHECK]
 They arranged an elaborate system of communications, transmitting each
 other a sumary of their progress every hour, then pausing an hour
 later to listen to the other's summary, which had been transmitted
@@ -2720,199 +2651,147 @@ photograph of their spaceship was overlaid with a drawing of a
 wild-eyed seer with deep, penetrating eyes staring directly out at the
 reader.
 
-"Apparently some of Nostradomes's quatrains refered to the
-_Xplorer_1_ - something about "the great bird crippled in the
-night" - looks like the death of your chief engineer is only the first
-of many woes to befall you guys, let's see, the first death was caused
-by fire, the last death will be caused by ice, and, oh yeah - none of
-you will ever make it back to Earth alive."
+"Apparently some of Nostradomes's quatrains refered to the _Xplorer_1_
+--- something about 'the great bird crippled in the night' --- looks
+like the death of your chief engineer is only the first of many woes
+to befall you guys, let's see, the first death was by fire, the last
+death will be by ice, and, oh yeah --- none of you will ever make it
+back to Earth alive."
 
-"Thanks a lot, Kyle," Andrea told the video screen as his voice droned
-on.  "When I get home, remind me to read you _your_ obituary over
-coffee in the morning!"
+Andrea: "Thanks a lot, Kyle," Andrea told the video screen as his
+voice droned on.  "When I get home, remind me to read you _your_
+obituary over coffee in the morning!"
 
 After finishing her coffee, she knocked on Mercuriou's door, entered
 without waiting, and closed it behind her.
 
-"I'm placing you under a suicide watch."
+Mercuriou turned away from the tiny
+portal window and confronted his first officer.
 
-"You're doing what?"
+Andrea: "We've got OMS-27 coming up.  OMS-27 is a 37.42 mega-newton
+burn at 374 by 1 solar starting at 13:42 on T + 698.  It has a
+tappered entry and step cut-off, and is 3 hours, 17 minutes and 13
+seconds in duration."
 
-Mercuriou turned away from the window and confronted his first officer.
+Expressionless, Mercuriou stared at her.
+
+Mercuriou: "A three hour OMS burn?"
+
 Secretly, Andrea was glad to see this reaction, much more so than
 quiet resignation, but this she tried not to show.
 
-"You heard me."
+Andrea: "We don't have the 767 anymore, Marc.  We've taken a spare
+engine out of storage just to get any propulsion at all.  It's going
+to take forever just to get out of Mars orbit.  And our transfer orbit
+will be a year and half long." [CHECK THIS]
 
-The Captain emitted a "Humph", "So what's this suicide watch supposed
-to be?  You've got a police guard in mind?"
+Mercuriou nodded assent, then went to the sickbay hatch.  Nobody had
+opened it since Vic's death.
 
-"Me.  I'm the police guard.  I'm not leaving you out of my sight."
+Mercuriou: "I'm getting some ibuprofin."
 
-Merceriou took this in slowly.
+He keyed the lock, opened the hatch and pulled himself through.
+Andrea followed behind, then stopped.
 
-"OK," he shrugged at last and turned back to the window.
+The room was immaculate.  Everything had been either cleanly stowed or
+repacked into its original box and stowed.  Even Vic's laptop,
+normally floating free at the end of its tether, was neatly packaged
+away.
 
-"I've been trying to think of some kind of memorial service for Burns."
+Andrea: "What are you thinking?"
 
-After a pause, he nodded.
+Mercuriou: "You don't want to know what I'm thinking."
 
-"I've thought of sending something down to Mars, like burning up a capsule
-in the atmosphere, but I don't know if we want to use the fuel."
-
-"Why not?"  Mercuriou said.  "We've got plenty of it."
-
-"Yes, we do." Andrea replied.
-
-
-
-Alister begins maneuvering the cargo modules.  He can get them home,
-but the trip's going to take a lot longer than anyone had planned on.
-
-Without the 767,  all they could do was line up all the modules
-in more or a less a row, with one rocket engine in the very rear,
-and spend days under light thrust to make a burn.
-
-
-T + 690 days
-
-Mercuriou paused at the sickbay hatch.  Nobody had opened it since
-Vic's death.  He keyed the lock, opened the hatch and pulled himself
-through.  Yeats followed behind as the captain began looking for the
-ibuprofin tablets.
-
-"So what are you thinking?" she said after a moment.
-
-He answered with a snort as he retrieved the bottle.  "You don't want
-to know what I'm thinking."
-
-"Yes, I do."
-
-He looked up at her.  "This part of your suicide watch?"
-
-"No, I really want to know what you're thinking."
+Andrea: "Yes, I do.  I really want to know what you're thinking."
 
 He looked back down at the capsules in his hand, dry swallowed two and
-shoved the rest back into the container.  Then he floated still and
+shoved a third back into the container.  Then he floated still and
 was silent for a while.  Encompassing sickbay with a wave of his arm,
 he answered.
 
-"I knew this thing was dangerous.  I guess I just always figured if
-somebody was going to die, it was going to be me, so... so what,
-right?  I didn't think it would be my best friends."
+Mercuriou: "I knew this thing was dangerous.  I guess I just always
+figured if somebody was going to die, it was going to be me, so... so
+what, right?  I didn't think it would be my best friends."
 
-"We all knew it was dangerous..." she started to answer.
+Andrea: "We all knew it was dangerous..."
 
-"No.  You were right.  I've cut so many corners on this thing, this
-mission, I might as well have reached out and killed them myself.
-I... I just don't...  I just should never have come."
+Mercuriou: "No.  You were right.  I've cut so many corners on this
+thing, this mission, I might as well have reached out and killed them
+myself.  I... I just don't...  I should never have done all of this."
 
-Andrea lowered her voice, moved closer, and took Marcelius Mercurio by
-the arm.
+Mercuriou deflated visibly with this last admission, the first time he
+had verbalized any such sentiment.
 
-"Look, let me tell you something I've never really told anyone.  I've
-been on two space shuttle launches, and watched a dozen more from
-Mission Control.  And every time, I mean _every_time_ they say 'Go at
-throttle up'..."  Her voice drifted off and she choked back tears.
+Andrea lowered her voice, moved closer, and took him by the arm.
 
-"You know why Challenger blew up?  The engineers knew it was too cold
-to launch.  But the managers thought, well, maybe we can let it slid a
-bit this time, it's always worked before, no big deal."
+Andrea: "Look, let me tell you something I've never really told
+anyone.  I've been on two space shuttle launches, and watched a dozen
+more from Mission Control.  And every time, I mean _every_time_ they
+say 'Go at throttle up'..."  Her voice drifted off and she choked back
+tears."
 
-"Everyone cuts corners," she continued.  "People cut corners driving
-their cars - 'oh, I'm not that tired, I'll be OK to drive' - people
-cut corners at work - 'it'll be OK, we need to get it out by the
-deadline' - people cut corners at home - 'Johny'll have another ball
-game next week, I'll make that one'.  People cut corners all the time
-- it's a fact of life," she emphasized as he shook his head and pulled
-away.
+Andrea: "You know why we lost _Challenger_?  The engineers knew it was
+too cold to launch.  But the managers thought, well, maybe we can let
+it slide a bit this time, it's always worked before, no big deal."
 
-"Not when people's lives are at stake," he answered.
+Andrea: "People cut corners driving their cars --- 'oh, I'm not that
+tired, I'll be OK to drive' --- people cut corners at work --- 'fix it
+later, we need to get it out by the deadline' --- people cut corners
+at home --- 'Johny'll have another ball game next week'.  People cut
+corners all the time; it's a fact of life."
 
-"So you're a perfectionist," she stated in a matter-of-fact tone.
+Andrea: "So they died because you cut corners; because you weren't
+perfect.  Your plan wasn't perfect, your ship wasn't perfect, and you
+weren't perfect.  But _I_ knew your plan wasn't perfect, and I came
+anyway.  And they knew it wasn't perfect, and they still followed you.
+And we both know _you_'re not perfect... but you're here for a reason,
+Marc."
 
-"You're damn right I'm a perfectionist," he shot back.
+Mercuriou: "Look, I guess you can forgive me... I just don't know if I
+can forgive myself.  I mean..."
 
-"And they died because you weren't perfect.  Your plan wasn't perfect,
-your ship wasn't perfect, and you weren't perfect."  He looked her
-right in the eye.  "But _I_ knew your plan wasn't perfect, and I came
-anyway.  And they knew it wasn't perfect, and they still followed
-you."  Now he looked down and away.  "And we both know _you_'re not
-perfect... but you're here for a reason, Marc.  Just remember that."
+Andrea: "It's over.  It may take you a long time to forgive yourself;
+heck, you'll _never_ forgive yourself, but it's over.  How do think we
+felt after _Challenger_?  You made a mistake and people died, but now
+it's time to go on."
 
-"Look, I guess you can forgive me... I just don't know if I can forgive
-myself.  I mean..." his voice drifted off.
+Andrea: "And it's a bit easier now since we've only one place to go."
 
-"It's over.  It may take you a long time to forgive yourself; heck,
-you'll _never_ forgive yourself, but it's over.  How do think we felt
-after _Challenger_?  You made a mistake and people died, but now it's
-time to go on."
-
-"And it's a bit easier since we've only one place to go."
-
-
-T + 695 days
-
-"OK, we've got OMS-17 now," Alister announced.  He, along with the
-Andrea and Mercuriou, were suited up and strapped in.  Alister was
-operating the computer that controlled the big-screen display.  The
-others had their own computers, and Andrea was glancing back and forth
-between the big screen and the checklist on own.  Mercuriou was
-watching Alister on the display as he checked the computer settings.
-
-"OMS-17 is a 37.42 mega-newton burn at 374 by 1 solar at 13:42 on T +
-695.  Today _is_ T + 695.  Current time is 13:37 Universal.  Ship's
-inertial attitute is 371 by 3 solar, but that... will rotate into 374
-by 1 solar, check.  Ship's solar attitude is also 371 by 3 solar.
-OMS-17 has a tappered entry and step cut-off, check.  It is 17 minutes
-and 13 seconds in duration, check.  And it will put us on a course
-back to Earth..."
-
-He looked back at Mercuriou, who nodded.  As they waited for the
-engines to fire, Mercuriou gazed out the window at Mars.
-
-"'He was never to return to the city of his triumphs and defeats',"
-he muttered aloud.
-
-"What's that?" Andrea asked.
-
-"Oh, nothing, just something from a book I read."  He motioned to the
-sands of the red planet.
-
-"Yeah," she said, discerning his thoughts.
 
 
 T + 229 days    terrorism must be involved
 
 With cork puller still attached, the cork went flying unheaded across
-the cabin as the Captain grabed for the plastic cover and slapped it over
-the top of the wine bottle.  Even so, several gobs of the red alcohol
-went floating into the air, the liquid's surface tension forming them
-into perfectly round spheres.  Andrea shook her head.
+the cabin as the Captain grabed for the plastic cover and slapped it
+over the top of the wine bottle.  Even so, several gobs of the red
+alcohol went floating into the air, the liquid's surface tension
+forming them into perfectly round spheres.  Andrea shook her head, but
+Mercuriou laughed, a rare occurrence since the accident.
 
-"You'd think that after two and a half years in space, you'd have learned
-how to open a wine bottle without spilling it everywhere."
+Andrea: "You'd think that after two and a half years in space, you'd
+have learned how to open a wine bottle without spilling it
+everywhere."
 
-"What I've learned," the Captain answered, as he spun across the
-compartment and swallowed one of the larger floating drops, "is that
-if you spill wine in space, it's a lot easier to clean up than on
+Mercuriou: "What I've learned," Mercuriou answered, as he spun across
+the compartment and swallowed one of the larger floating drops, "is
+that if you spill wine in space, it's a lot easier to clean up than on
 Earth!"
 
-"Alister, the picnic's starting!"  Andrea called out.
+Alister: "Alister, the picnic's starting!"
 
-"I'll be there in a minute," came the reply from the next module.
+Alister: "I'll be there in a minute," came the reply from the next module.
 
-Mercurio spilt only a few more drops as he "poured" the wine into two
+Mercurio spilt only a few more drops as he 'poured' the wine into two
 wine glasses, each one quickly covered with a flat plastic square.
 Drinking from straws was much easier, but an hour earlier, after
 Andrea suggested a picnic lunch, Marc had dug into the ship's stores
 and produced the glasses alongside the bottle, and Andrea had stood on
 tradition.
 
-"Cheers."
+Mercuriou: "Cheers!"
 
-They clinked glasses and laughed together as the Captain spilled wine
-all over his face as he tried to drink it.  Andrea grabbed a towel.
+They clinked glasses and laughed again as Mercuriou spilled wine all
+over his face as he tried to drink it.  Andrea grabbed a towel.
 
 Alister: "You guys should come in here!" Alister yelled, then got up
 and propelled himself through the hatchway.
@@ -2950,8 +2829,7 @@ one terrible September morning.
 
 Mercuriou: "Another Timothy McVeigh or something," Mercuriou was
 saying.  "The country is so hated; hell, you can say a lot about me,
-Andrea, that I'm a thief and all that, but I never did anything like
-this."
+Andrea, but I never did anything like this."
 
 The picnic was forgotten.  At 1431 GMT, September 11, 2001, after
 first the event on Earth and then a radio lag of 3 minutes 17 seconds,
