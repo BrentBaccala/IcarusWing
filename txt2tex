@@ -159,9 +159,13 @@ print q|
 
 \frontmatter
 
+\quad
+\vskip 1in
 \begin{center}
 {\Huge Icarus' Wing}
-\vskip 0.5in {\Large Brent Baccala}
+
+{\small The Great anti-American Novel}
+\vskip 5in {\Large by Brent Baccala}
 \end{center}
 
 \mainmatter
