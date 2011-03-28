@@ -166,7 +166,7 @@ print q|
 
 \mainmatter
 \pagestyle{plain}
-\setcounter{page}{3}
+\setcounter{page}{2}
 
 |;
 
