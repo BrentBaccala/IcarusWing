@@ -69,11 +69,11 @@ sub ProcessLine {
 
     # Put chapter titles on new pages in typewriter font
     #   the centerline is there to make T + 1 day overfill
-    s/^T [+-] [0-9]+.*$/\\vfill\\eject\\thispagestyle{empty}\\centerline{\\tt \\hfill $&}\\vskip 0.5in/;
+    s/^T [+-] [0-9]+.*$/\\vfill\\eject\\centerline{\\tt \\hfill $&}\\vskip 0.5in/;
 
     # Ditto for Launch Day
     s/    /\\hskip 0.5in/  if (/^Launch Day/);
-    s/^Launch Day+.*$/\\vfill\\eject\\thispagestyle{empty}{\\tt \\hfill $&}\\vskip 0.5in/;
+    s/^Launch Day+.*$/\\vfill\\eject{\\tt \\hfill $&}\\vskip 0.5in/;
 
     # Format poetry at beginning - with italics {{ }}
     s/^{{([^}]*)}}$/\\centerline{\\it \1}/;
