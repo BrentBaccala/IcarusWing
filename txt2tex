@@ -13,9 +13,13 @@ sub insertTOC {
 
 \thispagestyle{empty}
 
+{
+\fontsize{16pt}{20pt}
+\selectfont
 \centerline{Requirements}
 \centerline{for}
 \centerline{The Great anti-American Novel}
+}
 
 \begin{verbatim}
 |;
