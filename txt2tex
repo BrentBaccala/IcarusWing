@@ -114,6 +114,9 @@ print q|
 \usepackage{times}
 \usepackage[pdftex]{color}
 
+\setpapersize{custom}{6 in}{9 in}
+\setmargrb{20mm}{20mm}{20mm}{20mm}
+
 \pdfinfo{
   /Title	(Icarus' Wing)
   /Author	(Brent Baccala)
@@ -127,8 +130,8 @@ print q|
 \parskip 12pt
 
 % default seems to be 10/12
-\fontsize{12pt}{14pt}
-\selectfont
+% \fontsize{12pt}{14pt}
+% \selectfont
 
 \title{Icarus' Wing}
 \author{Brent Baccala}
