@@ -118,6 +118,9 @@ print q|
 \usepackage{times}
 \usepackage[pdftex]{color}
 
+\usepackage[koi8-ru]{inputenc}
+\usepackage[russian,english]{babel}
+
 \setpapersize{custom}{6 in}{9 in}
 \setmargrb{20mm}{20mm}{20mm}{20mm}
 

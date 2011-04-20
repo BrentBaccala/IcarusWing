@@ -1368,7 +1368,9 @@ Mercuriou: "You said we could pay in fuel..."
 
 Mercuriou: "Just let me handle it.  I know how my own government works."
 
-Mercuriou: "Cpacebo.  Cpacebo.  Dostvidanya."
+\selectlanguage{russian}
+Mercuriou: "Cpacebo.  Cpacebo.  Do cbidaniy."
+\selectlanguage{english}
 
 The passenger clicked the cellphone off, then punched some more
 buttons on it.  While Andrea slowly digested what she had heard, he
