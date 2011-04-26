@@ -40,9 +40,6 @@ sub ProcessLine {
 
     s/\$/\\\$/;				# quote $
 
-    s/_([-\w',!.?;]+)_/{\\it \1}/g;	# convert _ to italics
-    s/_/ /g;				# convert interior _ to spaces
-
     s/^al-Nass:/alNass:/;		# handle the hyphen like this
 
     # The speaking character can be indicated by a notation at the
@@ -62,13 +59,20 @@ sub ProcessLine {
 
     while (/"/ and defined $speaker) {
 	if ($counter % 2 == 0) {
-	    s/"/\\textcolor{$speaker}{``/;
+	    my $speaker1 = $speaker;
+	    if ($speaker =~ s/([^_]+)_(.*)/$2/) {
+		$speaker1 = $1;
+	    }
+	    s/"/\\textcolor{$speaker1}{``/;
 	} else {
 	    s/"/''}/;
 	}
 
 	$counter ++;
     }
+
+    s/_([-\w',!.?;]+)_/{\\it \1}/g;	# convert _ to italics
+    s/_/ /g;				# convert interior _ to spaces
 
     # Change '    ' in chapter title lines to hskip
     s/    /\\hskip 0.5in/  if (/^T [+-] [0-9]+/);

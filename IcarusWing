@@ -635,13 +635,13 @@ spectacularly successful physics theory of all time, came with one
 slight/minor caveat - nobody knew how to solve its equations.
 
 \vskip 12pt
-{{ _Everybody_says_this'll_lead_you_to_doom_ }}
+{{	_Everybody_says_this'll_lead_you_to_doom_ }}
 
 Stereo cranked, the windows reverberated with the beat
 as the guitar lick arched to its climax.
 
 \vskip 12pt
-{{ _But_that_don't_help_you_in_the_... }}
+{{	_But_that_don't_help_you_in_the_... }}
 
 Alister: "Bed-roooom!"  Alister bobbed his head and sang the refrain
 out loud.
@@ -842,7 +842,8 @@ Mercuriou: "I think you're intrigued, Alister!  So check out our
 launch complex, and _then_ tell me what you think!"
 
 
-T - 112 days    the rich must persecute the poor
+%T - 112 days    the rich must persecute the poor
+T - 112 days    friendship must be given away
 
 Kyle: "So what'd you think?"
 
@@ -1098,11 +1099,7 @@ three o'clock in the morning.
 
 
 
-T - 100 days    the government must seem oppressive
-
-[ON THE BEACH, WATCHING THE MOON SET]
-
-Mercuriou: "Did you see this?"
+T - 100 days    the media must expose themselves
 
 NEW YORK (AP) - Keystone Securities (NYSE: KEY) declared bankruptcy
 today in the wake of a computer malfunction that triggered an
@@ -1111,7 +1108,7 @@ automated series of losing trades.
 Keystone, a leading global investment, securities trading, and banking
 firm, relied heavily on automated trading programs to manage a
 multi-billion dollar portfolio that was then sold off at fire sale
-prices by the same computer programs.
+prices by the same programs.
 
 According to published company reports, Keystone's market
 capitalization was over $50 billion.  The trades triggered losses that
@@ -1119,26 +1116,21 @@ exceeded the firm's available trading capital by nearly $20 billion.
 Auditors declared the firm insolvent over the weekend.
 
 "What's surprising isn't that there was a bug in some trading
-program," says Abruce Scowl, a consultant with Oso and Toro, "but
+program," says Abruce Scowl, a consultant with Toro and Oso, "but
 rather that there weren't sufficient controls and safeguards in place
 to prevent a disastrous loss."
 
-Both the SEC and the FDIC, which insures Keystone, have launched
-investigations into the incident.
+Both the SEC and the FDIC have launched investigations into the
+incident.  
+
+"Keystone does not have the capital resources it needs to be a viable
+competitor," the company's president, Art Tocsin, said in a statement.
+Keystone "should emerge from bankruptcy a stronger and more
+competitive company".
 
 Although no criminal charges have been filed, legal experts have
 speculated that Keystone could become a test case for corporate
 liability in the face of a major computer malfunction.
-
-...
-
-Burns: "This could be serious."
-
-Mercuriou: "Oh, it _is_ serious.  There's a countdown clock running on
-this launch, just like with NASA's, T minus whatever-the-hell, only we
-don't know what time it is.  We might have five minutes warning when
-the cops come through that gate.  When that clock goes to zero, we
-better be ready to launch."  [IMPROVE]
 
 
 T - 93 days    it must be sly
@@ -1258,7 +1250,7 @@ off the plane.  _It_has_to_be_done_The_Royal_Way_.
 
 Andrea: "Excuse me, can you tell me how to get to South Point?"
 
-"You can catch a bus there in front of the space center."
+"You can catch the Hele-On there in front of the space center."
 
 The space center?  Indeed.  After the Challenger disaster, Hawaii had
 built the Astronaut Ellison S. Onizuka Space Center to commemorate the
@@ -1272,20 +1264,25 @@ were unwilling.
 No such finagling was necessary.  The Hele-On was a free service
 operated by Hawaii county, so Andrea took a seat, cracked open a
 window, and enjoyed the ride as the bus meandered through shopping
-malls, seaside villages, a high school campus and, over every rise and
-around every corner, the ocean, the ocean, the ocean.  An intermittent
-drizzle began to fall as Kona's rich volcanic soil gave way to the
-rolling forested hills of Mauna Loa's southern flank.
+malls, past more broken lava, seaside villages, beach parks, a high
+school campus, a elevated tennis court and over every rise and around
+every corner, the ocean, the ocean, the ocean.  The empty bus soon
+filled with an assortment of locals heading home, and the driver even
+waited for one passenger to mount a bicycle on a rack before boarding.
+An intermittent drizzle began to fall as Kona's rich volcanic soil
+gave way to the rolling forested hills on Mauna Loa's southern flank.
 
 Dusk was falling two hours later when Andrea disembarked at the road
-leading south to the point.  There was little to remark upon except a
-road sign and an abandoned building, which Andrea immediately seized
-upon as a Godsend.  A quick investigation of its contents revealed a
-detachable bench seat that would serve as a small but usable bed, and
-several scraps of carpet that could be passably used as blankets.
-Weeds were growing up through the floorboards, while liquor bottles
-and graffiti bore mute witness to the transients that, like her,
-occasionally livened the lifeless building for a few hours.
+leading to South Point.  Few riders were left on the departing bus;
+most had gotten off at a park-and-ride a few miles back.  There was
+little to remark upon except a road sign and an abandoned building,
+which Andrea immediately seized upon as a Godsend.  A quick
+investigation of its contents revealed a detachable bench seat that
+would serve as a small but usable bed, and several scraps of carpet
+that could be passably used as blankets.  Weeds were growing up
+through the floorboards, while liquor bottles and graffiti bore mute
+witness to the transients that, like her, occasionally livened the
+old building for a few hours.
 
 Yet was this The Royal Way?  It hardly seemed fit for a queen, but
 then neither had Christ's crown, nor had his throne.  Andrea took one
@@ -1299,14 +1296,25 @@ Perhaps here, in this world, this _was_ The Royal Way.
 
 T - 1 day    hitchhikers must be dangerous
 
-Andrea looked down the lonely road leading off to the south and began
-walking.  It had rained off and on throughout the night, but the old
-building's roof was still solid and the carpets had cut enough of the
-chill to allow her at least a few hours of sleep.  Now, just after
-dawn, she began the last leg of her journey.  The two-lane asphalt
-road, edged by low stone walls on either side, meandered south though
-a forest interspersed with orchards and citrus farms.  After an hour
-of walking, fatigue and doubt began to conspire against her.
+It had rained off and on throughout the night, but the old building's
+roof was solid and the carpets had cut enough of the chill to allow
+her at least a few hours of sleep.  Now, just after dawn, she began
+the last leg of her journey.
+
+"Do you know what time it is?"
+
+She fished her cellphone out of her pack long enough to check.
+
+"Seven-thirty."
+
+The young couple reacted with disappointment.  The Hele-On was a free
+service, but it only ran once or twice a day, and they were waiting
+for a 7 AM bus.  Andrea wished them luck and set off.
+
+Edged by low stone walls on either side, the lonely asphalt road
+meandered south though a forest interspersed with orchards and citrus
+farms.  After an hour of walking, fatigue and doubt began to conspire
+against her.
 
 _This_is_stupid._  I can't function in this society.
 
@@ -1460,8 +1468,6 @@ or how they had discovered the true identity of their passenger.
 Finally, after a second or two, he just shrugged his shoulders and
 closed his mouth without saying a word.
 
-Andrea broke the silence.
-
 Andrea: "I believe the colloquial expression is that I 'know too
 much'."
 
@@ -1482,8 +1488,7 @@ You couldn't open it at all from the inside..."
 
 Mercuriou: "Fine. Do it."
 
-Vic: "Now, wait a minute, Marc," Vic objected, "you're talking about
-kidnapping now."
+Vic: "Now, wait a minute, Marc, you're talking about kidnapping now."
 
 Mercuriou: "Vic, we will have this discussion later."
 
@@ -1584,16 +1589,16 @@ waited quietly until the electronic lock clicked and the door was
 cautiously pushed open.  It was the blond-haired youth with the
 foreign accent.
 
-Alister: "Sorry," he began.  "I brought you some breakfast!" he added
-as cheerily as he could muster, putting a bottle of water and a
-military ration down on the floor next to the door.
+Alister: "Sorry... I brought you some breakfast!" he announced as
+cheerily as he could muster, putting a bottle of water and a military
+ration down on the floor next to the door.
 
 Andrea: "Do you think I could use the bathroom?" Andrea asked,
 standing up and pushing her hair back.  He seemed indecisive, and
 didn't answer at first.
 
-Andrea: "Look, I've covered in dirt; I haven't bathed in... two days;
-I've slept in my clothes on the floor; I'd like to at least splash
+Andrea: "Look, I'm covered in dirt; I haven't bathed in... two days;
+I've slept in my clothes for two nights; I'd like to at least splash
 some water on my face and go to the toilet."
 
 There was no need to lie.  It was all true.
@@ -1610,11 +1615,11 @@ ceiling and push one of the ceiling panels aside.  She started to
 scramble up, but saw that the wall continued straight up to another
 ceiling several feet above the panels.
 
-"Damn," she muttered to herself, then climbed down and went to the
+"Shoots!" she muttered to herself, then climbed down and went to the
 other side of the room.  The sinks might be strong enough to support
 her weight.  Returning to the toilet, she realized that she could just
 reach a large, circular pipe above the panel ceiling.  Climbing up
-againd and grabbing it, she pulled herself up to it and found herself
+again and grabbing it, she pulled herself up to it and found herself
 crouched in a dark, dusty space between the two ceilings.  In the dim
 light, she could make out the course of the wall down to where it met
 the hallway.  In the other direction, the crawl space seemed to extend
@@ -1679,16 +1684,13 @@ They were glued to a webcam of the highway junction, which showed
 police squad cars peeling off to the south in response to a
 kidnapping report.
 
-Mercuriou: "OK, our launch clock is at zero...
-Alister: but [FIX]
-Mercuriou: ...It doesn't mater!  Let's get to the ship!"
+Mercuriou: "OK, our launch clock is at zero...  Let's get to the ship!"
 
 They dashed up the road to the hanger, where they found Yeats.
 
 Andrea: "This is quite a rocketship you've got here."
 
-Mercuriou motioned his crew toward the access platform after they
-had opened the hanger doors.
+Mercuriou motioned his crew towards the access platform.
 
 Andrea: "You have some kind of launch planned?"
 
@@ -1703,7 +1705,7 @@ Mercuriou: Mercuriou had reached the hatch, climbed inside, and turned
 around.  "Well, Doctor, you can go now.  Sorry for your detention, but
 it was necessary at the time..."  he began, but never finished,
 because Andrea grabbed the rim of the hatch, swung her feet up, and
-kicked him squarely on his shoulders
+kicked him squarely on his shoulders.
 
 Andrea: "Captain Mercuriou!  _Captain_ Mercuriou!"  she hollered,
 clambering in behind.
@@ -1754,8 +1756,9 @@ Mercuriou: "Fine."
 _Xplorer_One_ sped down the runway as police cars swarmed the complex.
 Some of the policemen watched with their months agape, deafened by the
 roaring rocket engines and stunned by the sight of a jumbo jet
-belching rocket exhaust.  Burns climed to 10,000 feet, then put the
-ship on auto-pilot.
+belching rocket exhaust as it lurched off South Point, dipped
+perilously close to the ocean a hundred feet below the cliff, then
+climbed to ten thousand.
 
 Burns: "Launch cargo!"
 
@@ -1810,8 +1813,8 @@ As soon as Andrea was suited and seated, Burns put the plane into a
 near vertical climb.  It wasn't the most optimal launch profile, but
 the aircraft wasn't designed for supersonic flight, so Burns made sure
 that he climbed above the atmosphere before beginning a true orbital
-insertion.  As they passed fifty miles in height, he nudged forward on
-the joystick, the engines pivoted downwards and giant blue ball of the
+insertion.  As they passed fifty miles in altitude, he nudged forward
+on the joystick, the engines pivoted, and the giant blue ball of the
 Pacific Ocean swung up below them.  They were now above most of the
 atmosphere, and Burns began their insertion burn proper, firing the
 engines continuously for nearly ten minutes, then cutting them off and
@@ -1829,8 +1832,7 @@ what was happening.  The President abandoned a trip to Europe and
 turned Air Force One back towards the capital.  Once there, he held a
 hurried meeting of his national security team, finally blowing up in
 frustration at their inability to provide any concrete answers,
-throwing a briefing folder across the room and sending top secret
-papers flying everywhere.
+throwing a briefing folder and sending Top Secret papers flying.
 
 "Why the hell do I have find out from CNN when 170 missiles get fired
 off in Naale-Naale-...whatever-the-hell!"
@@ -1858,26 +1860,22 @@ Andrea Yeats was never mentioned.
 
 T + 1 day    long political rants must be interspersed throughout
 
-Andrea: "Excuse me?"
-
-Mercuriou: "Yes?"
-
-Andrea: "What are you doing?"
+Andrea: "Excuse me?  What are you doing?"
 
 Mercuriou had hollered since launch to get lined up with the cargo
 modules.  They assembled them together by matching orbits, docking
 their nose, then re-positioning them into a higher orbit, connecting
 them together as they went.  They collected first Module A-1 Captain's
 Quarters and then attached Module A-1-1 Captain's Storage.  Mercuriou
-then halted the entire operation to dock with A-1, equalize pressure,
-and disappear.
+then halted the entire operation to dock with A-1 Captain's Quarters,
+equalize pressure, and disappear.
 
 Mercuriou: "I'm working on my speech for this evening, Dr. Yates.  It must be
 delivered live in American prime time.  I wish I had longer to
 prepare, but your stunt disrupted my timing.  Now please leave me
 alone."
 
-Andrea mumbled a reply into the closing hatch door.
+Andrea mumbled a reply into the closing hatch.
 
 Andrea: "You know, there's really a lot of work to be done with the cargo
 modules..."
@@ -1897,9 +1895,9 @@ in zero-gee, in a manner quite unprecedented.
 Red banners festooned A-1's rear wall, and hid the access hatch to
 A-1-1 behind them.  Two vertical Roman lances impaled with globes of
 Mars rose on either side of a desk, behind which Mercuriou now
-appeared seated, dressed in a crisp white uniform as might be worn by
-a cruise ship captain.  The rest of the crew watched from behind the
-camera.
+appeared seated with a tablet computer in front on him, dressed in a
+crisp white uniform as might be worn by a cruise ship captain.  The
+rest of the crew watched from behind the camera.
 
 Mercuriou: "Good evening.  My name is Marcelius Mercuriou, and I am
 the captain of the spaceship _Xplorer_One_.  Most people call me Marc.
@@ -1943,11 +1941,11 @@ build a new tomorrow!  Onward Martians!  Onward to Mars!"
 
 Mercuriou had agreed to be interviewed after his speech, but had
 rejected the major networks and instead reserved the right to choose
-his interviewer, selecting an obscure small market anchor.
+an obscure small market anchor.
 
-"Captain," the anchor started on schedule.  "There have been serious
-questions asked in the last 24 hours about your financial status.  May
-I ask how you funded your space launch?"
+"Captain," the interview started on schedule.  "There have been
+serious questions asked in the last 24 hours about your financial
+status.  May I ask how you funded your space launch?"
 
 Mercuriou: "We stole it!" he replied, right on script.  "Every dollar
 of it, and we needed billions!"
@@ -1960,7 +1958,7 @@ Mercuriou: "We stole more money that Bernie Madolf every saw!"
 
 "I don't understand; couldn't you have gotten venture capital funding?"
 
-Mercuriou: "Venture capital funding - how do you get it?  I'll tell
+Mercuriou: "Venture capital funding -- how do you get it?  I'll tell
 you how.  You sell your soul to these capitalists.  You convince them,
 and I mean really convince them, that you're one of them, that you
 believe in their nightmare philosophy of greed, you bring them on your
@@ -1993,12 +1991,9 @@ done is to have some kind of money-making scheme, some kind of
 'business plan', like I was saying, and we've got no business plan of
 any kind for how you recoup this many billions of dollars.  So the
 only way to do it was to either be rich, or steal it, or be the
-government and do both."
-
-Mercuriou: "It shows how little opportunity we really have to pursue
-our dreams.  Spaceflight _can_ be done, but we live in a society
-hell-bent on forcing people to work for a System, and telling them
-constantly that they have freedom."
+government and do both.  We stole it.  Spaceflight _can_ be done, but
+we live in a society hell-bent on forcing people to work for a System,
+and telling them constantly that they have freedom."
 
 "You don't think we have freedom?"
 
@@ -2006,20 +2001,20 @@ Mercuriou: "Why don't you ask all those 'people'?  Ask them if they'd
 rather be flying into space or doing whatever mindless job they've got
 now, and see what they say?  And be sure to point out to them that our
 great capitalist leaders could be mass producing spacecraft by the
-thousands.  Ask yourselves, 'if they needed them for a war...'"
+thousands.  Ask yourselves, 'if they needed them for a war...'?"
 
 "And the investors in Keystone Securities?"
 
 Mercuriou: "People with money to burn, dumping cash into a high-risk
 mutual fund.  I'll bet not one of them would buy a bum a hamburger at
 McDonalds.  Let's apply their own rational.  I'm 'helping them
-compete'.  If some of them go out of business, so what?  Businesses
-fail every day.  I'm developing technology to fly to Mars, so the
-whole society benefits.  We rip and claw at each other throats, and
-that drives civilization forward, right?"
+compete'.  If some of them go out of business, so what?  Throw it into
+a chapter!  It's nothing personal; businesses fail every day.  I'm
+developing technology to fly to Mars, so the whole society benefits.
+I made a great deal; I just needed to restructure my debt!"
 
-"I think some people would say that we play according to the rules,
-and you've broken those rules."
+"I think people would say that we play according to the rules, and
+that you've broken those rules."
 
 Mercuriou: "Yeah, who makes the rules?"
 
@@ -2055,20 +2050,21 @@ race; here it's the majority.  It's always the same.  Some big bunch
 of people that think that because they're more advanced, or because
 they're the workers, or because there's more of them than anybody
 else, that they have the right to rule and build some big prison
-system for those who won't do what they're told."
+system for those who just won't do what they're told."
 
-Mercuriou: "I feel as bad about ripping off capitalists as I would
+Mercuriou: "Now I feel as bad about ripping off capitalists as I would
 about ripping off communists or fascists, because to me they're the
-same.  Just another bunch of men with some nightmare system based on
-the most viscious traits of mankind to be jammed down everyone's
-throats."
+same.  Just another bunch of men with some nightmare system to be
+jammed down everyone's throats."
 
-Mercuriou: "Yet there are alternatives!  Not many left on Earth, mind
+"But aren't capitalism and democracy the best we've got?"
+
+Mercuriou: "No, there are alternatives!  Not many left on Earth, mind
 you.  Earth is civilized, which means it's been conquered, colonized,
 and commercialized.  No matter where you go, there's some established
 government, be it democracy or dictatorship, and you're just a little
 cog that better turn when its supposed to and not need too much oil.
-Out here, though, is an entire solar system waiting to be tamed!"
+Out here, though, an entire solar system is waiting to be tamed!"
 
 Mercuriou: "The first thing we're going to do is land on Mars, and
 plant our flag there, because that is where our capital will be!  Then
@@ -2088,7 +2084,7 @@ modules.  I'll contact you...  I'll be in touch."
 ...and he was gone.
 
 
-T + 5 days    America must look like it's run by fools
+T + 5 days    America must be run by fools
 
 ECKS1
 
@@ -2097,7 +2093,7 @@ WYE1
 ZEE1
 
 
-T + 10 days    sanity must make a perfunctory appearance
+T + 10 days    sanity must (briefly) appear
 
 Andrea: "Look, there are certainly plenty of people who would love to
 quit their jobs, throw off their leaders and fly away into space, but
@@ -2304,9 +2300,9 @@ Burns: "Are these from the garden?  Great!"
 
 Mercuriou: "Did you see this?"
 
-The latest news updates from Earth had brought word of a pipeline
-explosion in Nigeria that had killed hundreds scavenging gasoline from
-an illegally tapped pipeline.
+The latest news updates from Earth had brought word of an explosion in
+Nigeria that had killed hundreds scavenging gasoline from an illegally
+tapped pipeline.
 
 Mercuriou was grinning.
 
