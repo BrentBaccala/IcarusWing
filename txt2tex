@@ -40,6 +40,11 @@ sub ProcessLine {
 
     s/\$/\\\$/;				# quote $
 
+    s/Christian1/Christian\$^1\$/;	# add superscripts to "Christian"
+    s/Christians1/Christians\$^1\$/;
+    s/Christian2/Christian\$^2\$/;
+    s/Christians2/Christians\$^2\$/;
+
     s/^al-Nass:/alNass:/;		# handle the hyphen like this
 
     # The speaking character can be indicated by a notation at the
@@ -71,6 +76,16 @@ sub ProcessLine {
 	$counter ++;
     }
 
+    while (/"/) {
+	if ($counter % 2 == 0) {
+	    s/"/``/;
+	} else {
+	    s/"/''/;
+	}
+
+	$counter ++;
+    }
+
     s/_([-\w',!.?;]+)_/{\\it \1}/g;	# convert _ to italics
     s/_/ /g;				# convert interior _ to spaces
 
@@ -84,6 +99,10 @@ sub ProcessLine {
     # Ditto for Launch Day
     s/    /\\hskip 0.5in/  if (/^Launch Day/);
     s/^Launch Day+.*$/\\vfill\\eject{\\tt \\hfill $&}\\vskip 0.5in/;
+
+    # Ditto for Epilog
+    s/    /\\hskip 0.5in/  if (/^Epilog/);
+    s/^Epilog+.*$/\\vfill\\eject{\\tt \\hfill $&}\\vskip 0.5in/;
 
     # Format poetry at beginning - with italics {{ }}
     s/^{{([^}]*)}}$/\\centerline{\\it \1}/;
@@ -160,6 +179,7 @@ print q|
 \definecolor{Andrea}{rgb}{0,0,0.4}
 
 \definecolor{Kyle}{rgb}{0,0,0}
+\definecolor{David}{rgb}{0,0,0}
 
 \definecolor{Ecks}{rgb}{0,0,0}
 \definecolor{Wye}{rgb}{0,0,0}
