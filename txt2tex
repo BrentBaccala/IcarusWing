@@ -124,7 +124,8 @@ sub ProcessFile {
 	my $filename = $_;
 	chomp $filename;
 
-	if (-r $filename) {	    open(NESTED_FILE, "<$filename");
+	if ($filename =~ m/^[A-Z0-9]*$/ and -r $filename) {
+	    open(NESTED_FILE, "<$filename");
 	    ProcessFile(\*NESTED_FILE);
 	    close(NESTED_FILE);
 	} else {
