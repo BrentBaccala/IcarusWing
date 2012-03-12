@@ -8,6 +8,7 @@ IcarusWing.pdf: IcarusWing.tex
 	mv IcarusWing.pdf IcarusWing2.pdf
 	pdftk IcarusWing2.pdf cat 1 3-end output IcarusWing.pdf
 	rm IcarusWing2.pdf
+	pdftotext IcarusWing.pdf
 	cygstart IcarusWing.pdf
 
 IcarusWing.tex: IcarusWing $(SUBFILES) Makefile txt2tex

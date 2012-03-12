@@ -4,6 +4,7 @@
 
 my $speaker;
 my $counter = 0;
+my $in_quoted_block = 0;
 
 sub insertTOC {
 
@@ -16,8 +17,7 @@ sub insertTOC {
 {
 \fontsize{16pt}{20pt}
 \selectfont
-\centerline{Requirements}
-\centerline{for}
+\centerline{Requirements for}
 \centerline{The Great anti-American Novel}
 }
 
@@ -76,7 +76,7 @@ sub ProcessLine {
 	$counter ++;
     }
 
-    while (/"/) {
+    while (/"/ and not /\\"/) {
 	if ($counter % 2 == 0) {
 	    s/"/``/;
 	} else {
@@ -110,6 +110,16 @@ sub ProcessLine {
     # Format poetry at beginning - without italics {
     s/^{([^}]*)$/\\centerline{\1}/;
 
+    # Indent quoted blocks
+    if (/^   / and not $in_quoted_block) {
+	print "\\begin{quote}\n";
+	$in_quoted_block = 1;
+    }
+    if (not /^   / and not /^$/ and $in_quoted_block) {
+	print "\\end{quote}\n";
+	$in_quoted_block = 0;
+    }
+
     if (/Requirements for The Great anti-American Novel/) {
 	&insertTOC;
     } else {
@@ -124,7 +134,7 @@ sub ProcessFile {
 	my $filename = $_;
 	chomp $filename;
 
-	if ($filename =~ m/^[A-Z0-9]*$/ and -r $filename) {
+	if ($filename =~ m/^[-A-Z 0-9]*$/ and -r $filename) {
 	    open(NESTED_FILE, "<$filename");
 	    ProcessFile(\*NESTED_FILE);
 	    close(NESTED_FILE);
@@ -202,7 +212,7 @@ print q|
 {\Huge Icarus' Wing}
 
 {\small The Great anti-American Novel}
-\vskip 5in {\Large by Brent Baccala}
+\vskip 4in {\Large by Eagle Six}
 \end{center}
 
 \mainmatter
