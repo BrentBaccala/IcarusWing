@@ -202,7 +202,9 @@ print q|
 \definecolor{Jeff}{rgb}{0,0,0}
 
 \definecolor{Reginard}{rgb}{0,0,0}
+\definecolor{McGee}{rgb}{0,0,0}
 \definecolor{alNass}{rgb}{0,0,0}
+\definecolor{Radio}{rgb}{0,0,0}
 
 \frontmatter
 
