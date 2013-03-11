@@ -201,7 +201,7 @@ print q|
 \definecolor{Jill}{rgb}{0,0,0}
 \definecolor{Jeff}{rgb}{0,0,0}
 
-\definecolor{Reginard}{rgb}{0,0.5,0.5}
+\definecolor{Scowla}{rgb}{0,0.5,0.5}
 \definecolor{McGee}{rgb}{0.7,0.7,0}
 \definecolor{alNass}{rgb}{0.5,0,0.5}
 \definecolor{Radio}{rgb}{0,0,0}
