@@ -110,11 +110,12 @@ _Cable's_loose,_Burns_, or
 
 "System goes down today, Burns!"
 
+He pushed back his chair and watched her tight ass disappear.
+
 Burns: "Wouldn't miss it for judgment day."
 
-He pushed back his chair, bit back his anxiety and logged in.  The
-main development computer, scheduled for a hardware upgrade, would be
-shut down in less than an hour.  His e-mails, mostly notes from
+The main development computer, scheduled for a hardware upgrade, would
+be shut down in less than an hour.  His e-mails, mostly notes from
 various employees turning the day's outage into an excuse for a
 holiday weekend, offered no reason to change plans.  He logged out,
 shouldered his laptop case and headed for the server room.
@@ -219,10 +220,9 @@ Mercuriou: "Burns' got a plan, and I think it'll work.  Spaceflight is
 perfectly doable; that's been demonstrated over and over for fifty
 years.  The problem is money; the problem is always money!  You can't
 fly without money, you can't ride without money; no money means no
-electricity, no house, no food; they sell bottled water now for a
-dollar a pop and half the planet can't drink the crap that comes out
-of the tap; next thing'll be bottled air, you won't be able to breath
-without money!"
+electricity, no house, no food; now they sell bottled water 'cause
+half the planet can't drink the crap that comes out of the tap, and a
+dollar on number seven can't get you to number eight!"
 
 He produced a pack of fifty-dollar bills and fanned them on the table.
 
@@ -2041,16 +2041,535 @@ Martians!  Onward to Mars!"
 
 T + 3 days    authority must be defied
 
-PRESSURE DROP
+_Xplorer_One_ began her third full day in orbit amid a jumble of cargo
+modules, nearly two dozen of which had now been assembled into a
+dense, interlocking tree.  Burns and Alister were planning their next
+series of orbital maneuvers, while Vic was organizing the medical
+supplies and Mercuriou reviewed video recordings of the major
+political talk shows.  Andrea was squirreled away in module C-3 Electronics
+Lab, studying the ship's infamous "library".
+
+It was extensive, numbering well over ten thousand books, completely
+electronic, and completely illegal. Every major publisher of technical
+books in the English language had been targeted by Burns' super-hack,
+and the few books they wanted which Alister couldn't spirit off from
+the publishers' computers had been purchased and scanned in by illegal
+immigrants. Without launching more than a few pounds of books, most of
+these for nostalgic value, the _Xplorer_One_ crew enjoyed easy access
+to major reference works on every aspect of technology. There was an
+entire book, for example, simply titled _Uranium_, that described
+almost everything known about the chemistry of that important element
+-- it's dozens of compounds, their properties, the reactions used to
+convert between them, and of course its nuclear properties, despite
+the fact that the ship carried only a small sample of uranium in its
+chemistry lab and Burns had no intention at all of using nuclear
+fuel. In fact, all of the major chemical elements were well
+represented, with entire books on silicon, iron, and dozens on carbon
+and its various compounds. The ship's custom navigation software was
+littered with references that hyperlinked directly into a book called
+_Celestrial_Mechanics_. There were dictionaries, encyclopedias,
+handbooks, and entire scientific journals. There were books on antenna
+theory, orbital mechanics, geology, hydroponics, plant pathology, and
+Mercuriou's hand-picked collection of literature, both in translation
+and in the original tongues.
+
+Almost as impressive was the software collection. Every major
+technical product was present, many including all of their source code,
+stolen from the manufacturer's computers by Burns and Alister. The
+scientific software was second to none. In addition to Gaussian and
+programs like it, there were sophisticated packages to model and
+simulate high-frequency microwave circuitry, the most advanced robotic
+control software from Japan, factory blueprints for a complete
+semiconductor fabrication plant, and several sophisticated
+mathematical packages. The three-pound computer tablet in Andrea's
+hand offered the same information that would fill an elite university
+library, and the same software packages available at the most
+prestigious research centers. The legal penalties for acquiring and
+possessing all of it added up to more than a hundred and eighty years
+of prison time.
+
+Alister: "We've got a pressure drop," Alister announced on the flight
+deck, as a chime sounded and an amber alert window appeared on the LCD
+screen to his right.  Burns stopped programming the flight computer
+and Mercuriou floated in from his captain's quarters.
+
+Alister: "We're down to 97.4 kilopascals," Alister informed them,
+reading off the atmospheric pressure.
+
+Mercuriou: "That's not much," Mercuriou observed.
+
+Burns_black: "Yeah, but it should be a closed system," Burns answered,
+sporting a new T-shirt that asked "Why drink and drive, when you can
+bake and fly?"
+
+Alister: "97.3," Alister stated.
+
+Burns: "Let's go to Condition Zed," Burns suggested, and Mercuriou nodded.
+
+Mercuriou: "Captain to crew, set Condition Zed," Mercuriou announced
+into the microphone clipped to his shirt, while Alister keyed a
+command sequence on his computer.  An audible chime sounded throughout
+the ship, and the hydraulic doors separating the different modules
+hissed shut.
+
+Andrea: "What's happening?" Andrea asked as she watched the door close
+on C-3.
+
+Mercuriou: "We're closing the airtight doors, Dr. Yeats, we seem to
+have a pressure leak.  Vic, where are you?"
+
+Vic: "I'm in sickbay, of course," the doctor answered, stopping his
+inventory of the drug supply.
+
+Mercuriou: "He's got a spacesuit in there if he needs it.  What about
+Dr. Yeats?"
+
+Burns was shaking his head, no.
+
+Andrea: "I don't think there's a suit in here.  All I see is
+oscilloscopes and signal generators."
+
+Alister: "We're down to 90 in C-4.  Looks like the rest are holding."
+
+Mercuriou: "That's right next to where Yeats is."
+
+Burns: "It's probably a micro meteor strike, 'cause we're not fully
+assembled yet and the shield isn't in place.  But if we lose 'C' node,
+she'll be cut off, so we probably want to get her out of there."
+
+Mercuriou: "OK, Dr. Yeats, why don't you exit the module you're in and
+come back here to where we've at least got a spacesuit for you, then
+we'll check on the problem, it looks like it's in C-4."
+
+Burns: "I can open the pressure doors from here."
+
+Burns opened the door to C-3, and Andrea pulled herself through it
+into a mating node.  Burns next opened the door to C-core, which lead
+back towards the 767.
+
+But Andrea didn't go there. Instead, she went to the door leading into
+C-4, and was about to ask what its pressure was, when she saw it
+displayed on the LCD panel by the door. 87 kilopascals. She knew as a
+rough rule of thumb that supplemental oxygen wasn't needed until the
+pressure dropped to 70. She keyed the sequence on the panel that
+opened the door. Designed to seal its pressurized contents against an
+exterior vacuum, it popped open under the force of the higher pressure
+outside, accompanied by a whoosh of air flowing into the damaged
+node. Andrea's sinuses popped under the pressure change.
+
+Andrea: "I'm going to take a look at the problem in here," Andrea
+informed the others as she pushed herself into the node.
+
+On the flight deck, colors changed on the computer animation of the
+ship's layout.
+
+Alister: "She just opened the door to C-4!" Alister declared in surprise.
+
+Mercuriou: "That node appears to be damaged, it's loosing pressure, Doctor!"
+
+In C-4, Andrea could hear a quiet whooshing of air.  She removed her
+water bottle from her belt and carefully squeezed it to release a
+stream of liquid aimed straight down the center of the module, then
+watched to see where it went.
+
+Meanwhile, Mercuriou had dove to the rear of the 767 and grabbed a spacesuit.
+
+Mercuriou: "Open the door!"
+
+Burns: "Opening main airlock," Burns stated in a resigned tone of
+voice as he keyed a computer panel. Mercuriou dove into A-core with
+the suit.
+
+Vic: "What's going on?"
+
+Mercuriou flushed red, clenched his teeth, and smacked his fist into his palm.
+
+Mercuriou: "We've got a pressure leak, Vic, and Dr. Yeats, as usual,
+is EXACTLY where we don't want her to be!"
+
+Alister: "Aren't you going to prep?"
+
+Mercuriou: "I don't have time! What if she gets stuck in there?"
+
+Andrea released the harnesses on several large packing crates and
+moved them aside to follow the trail of the water droplets. A wave of
+fear swept over her. _You_have_no_spacesuit_. Calming herself, she
+said a silent prayer, _Father,_watch_out_for_me_in_here._
+
+Andrea: "Alister, keep reading the pressure off to me."
+
+Alister: "It's at 82 now. It came back up for a second when you opened
+the door, but now it's dropping again."
+
+Burns: "Opening 'B' node," Burns dryly noted as he continued to open
+pressure doors in front of the captain, now moving down the central
+chain of cargo modules, bumping against walls as he went, partly
+because he hadn't fully learned how to maneuver in zero-gee, but also
+because he grew ever more irate the further he went.
+
+Meanwhile, Andrea had found the pinhole leak at the root of the
+problem. Unlike the space shuttle, designed for manned spaceflight
+operations from the beginning, the cargo modules were large pressure
+tanks with cargo containers secured to their side. At times this meant
+an inconvenient jumble of conduit that could have been better
+designed, but in this case it meant easy access to the punctured wall
+of the module. She began looking around for something to plug the hole
+with, just as Mercuriou opened the door and propelled himself into the
+module.
+
+Mercuriou: "Doctor Yeats, we've got to get a few things clear right now..."
+
+Andrea: "Excuse me... sir," she interrupted as she reached for the
+spacesuit and pulled out one of its gloves. Turning back to the
+puncture, she slapped the glove against it.
+
+Andrea: "That'll hold until we can patch it permanently," she
+announced, then put her left hand on her hip while still holding a
+cargo strip with her right.
+
+Andrea: "You wanted to get some things clear? First, no matter how
+much reserve oxygen you've got now, it's not enough. Second, it's a
+lot easier to find the leak while there's still air in here.  Finally,
+bring two suits next time.  It'd really suck if we both got stuck in
+here with only one suit between us."
+
+Red-faced, Mercuriou stared at her for several seconds, then turned
+and left without without saying another word.
 
 
 T + 5 days    America must be run by fools
 
-ECKS1
+% EVERYTHING WRONG WITH CAPITALISM EXCEPT THE CHRISTIAN CASE AGAINST IT.
+% CAPITALISM DISCRIMINATES AGAINST PEOPLE WHO ARE GENEROUS.
 
-WYE1
+Perhaps because of his attitude, perhaps because of his altitude,
+perhaps because of his impunity, completely beyond the reach of any
+terrestrial authority, or perhaps simply because of what he said and
+how he said it, _Captain_ Marc Mercuriou seemed to incite the ire of
+nearly every American political leader, regardless of party
+affiliation or personal background.
 
-ZEE1
+"Get the hell out of the left lane, fifty-five!"
+
+Congressman Richard Ecks leaned on his horn and zoomed around the
+slower car, passing it on the right.  His radio and TV show had been
+on the air longer than he had been in Congress, and this harried
+commute from his office on Capital Hill to his studio in Fairfax had
+become a daily ritual.  He pulled into his reserved parking spot and
+hustled inside, skipping the elevator and instead jogging up three
+flights of stairs.
+
+"What did I miss?" he gasped as he reached the top, where his producer
+met him with a blank stare.
+
+"Nothing.  We're still on with the space captain at five."
+
+Ecks gulped down one of the steamed broccoli and banana seed
+milkshakes that he relied on to keep his 300 pound bulk under control.
+He changed, put on his makeup, drank half of another milkshake at his
+desk on the set, then set it out of view as the cameras came on.
+
+Ecks: "Good evening, and welcome to 'Outside the Beltway'."
+
+Ecks: "Capitalism has produced a society with the highest standard of
+living that has ever been seen on this planet.  People are well-fed,
+well-housed, generally content with their jobs, with a surplus of
+leisure time and disposable income.  Yet our opponents slam us at
+every turn because they can't stand the idea of people working hard
+and getting rewarded for that work.  Now this thief comes along, this
+criminal who has taken advantage of our society, stolen from our
+businesses and our government, lied, cheated; he comes along with the
+nerve to blame capitalism for what?  For letting him take advantage of
+our freedom?  For giving him the opportunity to pull of one of the
+greatest con jobs in history -- the 'Republic of Mars'?  Let me start
+by asking you, _Captain_ -- how do you justify your theft?"
+
+Mercuriou: "Same way they justified Hiroshima -- it had to be done."
+
+Ecks: "Hiroshima?  We were at war, a war Japan started!"
+
+Mercuriou: "_Japan_?!  What _Japan_?  The women and children, the
+innocent civilians that died, _they_ started the war?  _They_ attacked
+us?  We did what we _had_ to do to win, and there was some 'collateral
+damage'.  Same thing here."
+
+Ecks: "And how... what war... again, how do you justify your theft?"
+
+Mercuriou: "It had to be done!  To stop capitalism!  To stop democracy!
+It had to be done!"
+
+Ecks: "...and all that justifies theft how?"
+
+Mercuriou: "It has to be stopped!  Just like fascism!  Just like
+communism!  Now, I did what I had to do.  I've answered your question,
+so move on."
+
+There was a pause, and then another.
+
+Ecks_Mercuriou_Ecks: "...and this 'Republic of Mars'... how is its government structured?"  "I'm the acting chief executive"  "of course"
+
+Ecks_Mercuriou: "...should we call you President?"
+"Captain"
+
+Mercuriou reached dramatically for a prominently positioned switch.
+
+Ecks: "Alright, _Captain_, capitalism may not be perfect, and this
+country may not be perfect, but what sets us apart from communism and
+fascism is our commitment to freedom."
+
+Mercuriou: "Freedom?  What freedom?  You have the freedom to be a
+capitalist, or to work for the capitalists, or to be put homeless on
+the streets!"
+
+Ecks: "Well, I guess freedom _is_ limited for people who don't want to
+work..."
+
+Mercuriou: "Let's shortcut this debate.  'Work' is a propaganda term
+that means 'making money', right?"
+
+Ecks: "No, 'work' means 'work'!  Work is what you do to put food on
+the table.  We have to work in order to eat, Captain.  We have to work
+to have houses, cars, clothes, computers, all of it.  We have to
+sustain ourselves!"
+
+Mercuriou: "How do you sustain yourself?  By refusing to do for people
+unless they pay you?  How does that sustain anyone?  But you dodged my
+question, Congressman.  Are you defining work as making money, or
+doing something productive?"
+
+Ecks: "There's no difference!  That's the beauty of capitalism; people
+get rewarded for hard work, and have the freedom to invest however
+they please!"
+
+Mercuriou: "No difference!  Some kid makes millions throwing a
+baseball, and a father of five make pennies pushing a hot dog cart!"
+
+Ecks: "It is capitalism, because we have _freedom_!  People can choose
+what work to do, and what to do with their money.  You can be a
+businessman if you choose, you can be a social worker if you choose,
+you can be an author, you can be a doctor, you can be a baseball
+player; it's nothing imposed by the government; it's your choice!  You
+can be Mother Teresa!  And you don't like to hear this, Captain, but
+most people want is to better themselves through hard work, not
+charity handouts!"
+
+Mercuriou: "Capitalism rewards people who _do_for_themselves_!  If you
+won't work for them, you're thrown away like a piece of human garbage,
+you're talked to like garbage, you're treated like garbage, you're
+told to _get_a_job_ and _do_what_you're_told_!  The only way to get
+rewarded for hard work is to slap a credit card form on everything!"
+
+Ecks: "Because in the real world, if you just give everything away,
+you'll be out of business!"
+
+Mercuriou: "That's right!  That's the 'freedom' of capitalism -- you
+become a capitalist or you'll be put out of business!  We pay pitchers
+millions a year, support video game, music and film industries that
+rake in billions a year, blow half a trillion a year on the military,
+but we can't afford to feed people in restaurants?  Capitalism is
+depraved!  Your leaders are trash!  Your entire society is built on
+forced labor for these creeps!"
+
+Ecks: "Freedom, Captain, Freedom!!  Who the hell are you to tell
+someone else what they can and can't do with their property?!!  How
+dare you, you socialist crook, you shameless thief, how dare you tell
+someone who's sweated tears and blood that they have to give
+everything away for free?!  I've let you rant on because I felt like
+listening to your bombast! You're like a blind man screaming 'You
+Blinked!'  How are you so much better than all these terrible
+capitalists?  You're the worst kind of capitalist -- you've stolen
+millions, billions of dollars to build your own dream!  You needed
+money -- that's why most people go to work in the morning!  That's why
+all these evil capitalists don't just publish all their books on the
+Internet -- because the authors need money to write them, money to
+print them, money to put food on the table in front of their children!
+You've got a problem with _authority_, _Captain_!  Let's take a break
+now and I'll introduce our next guest when we return."
+
+% EVERYTHING WRONG WITH DEMOCRACY.  CAPITALISM IS REGULATED.  GOVERNMENT
+% IS RUN BY ITS PEOPLE.  [MISSING A LOT AT THE END]
+
+Senator Patricia Wye had been a fixture on the Washington scene for
+decades, first as a dutiful wife and more recently as a power broker
+in her own right.  Seated comfortably by the fireplace in the Senate
+Reading Room, she looked about her as the commercial break ran.  The
+chair was positioned precisely; the coffee cup was filled to exactly
+the correct level; an edge of the ornate rug could just be seen on the
+video monitor.  She waited until the light came on before smiling, to
+make this act seem more spontaneous.  As she fell easily into a
+familiar patter with Ecks, the cameraman noted that her frosted blond
+coiffure hadn't changed in twenty years.
+
+Ecks: "Senator, what do you say to Captain Mercuriou?"
+
+Wye: "Only that this country is run by its people, through their
+elected representatives, and the capitalists do not own everything.
+If anything, it's the other way around.  Capitalism is chosen by the
+people and regulated by the government."
+
+Mercuriou: "Oh, it's regulated, all right.  You've got laws to
+regulate factories, you've got laws to regulate fisheries, you've got
+laws to regulate farmers.  If you chose decent leaders to begin with,
+you wouldn't need all those laws!"
+
+Wye: "Well, we have to have laws, Captain.  Our opponents wants a
+society with no rules, but my vision of capitalism is that of a level
+playing field where businesses can compete honestly, officiated by the
+government, much like a sports game."
+
+Mercuriou: "Why?  I'll tell you why.  Because otherwise you'll have
+two factory owners build on the same river.  One will be clean and
+safe; the other one will just dump his waste into the nearest pond.
+The first one will go out of business in a year, and the second one
+will retire at forty laughing 'Ha ha ha, you can't _com-pe-te_!'"
+
+Wye: "And we don't allow that, captain!  We allow free markets and
+free enterprise because they are beneficial to society, but we also
+need laws to protect the environment and ensure a level playing field,
+so that good corporate citizens are not victimized by abusers.  Would
+you have us abandon the Clean Air Act, or the Clear Water Act?  We
+have food stamps because we're not willing to let people starve!  We
+have social security and Medicare because we're not willing to put the
+elderly out on the streets!"
+
+Mercuriou: "And who pays for it all?  More taxes?  Or just run it all
+up on the national credit card?  How about a magician pulling a
+kerchief out of his fist -- can he do it for the Federal Reserve?"
+
+Wye: "We have to control spending, but we're not doing it by getting
+rid of the programs that we have decided are neccessary."
+
+Mercuriou: "Bottom line -- if America is so great and so wonderful,
+why do we need all these government programs?"
+
+Wye: "Because these government programs help make our society great!
+We allow free enterprise, we allow competition, we allow people to
+earn a reward from their labor, but we also have programs in place to
+achieve a clean environment, a safe food supply, reliable
+transportation, a minimal social support system.  Women and minorities
+need protection against discriminatory labor practices, and children
+deserve a quality education.  These decisions are made through a
+cooperative political process."
+
+Mercuriou: "Your decisions are made on a TV game show, vastly
+elaborate, with stages all over the country, and oh so expensive!
+You've got to be flying everywhere, giving speeches, buses, banners,
+balloons, all kinds of buttons and bumper stickers!  It costs huuuuge
+amounts of money to play, the judges watch everything on TV, and they
+have an average IQ of 100!  This is what your government has been
+since the invention of television!  It's got troops all over God's
+creation, enough national debt to last a half century, the biggest
+prison state in the world, a wall across its southern border, and now
+it's out to enslave the world under globalization!  I call it a Game
+Show Government, and it's a disaster of truly Biblical proportions!"
+
+Wye: "We're governed by the Constitution..."
+
+Mercuriou: "You're governed by a TV Game Show!"
+
+Wye firmly grabbed her head, re-adjusted her hair, then laughed.
+
+Wye: "So now you're against democracy..."
+
+Mercuriou: "You bet I'm against democracy!  It's one of the most
+tyrannical political philosophies ever!  It's premise is that one
+group of people are somehow entitled to rule over everyone else just
+because there's more of them!"
+
+Wye: "We have a participatory democracy, Captain!  The people can
+petition their government to change the laws, and if enough people
+support them, the laws _will_ change!"
+
+Mercuriou: "You didn't say the people could _participate_!  You said
+the people could _choose_their_own_leaders_, but in fact only the
+majority get to _choose_their_own_leaders_; they do it on a TV Game
+Show; everyone else participates, and loses!  Hell, I'll take
+'participatory government' any day!  You participate, and I'll make
+all the decisions!  I'll even have my own TV Game Show!  What do you
+say?"
+
+Wye: "What do the majority want!  What about the people of this country?!"
+
+Mercuriou: "Oh, get off re-re-repeat!  What's so sacrosanct about that
+magic 51 percent?"
+
+Wye: "You'll have a dictatorship, captain, but I suppose that's what
+you had in mind all along.  The bottom line is that the people of this
+planet have decided on democracy and we're not going back!"
+
+Mercuriou: "I don't care.  It's not the bottom line; not for me.  I
+won't accept it.  None of us should.  All the majority cares about
+is getting rich, getting tough, and getting laid!  They aren't
+entitled to rule over everyone else's lives!  Nobody has that right!"
+
+Ecks' final guest on the program was the Reverend Caiaphas Zee, a
+prominent Southern Baptist minister who had formed a mega church
+empire after a failed presidential bid, and now seemed content to
+advise the politicians he could not supplant.  Standing in his pulpit,
+clad in a black cassock and starched white collar, a simple
+wooden cross hanging from a cord around his neck, he seemed the very
+personification of a prophet of God.
+
+Zee: "Captain, you are a liar and a thief!"
+
+Mercuriou: "I've said everything I intend to say on that issue."
+
+Zee: "Then let me say more!  We have laws not because they are made by
+man, but because they are commanded by God!  We are told 'thou shall
+not steal'!"
+
+Mercuriou: "If that's all you want to debate..."
+
+Mercuriou reached again for the switch, but Zee thundered on.
+
+Zee: "Throw the switch, Captain, go ahead!  That's all I want to
+debate!  'Thou Shall Not Steal'!  'Thou Shall Not Steal'!"
+
+Mercuriou paused, then threw the switch.  Nothing happened.  He grinned.
+
+Mercuriou: "OK, Reverend, so maybe I won't switch you off just yet."
+
+Zee: "Thou Shall Not Steal, Captain, _Thou_Shall_Not_Steal_!  God's
+laws _command_ capitalism!"
+
+Mercuriou: "God's laws or man's laws?"
+
+Zee: "God's laws, Captain, God's laws!  No sex!  No drugs!
+And one more... _Thou_Shall_Not_Steal_!"
+
+Mercuriou: "No sex?"
+
+Zee: "Don't you play word games with me, mister!  You know what I
+mean!  Marriage between a man and a woman!"
+
+Mercuriou: "Yet capitalism is moral... _why_?"
+
+Zee: "Because God does not allow the government to steal!  We tithe to
+the church, and many people give quite a bit more than ten percent,
+let me assure you.  We have some _very_ generous members in our
+congregation."
+
+Mercuriou: "You've got this nightmare of capitalism that's another
+slavery all over again..."
+
+Zee: "It is not!  We don't bind men in chains to force them to work!
+You should have been a politician; instead you chose to be a thief!
+Now nobody will listen to you!  Now I'm throwing the switch!"
+
+Ecks interrupted before Mercuriou could fire back.
+
+Ecks: "Well, our time is growing short, captain, and it looks like our
+prison system is going to remain a little short, too.  I don't think
+it's worth the expense to apprehend you right now."
+
+Mercuriou now broke out into a long, genuine laugh.  Ecks paused for a
+moment, then kept talking.
+
+Ecks: "I suppose there's no harm in leaving you be.  You'll eventually
+have to come back down.  In the meantime, when you make it Mars, if
+you make it to Mars, do us a favor.  Have the dignity to plant an
+American flag there.  It's the least you can do for the country that
+footed the bill."
 
 
 T + 54 days    nobody must have to work
@@ -2915,23 +3434,595 @@ Mercuriou relied on God.
 
 T + 388 days    treachery must strike
 
-SPEECH2
+Mercuriou: "Good evening.  You first saw me floating in orbit two
+years ago, and have never known me any other way.  Soon I shall
+disappear into prison, so it seems apropos that I bid you farewell in
+this manner."
+
+Mercuriou: "An age has passed and other has come in the brief hours
+that we have been apart.  I left a nation confident and at peace and
+have returned to one scarred and at war.  Half of my own companions
+have perished and our mission seems only able to limp on back home.
+Yet here, in the fleet-footed orbital day, I find myself looking
+more to the sunrise than the sunset, and feel myself thrilled again
+with the joy of youth!"
+
+Mercuriou: "For I see a new nation, rising up out of the ocean as if
+in answer to a prayer, a nation conceived in peace and dedicated to
+God.  I see a young nation, hewn from the sea by fire and storm,
+settled by outcasts from remote lands who sought its yet farther
+shores.  I see a nation determined to lead mankind away from its
+pitiful servitude to Mammon and into the broad light of freedom."
+
+Mercuriou: "Alas, that nation is not America.  She is committed to the
+chain, and only a revolution can break it.  Yet how can we overthrow
+the American government?  It possesses the most powerful military in
+the world, an able, though largely unnecessary police force, and, most
+importantly, a majority of 100 million determined to keep themselves
+in power on a game show."
+
+Mercuriou: "We will overthrow them with democracy."
+
+Mercuriou: "Impossible, you say?  Let's do the math.  In the last
+election, Neil Abercrombie was elected governor of Hawaii with 222
+thousand votes; James Aiona lost with 157 thousand.  If all of them
+voted together, they'd have had 379 thousand.  If the whole majority
+came streaming out to the polls for the election, maybe they could
+barely muster 500 thousand."
+
+Mercuriou: "How much is 500 thousand?  Well, in a nation of 300
+million, it's one sixth of one percent!  Furthermore, under our laws,
+American citizens are free to travel anywhere in the United States and
+establish residency there for one month only before they are allowed
+to vote."
+
+Mercuriou: "So, are one-sixth of one percent of us so fed with up our
+leadership, so sick of our own lives, so disgruntled with America,
+that are willing to set sail for a foreign land and claim it for our
+own?"
+
+Mercuriou: "If so, then take Hawaii and get the hell out of this
+country!"
+
+Mercuriou: "This will not be an easy path, and many will oppose you.
+I will only be able to encourage you from prison.  It will take years
+of toil and struggle, and the first years, especially, will be fraught
+with hardships."
+
+Mercuriou: "My great mistake was to reject capitalism without knowing
+what to replace it with.  Some look to communism; some look to their
+religion; I looked to my freedom.  Now that I've met Andrea Yeats,
+I've learned to look to _her_ religion, and it is Christianity."
+
+Mercuriou: "My first officer embodies everything that I am not.  When
+I took the easy way out and stole, she stood cold and lonely by a
+highway on-ramp with her thumb out.  When I set out recklessly for
+Mars, she told me that our problems were here on Earth.  And I know
+that if all she has is a five dollar bill in her pocket, and a beggar
+asks for change, she'll give him the five."
+
+Mercuriou: "Remember that government is a coercive institution, and
+you can't force people to be nice to each other.  Yet words are more
+powerful than laws.  Seek through _leadership_ to achieve Christian
+charity.  Remind the waiters and cooks to feed the hungry.  If they
+can't pay rent, ask the carpenters to build them homes, and ask the
+farmers to supply them produce.  Support those who base their lives on
+Christ, instead of supporting those who pursue money."
+
+Mercuriou: "Do not work for capitalists!  Insist on Christianity.
+Tell your boss that you'll give the customers any product or service
+for free.  Does he still want you for an employee?  Then work for the
+man!  If not, then part with him and his immoral lifestyle!"
+
+Mercuriou: "The majority of the American people are dumbfounded at
+what they hear.  That the police are not their pet tool of social
+control; that goods and services should be free; that books should be
+on-line; that capitalists must be driven out from every post of
+leadership; and that they, they, the majority of the American People,
+are not entitled to rule over everyone else here!"
+
+Mercuriou: "Those of us who reject America face stark choices.  We can
+continue to live in a society where we have no voice, no opportunity,
+and no future.  We can trickle out in twos and threes, trying to find
+someplace in this world that doesn't exist.  Or, we can unite, we can
+suffer, and we can overcome.  We can find our place in this world by
+creating it anew.  We can win an election in one state, make that
+state a nation, make that nation a legend, and be known forever as
+Hawaiians!"
 
 
 T + 390 days    it must be against democracy
 
-ECKS2
+% THE CHRISTIAN CASE AGAINST CAPITALISM.  CAPITALISM DISCRIMINATES
+% AGAINST CHRISTIANS.  HAWAII WILL STRUGGLE.  GLOBALIZATION.
+% HAWAII AS AN OFFSHORE PIRACY CENTER.
 
-WYE2
+Mercuriou and all three of his opponents were back, their four heads
+dominating the TV screen in four boxes, Mercuriou on the upper left,
+and each opposing corner more determined than the other three to
+deride the space captain.  Wye babbled nonsense, unclear to decide if
+Mercuriou was defending criminals and capitalists or terrorists and
+democrats, but absolutely _certain_ that
+_these_people_will_not_get_away_with_this_.  Zee, stony and impassive,
+understood immediately that democracy itself was under attack, and
+right here in the United States of America, no less!  Yet it was Ecks,
+red-faced with rage, and with his hand on the mute button, who was
+again the first to speak.
 
-ZEE2
+Ecks: "A Christian!  So the thief has converted to God!"
 
-% CALLERS
+Mercuriou: "Look, what I did was wrong, but there's nothing to do now
+but move on.  If you don't have any questions about my speech, I'll
+just save some radio power and be quiet now."
+
+This time, he really was reaching for the switch, and there was a
+pause longer than the satellite delay.
+
+Ecks: "You seem to have quite an electronic library built up, Captain.
+I'd like to suggest a book called _The_Wealth_of_Nations_.  It lays
+out our basic philosophy; that a free market economy is the best
+method to regulate production in a free society."
+
+Mercuriou: "There's a copy on Gutenberg."
+
+He produced a tablet computer and began reading from Chapter 2.
+
+   In almost every other race of animals, each individual, when it is
+   grown up to maturity, is entirely independent, and in its natural
+   state has occasion for the assistance of no other living creature. But
+   man has almost constant occasion for the help of his brethren, and it
+   is in vain for him to expect it from their benevolence only. He will
+   be more likely to prevail if he can interest their self-love in his
+   favour, and shew them that it is for their own advantage to do for him
+   what he requires of them. Whoever offers to another a bargain of any
+   kind, proposes to do this. Give me that which I want, and you shall
+   have this which you want, is the meaning of every such offer; and it
+   is in this manner that we obtain from one another the far greater part
+   of those good offices which we stand in need of. It is not from the
+   benevolence of the butcher, the brewer, or the baker that we expect our
+   dinner, but from their regard to their own interest. We address
+   ourselves, not to their humanity, but to their self-love, and never
+   talk to them of our own necessities, but of their advantages. Nobody
+   but a beggar chooses to depend chiefly upon the benevolence of his
+   fellow-citizens.
+
+Mercuriou: "Now, is this what we're taught by Christ?  Is this moral?"
+
+Ecks: "What's wrong with asking people to pay what something cost to
+produce?"
+
+Mercuriou: "Because you're supposed to 'give to everyone who asks',
+even a thief, not turn them away.  That's Luke 6:30."
+
+Ecks: "I'm no theologian; you can direct your religious questions to
+the Reverend!  I want to know what's wrong with asking people to pay
+what something costs!"
+
+Mercuriou: "Well you can't get away from the religious questions!
+That's the whole point!  It's a _moral_ issue!  We are taught by
+Christ to make generosity a lifestyle, not an option!"
+
+Ecks: Ecks shuffled some papers.  "So we're supposed to just give away
+everything we've got, eh?"
+
+Mercuriou: "Yes, actually!  That's the point of Matthew 19, Mark 10,
+Luke 12, Luke 18, and especially Luke 14:33, which tells us that
+the cost of discipleship is everything we have!"
+
+Ecks: "Most people have different ideas, Captain.  Most people think
+that they can be good, generous hard-working citizens and allocate
+their own finances without giving everything away and becoming
+homeless beggars."
+
+Mercuriou: "...and they of course expect that everyone else lives that
+way, too!  What if someone actually does what Luke 12:33 says and
+gives away all of their worldly possessions?  How are they treated
+them?  If someone really does what Christ said, she is clearly at a
+'competitive disadvantage', so your whole theory of Adam Smith goes
+out of wack!"
+
+Ecks: "Well, if they don't want money, if they don't want the
+advantages of capitalism..."
+
+Mercuriou: "Capitalism is _unfair_!  It discriminates against
+Christians!  You've built a society that rejects Christian principles,
+discriminates against Christians, and then claims to offer religious
+freedom!"
+
+% MERCURIOU DOESN'T WANT TO TALK ABOUT THEFT; ECKS DOESN'T WANT TO TALK
+% ABOUT CHRISTIANITY
+
+Ecks: "We don't discriminate against Christians!  We don't arrest or
+execute them, either; some countries do!  If some deluded 'Christian'
+wants to sleep under a bridge, let him!  I wonder if that's true
+Christianity, though.  I don't know.  I want to talk about your
+screwball secession plan!  First came your idiotic Martian Republic,
+and now this!  How will Hawaii survive without the mainland?  Where
+will your computers come from, or is everyone going back to eating
+poi?"
+
+Mercuriou: "Hawaii will struggle, but she needs to be independent.
+Not just politically, but economically, too.  What she really needs,
+what we all need, is to turn to God!  Hawaii needs to do that first
+herself, and then lead the rest of world!"
+
+Ecks: "Sounds to me like you want to steal Hawaii and turn it into an
+offshore piracy haven, where criminals can steal our technology with
+impunity!  How can we compete with a bunch of thieves?!?"
+
+Mercuriou: "You won't be able to compete because your product is
+inferior.  What 'globalization' offers the world is a simple deal --
+find something to sell, and in exchange you'll get our closed, secret,
+proprietary technology that we control.  I'll offer them something
+better -- all the software, the chip masks, the factory blueprints --
+everything they need to build their own computers, their own cell
+phones, their own data networks.  Now, which of these two 'products'
+do you think our 'customers' will prefer?"
+
+Ecks: "You do that with your technology, not ours!  We'll stop you!
+We'll stop you!"
+
+Mercuriou: "Go ahead!  Stop us!  Get tough!  Go to war!"
+
+Ecks: "I just can't... I can't believe that an American citizen would
+push his own country to the brink of civil war.  I can't believe that
+any _patriotic_ American would do that.  Why someplace nice like
+Hawaii?  Why not Alaska?"
+
+Mercuriou: "Alaska can secede, too!"
+
+Ecks started screaming.
+
+Ecks: "Get out!  Don't go to Hawaii!  Get out!!  Just get the hell
+out!!  Get out!  Get out!  Get the hell out!"
+
+% RIGHT TO SECESSION.  CHRISTIANITY TRUMPS DEMOCRACY.
+
+Ecks raged on while his producer signaled furiously from the booth.
+Finally, he waved his assent, sank back into his chair and let the
+camera switch to Wye without bothering to introduce her.
+
+Wye: "We have a long-standing principle, Captain, that states are not
+allowed to secede from the Union!"
+
+Mercuriou: "Oh, that won't be a problem!  We'll just wave a bunch
+of orange flags around in the air!  You'll let us go!"
+
+Wye: "This isn't a communist dictatorship, Captain.  The people will
+see through any gang of criminals, no matter what color flags they
+wave!"
+
+Mercuriou: "What if every pot smoker in this country packs up and
+moves to Hawaii?  And then voted in the next election?  What would you
+do then?"
+
+Wye: "We live in a nation of laws.  You are not going to just
+make up rules to interpret the election results however you see fit."
+
+Mercuriou: "But these are the laws!  We have free movement between
+states, and only one month residency before the election!"
+
+Wye: "Our laws were created to implement democracy, and if there are
+loopholes, they will be fixed!"
+
+Mercuriou: "In other words, you'll change the law to make sure you
+get the election results that you want!"
+
+Wye: "We will enforce our laws, Captain, we will enforce our laws!
+You're not the only criminal in this country that can hack some
+computer program and find some legal loophole.  Also, I'd like to know
+what's going to happen once you throw off our hated government?"
+
+Mercuriou: "It shows that minorities can choose their own leaders and
+live under a government of their own choice."
+
+Wye: "Minorities do have freedom... we have freedoms... minorities
+don't need to secede because they have freedom already!"
+
+Mercuriou: "I don't."
+
+Wye: "Because you don't believe in democracy!  We have many laws to
+ensure freedom, but not for criminals who don't respect them!  You
+don't believe in democracy!  You don't respect the will of the
+people!"
+
+Mercuriou: "It's freedom for the _majority_!  Nobody else should even
+_aspire_ to freedom!"
+
+Wye: "You reject the most fundamental human right, that people can
+_choose_their_own_leaders_!  Now, Captain, let me state this
+clearly.  The majority rules.  That's it.  You are not going to twist
+our laws around to make them mean anything different."
+
+Mercuriou: "I won't accept it!  I'll decide for myself what government
+I live under!"
+
+Wye: "I don't... you don't!... You don't believe in democracy!..."
+
+Mercuriou: "Senator, your hair is falling off!"
+
+Wye: "What are you trying to imply?!..."
+
+Ecks:  "Actually, Patricia, your hair _is_ falling off..."
+
+% by this point Wye has dropped the facade and is really answering
+% questions, at least at first
+
+Wye: "Wh-What!!"
+
+In fact, a large section of her hair had apparently detached from the
+top of her head and slid approximately to her left ear!  As she turned
+her head confusedly and started to grab her hair, it detached
+completely and came off in her hands.
+
+Wye: "I can't..." she cried, "I can't believe..."
+
+The camera switched off, leaving only Ecks and Mercuriou flabbergasted
+on the screen.  Ecks recovered first and smoothly segued into a
+prepared segment profiling the Space Shuttle _Columbus_'s fairly
+typical astronaut crew, seven spectacular overachievers remarkable
+only for including the first Palestinian astronaut, on whom half of
+the piece focused.  _Columbus_'s final mission objective would be to
+rendezvous with _Xplorer_One_, retrieve her crew, and return them to
+Earth.  A commercial break followed and when it ended, the Reverend
+Caiaphas Zee strode confidently into the video Colosseum.
+
+% ANSWERS THE RELIGIOUS RIGHT WHY CAPITALISM IS IMMORAL AND ROMANS 13
+% DOESN'T REQUIRE OBEDIENCE TO THE GOVERNMENT.  CAPITALISM COMMANDED (OR
+% NOT) BY GOD.
+
+Ecks: "Reverend, do you take Captain Mercuriou's 'conversion'
+seriously?"
+
+Zee: "No, I do not.  He has switched from theft to insurrection, not
+from Satan to Christ.  We are taught that government authority is
+constituted by God, and Christians are to be obedient to that
+authority."
+
+Mercuriou: "Where is that taught by Christ?"
+
+Zee: "Romans 13, it's taught in Romans 13, Captain: 'there is no
+authority except that which God has established'."
+
+Mercuriou: "That's a letter of Paul.  I asked for Christ."
+
+Zee: "It's in the Bible!  If you don't believe in the Bible, you're
+no Christian!"
+
+Mercuriou: "I'm a Christian, not a Biblian."
+
+Zee: "The Bible is the inspired word of God.  You're no Christian!"
+
+Mercuriou: "I take the Bible seriously, not literally.  Paul was not
+Christ.  He knew God, but he didn't come back from the dead.  His
+teachings don't have the same weight, that's why we don't print them
+in red.  I don't buy Romans 13."
+
+Mercuriou: "Paul didn't distinguish between governments, he said they
+were all established by God.  Jews in Nazi Germany had a moral
+obligation to wear yellow stars?  Because it was the law?  Because
+their leaders were established by God?  Do Cubans have a moral
+obligation not to meet and criticize their government?"
+
+Zee: "So, government is evil, people do whatever they please..."
+
+Mercuriou: "No, but our _moral_ obligation is not to obey the laws of
+government, but to obey the laws of God!"
+
+Zee: "Our laws are moral and just!  You're just twisting the Bible
+around to rationalize your own rebellion!  Part of the law of God is
+obedience to legitimate, constituted authority!"
+
+Mercuriou: "So now we're going to 'interpret' Romans 13, to mean
+'legitimate, constituted authority'?  I prefer 1 Samuel 12, where the
+prophet says 'If you will fear the LORD, and serve him, and obey his
+voice, and not rebel against the commandment of the LORD, then shall
+both you and also the king that reigns over you continue following the
+LORD your God... But if you shall still do wickedly, you shall be
+consumed, both you and your king.'"
+
+Mercuriou: "I say you shall be consumed, both you and your democracy!
+This country is wicked, wicked, wicked I say!  It's defiant of God!
+You stand behind a counter and refuse to feed people when they come to
+you hungry!"
+
+Zee: "Capitalism is _commanded_ by God!  We're not socialists!  You
+have no right to tell that man who he has to serve food to!  We've
+seen what you want in Russia!"
+
+Mercuriou: "The Bolsheviks were athiests, and I'm not talking about
+the government!  The government does not have the right to tell a man
+who he must serve.  But Christ did!  He was the Son of God!"
+
+Zee: "Christ didn't tell me to hand a crackhead $20 to blow on drugs!"
+
+Mercuriou: "Yes, he did!  That's what happened to Andrew van der Bijl in 1954:"
+
+   The last round in the game was the most subtle of all. It was December
+   30. I had to have my application in the mail that day if it was to get
+   to London on the thirty-first.
+
+   At ten o'clock in the morning, one of the students shouted up the
+   stairwell that I had a visitor. I ran down the stairs thinking that
+   this must be my delivering angel. But when I saw who it was, my
+   heart dropped. This visitor wasn't coming to bring me money, he
+   was coming to ask for it. For it was Richard, a friend I had made
+   months ago in the Patrick slums, a young man who came to the
+   school occasionally when he just had to have cash.
+
+   With dragging feet I went outside. Richard stood on the white-pebble
+   walkway, hands in pocket, eyes lowered. "Andrew," he said, "would you
+   be having a little extra cash? I'm hungry."
+
+   I laughed and told him why. I told him about the soap and the razor
+   blades, and as I spoke I saw the coin.
+
+   It lay among the pebbles, the sun glinting off it in just such a way
+   that I could see it but not Richard. I could tell from its color that
+   it was a shilling. Instinctively I stuck out my foot and covered the
+   coin with my toe. Then as Richard and I talked, I reached down
+   and picked up the coin along with a handful of pebbles. I tossed
+   the pebbles down one by one, aimlessly, until at last I had just the
+   shilling in my hand. But even as I dropped the coin into my pocket,
+   the battle begun. That coin meant I could stay in school. I wouldn't
+   be doing Richard a favor by giving it to him: he'd spend it on drink
+   and be thirsty as ever in an hour.
+
+   While I was still thinking up excellent arguments, I knew it was no
+   good. How could I judge Richard when Christ told me so clearly
+   that I must not. Furthermore, this was not the Royal Way! What
+   right had an ambassador to hold on to money when another of the
+   King's children stood in front of him saying he was hungry? I shoved
+   my hand back into my pocket and drew out the silver coin.
+
+   "Look, Richard," I said, "I do have this. Would it help any?"
+
+   Richard's eyes lit up. "It would, mate." He tossed the coin into the
+   air and ran off down the hill. With a light heart that told me I had
+   done the right thing, I turned to go back inside.
+
+   And before I reached the door the postman turned down our walk.
+
+   In the mail of course was a letter for me. I knew when I saw
+   Greetje's handwriting that it would be from the prayer group at
+   Ringers' and that there would be cash inside. And there was. A
+   lot of money: A pound and a half -- thirty shillings. Far more than
+   enough to send my letter, buy a large box of soap, treat myself to
+   my favorite toothpaste -- and buy Gillette Supers instead of Blues.
+   The game was over. The King had done it His way.
+
+Mercuriou: "1954! 1954! Not 72 A.D.! 'Another of the King's children
+stood in front of him saying he was hungry!' That should posted on the
+counter of every restaurant in America, not a VISA symbol!"
+
+Zee: "This isn't the Will of God! You're just a bunch of druggies!
+This isn't the Will of God! You're just a bunch of druggies! This
+isn't the Will of God! You're just a bunch of druggies!"
+
+Zee seemed stuck on re-re-repeat, so Ecks switched him to the standby
+track.
+
+Ecks: "Well, Captain, you'll be in a prison cell by tomorrow
+afternoon.  I'm sure that your plans for Hawaiian secession will go
+the way of the Republic of Mars."
+
+Mercuriou: "Check the best seller charts, Ecks.  You don't even know
+how well the Republic will do yet."
 
 
 T + 394 days    it must be anti-Semitic
 
-ALT-ENDING
+NASA had arranged for the _Xplorer_One_ crew to transfer to the space
+shuttle _Columbus_ at the end of a two week scientific mission notable
+for including the first Palestinian astronaut, Major Hassan al-Nass.
+The commander, Jeff Scowla, had know Andrea for years.
+
+alNass: "Sal\=amu `Alaykum", al-Nass greeted Mercuriou fervently,
+kissing both his cheeks after shaking his hand during introductions,
+then helping the _Xplorer_One_ crew stow their personal belongings in the
+attached Spacehab.
+
+alNass: "You'll be fine in here," he assured them.  "The Spacehab's got
+the same life support as the cabin."
+
+After both crews enjoyed a dinner of rehydrated lobster bisque,
+al-Nass sailed over to the galley, opened his personal compartment,
+and pulled out a bottle of arak.  Somehow, he turned so that the
+green, red and black striped flag on his right shoulder seemed more
+noticeable than before.
+
+alNass: "Captain, you may live the rest of your life as a dog in an
+American kennel, but tonight we celebrate like men."
+
+Andrea raised an eyebrow as al-Nass poured the milky white liquor.
+
+Andrea: "Just out of curiosity, major, what would be the Muslim
+solution to the _Xplorer_One_ theft?  Cut off their hands?"
+
+alNass: "So what if it is?  Is the loss of a hand too great a price
+to pay for freedom?  We have our checks and balances, too."
+
+Scowla: Commander Scowla exhaled audibly. "I think I like our
+checks and balances better."
+
+alNass: "Really, Jeff?!  Let's ask the victim, then - Captain
+Mercuriou, would you prefer to lose your hand or spend your life in
+prison?"
+
+Mercuriou: "I think I'd give the hand very serious consideration."
+
+alNass: "You see!  And we don't waste our taxes on so many prisons!"
+
+Several of the Americans began to object simultaneously, but al-Nass
+ignored them, appropriated the remaining arak for himself and produced
+a bottle of vintage port.
+
+alNass: "More to your taste, Captain?"
+
+Mercuriou: "I take it you're a fan?"
+
+alNass: al-Nass sneered, "I listened to your speech," and then began
+to laugh. "You're still talking about reforming your government!"
+
+alNass: "Look in your own Bible: A beast comes out of the sea, and
+rules with the power of the dragon!  Men worship the beast!  'Who can
+make war against the beast?'  The sea is humanity; the dragon is the
+power of the masses; _the_beast_is_democracy_!  That's it!  That's
+your great system of government!  Money, sex, guns!  You're not fixing
+it!  The most crushing weapons ever made, for sale to all of your
+friends!  Ask the people of Gaza what democracy has done for them!"
+
+Jeff Scowla had trailed with al-Nass for a year, had endured two weeks
+on orbit with the cocky and flamboyant major, had just witnessed him
+producing and consuming alcohol, and was not about to back down in an
+argument now.
+
+Scowla: "The people of Israel can vote..."
+
+alNass: "The people of Israel can not vote!  With their racist Aliyah,
+Israel is as much a democracy as South Carolina was in 1860!  Let
+every Jew come back and vote, and let every Arab come back and vote,
+too.  Then let's have an election!  Then let's see who wins!
+Mercuriou's right.  You define your majority how you want."
+
+Scowla: "We do not define the majority how we want.  It's defined by
+law."
+
+alNass: "Who wrote the law?  Obviously non-citizens can not vote.
+Clearly the State of Israel can establish its own citizenship
+requirements.  You think it's all so cut and dry."
+
+Scowla: "...and what happens if Hamas takes over?  War until
+Israel is destroyed?  Then what happens to the Jews?"
+
+alNass: "Well, we're defined more by our limitations than by our
+abilities."
+
+Scowla: Scowla laughed. "Great answer!  So were the slave owners
+in South Carolina!"
+
+alNass: "All these people sing your hymns, talk about Jesus, loving
+and forgiving their enemies, and then they go to work in a war
+factory.  Why?  Because they are _defined_by_their_limitations_.
+Andrea believes that men can walk on water!"
+
+Andrea: "We can't walk on water because our faith in God isn't strong
+enough.  I think that's the answer most consistent with the Gospel."
+
+alNass: "A limitation of faith!  Or perhaps a limitation of reality,
+or to accept reality?  But they're finished!  _Finished_!  The Jews
+are _finished_!  Your own prophesy!  The third temple must be
+destroyed!  Islam will rule again in Jerusalem!"
+
+Andrea: Andrea leaned close to Scowla and whispered in his ear,
+"Where did you find this guy?"
+
+Scowla: The shuttle commander shrugged.  "Beats me.  They told us he
+was a moderate."
+
+alNass: "A moderate!  I am a moderate!  If I were a radical, I'd have
+C-4 instead of caviar in my flight kit!"
+
 
 
 T + 395 days    some sick "freedom" must win in the end

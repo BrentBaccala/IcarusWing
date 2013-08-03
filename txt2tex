@@ -159,7 +159,7 @@ print q|
 \setmargrb{20mm}{20mm}{20mm}{20mm}
 
 \pdfinfo{
-  /Title	(Icarus' Wing)
+  /Title	(Icarus Wing)
   /Author	(Brent Baccala)
 }
 
@@ -174,7 +174,7 @@ print q|
 % \fontsize{12pt}{14pt}
 % \selectfont
 
-\title{Icarus' Wing}
+\title{Icarus Wing}
 \author{Brent Baccala}
 \date{}
 
@@ -211,10 +211,10 @@ print q|
 \quad
 \vskip 1in
 \begin{center}
-{\Huge Icarus' Wing}
+{\Huge Icarus Wing}
 
-{\small The Great anti-American Novel}
-\vskip 4in {\Large by Eagle Six}
+% {\small The Great anti-American Novel}
+% \vskip 4in {\Large by Eagle Six}
 \end{center}
 
 \mainmatter
