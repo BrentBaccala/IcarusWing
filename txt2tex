@@ -214,7 +214,7 @@ print q|
 {\Huge Icarus Wing}
 
 % {\small The Great anti-American Novel}
-% \vskip 4in {\Large by Eagle Six}
+\vskip 4in {\Large Brent Baccala}
 \end{center}
 
 \mainmatter
