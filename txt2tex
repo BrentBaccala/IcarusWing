@@ -196,12 +196,7 @@ print q|
 \definecolor{Wye}{rgb}{0.7,0.7,0}
 \definecolor{Zee}{rgb}{0,0.5,0.5}
 
-\definecolor{Beth}{rgb}{0,0,0}
-\definecolor{James}{rgb}{0,0,0}
-\definecolor{Jill}{rgb}{0,0,0}
-\definecolor{Jeff}{rgb}{0,0,0}
-
-\definecolor{Scowla}{rgb}{0,0.5,0.5}
+\definecolor{Janders}{rgb}{0,0.5,0.5}
 \definecolor{McGee}{rgb}{0.7,0.7,0}
 \definecolor{alNass}{rgb}{0.5,0,0.5}
 \definecolor{Radio}{rgb}{0,0,0}
