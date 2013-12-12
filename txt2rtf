@@ -6,36 +6,6 @@ my $speaker;
 my $counter = 0;
 my $in_quoted_block = 0;
 
-sub insertTOC {
-
-    print q|
-
-\vfill\eject
-
-\thispagestyle{empty}
-
-{
-\fontsize{16pt}{20pt}
-\selectfont
-\centerline{Requirements for}
-\centerline{The Great anti-American Novel}
-}
-
-\begin{verbatim}
-|;
-
-    open(ICARUSWING, "<IcarusWing");
-    while (<ICARUSWING>) {
-	if (/^T / or /^Launch Day/) {
-	    s/^.*    //;
-	    print unless (/^T / or /^Launch Day/);
-	}
-    }
-    close(ICARUSWING);
-
-    print "\\end{verbatim}\n";
-}
-
 sub ProcessLine {
 
     s/\$/\\\$/;				# quote $
@@ -110,8 +80,8 @@ sub ProcessLine {
     # Format poetry at beginning - without italics {
     s/^{([^}]*)$/\\centerline{\1}/;
 
-    # Insert a math equation
-    s|STOKES\.|\$\$\\int_{\\delta C} w = \\int_C dw\$\$|;
+    # No math equations in rtf
+    s|STOKES\.||;
 
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {
@@ -147,83 +117,4 @@ sub ProcessFile {
     }
 }
 
-print q|
-
-\documentclass{book}
-
-\usepackage{vmargin}
-\usepackage{times}
-\usepackage[pdftex]{color}
-
-\usepackage[koi8-ru]{inputenc}
-\usepackage[russian,english]{babel}
-
-\setpapersize{custom}{6 in}{9 in}
-\setmargrb{20mm}{20mm}{20mm}{20mm}
-
-\pdfinfo{
-  /Title	(Icarus Wing)
-  /Author	(Brent Baccala)
-}
-
-\begin{document}
-
-\pagestyle{empty}
-
-\parindent 0pt
-\parskip 12pt
-
-% default seems to be 10/12
-% \fontsize{12pt}{14pt}
-% \selectfont
-
-\title{Icarus Wing}
-\author{Brent Baccala}
-\date{}
-
-% No title page for e-reader version
-% \maketitle
-
-\definecolor{Bible}{rgb}{0.7,0,0}
-
-\definecolor{Mercuriou}{rgb}{0.4,0.2,0}
-\definecolor{Burns}{rgb}{0.3,0.3,0}
-\definecolor{Vic}{rgb}{0.4,0,0.4}
-\definecolor{Alister}{rgb}{0,0.4,0}
-\definecolor{Andrea}{rgb}{0,0,0.4}
-
-\definecolor{Kyle}{rgb}{0,0,0}
-\definecolor{David}{rgb}{0,0,0}
-
-\definecolor{Ecks}{rgb}{0.5,0,0.5}
-\definecolor{Wye}{rgb}{0.7,0.7,0}
-\definecolor{Zee}{rgb}{0,0.5,0.5}
-
-\definecolor{Janders}{rgb}{0,0.5,0.5}
-\definecolor{McGee}{rgb}{0.7,0.7,0}
-\definecolor{alNass}{rgb}{0.5,0,0.5}
-\definecolor{Radio}{rgb}{0,0,0}
-
-\frontmatter
-
-\quad
-\vskip 1in
-\begin{center}
-{\Huge Icarus Wing}
-
-% {\small The Great anti-American Novel}
-\vskip 4in {\Large Brent Baccala}
-\end{center}
-
-\mainmatter
-\pagestyle{plain}
-\setcounter{page}{2}
-
-|;
-
-
 ProcessFile(\*STDIN);
-
-print q|
-\end{document}
-|;
