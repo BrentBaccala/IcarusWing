@@ -3,11 +3,7 @@
 {		     who expected greatness
 
 
-\vspace*{\fill}
-\vfill\eject
-
-\thispagestyle{empty}
-\vspace*{\fill}
+EJECT
 
 {{ I'll keep this novel about real people }}
 {{ I'll not get lost in ivory towers }}
@@ -20,8 +16,7 @@
 {{ The Great Hawaiian novel, blalah?}}
 {{ Da kine.}}
 
-\vspace*{\fill}
-\vfill\eject
+EJECT
 
 
 	    Requirements for The Great anti-American Novel

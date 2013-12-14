@@ -95,6 +95,12 @@ sub ProcessLine {
 	$line_number ++;
     }
 
+    if (s|^EJECT$||) {
+	print "\\vspace*{\\fill}\n";
+	print "\\vfill\\eject\n";
+	$line_number = 0;
+    }
+
     # Put chapter titles on new pages in typewriter font
     #   the centerline is there to make T + 1 day overfill
     s/^T [+-] [0-9]+.*$/\\vfill\\eject\\centerline{\\tt \\hfill $&}\\vskip 0.5in/;
