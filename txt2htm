@@ -1,40 +1,54 @@
 #! /usr/bin/perl
 #
-# This is a Perl script used to convert the Icarus Wing source to latex
+# This is a Perl script used to convert the Icarus Wing source to HTML
 
 my $speaker;
 my $counter = 0;
 my $in_quoted_block = 0;
 my $line_number = 0;
 
+$textcolor{Bible}="#{0.7,0,0";
+
+$textcolor{Mercuriou}="#{0.4,0.2,0";
+$textcolor{Burns}="#{0.3,0.3,0";
+$textcolor{Vic}="#{0.4,0,0.4";
+$textcolor{Alister}="#{0,0.4,0";
+$textcolor{Andrea}="#{0,0,0.4";
+
+$textcolor{Kyle}="#{0,0,0";
+$textcolor{David}="#{0,0,0";
+
+$textcolor{Ecks}="#{0.5,0,0.5";
+$textcolor{Wye}="#{0.7,0.7,0";
+$textcolor{Zee}="#{0,0.5,0.5";
+
+$textcolor{Janders}="#{0,0.5,0.5";
+$textcolor{McGee}="#{0.7,0.7,0";
+$textcolor{alNass}="#{0.5,0,0.5";
+$textcolor{Radio}="#{0,0,0";
+
 sub insertTOC {
 
     print q|
-
-\vfill\eject
-
-\thispagestyle{empty}
-
-{
-\fontsize{16pt}{20pt}
-\selectfont
-\centerline{Requirements for}
-\centerline{The Great anti-American Novel}
-}
-
-\begin{verbatim}
+<center><h3>
+Requirements for
+The Great anti-American Novel
+</h3></center>
 |;
 
     open(ICARUSWING, "<IcarusWing");
     while (<ICARUSWING>) {
 	if (/^T / or /^Launch Day/) {
 	    s/^.*    //;
-	    print unless (/^T / or /^Launch Day/);
+	    unless (/^T / or /^Launch Day/) {
+		print;
+		print "<br/>\n";
+	    }
 	}
     }
     close(ICARUSWING);
 
-    print "\\end{verbatim}\n";
+    #print "\\end{verbatim}\n";
 }
 
 sub ProcessLine {
@@ -69,9 +83,9 @@ sub ProcessLine {
 	    if ($speaker =~ s/([^_]+)_(.*)/$2/) {
 		$speaker1 = $1;
 	    }
-	    s/"/\\textcolor{$speaker1}{``/;
+	    s|"|<font color='$textcolor{$speaker1}'>``|;
 	} else {
-	    s/"/''}/;
+	    s|"|''</font>|;
 	}
 
 	$counter ++;
@@ -87,40 +101,41 @@ sub ProcessLine {
 	$counter ++;
     }
 
+    # XXX
+    #s/_([-\w',!.?;]+)_/{\\it \1}/g;	# convert _ to italics
+    s/_/ /g;				# convert interior _ to spaces
+
     # Change '    ' in chapter title lines to hskip
     if (/^T [+-] [0-9]+/ || /^Launch Day/ || /^Epilog/) {
-	s/    /\\hskip 0.5in/;
+	s/    //;
 	$line_number = 0;
-    } elsif (! m|^$|) {
+    } else {
 	$line_number ++;
     }
 
     # Put chapter titles on new pages in typewriter font
     #   the centerline is there to make T + 1 day overfill
-    s/^T [+-] [0-9]+.*$/\\vfill\\eject\\centerline{\\tt \\hfill $&}\\vskip 0.5in/;
+    s|^T [+-] [0-9]+.*$|<tt>$&</tt>|;
 
     # Ditto for Launch Day
-    s/^Launch Day+.*$/\\vfill\\eject{\\tt \\hfill $&}\\vskip 0.5in/;
+    s|^Launch Day+.*$|<tt>$&</tt>|;
 
     # Ditto for Epilog
-    s/^Epilog+.*$/\\vfill\\eject{\\tt \\hfill $&}\\vskip 0.5in/;
+    s|^Epilog+.*$|<tt>$&</tt>|;
 
     if (m|^{| && $line_number == 1) {
-	print "\\thispagestyle{empty}\n";
-	print "\\vspace*{\\fill}\n";
     }
 
-    # Format poetry at beginning - with italics {{ }}
-    s/^{{([^}]*)}}$/\\centerline{\\it \1}/;
+    # Format poetry - with italics {{ }}
+    s|^{{([^}]*)}}$|<center><em>\1</em></center>|;
 
-    # Format poetry at beginning - without italics {
-    s/^{([^}]*)$/\\centerline{\1}/;
-
-    s/_([-\w',!.?;]+)_/{\\it \1}/g;	# convert _ to italics
-    s/_/ /g;				# convert interior _ to spaces
+    # Format dedication at beginning - without italics {
+    s|^{([^}]*)$|<center>\1</center>|;
 
     # Insert a math equation
     s|STOKES\.|\$\$\\int_{\\delta C} w = \\int_C dw\$\$|;
+
+    s|^$|<p>|);
 
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {
@@ -157,76 +172,21 @@ sub ProcessFile {
 }
 
 print q|
+<HTML>
 
-\documentclass{book}
+<HEAD>
+<TITLE>IcarusWing</TITLE>
 
-\usepackage{vmargin}
-\usepackage{times}
-\usepackage[pdftex]{color}
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<BODY>
 
-\usepackage[koi8-ru]{inputenc}
-\usepackage[russian,english]{babel}
+<center><h1>Icarus Wing</h1>
 
-\setpapersize{custom}{6 in}{9 in}
-\setmargrb{20mm}{20mm}{20mm}{20mm}
+<!--vskip 4in-->\vskip 4in
 
-\pdfinfo{
-  /Title	(Icarus Wing)
-  /Author	(Brent Baccala)
-}
-
-\begin{document}
-
-\pagestyle{empty}
-
-\parindent 0pt
-\parskip 12pt
-
-% default seems to be 10/12
-% \fontsize{12pt}{14pt}
-% \selectfont
-
-\title{Icarus Wing}
-\author{Brent Baccala}
-\date{}
-
-% No title page for e-reader version
-% \maketitle
-
-\definecolor{Bible}{rgb}{0.7,0,0}
-
-\definecolor{Mercuriou}{rgb}{0.4,0.2,0}
-\definecolor{Burns}{rgb}{0.3,0.3,0}
-\definecolor{Vic}{rgb}{0.4,0,0.4}
-\definecolor{Alister}{rgb}{0,0.4,0}
-\definecolor{Andrea}{rgb}{0,0,0.4}
-
-\definecolor{Kyle}{rgb}{0,0,0}
-\definecolor{David}{rgb}{0,0,0}
-
-\definecolor{Ecks}{rgb}{0.5,0,0.5}
-\definecolor{Wye}{rgb}{0.7,0.7,0}
-\definecolor{Zee}{rgb}{0,0.5,0.5}
-
-\definecolor{Janders}{rgb}{0,0.5,0.5}
-\definecolor{McGee}{rgb}{0.7,0.7,0}
-\definecolor{alNass}{rgb}{0.5,0,0.5}
-\definecolor{Radio}{rgb}{0,0,0}
-
-\frontmatter
-
-\quad
-\vskip 1in
-\begin{center}
-{\Huge Icarus Wing}
-
-% {\small The Great anti-American Novel}
-\vskip 4in {\Large Brent Baccala}
-\end{center}
-
-\mainmatter
-\pagestyle{plain}
-\setcounter{page}{2}
+<center>by Brent Baccala</center>
 
 |;
 
@@ -234,5 +194,5 @@ print q|
 ProcessFile(\*STDIN);
 
 print q|
-\end{document}
+</BODY></HTML>
 |;
