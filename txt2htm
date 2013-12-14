@@ -109,7 +109,7 @@ sub ProcessLine {
     if (/^T [+-] [0-9]+/ || /^Launch Day/ || /^Epilog/) {
 	s/    //;
 	$line_number = 0;
-    } else {
+    } elsif (! m|^$|) {
 	$line_number ++;
     }
 
@@ -124,6 +124,7 @@ sub ProcessLine {
     s|^Epilog+.*$|<tt>$&</tt>|;
 
     if (m|^{| && $line_number == 1) {
+	print "<p class=\"spacer\"/>\n";
     }
 
     # Format poetry - with italics {{ }}
@@ -135,7 +136,7 @@ sub ProcessLine {
     # Insert a math equation
     s|STOKES\.|\$\$\\int_{\\delta C} w = \\int_C dw\$\$|;
 
-    s|^$|<p>|);
+    s|^$|<p>|;
 
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {
@@ -180,11 +181,20 @@ print q|
 <script type="text/javascript"
   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
+
+<style>
+p.spacer { height:60%; }
+p.spacer10 { height:10%; }
+</style>
+
+</HEAD>
 <BODY>
 
-<center><h1>Icarus Wing</h1>
+<p class="spacer10"/>
 
-<!--vskip 4in-->\vskip 4in
+<center><h1>Icarus Wing</h1></center>
+
+<p class="spacer"/>
 
 <center>by Brent Baccala</center>
 
