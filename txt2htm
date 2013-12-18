@@ -7,25 +7,35 @@ my $counter = 0;
 my $in_quoted_block = 0;
 my $line_number = 0;
 
-$textcolor{Bible}="#{0.7,0,0";
+sub addtextcolor {
+    ($name, $color) = @_;
 
-$textcolor{Mercuriou}="#{0.4,0.2,0";
-$textcolor{Burns}="#{0.3,0.3,0";
-$textcolor{Vic}="#{0.4,0,0.4";
-$textcolor{Alister}="#{0,0.4,0";
-$textcolor{Andrea}="#{0,0,0.4";
+    $color =~ s/0[0-9.]*/sprintf("%02x", 255*$&)/eg;
+    $color =~ s/,//g;
+    $color =~ s/^/#/g;
+    $textcolor{$name} = $color;
+    #print $name, $color, "\n";
+}
 
-$textcolor{Kyle}="#{0,0,0";
-$textcolor{David}="#{0,0,0";
+&addtextcolor("Bible", "0.7,0,0");
 
-$textcolor{Ecks}="#{0.5,0,0.5";
-$textcolor{Wye}="#{0.7,0.7,0";
-$textcolor{Zee}="#{0,0.5,0.5";
+&addtextcolor("Mercuriou", "0.4,0.2,0");
+&addtextcolor("Burns", "0.3,0.3,0");
+&addtextcolor("Vic", "0.4,0,0.4");
+&addtextcolor("Alister", "0,0.4,0");
+&addtextcolor("Andrea", "0,0,0.4");
 
-$textcolor{Janders}="#{0,0.5,0.5";
-$textcolor{McGee}="#{0.7,0.7,0";
-$textcolor{alNass}="#{0.5,0,0.5";
-$textcolor{Radio}="#{0,0,0";
+&addtextcolor("Kyle", "0,0,0");
+&addtextcolor("David", "0,0,0");
+
+&addtextcolor("Ecks", "0.5,0,0.5");
+&addtextcolor("Wye", "0.7,0.7,0");
+&addtextcolor("Zee", "0,0.5,0.5");
+
+&addtextcolor("Janders", "0,0.5,0.5");
+&addtextcolor("McGee", "0.7,0.7,0");
+&addtextcolor("alNass", "0.5,0,0.5");
+&addtextcolor("Radio", "0,0,0");
 
 sub insertTOC {
 
