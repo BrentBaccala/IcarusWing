@@ -64,7 +64,19 @@ The Great anti-American Novel
 
 sub ProcessLine {
 
+    next if m|^%|;
+
     s/\$/\\\$/;				# quote $
+
+    s/\\~n/\xc3\xb1/g;
+    s/\\"o/\xc3\xb6/g;
+    s/\\=a/\xc4\x81/g;
+    s/\\'e/é/g;
+    s/\\\$/\$/g;
+    s/--/–/g;
+
+    s/Cpacebo/спасибо/g;
+    s/Do cbidaniy/до свидания/g;
 
     s/Christian1/Christian\$^1\$/;	# add superscripts to "Christian"
     s/Christians1/Christians\$^1\$/;
@@ -94,9 +106,9 @@ sub ProcessLine {
 	    if ($speaker =~ s/([^_]+)_(.*)/$2/) {
 		$speaker1 = $1;
 	    }
-	    s|"|<font color='$textcolor{$speaker1}'>``|;
+	    s|"|<font color='$textcolor{$speaker1}'>\xe2\x80\x9c|;
 	} else {
-	    s|"|''</font>|;
+	    s|"|\xe2\x80\x9d</font>|;
 	}
 
 	$counter ++;
@@ -104,16 +116,15 @@ sub ProcessLine {
 
     while (/"/ and not /\\"/) {
 	if ($counter % 2 == 0) {
-	    s/"/``/;
+	    s/"/\xe2\x80\x9c/;
 	} else {
-	    s/"/''/;
+	    s/"/\xe2\x80\x9d/;
 	}
 
 	$counter ++;
     }
 
-    # XXX
-    #s/_([-\w',!.?;]+)_/{\\it \1}/g;	# convert _ to italics
+    s|_([-\w',!.?;]+)_|<em>\1</em>|g;	# convert bracketing _ to italics
     s/_/ /g;				# convert interior _ to spaces
 
     # Change '    ' in chapter title lines to hskip
@@ -193,6 +204,8 @@ print q|
 <HTML>
 
 <HEAD>
+<meta charset="utf-8">
+
 <TITLE>IcarusWing</TITLE>
 
 <script type="text/javascript"
