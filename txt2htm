@@ -49,12 +49,14 @@ The Great anti-American Novel
 
     open(ICARUSWING, "<IcarusWing");
     while (<ICARUSWING>) {
-	if (/^T / or /^Launch Day/) {
+	if (/^(T [+-] [0-9]+)/ || /^(Launch Day)/ || /^(Epilog)/) {
+	    print "<a href='#$1'>";
 	    s/^.*    //;
 	    unless (/^T / or /^Launch Day/) {
 		print;
 		print "<br/>\n";
 	    }
+	    print "</a>\n";
 	}
     }
     close(ICARUSWING);
@@ -128,8 +130,8 @@ sub ProcessLine {
     s/_/ /g;				# convert interior _ to spaces
 
     # Change '    ' in chapter title lines to hskip
-    if (/^T [+-] [0-9]+/ || /^Launch Day/ || /^Epilog/) {
-	print "<spacer/><p>\n";
+    if (/^(T [+-] [0-9]+)/ || /^(Launch Day)/ || /^(Epilog)/) {
+	print "<spacer/><p><a id='$1'/>\n";
 	s/    /&nbsp;&nbsp;&nbsp;&nbsp;/;
 	$line_number = 0;
     } elsif (! m|^$|) {
