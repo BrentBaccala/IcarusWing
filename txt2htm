@@ -169,11 +169,11 @@ sub ProcessLine {
 
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {
-	print "\\begin{quote}\n";
+	print "<blockquote>\n";
 	$in_quoted_block = 1;
     }
     if (not /^   / and not /^$/ and $in_quoted_block) {
-	print "\\end{quote}\n";
+	print "</blockquote>\n";
 	$in_quoted_block = 0;
     }
 
