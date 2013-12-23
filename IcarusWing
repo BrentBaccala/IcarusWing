@@ -911,8 +911,7 @@ the San Damiano Cross, replica of the crucifix which, eight hundred
 years earlier, had spoken in a vision to the young man who knelt
 before it in prayer near the Italian village of Assisi.
 
-Bible: "Now go hence, Francis, and build up my house, for it is nearly
-falling down!"
+Bible: { "Now go hence, Francis, and build up my house, for it is nearly falling down!"
 
 Francis had looked about him at the crumbling chapel he knelt in and
 set out to do as the vision commanded.  Returning to his father's
@@ -994,7 +993,7 @@ As she was leaving, she quietly took one of the envelopes from a
 holder on the table.  It was blank, except for a quote from the
 Gospel of Matthew: 
 
-Bible: {{ "When I was hungry, you fed me."
+Bible: { "When I was hungry, you fed me."
 
 She fished the bus transfer slip out of her pocket and inspected it
 closely.  It was still valid.  She put the rest of her money into the

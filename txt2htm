@@ -97,7 +97,7 @@ sub ProcessLine {
     $counter=0 if (/^$/);
 
     # Remove speaker indication now that we've processed it.
-    s/^(\w+)://;
+    s/^(\w+):\s*//;
 
     # Set text color for material in quotes according to speaker
     # Actual colors are defined above in the LaTeX preamble.

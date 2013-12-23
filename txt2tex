@@ -58,7 +58,7 @@ sub ProcessLine {
     $counter=0 if (/^$/);
 
     # Remove speaker indication now that we've processed it.
-    s/^(\w+)://;
+    s/^(\w+):\s*//;
 
     # Set text color for material in quotes according to speaker
     # Actual colors are defined above in the LaTeX preamble.
@@ -116,7 +116,7 @@ sub ProcessLine {
 	print "\\vspace*{\\fill}\n";
     }
 
-    if (m|^{{| && $previous_line_was_blank && $line_number > 1) {
+    if (m|^{| && $previous_line_was_blank && $line_number > 1) {
 	print "\\vskip 12pt\n";
     }
 
@@ -124,7 +124,7 @@ sub ProcessLine {
     s/^{{([^}]*)}}$/\\centerline{\\it \1}/;
 
     # Format poetry at beginning - without italics {
-    s/^{([^}]*)$/\\centerline{\1}/;
+    s/^{(.*)$/\\centerline{\1}/;
 
     s/_([-\w',!.?;]+)_/{\\it \1}/g;	# convert _ to italics
     s/_/ /g;				# convert interior _ to spaces
