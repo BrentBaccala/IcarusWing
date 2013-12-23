@@ -40,7 +40,7 @@ sub addtextcolor {
 sub insertTOC {
 
     print q|
-<p class="spacer"/>
+<spacer/>
 <center><h3>
 Requirements for
 The Great anti-American Novel
@@ -59,7 +59,7 @@ The Great anti-American Novel
     }
     close(ICARUSWING);
 
-    print "<p class=\"spacer\"/>\n";
+    print "<spacer/>\n";
 }
 
 sub ProcessLine {
@@ -118,6 +118,7 @@ sub ProcessLine {
 
     # Change '    ' in chapter title lines to hskip
     if (/^T [+-] [0-9]+/ || /^Launch Day/ || /^Epilog/) {
+	print "<spacer/>\n";
 	s/    /&nbsp;&nbsp;&nbsp;&nbsp;/;
 	$line_number = 0;
     } elsif (! m|^$|) {
@@ -139,7 +140,7 @@ sub ProcessLine {
     s|^Epilog+.*$|<tt>$&</tt>|;
 
     if (m|^{| && $line_number == 1) {
-	print "<p class=\"spacer\"/>\n";
+	print "<spacer/>\n";
     }
 
     # Format poetry - with italics {{ }}
@@ -188,6 +189,7 @@ sub ProcessFile {
 }
 
 print q|
+<!DOCTYPE html>
 <HTML>
 
 <HEAD>
@@ -197,9 +199,9 @@ print q|
   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-<style>
-p.spacer { height:60%; }
-p.spacer10 { height:10%; }
+<style type="text/css">
+spacer { display: block; height:100px; }
+p.spacer10 { height:100px; }
 </style>
 
 </HEAD>
@@ -209,7 +211,7 @@ p.spacer10 { height:10%; }
 
 <center><h1>Icarus Wing</h1></center>
 
-<p class="spacer"/>
+<spacer/>
 
 <center>by Brent Baccala</center>
 
