@@ -116,6 +116,10 @@ sub ProcessLine {
 	print "\\vspace*{\\fill}\n";
     }
 
+    if (m|^{{| && $previous_line_was_blank && $line_number > 1) {
+	print "\\vskip 12pt\n";
+    }
+
     # Format poetry at beginning - with italics {{ }}
     s/^{{([^}]*)}}$/\\centerline{\\it \1}/;
 
@@ -143,6 +147,8 @@ sub ProcessLine {
     } else {
 	print;
     }
+
+    $previous_line_was_blank = (/^$/);
 }
 
 sub ProcessFile {
