@@ -129,7 +129,7 @@ sub ProcessLine {
 
     # Change '    ' in chapter title lines to hskip
     if (/^T [+-] [0-9]+/ || /^Launch Day/ || /^Epilog/) {
-	print "<spacer/>\n";
+	print "<spacer/><p>\n";
 	s/    /&nbsp;&nbsp;&nbsp;&nbsp;/;
 	$line_number = 0;
     } elsif (! m|^$|) {
@@ -179,6 +179,10 @@ sub ProcessLine {
 	&insertTOC;
     } else {
 	print;
+    }
+
+    if (/^<tt>T [+-] [0-9]+/ || /^<tt>Launch Day/ || /^<tt>Epilog/) {
+	print "<spacer/><p>\n";
     }
 }
 
