@@ -226,6 +226,10 @@ p.spacer10 { height:100px; }
 </HEAD>
 <BODY>
 
+<A HREF="http://www.lulu.com/product/paperback/icarus-wing/15938825">
+  <img width=35 height=35 align=right src="book.jpg" alt="Book"></a>
+<a href="IcarusWing.pdf"><img width=32 height=32 align=right src="pdficon_large.png" alt="PDF"></a>
+
 <p class="spacer10"/>
 
 <center><h1>Icarus Wing</h1></center>
