@@ -88,9 +88,16 @@ sub ProcessLine {
     }
 
     # Change '    ' in chapter title lines to hskip
-    if (/^T [+-] [0-9]+/ || /^Launch Day/ || /^Epilog/) {
-	s/    /\\hskip 0.5in/;
+    # Put chapter titles on new pages in typewriter font
+    #   the centerline is there to make T + 1 day overfill
+    if (/^(T [+-] [0-9]+)/ || /^(Launch Day)/ || /^(Epilog)/) {
+	my $text = substr($_, 0, -1);
+	print "\\vfill\\eject\n";
+	print "\\pdfbookmark{$text}{$1}\n";
+	$text =~ s/    /\\hskip 0.5in /;
+	print "\\centerline{\\tt \\hfill $text}\\vskip 0.5in\n";
 	$line_number = 0;
+	next;
     } elsif (! m|^$|) {
 	$line_number ++;
     }
@@ -100,16 +107,6 @@ sub ProcessLine {
 	print "\\vfill\\eject\n";
 	$line_number = 0;
     }
-
-    # Put chapter titles on new pages in typewriter font
-    #   the centerline is there to make T + 1 day overfill
-    s/^T [+-] [0-9]+.*$/\\vfill\\eject\\centerline{\\tt \\hfill $&}\\vskip 0.5in/;
-
-    # Ditto for Launch Day
-    s/^Launch Day+.*$/\\vfill\\eject{\\tt \\hfill $&}\\vskip 0.5in/;
-
-    # Ditto for Epilog
-    s/^Epilog+.*$/\\vfill\\eject{\\tt \\hfill $&}\\vskip 0.5in/;
 
     if (m|^{| && $line_number == 1) {
 	print "\\thispagestyle{empty}\n";
@@ -178,6 +175,8 @@ print q|
 
 \usepackage[koi8-ru]{inputenc}
 \usepackage[russian,english]{babel}
+
+\usepackage{hyperref}
 
 \setpapersize{custom}{6 in}{9 in}
 \setmargrb{20mm}{20mm}{20mm}{20mm}
