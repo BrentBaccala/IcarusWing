@@ -10,12 +10,15 @@ IcarusWing.pdf: IcarusWing.tex
 	#rm IcarusWing2.pdf
 	pdftotext IcarusWing.pdf
 
+IcarusWing.html: IcarusWing txt2htm
+	./txt2htm < IcarusWing > IcarusWing.html
+
 IcarusWing.tex: IcarusWing Makefile txt2tex
 	rm -f IcarusWing.tex
 	./txt2tex < IcarusWing > IcarusWing.tex
 
-publish:
-	scp IcarusWing.pdf freesoftftp@www.freesoft.org:httpdocs/IcarusWing
+publish: IcarusWing.pdf IcarusWing.html
+	scp IcarusWing.pdf IcarusWing.html www:/var/www/IcarusWing
 
 checkin:
 	ci -u IcarusWing Makefile txt2tex TRANSCRIPTIONS
