@@ -178,8 +178,12 @@ print q|
 
 \usepackage{hyperref}
 
-\setpapersize{custom}{6 in}{9 in}
-\setmargrb{20mm}{20mm}{20mm}{20mm}
+% These settings are for a US Trade paperback
+%\setpapersize{custom}{6 in}{9 in}
+%\setmargrb{20mm}{20mm}{20mm}{20mm}
+
+\usepackage{setspace}
+\doublespacing
 
 \pdfinfo{
   /Title	(Icarus Wing)
@@ -216,7 +220,7 @@ print q|
 \definecolor{David}{rgb}{0,0,0}
 
 \definecolor{Ecks}{rgb}{0.5,0,0.5}
-\definecolor{Wye}{rgb}{0.7,0.7,0}
+\definecolor{Wye}{rgb}{0.6,0.6,0}
 \definecolor{Zee}{rgb}{0,0.5,0.5}
 
 \definecolor{Janders}{rgb}{0,0.5,0.5}
