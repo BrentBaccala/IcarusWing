@@ -179,11 +179,11 @@ print q|
 \usepackage{hyperref}
 
 % These settings are for a US Trade paperback
-%\setpapersize{custom}{6 in}{9 in}
-%\setmargrb{20mm}{20mm}{20mm}{20mm}
+\setpapersize{custom}{6 in}{9 in}
+\setmargrb{20mm}{20mm}{20mm}{20mm}
 
-\usepackage{setspace}
-\doublespacing
+%\usepackage{setspace}
+%\doublespacing
 
 \pdfinfo{
   /Title	(Icarus Wing)
