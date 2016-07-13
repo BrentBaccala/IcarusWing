@@ -157,7 +157,7 @@ sub ProcessLine {
     }
 
     # Format poetry - with italics {{ }}
-    s|^{{([^}]*)}}$|<center><em>\1</em></center>|;
+    s|^\{\{([^\}]*)}}$|<center><em>\1</em></center>|;
 
     # Format dedication at beginning - without italics {
     s|^{([^}]*)$|<center>\1</center>|;
