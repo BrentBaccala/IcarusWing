@@ -736,25 +736,160 @@ a ridge line.  Halfway to the car, he looked back toward the arroyo,
 regretting that he had forgotten to bathe.
 
 
-T - 351 days    school must seem like a dead end
+T - 351 days    school must be a bore
 
-Andrea started her third period class with a brief review of angular
-motion, quickly highlighting the derivation of the moment of inertia
-and angular momentum from Newton's laws and then spent the next
-fifteen minutes working homework problems posed by her eleventh
-graders.  She let them work some problems on their own for another
-twenty minutes, then finished the class period by working the most
-difficult homework problem, a tricky double pendulum, on the board,
-only to find that she had dropped a two somewhere and had calculated a
-period twice the correct value.  Just before the bell rang, she told
-that class that there was a slight mistake somewhere in her algebra,
-gave them the correct answer, and dismissed them.
+"Approximation lies at the heart of physics.  We don't use Einstein's
+theory of relativity to design a skyscraper, because it's irrelevent.
+The distances and speeds relevent to designing even the largest
+buildings on Earth produce relativisitic effects so minute that
+including them in the design calculations would only complicate the
+equations unnecessarily.  On the other hand, relativistic effects must
+be accounted for when designing GPS satellites, because the time
+measurements required to determine the distance to a GPS satellite are
+on the order of nanoseconds, while relativistic effects cause the
+clocks on the satellites run faster by about fifty microseconds per
+day.  Now, what's bigger, a nanosecond or a microsecond?"
 
-After waiting to let the halls clear of teenagers, she walked down to
-the deserted cafeteria and grabbed an early lunch from the school's
-in-house Subway - a six-inch turkey sub with a bag of Fritos and a
-Coke.  Then she walked back to her classroom and set about organizing
-the collected homeworks.
+An awkward pause followed, as Andrea waited for a response from her
+third period A.P. Physics class.  She continued to wait, knowing that
+although the class had not yet studied relativity, they had completed
+a section on SI units and should be able to answer the question.  She
+began silently counting to ten, and a fifteen-year-old junior, one of
+the youngest students in the class, raised his hand and answered as
+her internal count reached six.
+
+"A microsecond is a thousand nanoseconds, right?"
+
+"Right.  So the relativistic effects caused by Earth's gravity
+introduce an error of about fifty thousand nanoseconds every day in
+the satellite clocks, while the speed of light is about three meters
+per nanosecond.  The GPS system works by using timing to measure
+distance, so if you're off by a thousand nanoseconds, that's going to
+introduce an error of about three kilometers, and that's not
+acceptable."
+
+Andrea reinforced her point by picking up a dry erase marker and
+writing on the whiteboard that dominated the front of her high school
+classroom.  She first wrote the speed of light, in meters per
+nanosecond, then multiplied it by a thousand nanoseconds and obtained
+three kilometers.
+
+"Engineers call this a back-of-the-envelope calculation.  It's a real
+simple calculation that couldn't be used to actually design a GPS
+satellite, but it shows you that if you want to obtain sub-kilometer
+resolution, you need to take general relativity into account."
+
+"A big part of mastering physics is to develop an intuitive sense of
+when you can approximate and when you can't, and to make these kind of
+simple calculations to guide you in that assessment.  Even the
+simplest problems would be unsolvably complex if we tried to take
+every known physical phenomenon into account."
+
+She picked up a block of wood from her desk and exhibited it before
+the class.  They had spent the last month analyzing and measuring
+simple machines constructed from blocks, rope, and pulleys.
+
+"We've been studying the motion of these wooden blocks while
+completely ignoring their internal structure.  Analyzing all of the
+atoms and molecules in this block of wood would be a hopeless task!
+Instead, we ignore its atomic structure, its chemical composition, the
+biological structure of its cells, its electrical and magnetic
+properties, how it deforms under stress, all of it!  We know that if
+we exert enough force on this block, it will break into pieces.  We
+know that if we heat it hot enough, it will burst into flames.  We're
+guided not so much by equations and calculations, but rather by an
+intuitive sense that for the purpose of these block-and-pulley
+problems, none of that stuff matters."
+
+"This is called the 'Rigid Body' approximation, that these blocks
+maintain an exact shape that never changes no matter what kind of
+forces we subject them to.  In reality, there are no rigid bodies, any
+more than there are frictionless tables or massless pulleys.  All
+actual materials, even the hardest diamonds and the strongest metals,
+deform somewhat under even the slightest force."
+
+"Rigid body motion is very simple.  A rigid body can translate and it
+can rotate.  That's it.  Its state is completely specified by its
+position and its orientation."
+
+"So far, we've been using free body diagrams and Newton's second law
+to analyze the translational motion of a rigid body.  Now we're going
+to perform a very similar analysis for rotational motion."
+
+Andrea walked back to her desk, where she had assembled two simple
+machines before class.  Each consisted of a pair of steel weights, a
+large one and a smaller one, tied onto opposite ends of a rope which
+was looped over a wheel, the axis of which was mounted on a wooden
+frame.  The two machine were identical except for the wheels -- one
+was made of plastic and the other of steel.
+
+Andrea took hold of the smaller steel weight on the machine with the
+plastic wheel, pulled it down towards the floor, then released it.
+The larger weight on the other end of the rope caused the wheel to
+turn, pulling the smaller weight upward faster and faster, until the
+large weight hit the floor.
+
+"This is called an Atwood machine.  Its behavior can be well
+understood using the rigid body approximation, but not without taking
+the rotational motion of the wheel into account.  The net force on the
+wheel is zero, so its center of mass doesn't move, yet it does
+rotate."
+
+Andrea now performed the same demonstration on the other machine.  The
+weights moved much slower, taking a full ten seconds before the large
+weight hit the floor.
+
+"What's the difference between the two machines?"
+
+This time, she didn't even have to start counting.  A girl in the
+front row answered immediately.
+
+"The one wheel is heavier than the other."
+
+"Right!  So we can't just ignore the wheel!  Its properties are
+critical to understanding the machine, but we need something other
+than F equals m a."
+
+Next, Andrea wrote two equations on the board:
+
+NEWTON.
+
+"In a rotational analysis, the analog of force is torque, mass becomes
+moment of inertia, and linear acceleration is replaced by angular
+acceleration.  We also want to know the axis of rotation; this is an
+additional issue that we didn't have to consider in a translational
+analysis.  For the Atwood machine, the axis of rotation is obvious,
+but that isn't always the case."
+
+Andrea drew a free body diagram on the board: a circle representing
+the wheel, two arrows pointing straight down from the sides showing
+the pull of the weights on the rope, an arrow pointing straight down
+from the center of the circle indicated how gravity pulled down on the
+wheel, and a fourth arrow, right next to the third one, pointed
+straight up at the center of the circle and represented the reactive
+force of the axle.
+
+Andrea spent the next fifteen minutes analyzing the motion of the
+Atwood machine.  First, she balanced the forces and demonstrated that
+the net force on the wheel was indeed zero, so that it's center of
+mass did not move.  Next, she showed the class how to compute torque
+by multiplying the magnitude of each force vector by its distance from
+the center of the wheel and the sine of the angle it made with a line
+from the center of the wheel.  Then she introduced the concept of
+moment of inertia and discussed how to approximate it in the case of
+the wheel using only basic calculus concepts.  Finally, she combined
+all of her calculations together to compute the wheel's angular
+acceleration and the time required for the weight to hit the ground,
+only to discover that she had dropped a two somewhere and had
+calculated a time twice the measured value.  Just before the bell
+rang, she told the class that there was a slight mistake somewhere in
+her algebra, gave them the correct answer, and dismissed them.
+
+After waiting for the halls to clear of teenagers, she walked down to
+the nearly deserted cafeteria and grabbed an early lunch from the
+school's in-house Subway -- a six-inch turkey sub with a bag of Fritos
+and a Coke.  Then she walked back to her classroom and set about
+grading first period's collected homeworks.
 
 _I_do_talk_about_Christ..._sometimes._
 
@@ -767,10 +902,11 @@ do is teach AP Physics.
 Anyway, didn't the church preach the Gospel?
 
 Well, no, not really.  They did, to an extent.  They talk about Jesus,
-and the Bible does get read in church every Sunday, but they sure
-manage their churches like corporations.  Budget meetings, profit and
-loss statements, the minister's salery, it didn't look anything
-like Acts 2.  _No_one_claiming_anything_for_themselves,_they_held_all_their_posesesions_in_common._
+and the Bible does get read in church every Sunday, but they managed
+their churches like corporations.  Budget meetings, profit and loss
+statements, the minister's salery; it didn't look anything like Acts
+2.
+_No_one_claiming_anything_for_themselves,_they_held_all_their_possessions_in_common._
 
 Our churches don't look anything like that today.
 
@@ -786,24 +922,27 @@ _Lord_, she nearly cried, _please_show_me_what_to_do._
 
 After a minute, she got back up.  Well, what should I do?
 _Sell_your_worldly_possessions_and_give_to_the_poor._ Then what?
-I need the car to get to school, isn't it right to be teaching?
+I need the car to get to school.
 
 Andrea finished off her work day with a pair of Algebra I classes that
-bored her, but came with the job.  In the first class, she handed out
-a worksheet, then walked around the room observing the student's work,
-clarifying for two boys that factors, but not terms, can be cancelled
-in a rational function.  Realizing that other students might be having
-the same problem, she started the second class with a short lecture on
-cancellation before moving on to the worksheet.
+may have bored her more than her students, but they came with the job.
+In the first class, she handed out a worksheet, then walked around the
+room observing the students' work, clarifying for two boys that
+factors, but not terms, can be cancelled in a rational function.
+Realizing that other students might be having the same problem, she
+started the second class with a short lecture on cancellation before
+moving on to the worksheet.
 
-_At_least_I_was_able_to_help_some_of_them._
+_At_least_I_was_able_to_help_some_of_them_with_their_math._
 
 After driving home from work, she put on some linguine to boil, then
-called her mom at home in Iowa.  She briefly shared her frustration,
-but spent more time listening to her mother's frustration with a
-flight of concrete stairs eroding badly after every rain, then ate
-dinner, graded the day's homework and began planning the next day's
-classes.
+called her mom at home in Iowa.  She briefly shared her frustration
+with school, but spent more time listening to her mother's frustration
+with a flight of concrete stairs that eroded badly after every rain,
+her concern that the septic system was now forty years old, and her
+uncertainty over how much longer she would be able to drive.  After
+the phone call, she ate dinner, finished grading first period's
+homework, then began planning the next day's classes.
 
 
 T - 239 days    curiosity must kill
