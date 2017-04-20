@@ -128,6 +128,7 @@ sub ProcessLine {
 
     # Insert a math equation
     s|STOKES\.|\$\$\\int_{\\delta C} w = \\int_C dw\$\$|;
+    s|NEWTON\.|\$\$F=ma\\qquad T=I\\alpha\$\$|;
 
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {

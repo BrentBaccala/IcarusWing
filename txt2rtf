@@ -82,6 +82,7 @@ sub ProcessLine {
 
     # No math equations in rtf
     s|STOKES\.||;
+    s|NEWTON\.||;
 
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {
