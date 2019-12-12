@@ -118,7 +118,7 @@ sub ProcessLine {
     }
 
     # Format poetry at beginning - with italics {{ }}
-    s/^{{([^}]*)}}$/\\centerline{\\it \1}/;
+    s/^\{\{([^}]*)}}$/\\centerline{\\it \1}/;
 
     # Format poetry at beginning - without italics {
     s/^{(.*)$/\\centerline{\1}/;
@@ -129,6 +129,7 @@ sub ProcessLine {
     # Insert a math equation
     s|STOKES\.|\$\$\\int_{\\delta C} w = \\int_C dw\$\$|;
     s|NEWTON\.|\$\$F=ma\\qquad T=I\\alpha\$\$|;
+    s|EMC2|\$E=mc^2\$|;
 
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {
