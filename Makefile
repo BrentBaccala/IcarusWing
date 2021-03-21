@@ -18,7 +18,4 @@ IcarusWing.tex: IcarusWing Makefile txt2tex
 	./txt2tex < IcarusWing > IcarusWing.tex
 
 publish: IcarusWing.pdf IcarusWing.html
-	scp IcarusWing.pdf IcarusWing.html www:/var/www/IcarusWing
-
-checkin:
-	ci -u IcarusWing Makefile txt2tex TRANSCRIPTIONS
+	scp IcarusWing.pdf IcarusWing.html u20:/var/www/html/IcarusWing/
