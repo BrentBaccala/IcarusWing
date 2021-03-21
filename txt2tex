@@ -189,7 +189,7 @@ print q|
 
 \pdfinfo{
   /Title	(Icarus Wing)
-  /Author	(Brent Baccala)
+  /Author	(Eagle Six)
 }
 
 \begin{document}
@@ -204,7 +204,7 @@ print q|
 % \selectfont
 
 \title{Icarus Wing}
-\author{Brent Baccala}
+\author{Eagle Six}
 \date{}
 
 % No title page for e-reader version
@@ -238,7 +238,7 @@ print q|
 {\Huge Icarus Wing}
 
 % {\small The Great anti-American Novel}
-\vskip 4in {\Large Brent Baccala}
+\vskip 4in {\Large by Eagle Six}
 \end{center}
 
 \mainmatter
