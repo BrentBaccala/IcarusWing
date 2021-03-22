@@ -758,7 +758,7 @@ her internal count reached six.
 
 "Right.  So the relativistic effects caused by Earth's gravity
 introduce an error of about fifty thousand nanoseconds every day in
-the satellite clocks, while the speed of light is about three meters
+the satellite clocks, while the speed of light is about a third of a meter
 per nanosecond.  The GPS system works by using timing to measure
 distance, so if you're off by a thousand nanoseconds, that's going to
 introduce an error of about three kilometers, and that's not
@@ -766,9 +766,9 @@ acceptable."
 
 Andrea reinforced her point by picking up a dry erase marker and
 writing on the whiteboard that dominated the front of her high school
-classroom.  She first wrote the speed of light, in meters per
-nanosecond, then multiplied it by a thousand nanoseconds and obtained
-three kilometers.
+classroom.
+
+GPS.
 
 "Engineers call this a back-of-the-envelope calculation.  It's a real
 simple calculation that couldn't be used to actually design a GPS
@@ -867,7 +867,7 @@ force of the axle.
 
 Andrea spent the next fifteen minutes analyzing the motion of the
 Atwood machine.  First, she balanced the forces and demonstrated that
-the net force on the wheel was indeed zero, so that it's center of
+the net force on the wheel was indeed zero, so that its center of
 mass did not move.  Next, she showed the class how to compute torque
 by multiplying the magnitude of each force vector by its distance from
 the center of the wheel and the sine of the angle it made with a line
@@ -937,7 +937,7 @@ with school, but spent more time listening to her mother's frustration
 with a flight of concrete steps that eroded badly after every rain,
 her concern that the septic system was now forty years old, and her
 uncertainty over how much longer she would be able to drive.  After
-the phone call, she ate dinner, finished grading first period's
+the phone call, she ate dinner, finished grading the
 homework, then began planning the next day's classes.
 
 

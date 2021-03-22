@@ -128,6 +128,7 @@ sub ProcessLine {
 
     # Insert a math equation
     s|STOKES\.|\$\$\\int_{\\delta C} w = \\int_C dw\$\$|;
+    s|GPS\.|\$\$c \\approx 3\\times10^8 \\,\\frac{\\rm m}{\\rm s} \\cdot 10^{-9} \\,\\frac{\\rm s}{\\rm ns} \\cdot 10^{-3} \\,\\frac{\\rm km}{\\rm m} = 3\\times10^{-4} \\,\\frac{\\rm km}{\\rm ns} \\cdot 1000\\, {\\rm ns} = 3\\, {\\rm km} \$\$|;
     s|NEWTON\.|\$\$F=ma\\qquad T=I\\alpha\$\$|;
     s|EMC2|\$E=mc^2\$|;
 
