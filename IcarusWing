@@ -1,3 +1,15 @@
+TODO
+- Bruce dedication
+- pull old stuff out of history (scene with Andrea at her mom's)
+- format author's notes and iamic pentameter
+- final ARM debate
+- little more on Landing Day speech
+- combine two scenes after launch
+- more believeable suicide
+- word count
+- not losing control when media exposes themselves
+- EASY AS PI
+
 
 {                      for Bruce, who knows
 {                    we learn from failure more
@@ -70,8 +82,6 @@ Any way you read it, with the billionaire Elon Musk talking about
 colonizing Mars in hopes of solving mankind's problems, this message
 seems even more relevant now that when the first edition came out ten years
 ago.
-
-Hopefully, it's also well written.
 ]]
 
 
@@ -82,7 +92,7 @@ EJECT
 
 
 
-T - 1642 days    liberals must be lazy
+T - 2693 days    liberals must be lazy
 
 [[
 No, it didn't happen on T - 1642 days.  I got those mission day
@@ -94,6 +104,9 @@ This is STS-61, and the whole jamming the door shut on the Hubble
 telescope scene is straight out of the wikipedia article.
 It's Flight Day 4, December 6, 1993.
 
+baccala@samsung:~/IcarusWing$ echo $(( $(date --date "1993-12-06" +%s) / (60*60*24) ))
+8740
+
 Readers who are really paying attention, now have a key to all
 the dates in the novel.  In particular, neither 9/11 nor
 the _Columbia_ disaster should come as any surprise to them.
@@ -102,6 +115,23 @@ the _Columbia_ disaster should come as any surprise to them.
 on Mars 200 days later on October 24 (Julian 296).  A faster ship would have launched
 faster and gotten there sooner.  Let's assume that the midpoint
 of the mission would be the same day - Julian 195, July 21, 2001.
+
+baccala@samsung:~/IcarusWing$ echo $(( $(date --date "2001-07-21" +%s) / (60*60*24) ))
+11524
+
+If we make May 21, 2001 their launch day (so it takes about four months to get to Mars),
+they get there on September 21, 2001.
+
+No, let's move everything up a month, to fit 9/11 in shortly after they arrive.
+
+Launch on April 21, 2001 and arrive on August 21, 2001.
+
+baccala@samsung:~/IcarusWing$ echo $(( $(date --date "2001-04-21" +%s) / (60*60*24) ))
+11433
+
+baccala@samsung:~/IcarusWing$ echo $((11433 - 8740))
+2693
+
 ]]
 
 "_Columbus_, Houston, for EVA."
@@ -4310,6 +4340,7 @@ June 1, 2001 - Nepalese royal massacre and Hamas bombs a disco in Tel Aviv, kill
 
 July 20-22 - G8 summit in Italy.  Demonstrations; one protestor killed by police
 
+Still, the pipeline scavenging evokes Lycurgus better than any of these events.
 ]]
 
 Mercuriou was grinning.
@@ -4508,6 +4539,8 @@ _Man,_she_was_HOT._
 
 [[
 The point is that Alister wants to go home.
+
+Maybe we should move this later in the novel, during their long return.
 ]]
 
 
@@ -5029,7 +5062,7 @@ Mercuriou: "What the hell is this?"
 
 Andrea: "It's our way home."
 
-Andrea: "We can barely move right now.  We've got spare engines in storage.  We'll move one to the
+Andrea: "We can barely move right now.  We've got spare engines in storage.  We'll move an engine to the
 tail, but it'll take us a month to move it and another month to hook it up,
 and that's if we work like crazy.  We can't do it in time.
 We'll have to go around the Sun a full synodic orbit."
