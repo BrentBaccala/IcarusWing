@@ -12,14 +12,35 @@ TODO
 - another T-shirt
 - Andrea's dream
 - move Alister's dream?
+- polish Nass
 
 
-{                      for Bruce, who knows
-{                    we learn from failure more
-{                        than from success
+{                      for my friend Bruce
 
 
 EJECT
+
+[[
+
+James Joyce established the literary maxim that an author doesn't
+have to explain what he wrote, and for a long time
+I tried to emulate him.
+
+Then I realized something.
+
+I'm not James Joyce.
+
+That statement could be read in several different ways,
+primarily either as a cliche stating that I'm not that
+good a writer, or that I'm just a different person,
+and therefore a different writer, than James Joyce.
+The double entendre is deliberate, and I try to
+explain these things here, in my Author's Notes.
+
+I wouldn't read them the first time through,
+just enjoy the book, then read it again with the notes.
+I'll try to provide PDF versions both with and without them.
+]]
 
 {{ I'll keep this novel about real people }}
 {{ I'll not get lost in ivory towers }}
@@ -33,17 +54,6 @@ EJECT
 {{ Da kine.}}
 
 [[
-
-James Joyce established the literary maxim that an author doesn't
-have to explain what he wrote, and for a long time
-I tried to emulate him.
-
-Then I decided to write my own Cliff Notes.
-
-Don't read them the first time through.
-
-Just enjoy the book (I hope!), then read it again with the notes.
-
 "Those who do the hard work" was written when watching a Mexican friend
 of mine butcher a cow, and his wife would always have a bowl of food for me,
 the destitute gringo, thus "I'll thank them for being so kind to me".
@@ -56,9 +66,9 @@ The novel toys throughout with the suggestion that it is, somehow,
 maybe, or maybe not, the Great anti-American Novel.  So is it or isn't
 it?  If it is anti-American, the novel itself takes a decidedly
 tongue-in-cheeck approach to answering that question in the
-affirmative.  A whole lot of ominous-sounding "requirements" that
+affirmative.  A whole lot of ominous-sounding "requirements", half of which
 turn out to be nothing more than sly little double entendres.  It really
-depends on *your* definition what it is to be pro-American.  Only then
+depends on *your* definition what it is to be American!  Only then
 can you decide if it is anti-American!
 
 The novel also toys throughout with the idea of being "great",
@@ -100,21 +110,18 @@ EJECT
 T - 2693 days    liberals must be lazy
 
 [[
-No, it didn't happen on T - 1642 days.  I got those mission day
-numbers all mixed up years ago and never bothered to fix them.
-
-Let's get them right now.
-
 This is STS-61, and the whole jamming the door shut on the Hubble
 telescope scene is straight out of the wikipedia article.
 It's Flight Day 4, December 6, 1993.
 
-baccala@samsung:~/IcarusWing$ echo $(( $(date --date "1993-12-06" +%s) / (60*60*24) ))
-8740
-
 Readers who are really paying attention, now have a key to all
 the dates in the novel.  In particular, neither 9/11 nor
 the _Columbia_ disaster should come as any surprise to them.
+
+The first edition actually started on the second scene,
+the super-hack.  This new opening scene was added to
+enlarge the novel a bit (it was too short) and to
+provide some more back story for Andrea Yeats.
 
 2001 Mars Obyssey launched on April 7 (Julian 94), 2001, and arrived
 on Mars 200 days later on October 24 (Julian 296).  A faster ship would have launched
@@ -142,7 +149,8 @@ baccala@samsung:~/IcarusWing$ echo $((11433 - 8740))
 "_Columbus_, Houston, for EVA."
 
 [[
-This is basically STS-61, complete with Story Musgrave.  I hope he doesn't mind.
+Story Musgrave is one of two real people to appear in the novel.
+I hope he doesn't mind.
 
 I hope Jeffrey Hoffman doesn't mind that I replaced him with crazy Andrea Yeats.
 
@@ -279,7 +287,8 @@ free yes, but probably not if your feet are tethered, as in this
 scene.
 
 A "mass spectrometer the size of a shoebox"?  Good grief, what for?
-Sounds good, though, high-tech, it stays in.
+Sounds good, though, high-tech, it stays in.  Maybe I even
+read about it somewhere.
 ]]
 
 She was suspended by the side of an open access panel on the Hubbel
@@ -392,7 +401,7 @@ deep, unbroken except for some wispy cirrus clouds and in one spot,
 the glare of reflected sunlight.
 
 [[
-See what I mean about the clouds
+See what I mean about the clouds.
 ]]
 
 Yet even here, there was life.  _Even_here?_ Earth's oceans teemed
@@ -434,7 +443,11 @@ Andrea: _The_most_experienced_space_shuttle_crew_ever,_and_they_want_us_to_jam_a
 
 She looked over at her spacewalk partner, a flight instructor and
 medical doctor with degrees in mathematics, chemistry, literature, and
-business administration.  He simply shrugged.
+business administration.  This was his fifth spaceflight.  He simply shrugged.
+
+[[
+Insert biography of Story Musgrave.
+]]
 
 Andrea starting mentally sequencing the steps required.  The foot
 restraints were still in place below the gyro door, so she could just
@@ -991,7 +1004,7 @@ led the mathematical discussions, and rarely participated in the
 philosophical debates.
 
 [[
-At first I had "a pair to draw to", but it's too much of a known cliche!
+At first I had "a pair to draw to", but it's too much of a known cliche.
 
 I almost left it in.  Maybe some people haven't heard the expression before,
 but I would still prefer something original.
@@ -1256,7 +1269,7 @@ satellite transited overhead, still illuminated by the sun.
 
 [[
 I've seen the International Space Station with my naked eye,
-just after sunset.  It was as clearly visible as an airplane.
+at least twice, just after sunset.  It was as clearly visible as an airplane.
 ]]
 
 The trial.  Marc had lied through his teeth to protect him,
@@ -1266,6 +1279,7 @@ Three years in prison, and Vic wasn't even charged.
 
 [[
 This is a very last addition to Vic's internal monologue.
+
 Just trying to establish Mercuriou's motives better.
 ]]
 
@@ -1398,7 +1412,7 @@ regretting that he had forgotten to bathe.
 
 [[
 His regret at not enjoying the arroyo to the fullest, coupled with his earlier
-realization that this might be (and is) his last chance to do so,
+realization that this might be his last chance to do so,
 foreshadows his death.
 ]]
 
@@ -4253,7 +4267,7 @@ Group 8 - 31/35
 Mercuriou: "What the hell you want me to do, appoint a diversity officer!?"
 
 ARM: "No, captain, I just want you to acknowledge the systemic racism that pervades
-even America's criminal ventures!"
+every aspect of American culture, even America's criminal ventures!"
 
 After the interview concluded, the Captain emerged from A-1 Captain's Quarters
 to face a stony-faced woman.
@@ -4406,8 +4420,8 @@ Is Vic totally superfluous?  He "represents" the more shamanistic
 native religion of tribal America, and that seems pretty
 superfluous in modern society.  His restraining force on Mercuriou
 helped create Andrea's escape, but I could just rewrite that
-scene.  Yet how could I drop the vision quest?  We need you, Vic!
-Even if for just one scene in the novel!
+scene.  Yet how could I drop the vision quest, or the dinner scene?
+We need you, Vic!  Even if for just two scenes in the novel!
 ]]
 
 Andrea: "We need you, Vic."
@@ -4489,6 +4503,10 @@ disgust.
 
 Mercuriou: "He was the founder of Sparta, maybe the greatest socialist
 success story ever."
+
+[[
+Plutarch, _Lives_of_the_Nobel_Grecians_and_Romans_.
+]]
 
 Alister: "Were they Communists?"
 
@@ -4743,7 +4761,7 @@ T + 140 days    it must be garrulous
 garrulous - excessively talkative, especially on trivial matters (Oxford Languages via Google)
 
 If the reader even knows what garrulous means (I had to look it up via an synonym search
-for "long speech"), they expect Mercuriou's speech to be garrulous, but it is in fact
+for "long speech"), they might expect Mercuriou's speech to be garrulous, but it is in fact
 Vic's dinner, thus the double entendre.
 ]]
 
@@ -4790,7 +4808,7 @@ to allow their force to be directed downward.
 
 [[
 Can you really turn a 767 into a VTOL aircraft by putting its engines on gimbals?
-I doubt it.
+I doubt it.  How would you balance its center of gravity?
 ]]
 
 After cruising in the Martian sky for almost an hour, the Captain selected
@@ -4805,11 +4823,12 @@ the Martian red regolith.
 Burns moved an elevator lift into position outside the door,
 then the five astronauts pushed some equipment onto the platform, followed
 by the five astronauts.  A motorized winch lowered them to the ground,
-and, in unison, they all stepped onto the Martian soil.
+and, in unison, they all stepped together onto the Martian soil.
 
 [[
 A platform that slides out from the cabin door of a 767 and holds
-five people, plus equipment.  Hmmm...
+five people, plus equipment.  Hmmm... let's just try to imagine
+that for a minute.
 ]]
 
 After spending a few minutes walking around, Mercuriou asked Alister
@@ -4833,11 +4852,9 @@ the first human settlement on Mars."
 After a dramatic pause, accidently highlighted by a dust cloud shifting in the background, the Captain concluded.
 
 [[
-Foreshadowing.
+Foreshadowing, and not of the accidental kind.
 
 I mean, why not?  I've got the novel 99.9% done, I'm doing a little editing
-on a Sabbath, because I feel writing this book is a holy endeavor,
-and I don't want to forget any insights I get on Sabbath,
 and I come across "After a dramatic pause, the Captain concluded".
 
 Surely we can do better than that!  Some little iconic Martian image,
@@ -4846,7 +4863,6 @@ Why not spice up the description with a little foreshadowing?
 ]]
 
 "I'm not speaking for long today.  In closing, just consider this: Might you be one of us?"
-
 
 "It is a truly momentous day!  It is Landing Day!  The first human Martians have set foot on Mars!"
 
@@ -4947,8 +4963,6 @@ started giggling all over myself, thinking how funny it would
 be to list out this enormous feast consisting of every
 favorite meal I can think of.
 
-I've got to do something special for Landing Day!
-
 I actually took it from a list called "Things of Men" that
 I wrote during a long fast in the Chugach Mountains.
 
@@ -4967,7 +4981,11 @@ as either accented or unaccented except by actually
 scanning the line of text.  I like to read it
 a little more heavily accented on the iambic pattern
 just to make sure it scans well; like a spellcheck.
-It's meant to be read normally, though.
+It's meant to be read normally, though, as prose,
+so I don't use any special line formatting
+to cue to reader to its regular metric.
+
+I've got to do something special for Landing Day!
 
 So we get "Brent Baccala's favorite foods in iambic pentameter",
 which I think is the single silliest thing in this book!
@@ -4984,7 +5002,7 @@ Andrea: "Vic, how did you do that?!"
 Alister: "Vic, that was, like, the third-best meal I ever had in my life!"
 
 [[
-What were the other two?
+What were the other two?!
 
 Two friends of mine were helping a third friend of mine; true story.
 When they showed up at his house, he asked them if they were hungry,
@@ -5002,7 +5020,7 @@ But I decided to cut this line and let Alister's outburst end this scene.
 
 There used to be a scene at the beginning of the novel where he brought them lasagna, but I deleted it
 because I thought it was superfluous.  I'll check the word count when
-I'm done and maybe bring it back.
+I'm done and maybe bring it back.  Even if I don't, it's in the git history.
 ]]
 
 Something they hadn't anticipated was the falling temperature.
@@ -5036,13 +5054,18 @@ In the first edition, they crashed on their first landing attempt and thus never
 landed on Mars.  This was unsatisfactory from a plot standpoint because
 there was no good way to explain why some of the crew remained in orbit.
 Also, I came to believe that the novel was about 10,000 words too short,
-which caused it to read more like a novella at times.  I had deliberately
+which caused it to read more like a novella at times, like the scene at Andrea's family farm.
+Also, Mercuriou's overall motivation was confusing with so little back story.
+I had deliberately
 kept it short so that people would read it, but now it was too short.
-Neither of these problems seemed fatal; adding a landing scene was
-a straightforward solution.
 
-So the disaster scene (this chapter) has now become a later landing.  They're trying to unload
-supplies to establish a base camp.
+None of these problems seemed fatal; adding a second opening scene
+(it used to start with the super-hack) and a landing scene were
+straightforward solutions.
+
+So the disaster scene (this chapter) has now become a later landing,
+and that makes the plot more believable, that some of them
+remain in orbit.
 ]]
 
 Four landings later, Burns and Vic were on the ground unloading supplies
@@ -6575,7 +6598,8 @@ T + 393 days    Andrea's dream
 [[
 Andrea's dream about Alaska.  Why is it here?  Because the political
 program proposed for Hawai'i could just as easily work in Alaska.
-That's it.  That's all it "means".  That's what this chapter "symbolizes".
+That's it.  That's what it "means".  That's what this chapter "symbolizes".
+
 Like most writing, it's
 semi-autobiographical.  Of course I did most of that!  How
 else could I have written about it in such detail?  My
@@ -6599,16 +6623,15 @@ fell silent, then started gazing out the window as
 the sky to their right was starting to glow red across the horizon.
 The pilots engaged in some radio chatter.
 
-"Clearance via waypoints TIN CITY, NORTHWAY, ICE POOL, SIVUQAQ, direct ANCHORAGE."
+"Oceanic clearance via waypoints TIN CITY, NORTHWAY, ICE POOL, SIVUQAQ, then direct ANCHORAGE."
 
 [[
-GULKANA,
-NOATAK, TIN CITY, ATQASUK, KOTZEBUE
-ATQASUK, 
 Believe it or not, these are all actual aviation waypoint names
 in Alaska, but they're scattered all over the place.
 I especially like having a native village right before Anchorage,
 so I picked Sivuqaq because I've been there.
+
+"Oceanic clearance" because I imagine the flight coming from Hawaii.
 ]]
 
 Andrea: "What time is it?"
@@ -6617,9 +6640,8 @@ Andrea: "What time is it?"
 
 By five am, Andrea was walking along the airport's
 glass windowed concourse, marveling at the sun now 30 degrees above the horizon.
-Then came her connecting flight to Juneau.  As she deplaned again,
+Then came her connecting flight.  As she deplaned again,
 she saw a priest greeting another man.  Was there a connection?
-Then it was dinner time and she somehow ended up at a homeless shelter.
 
 [[
 Q: How can it be 30 degrees above the horizon a half hour after sunrise?
@@ -6629,8 +6651,15 @@ The priests were real; I saw them the first time I deplained in Juneau.
 I should have to walked over and introduced
 myself, but they were total strangers, so I walked on.  I would
 have liked to have known the one priest better; I did met him eventually,
-and he died shortly thereafter.
+but he died shortly thereafter.
 ]]
+
+Somehow she got a ride downtown.  Was there a bus?  The town
+was nestled between a mountain and a wide channel of
+weter.  Trees loomed over everything; there was some kind of tramway.
+Metal staircases sometimes took the place of sidewalks.
+
+Then it was dinner time and she was at a homeless shelter.
 
 "What kind of weird sex thing you trying to pull?  You were siting in there wearing nothing but your panties!"
 
@@ -6657,12 +6686,12 @@ planks and a bridge over a raging creek and a dirt road that continued up the mo
 until it ended at a clearing with old mining equipment scattered
 about and nothing but a trail continued on.  The place was deserted,
 so she walked a short way back down the road, then climbed
-a short distance up the wooded slope and laid down to sleep.
+up the wooded slope and laid down to sleep.
 
-It began to rain, a cold, driving rain supplementing an already
+It began to rain, a cold, driving rain, accessory to an already
 chilly night.  Soaking wet, she trudged back down to
-the bridge and followed a trail that led down alongside the creek
-rushing underneath it.  Eventually she came to a building
+the bridge and followed a trail that led down alongside the rushing creek.
+Eventually she came to a building
 that offered some shelter from the rain, and she
 settled down in her wet clothes to await the dawn.
 The rain kept coming down on her no matter how she sat.
@@ -6680,6 +6709,8 @@ make it seem at least a little dream-like.
 compartment onboard _Xplorer_One_, but her sleeping bag was
 soaking wet.  A water line had burst
 a leak and slowly inundated her with cold water as she slept.
+As she cleaned up the mess, she slowly turned the
+strange dream over and over in her mind.
 
 [[
 I could drag this description on for a bit, and maybe
@@ -6700,13 +6731,19 @@ kissing both his cheeks after shaking his hand during introductions,
 then helping the _Xplorer_One_ crew stow their personal belongings in the
 attached Spacehab.
 
+[[
+It's an Arabic greeting.
+
+I hope.
+]]
+
 alNass: "You'll be fine in here.  The Spacehab's got the same life
 support as the cabin."
 
 [[
 Nass is the Arabic word for "people", as in "the people" (alnass)
 
-How did I dream this guy up?
+As Andrea will soon ask, "where did I find this guy"?
 
 Earlier drafts of the novel featured the crew returning via the
 International Space Station (still with the same shuttle disaster)
@@ -6715,7 +6752,7 @@ Borsov, named, if I recall, after the mission commander in Clarke's _Rama_II_.
 Borsov was an old school communist who gave us some unapologetic
 Marxism to go with his vodka shots and boisterous charm.
 
-(all of this, incidentally, should be some where in the novel's
+(all of this, incidentally, should be in the novel's
 version history on github)
 
 At this point, I still planned to interview the _Columbia_'s crew
@@ -6734,8 +6771,8 @@ of the novel.  Borsov got mixed in with Nass and the alternate
 ending gradually became the prime ending.
 
 After the events of the last three decades (1990-2020), from the collapse
-of the Soviet Union to 9/11 and the War on Terror, how apropos
-it now seems to replace a Bolshevik with a screaming
+of the Soviet Union to the War on Terror, how apropos
+it now seems to replace a red Bolshevik with a screaming
 Islamic fanatic!
 ]]
 
@@ -6753,17 +6790,23 @@ David: "I've had dreams... nightmares... burning up in space."
 David Smith and Story Musgrave are the only real astronauts,
 and in fact the only real people, to appear in the novel.
 I do believe I've read that Smith had premonitions of
-the _Columbia_ disaster, so I decided to include him
+the _Columbia_ disaster, though I couldn't verify that,
+so I decided to include him
 and his dreams.
 ]]
 
 After both crews enjoyed a dinner of rehydrated lobster bisque,
 Major Nass sailed over to the galley, opened his personal compartment,
-and pulled out a pouch containing at milkey white liquid.  Somehow, he turned so that the
+and pulled out two pouches containing two clear liquids.
+Somehow, he turned so that the
 green, red and black striped flag on his right shoulder seemed more
 noticeable than before.
 
 [[
+Lobster bisque, I've read, is a food introduced perhaps on the
+Apollo missions?  Or maybe it didn't make it into orbit until Skylab,
+but I remember reading it was actual 1970s-era astronaut food.
+
 The drink is called arak.  According to wikipedia, it is the traditional
 alcoholic beverage in Palestine.
 ]]
@@ -6771,7 +6814,17 @@ alcoholic beverage in Palestine.
 alNass: "Captain, you may live the rest of your life as a dog in an
 American kennel, but tonight we celebrate like men."
 
-Andrea raised an eyebrow as Nass distributed the milky white liquor.
+Nass joined the two drink pouches together and squeezed the one
+to inject its contents into the other, which transformed
+into a milkey white liquid.
+Andrea raised an eyebrow as Nass distributed the liquor
+using smaller drink bags filled with ice.
+
+[[
+There really is some preparation like this when consuming arak;
+see the wikipedia article.  The way I've got it doped out,
+you'd have to do something like this to serve arak properly in space.
+]]
 
 Andrea: "Just out of curiosity, major, what would be the Muslim
 solution to the _Xplorer_One_ theft?"
@@ -6797,8 +6850,13 @@ Now it was Nass's turn to explode in glee.
 alNass: "You see!  And we don't waste our money on so many jails!"
 
 Several of the Americans began to object simultaneously, but Nass
-ignored them, appropriated the remaining arak for himself and next produced
+ignored them, appropriated for himself the remaining arak, for that is the
+name of the drink, and next produced
 a bowl of Hawai'ian "kine"!
+
+[[
+Not only another bit of drug use, but another Hawaiian allusion!
+]]
 
 alNass: "More to your taste, Captain?"
 
@@ -6806,10 +6864,6 @@ Mercuriou: "Thank you."
 
 After the space captain has taken his first "hit" in over a year,
 he turned back to Nass.
-
-[[
-Maybe he used 
-]]
 
 Mercuriou: "I take it you're a fan?"
 
@@ -6867,9 +6921,15 @@ alNass: "The desert lands are ours!  Arabs will rule the desert if takes ten tho
 
 Andrea: "I'm sorry, what is your party again?"
 
-alNass: "I'm a radical Islamic nationalist!"
+alNass: "I'm a radical Islamic nationalist, of course!"
 
-Andrea: "But I though Islam was open to the whole world, not just to Arabs?"
+[[
+There is no such party (that I'm aware of), but an "Islamic nationist" is meant to
+sound as self-contradictory as a "communist nationalist",
+since communism preaches a global proletarian movement.
+]]
+
+Andrea: "But I thought Islam was open to the whole world, not just to Arabs?"
 
 alNass glared at his American nemesis, then looked to the bag of arak,
 which was nearly empty.  He bolted down a final slug, then shifted gears.
@@ -6889,8 +6949,7 @@ Andrea paused again.
 
 Andrea: "I don't know.  Not all of them.  Maybe not any of them.  I just don't know."
 
-alNass: "How many people on our side believe in Allah the same way?
-They believe in Allah, they believe in the afterlife, but they make war?"
+alNass: "How many people on our side believe in Allah the same way?"
 
 Janders: "What I'd like to know is why are you one of them?"
 
@@ -6903,23 +6962,21 @@ between the people of the United States of America and those of the Palestinian 
 As well as the only man on this spacecraft to welcome this condemned criminal with
 a modicum of grace!"
 
-  Because they are _defined_by_their_limitations_.
-Andrea believes that men can walk on water!"
+Janders: "Then why do you hate so Jews and infidels?"
 
-Andrea: "We can't walk on water because our faith in God isn't strong
-enough.  I think that's the answer most consistent with the Gospel."
-
-alNass: "A limitation of faith!... But they're finished!  _Finished_!  The Jews
+alNass: "Because they're finished!  _Finished_!  The Jews
 are _finished_!  The third temple must be destroyed!  Islam will rule
 again in Jerusalem!"
+
+[[
+In Nass's mind, Islam is destined to rule
+the world and all non-believers will live under Islamic rule,
+which is also conveniently Arab rule.
+]]
 
 Andrea leaned close to Janders and whispered in his ear.
 
 Andrea:  "Where did you find this guy?"
-
-[[
-OK, where did I find this guy?
-]]
 
 The shuttle commander shrugged.
 
