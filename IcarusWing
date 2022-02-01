@@ -146,21 +146,12 @@ on Mars 200 days later on October 24 (Julian 296).  A faster ship would have lau
 faster and gotten there sooner.  Let's assume that the midpoint
 of the mission would be the same day - Julian 195, July 21, 2001.
 
-baccala@samsung:~/IcarusWing$ echo $(( $(date --date "2001-07-21" +%s) / (60*60*24) ))
-11524
-
 If we make May 21, 2001 their launch day (so it takes about four months to get to Mars),
 they get there on September 21, 2001.
 
 No, let's move everything up a month, to fit 9/11 in shortly after they arrive.
 
 Launch on April 21, 2001 and arrive on August 21, 2001.
-
-baccala@samsung:~/IcarusWing$ echo $(( $(date --date "2001-04-21" +%s) / (60*60*24) ))
-11433
-
-baccala@samsung:~/IcarusWing$ echo $((11433 - 8740))
-2693
 
 ]]
 
@@ -445,7 +436,7 @@ are not, in fact, hallucinations.  I'm referring
 to stuff like this, from my essay _Bicyclying_Across_America_:
 
     In the next minute, I had what I would describe as a mental lightening
-    bolt. I suddenly saw that my problems were of my own creation – I was
+    bolt. I suddenly saw that my problems were of my own creation - I was
     relying on myself instead of on faith. I was going to ride the bike; I
     was going to put up the tent; I had the money to buy food. I saw that
     what I needed to do was get rid of all that. The next day was Labor
@@ -1151,7 +1142,8 @@ Is this stream of consciousness, Miss Selwocki?
 (my senior English teacher in high school)
 
 There might be too much third person description here to really
-make it stream of consciousness, à la Poe's _The_Tell-Tale_Heart.
+% make it stream of consciousness, à la Poe's _The_Tell-Tale_Heart_.
+make it stream of consciousness, a la Poe's _The_Tell-Tale_Heart_.
 Maybe Vic should narrate the whole
 chapter in the first person, but then I think it clashes too much
 stylistically with the rest of the novel.  What's being narrated

@@ -1,11 +1,17 @@
 #! /usr/bin/perl
 #
 # This is a Perl script used to convert the Icarus Wing source to latex
+#
+# to fix "File `koi8-ru.def' not found":
+#    apt install texlive-lang-cyrillic
 
 my $speaker;
 my $counter = 0;
 my $in_quoted_block = 0;
 my $line_number = 0;
+
+my $notes;
+my $display_notes = 1;
 
 sub insertTOC {
 
@@ -47,6 +53,21 @@ sub ProcessLine {
     s/Christians2/Christians\$^2\$/;
 
     s/^al-Nass:/alNass:/;		# handle the hyphen like this
+
+    # handled author's notes section in blocks marked with [[ and ]]
+    if (/^\s*\[\[\s*$/) {
+        $notes = 1;
+        print "\\begin{adjustwidth}{1cm}{}\\it " if ($display_notes);
+        #print "{\\it ";
+        return;
+    }
+    if (/^\s*\]\]\s*$/) {
+        undef $notes;
+        print "\\end{adjustwidth}" if ($display_notes);
+        #print "}\\smallbreak ";
+        return;
+    }
+    return if $notes and not $display_notes;
 
     # The speaking character can be indicated by a notation at the
     # beginning of the line or paragraph like "Alister:".  Note
@@ -176,6 +197,8 @@ print q|
 \usepackage{times}
 \usepackage[pdftex]{color}
 
+\usepackage{changepage}
+
 \usepackage[koi8-ru]{inputenc}
 \usepackage[russian,english]{babel}
 
@@ -221,6 +244,8 @@ print q|
 
 \definecolor{Kyle}{rgb}{0,0,0}
 \definecolor{David}{rgb}{0,0,0}
+\definecolor{Lucy}{rgb}{0,0,0}
+\definecolor{ARM}{rgb}{0,0,0}
 
 \definecolor{Ecks}{rgb}{0.5,0,0.5}
 \definecolor{Wye}{rgb}{0.6,0.6,0}
