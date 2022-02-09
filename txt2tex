@@ -144,7 +144,8 @@ sub ProcessLine {
     # Format poetry at beginning - without italics {
     s/^{(.*)$/\\centerline{\1}/;
 
-    s/_([-\w',!.?;]+)_/{\\it \1}/g;	# convert _ to italics
+    s/_([-\w',!.?;]+)_/{\\it \1}/g if (not $notes);	# convert _ to italics
+    s/_([-\w',!.?;]+)_/{\\rm \1}/g if ($notes);		# convert _ to regular font in notes
     s/_/ /g;				# convert interior _ to spaces
 
     # Insert a math equation
