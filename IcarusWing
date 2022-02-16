@@ -1413,6 +1413,8 @@ Ye who gaze at the setting sun from up high
 Or e'vn from fast-fleeting orbit,
 Mourn the setting Sun as it clips the horizon
 Pray that the life-giving orb will return in the morn.
+Fast, pray, hope, wait,
+that the life-giving orb will return in the morn.
 ]]
 
 Finally the sunlight was gone, leaving
@@ -5353,31 +5355,31 @@ A few gifts were exchanged, then they enjoyed
 the feast Vic had prepared for this special occasion.
 
 There was lasagna, of course, and pizza,
--/- , -/- ,
+4 -/- , -/- ,
 spaghetti in tomato sauce,
--/- /-
+2f -/- /-
 Italian sausage,
-/-/- /- /-/ .
+5d1d5 /-/- /- /-/ /
 Fettuchine, grated Parmesan cheese,
--/- /-
+3f -/- /-
 rotini pesto,
-/- /-/ .
+4d1d4 /- /-/ /
 grated Parmesan cheese,
 , , . /- /- ,
 stuffed baked green peppers, seasoned beef,
-/- . . /- . /-
+/- / . /- . /-
 turkey breast with stuffing and gravy,
-. /- , . /- . /-
+4f . /- / . /- . /-
 a turkey breast with stuffing and gravy,
-. . . . -/-
+3i1f / , . / -/-
 baked ham with mashed potatoes,
-. /- . /- . /-
+. /- / | /- . /-
 fresh buttered bread slathered with honey,
 /- , . -/-
 scalloped ham and potatoes,
-/. -/
+2i2 /. -/
 tacos frances,
-/- /- /- , -/-
+5d1f /- /- /- , -/-
 yellow curried chicken, rice, potatoes,
 . . /'-
 pears, mangos, pineapple,
@@ -5430,12 +5432,14 @@ started giggling all over myself, thinking how funny it would
 be to list out this enormous feast consisting of every
 favorite meal I can think of.
 
-I actually took it from a list called "Things of Men" that
-I wrote during a long fast in the Chugach Mountains.
+I actually took it from a list called "Things of Men"
+(never published) that I wrote during a long fast in the Chugach Mountains.
 
 Think this better be in iambic pentameter, or people will hate
 to read it because it won't scan.  Well, it better be some
-kind of unrhymed verse.  Iambic pentameter is the easiest.
+kind of unrhymed verse.  Iambic pentameter seems one of the best
+for English, but none of them are easy, in part because I don't
+read very much poetry, so I find it all very difficult to write.
 
 I used to have a computer program that looked words up
 in a dictionary and marked their accents automatically,
@@ -5451,6 +5455,12 @@ just to make sure it scans well; like a spellcheck.
 It's meant to be read normally, though, as prose,
 so I don't use any special line formatting
 to cue to reader to its regular metric.
+
+# - number of feet
+f - feminine ending (addition of a final unstressed syylable) (5i4f - To be or not to be, that is the question)
+i# - inversion on #'th foot (iamb ./ to trochee /.) (5i1 - Now is the winter of our discontent)
+p## - push forward (iamb iamb ./ ./ to pyrrhic spondee .. //) (5p45 A mote it is to trouble the mind's eye)
+d# - deficient in #'th foot
 
 I've got to do something special for Landing Day!
 
