@@ -5395,6 +5395,7 @@ rotini pesto, Fettuchine,
 Italian sausage, grated Parmesan,
 5 . /-    /     .      /-       /-    /
 a turkey breast with stuffing, gravy, ham,
+
 2d1f / / . /-
 stuffed baked green peppers,
 2d1   /    /     /-
@@ -5409,74 +5410,146 @@ Bell peppers stuffed with seasoned beef and baked
 stone baked Bell peppers stuffed with seasoned beef
 5 .   /    .   /-         /     -     /-      /
 pan baked Bell peppers stuffed with seasoned beef
-2d1 /- ,
-seasoned beef,
-5d1 / / . /- / - /- /
-stuffed baked green peppers stuffed with seasoned beef,
-/- / . /- . /-
-turkey breast with stuffing and gravy,
+5i1 /.    .   /-         /     -     /-      /
+roasted green peppers stuffed with seasoned beef
+
 3i1f / , . / -/-
 baked ham with mashed potatoes,
-4i3f  .      /-       /       /-     .   /-
+  /-    /      /    /   -     -     -/-
+honey glazed baked ham with mashed potatoes
+
+
+4i3f  .    /-     /       /-     .   /-
 fresh buttered bread slathered with honey,
-3d1f   /-      /     -/-
+5d4i5 .    /-     /      -/-     .   /-
+fresh buttered bread annointed with honey,
+
+4f .    /-     /        -/     .   /-
+fresh buttered bread bedaubed with honey,
+
+5f .    /-     /        -/     .    /-    /-
+fresh buttered bread bedaubed with maple honey,
+
+5i1f / .     .      /-     /        -/     .   /-
+pot roast, fresh buttered bread bedaubed with honey,
+
+3d1f  /-    /     -/-
 scalloped ham, potatoes,
+2i1f  /-  -/-
+scalloped potatoes
+  /-/
+casserole
+5 . /  .   /-/       .     /-/
+a ham and potato cheese casserole
+
 2i2 /. -/
 tacos frances,
 
+2? /     /-,
+beef Wellington
+
+1T /  -
+pot roast,
+
+5? /     /-,      /    /    .    /-     -/
+beef Wellington, beef pot roast, tacos frances
+
+2i1 /- -/
+chicken mole,
+
+5i1i4 /-  -/    -/-   /     /.     -/
+chicken mole, fajitas res, tacos frances
+
+ /-    -/-
+carne asada
+
+  -/-    .  /
+fajitas de res
+
+6+  /-  -/      -/-    .  /     /.     -/
+chicken mole, fajitas de res, tacos frances
+
+1f -/-
+fajitas,
+2?f /    /    /-
+Kung pao chicken,
+
+4Tf /-` . . / /
+barbecue ribs with baked beans,
+
+6T+ /- /- /- / . /- /
+spicy chicken tenders sweet and sour sauce,
+
+5T /- /- /- /- /-
+weiner schnitzel, jaeger schnitzel, spaetzle,
+
+/ /-
+grilled ahi,
+
+/ . /'- /
+steak with horseradish sauce,
+
+3T /- / . /-
+sour beef and dumplings.
+
 3d1f /-   /-      /-
 yellow curried chicken
-5d1f /- /- /- | , | -/-
-yellow curried chicken,
+3f .   /-     /-       /-
+Thai yellow curried chicken
+5 .   /-     /-       /-    /-   /
+Thai yellow curried chicken over rice
+
  , | -/-
 rice, potatoes,
 2   -/-      /
 potatoes, rice,
 2d1f / /- /'-
 pears, mangos, pineapple,
+3f -    /-    /-      /-
+green salad, Caesar salad,
+4f -    /-    /-      /-    /-
+green salad, Caesar salad, olives
+5f -    /-    /-      /-    /-       /,
+green salad, Caesar salad, olives, croutons
+
+5f -/-      /-     /-  |  /-       /-
+Cardini's Caesar salad, olives, croutons
+
 2T /- /-
 Caesar salad,
+3f -/-     /-     /-
+Cardini's Caesar salad,
+2f -     /-     /-
+tossed Caesar salad,
 / /- /-
 chilled Caesar salad,
 6D . /- . /- /- / . /-`-
 green salad with olives, feta cheese, and guacamole,
 6f . /- /- /- / . /-`-
 green salad, olives, feta cheese, and guacamole,
-6f . /- /- /- / . /-`-
+6f  .   /-     /-      /-    /      .     /-`-
 green salad, olives, feta cheese, fresh guacamole,
-5 -/- | / -/ | . /- /
+5f  .   /-     /-    /      .     /-`-
+green salad, feta cheese, fresh guacamole,
+
+5  -/-   |   /    -/ |  .      /-   |   /
 cannolis, creme brule, bread pudding, mousse,
-   /`-      .      /`-       /-
+
+4?   /`-      .      /`-       /-
 strawberry and raspberry cheesecake,
-1 . .
-pot roast,
-2i1 /- -/
-chicken mole,
-1f -/-
-fajitas,
-/ / /-
-Kung pao chicken,
+2 /-     /-
+berry cheesecake
 2T /- /-
 apple dumplings,
 2T /- /-
 chocolate donuts,
-5T /- /- /- /- /-
+5T /-    /-      /-     /-     /-
 apple waffles dusted powdered sugar,
 5T /- /- /- /-
 pancakes berry maple syrup,
-/-` / . / /
-barbecue ribs with baked beans,
+4T  /-    /-     /-
+pancakes maple syrup,
 
-6T+ /- /- /- / . /- /
-spicy chicken tenders sweet and sour sauce,
-5T /- /- /- /- /-
-weiner schnitzel, jaeger schnitzel, spaetzle,
-/ /-
-grilled ahi,
-/ . /'- /
-steak with horseradish sauce,
-3T /- / . /-
-sour beef and dumplings.
 
 [[
 I just had a Dr. Seuss / Theatre of the Absurd moment and
