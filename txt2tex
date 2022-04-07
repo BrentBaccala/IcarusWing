@@ -13,6 +13,8 @@ my $line_number = 0;
 my $notes;
 my $display_notes = 0;
 
+my $word_count = 0;
+
 sub insertTOC {
 
     print q|
@@ -171,6 +173,7 @@ sub ProcessLine {
 	&insertTOC;
     } else {
 	print;
+        $word_count += split(' ');
     }
 
     $previous_line_was_blank = (/^$/);
@@ -283,3 +286,5 @@ ProcessFile(\*STDIN);
 print q|
 \end{document}
 |;
+
+print STDERR "Word count $word_count\n";
