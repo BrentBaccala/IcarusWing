@@ -11,7 +11,7 @@ my $in_quoted_block = 0;
 my $line_number = 0;
 
 my $notes;
-my $display_notes = 1;
+my $display_notes = 0;
 
 sub insertTOC {
 
@@ -53,6 +53,12 @@ sub ProcessLine {
     s/Christians2/Christians\$^2\$/;
 
     s/^al-Nass:/alNass:/;		# handle the hyphen like this
+
+    # handle end of quoted blocks
+    if (not /^   / and not /^$/ and $in_quoted_block) {
+	print "\\end{quote}\n";
+	$in_quoted_block = 0;
+    }
 
     # handled author's notes section in blocks marked with [[ and ]]
     if (/^\s*\[\[\s*$/) {
@@ -153,15 +159,12 @@ sub ProcessLine {
     s|GPS\.|\$\$c \\approx 3\\times10^8 \\,\\frac{\\rm m}{\\rm s} \\cdot 10^{-9} \\,\\frac{\\rm s}{\\rm ns} \\cdot 10^{-3} \\,\\frac{\\rm km}{\\rm m} = 3\\times10^{-4} \\,\\frac{\\rm km}{\\rm ns} \\cdot 1000\\, {\\rm ns} = 3\\, {\\rm km} \$\$|;
     s|NEWTON\.|\$\$F=ma\\qquad T=I\\alpha\$\$|;
     s|EMC2|\$E=mc^2\$|;
+    s|EASY AS PI|\\hfil Easy as \$\\pi\$|;
 
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {
 	print "\\begin{quote}\n";
 	$in_quoted_block = 1;
-    }
-    if (not /^   / and not /^$/ and $in_quoted_block) {
-	print "\\end{quote}\n";
-	$in_quoted_block = 0;
     }
 
     if (/Requirements for The Great anti-American Novel/) {
