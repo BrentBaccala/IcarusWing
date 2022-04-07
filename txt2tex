@@ -169,6 +169,10 @@ sub ProcessLine {
 	$in_quoted_block = 1;
     }
 
+    if (m~^[1-6fdi?T]*\+? [-/.,`'| ]*$~) {
+        print STDERR;
+        return;
+    }
     if (/Requirements for The Great anti-American Novel/) {
 	&insertTOC;
     } else {
