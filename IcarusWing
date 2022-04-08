@@ -5285,7 +5285,7 @@ along with with Vostok 1 and Apollo 7.  So what that we didn't
 land..."
 
 Mercuriou: "We have to land!  People don't
-remember Apollo 7; they remember Apollo 11!  If we don't land, they'll
+remember Apollo 8; they remember Apollo 11!  If we don't land, they'll
 say we failed.  Then they'll come back a few years from now and make
 the first landing on Mars; hell, they'll use our technology to do it,
 and everyone will remember Captain so-and-so or Major such-and-such
@@ -5361,7 +5361,15 @@ Mercuriou: "It'll send a message!"
 
 Vic: "What message?"
 
-Mercuriou: "That we mean business!  The People will support us!"
+Mercuriou: "That we mean business!"
+
+Andrea: "Who is this message targeted at?"
+
+Mercuriou: "The People!"
+
+Andrea: "...and what will The People do when they hear your message?"
+
+Mercuriou: "The People will support us!"
 
 Andrea: "If you say so."
 
@@ -5396,7 +5404,7 @@ and opened the left front door.  Twelve feet below them lay
 the Martian red regolith.
 
 Burns moved an elevator lift into position outside the door,
-then the five astronauts pushed some equipment onto the platform, followed
+then they pushed some equipment onto the platform, followed
 by the five astronauts.  A motorized winch lowered them to the ground,
 and, in unison, they all stepped together onto the Martian soil.
 
@@ -5413,18 +5421,27 @@ a red plain backed by distant red mountains and flanked
 by the twin flags of the Republic of Mars,
 delivered a speech heard live by over three billion people on Earth.
 
-"My fellow Martians!  I stand before you on a momentous day!
-Landing Day!
-On this red soil, we will build the capitol of our republic,
-the first human settlement on Mars."
+Mercuriou: "My fellow Martians!  I stand before you on a momentous day!
+Landing Day!"
 
-"To whom, might you ask, am I talking?  Who are my fellow Martians?"
+Mercuriou: "On this red soil, we will build the capitol of our republic,
+the first human settlement on Mars!  As I gaze around me,
+I find myself awestruck by the limitless potential of this new world,
+unfettered by governments, businesses or borders!  I can hardly imagine
+what new freedoms await the intrepid souls who will venture
+to tame this land!  I stand in awe of their courage and sacrifice!"
 
-"Dare I suggest that you might be one of them!"
+Mercuriou: "Here is my plan.  Having demonstrated the viability of our spaceflight
+technology, we will leave a cache
+of supplies here, and return to Earth in a few months.  Then we will
+confer with our allies on Earth and begin plans for a return expedition
+with more ships.  If we come back next orbit with ten ships, that's enough to hold two hundred people!"
 
-"If we come back next orbit with ten ships, that's enough to hold two hundred people!"
+% Mercuriou: "To whom, might you ask, am I talking?  Who are my fellow Martians?"
 
-"Will you be one of them?"
+% Mercuriou: "Dare I suggest that you might be one of them!"
+
+Mercuriou: "Might you be one of them?"
 
 [[
 That is the real question of the politcal agenda that I'm proposing here,
@@ -5434,7 +5451,7 @@ Kathmandu, the capital of Nepal.  The term is used figuratively
 to refer to a far distant place.
 ]]
 
-After a dramatic pause, accidently highlighted by a dust cloud shifting in the background, the Captain concluded.
+After a dramatic pause, highlighted by a dust cloud shifting in the background, the Captain concluded.
 
 [[
 Foreshadowing, and not of the accidental kind.
@@ -5447,9 +5464,9 @@ something red, a mountain, a boulder - why not a dust cloud?
 Why not spice up the description with a little foreshadowing?
 ]]
 
-"I'm not speaking for long today.  In closing, just consider this: Might you be one of us?"
+% Mercuriou: "I'm not speaking for long today.  In closing, just consider this: Might you be one of us?"
 
-"It is a truly momentous day!  It is Landing Day!  The first human Martians have set foot on Mars!"
+Mercuriou: "It is a truly momentous day!  It is Landing Day!  The first Martians have set foot on Mars!"
 
 [[
 OK, that's the closest I can get to "one small step for man, one giant leap for mankind".
@@ -5457,13 +5474,6 @@ OK, that's the closest I can get to "one small step for man, one giant leap for 
 In true Captain Mercuriou style, it comes not as the first words he uttered,
 but at the end of a speech.
 ]]
-
-"Here is my plan!  Having demonstrated the viability of this technology, we will leave a cache
-of supplies here, and return to Earth in a few months.  Then we will
-confer with our allies on Earth and begin plans for a return expedition
-with more ships."
-
-"Who are these allies?  Again, you may be one of them!"
 
 After a few hours on the ground, they returned to the cabin,
 pressurized it, and took off their spacesuits.
@@ -5645,7 +5655,7 @@ for the next landing.
 Burns: "I think we've got a storm coming in," Burns remarked
 as he gazed toward the horizon from the top of the cliff.
 A dust cloud obscured any view of the mountains that loomed
-to the east.
+to the north.
 
 Vic: "Is that a problem?" Vic asked over the radio, as he moved some
 of the smaller items into the sealed bins intended to protect the cargo from
@@ -5655,8 +5665,8 @@ Burns: "It could be.  We don't know that much about Martian weather."
 
 Vic: "It'll take us another hour to get everything unloaded."
 
-Burns: "Let's get it done.  We don't want to take cargo back to orbit.
-And we don't want to be here overnight."
+Burns: "Then let's get it done.  We don't want to take cargo back to orbit,
+and we don't want to be here overnight."
 
 By the time they had finished unloading, the wind and dust were swirling around
 them as they closed the door.  Burns took off his spacesuit and grabbed
@@ -5692,7 +5702,7 @@ climb away from it.
 Burns: "What's going on here?" Burns wondered aloud.  "This should be
 dampening!"
 
-Indeed, it was getting worse.  The ship was definitely beginning to
+Instead, it was getting worse.  The ship was definitely beginning to
 vibrate.  The vibration somehow spread outward from the ship and
 coupled into the atmosphere, which responded by swirling around and
 buffeting the ship with wind.  Next the ship began to shake like a washing machine.
@@ -5782,15 +5792,13 @@ atmospheric models predicts anything like it."
 
 Mercuriou said nothing.
 
-Andrea: "Here's our flight plan."
+Andrea: "This is what we've come up with for a flight plan."
 
 Mercuriou took the tablet she offered him and looked at it briefly.
 
 Mercuriou: "What the hell is this?"
 
-Andrea: "It's our way home."
-
-Andrea: "We can barely move right now.  We've got spare engines in storage.  We can move an engine to the
+Andrea: "It's our only way home.  We can barely move now.  We've got spare engines in storage and we can move an engine to the
 tail, but it'll take us a month to move it and another month to hook it up,
 and that's if we work like crazy.  We can't do it in time.
 We'll have to go around a full synodic orbit."
@@ -5867,7 +5875,7 @@ do!  I don't... Oh my God!"
 ...and he broke down crying like a baby.
 
 
-T + 233 days    someone must commit suicide
+T + 163 days    someone must commit suicide
 
 Andrea: "Come on, let's have a picnic."
 
@@ -5895,7 +5903,7 @@ that air's a lot easier to clean than carpet!"
 
 Mercuriou took the bottle and attached a device to it that looked
 like a valve with a straw coming out of one opening and a plastic
-bag on another.  She pushed the straw down into the bottle and
+bag on another.  He pushed the straw down into the bottle and
 some of the wine sloshed into the plastic bag.
 
 Andrea: "Alister, the picnic's starting!"
@@ -5907,10 +5915,6 @@ and turned a handle.  The pressurized gas drove the wine into
 the bag within a few seconds.  He spilt a few more drops as he
 disconnected the machine and 'poured' some of the wine into two
 smaller drinking bags.
-
-Andrea: "Cheers!"
-
-Mercuriou paused, then nodded his assent.
 They touched the bags together as a toast and each sipped some wine.
 
 Alister: "You guys should come in here!" Alister yelled before
@@ -6004,13 +6008,13 @@ then bombed and soon invaded Afghanistan.
 Mercuriou started to setup his T.V. interview rig, but
 Andrea interrupted him.
 
-Andrea: "Maybe you shouldn't do that right now."
+Andrea: "Maybe you shouldn't do that."
 
 Mercuriou: "Why?  Because the country's been hurt too bad to hear the
 truth?"
 
-Andrea: "Because we're over five light minutes from Earth.
-You can't do a live interview now."
+Andrea: "Because we're five light minutes from Earth.
+You can't do a live interview right now."
 
 In America, a dissident's dream had prophesied disaster for the United
 States and war in the Middle East.  In Afghanistan, an Islamic
@@ -6132,15 +6136,16 @@ in Revelation 11.
 Alister: "But if you don't believe in Jesus?  Who's going to listen
 then?"
 
-Andrea: "Well, people used to believe the Earth is flat.  You can
-believe whatever you want; the fact is that the Earth is round.  Now I
-believe that Jesus returned to life after three days in the grave.
-It's like the Earth being flat or round.  People can debate it one way
-or another, but it's a question of fact, not preference, and
-ultimately either true or false.  I think it's true.  The resurrection
+Andrea: "People can believe whatever they want.
+It's like the existence of extraterrestrial life.  People can debate it one way
+or another, but nobody knows for sure, and
+ultimately it's either true or false.  I believe the Gospel is true,
+but I can't prove it anymore than I can prove that there's life on other worlds."
+
+Andrea: "The resurrection
 was God's ultimate stamp of approval; it was his way of telling us
 that we need to take Jesus seriously.  That's why his words are
-printed in red; they are the most important part of the Bible. The
+printed in red; they're the most important part of the Bible. The
 basic rules are pretty simple. Love God - unconditionally, and love
 your fellow man - unconditionally.  And maybe everyone says something
 different because even though that sounds easy, it can be really tough
@@ -6194,9 +6199,7 @@ Maybe this mini-scene should be later in the novel, rather
 than right after the disaster.
 ]]
 
-After finishing her coffee, she knocked on Mercuriou's hatch, entered
-without waiting, and closed it behind her.  He turned around,
-surrounded in a haze of marijuana smoke, and faced his first officer.
+Next she entered Mercuriou's quarters and continued an ongoing conversation.
 
 Andrea: "They're historical documents, Marc. Just because we believe
 in Julius Caesar doesn't necessarily mean he said 'Now the die is
@@ -6231,9 +6234,8 @@ until we invent a time machine."
 Mercuriou: "I always thought religion was a sham to keep rich people
 in power and tell everybody else to be peaceful and non-violent."
 
-Andrea: "Jesus does what he says; it's an integrated whole. He doesn't
-just tell people 'give to all those who beg of you'; there are these
-miraculous scenes like where he tells Peter to take a coin from a
+Andrea: "A lot of religion is a sham, but Jesus lived what he preached.
+There's a famous scene where he tells Peter to take a coin from a
 fish's mouth to pay a temple tax. Why would he have done that if he
 had any money himself? The man must have been penniless."
 
@@ -6276,7 +6278,7 @@ Mercuriou: "How can _I_ be a disciple?"
 Andrea: "You become a disciple when you start doing things His way."
 
 
-T + 107 days    there must be a sex scene
+T + 227 days    there must be a sex scene
 
 The club was packed, and the music was pounding.  Colored beams of
 light flirted with the twenty-something revelers on the dance floor as
