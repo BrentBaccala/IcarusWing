@@ -7,6 +7,9 @@ my $counter = 0;
 my $in_quoted_block = 0;
 my $line_number = 0;
 
+my $notes;
+my $display_notes = 0;
+
 sub addtextcolor {
     ($name, $color) = @_;
 
@@ -31,6 +34,9 @@ sub addtextcolor {
 &addtextcolor("Ecks", "0.5,0,0.5");
 &addtextcolor("Wye", "0.7,0.7,0");
 &addtextcolor("Zee", "0,0.5,0.5");
+
+&addtextcolor("Lucy", "0,0,0");
+&addtextcolor("ARM", "0,0,0");
 
 &addtextcolor("Janders", "0,0.5,0.5");
 &addtextcolor("McGee", "0.7,0.7,0");
@@ -86,6 +92,25 @@ sub ProcessLine {
     s/Christians2/Christians\$^2\$/;
 
     s/^al-Nass:/alNass:/;		# handle the hyphen like this
+
+    # handle end of quoted block
+    if (not /^   / and not /^$/ and $in_quoted_block) {
+	print "</blockquote>\n";
+	$in_quoted_block = 0;
+    }
+
+    # handled author's notes section in blocks marked with [[ and ]]
+    if (/^\s*\[\[\s*$/) {
+        $notes = 1;
+        print "\\begin{adjustwidth}{1cm}{}\\it " if ($display_notes);
+        return;
+    }
+    if (/^\s*\]\]\s*$/) {
+        undef $notes;
+        print "\\end{adjustwidth}" if ($display_notes);
+        return;
+    }
+    return if $notes and not $display_notes;
 
     # The speaking character can be indicated by a notation at the
     # beginning of the line or paragraph like "Alister:".  Note
@@ -170,14 +195,16 @@ sub ProcessLine {
 
     s|^$|<p>|;
 
+    # there's a long dash in here because -- was search-and-replaced earlier
+    if (m~^[1-6fdi?T]*\+?[-–/.,`'| ]*$~) {
+        print STDERR;
+        return;
+    }
+
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {
 	print "<blockquote>\n";
 	$in_quoted_block = 1;
-    }
-    if (not /^   / and not /^$/ and $in_quoted_block) {
-	print "</blockquote>\n";
-	$in_quoted_block = 0;
     }
 
     if (/Requirements for The Great anti-American Novel/) {

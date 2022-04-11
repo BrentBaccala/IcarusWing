@@ -163,16 +163,18 @@ sub ProcessLine {
     s|EMC2|\$E=mc^2\$|;
     s|EASY AS PI|\\hfil Easy as \$\\pi\$|;
 
+    # there's a long dash in here because -- was search-and-replaced earlier
+    if (m~^[1-6fdi?T]*\+?[-–/.,`'| ]*$~) {
+        print STDERR;
+        return;
+    }
+
     # Indent quoted blocks
     if (/^   / and not $in_quoted_block) {
 	print "\\begin{quote}\n";
 	$in_quoted_block = 1;
     }
 
-    if (m~^[1-6fdi?T]*\+? [-/.,`'| ]*$~) {
-        print STDERR;
-        return;
-    }
     if (/Requirements for The Great anti-American Novel/) {
 	&insertTOC;
     } else {
