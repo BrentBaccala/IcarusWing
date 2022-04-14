@@ -187,6 +187,10 @@ sub ProcessLine {
     # Format dedication at beginning - without italics {
     s|^{([^}]*)$|<center>\1</center>|;
 
+    # indents when Mercuriou debates Ecks
+    s|INDENT1|<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|;
+    s|INDENT2|<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|;
+
     # Insert a math equation
     s|STOKES\.|\$\$\\int_{\\delta C} w = \\int_C dw\$\$|;
     s|GPS\.|\$\$c \\approx 3\\times10^8 \\,\\frac{\\rm m}{\\rm s} \\cdot 10^{-9} \\,\\frac{\\rm s}{\\rm ns} \\cdot 10^{-3} \\,\\frac{\\rm km}{\\rm m} = 3\\times10^{-4} \\,\\frac{\\rm km}{\\rm ns} \\cdot 1000\\, {\\rm ns} = 3\\, {\\rm km} \$\$|;

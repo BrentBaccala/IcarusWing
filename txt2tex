@@ -155,6 +155,11 @@ sub ProcessLine {
     s/_([-\w',!.?;]+)_/{\\it \1}/g if (not $notes);	# convert _ to italics
     s/_([-\w',!.?;]+)_/{\\rm \1}/g if ($notes);		# convert _ to regular font in notes
     s/_/ /g;				# convert interior _ to spaces
+    s/ê/\\^e/;
+
+    # indents when Mercuriou debates Ecks
+    s/INDENT1/\\hfil\\break\\-\\quad\\hskip 1in/;
+    s/INDENT2/\\hfil\\break\\-\\quad\\hskip 2in/;
 
     # Insert a math equation
     s|STOKES\.|\$\$\\int_{\\delta C} w = \\int_C dw\$\$|;
